@@ -1,0 +1,205 @@
+# sent_id = sleepwalking-x15-s1
+# text = ደሞዝ [ወሰድክ] ወሰድ_ክ ወይ ?
+1	ደሞዝ	_	NOUN	_	_	2	obj	_	Offset=0-3
+2	ወሰድ	_	VERB	_	_	0	_	_	Offset=11-14
+3	ክ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=2	2	nsubj	_	Offset=15-16
+4	ወይ	_	INTJ	_	_	2	discourse	_	Offset=17-19
+5	?	_	PUNCT	_	_	2	punct	_	Offset=20-21
+
+# sent_id = sleepwalking-x15-s2
+# text = ማን [ከማን] ከ_ማን ጋር ምሳ [በላ] በላ_ኧ ?
+1	ማን	_	PRON	_	_	6	nsubj	_	Offset=22-24
+2	ከ	_	ADP	_	_	3	case	_	Offset=31-32
+3	ማን	_	PRON	_	_	6	obl	_	Offset=33-35
+4	ጋር	_	ADP	_	_	3	case	_	Offset=36-38
+5	ምሳ	_	NOUN	_	_	6	obj	_	Offset=39-41
+6	በላ	_	VERB	_	_	0	_	_	Offset=47-49
+7	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=50-51
+8	?	_	PUNCT	_	_	6	punct	_	Offset=52-53
+
+# sent_id = sleepwalking-x15-s3
+# text = ማን [ከማን] ከ_ማን ጋር ምን [አደረገ] አደረግ_ኧ ?
+1	ማን	_	PRON	_	_	6	nsubj	_	Offset=54-56
+2	ከ	_	ADP	_	_	3	case	_	Offset=63-64
+3	ማን	_	PRON	_	_	6	nmod	_	Offset=65-67
+4	ጋር	_	ADP	_	_	3	case	_	Offset=68-70
+5	ምን	_	PRON	_	_	6	obj	_	Offset=71-73
+6	አደረግ	_	VERB	_	_	0	_	_	Offset=81-85
+7	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=86-87
+8	?	_	PUNCT	_	_	6	punct	_	Offset=88-89
+
+# sent_id = sleepwalking-x15-s4
+# text = ስንት መፅሐፍ [ትፈልጋለህ] ት_ፈልግ_ኣል_ኧህ ?
+1	ስንት	_	ADJ	_	_	2	amod	_	Offset=90-93
+2	መፅሐፍ	_	NOUN	_	_	4	obj	_	Offset=94-98
+3	ት	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=108-109
+4	ፈልግ	_	VERB	_	_	0	_	_	Offset=110-113
+5	ኣል	_	AUX	_	_	4	aux	_	Offset=114-116
+6	ኧህ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=2	4	nsubj	_	Offset=117-119
+7	?	_	PUNCT	_	_	4	punct	_	Offset=120-121
+
+# sent_id = sleepwalking-x15-s5
+# text = [ነገሩ] ነገር_ኡ [የሆነው] የ_ሆን_ኧው [ከስንት] ከ_ስንት ጊዜ [በፊት] በ_ፊት ነበር ?
+1	ነገር	_	NOUN	_	_	4	nsubj	_	Offset=128-131
+2	ኡ	_	DET	_	_	1	det	_	Offset=132-133
+3	የ	_	RLP	_	_	4	mark	_	Offset=141-142
+4	ሆን	_	VERB	_	_	0	_	_	Offset=143-145
+5	ኧው	_	SUBJC	_	Number=Sing|Person=3	4	expl	_	Offset=146-148
+6	ከ	_	ADP	_	_	8	case	_	Offset=156-157
+7	ስንት	_	ADJ	_	_	8	amod	_	Offset=158-161
+8	ጊዜ	_	NOUN	_	_	4	advmod	_	Offset=162-164
+9	በ	_	ADP	_	_	10	case	_	Offset=171-172
+10	ፊት	_	NOUN	_	_	8	case	_	Offset=173-175
+11	ነበር	_	AUX	_	_	4	aux	_	Offset=176-179
+12	?	_	PUNCT	_	_	4	punct	_	Offset=180-181
+
+# sent_id = sleepwalking-x15-s6
+# text = ኸረ [ለመሆኑ] ለ_መሆን_ኡ ነጻነት ምን [እንደሆነ] እንደ_ሆን_ኧ [ታውቃላችሁ] ት_ኣውቅ_ኣል_ኣችሁ ?
+1	ኸረ	_	INTJ	_	_	3	goeswith	_	Offset=182-184
+2	ለ	_	ADP	_	_	3	case	_	Offset=192-193
+3	መሆን	_	NOUN	_	VerbForm=Vnoun	11	discourse	_	Offset=194-197
+4	ኡ	_	DET	_	_	3	det	_	Offset=198-199
+5	ነጻነት	_	NOUN	_	_	11	obj	_	Offset=200-204
+6	ምን	_	PRON	_	_	8	det	_	Offset=205-207
+7	እንደ	_	SCONJ	_	_	0	_	_	Offset=216-219
+8	ሆን	_	VERB	_	_	7	mark	11:ccomp	Offset=220-222
+9	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	8	expl	_	Offset=223-224
+10	ት	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	11	expl	_	Offset=234-235
+11	ኣውቅ	_	VERB	_	_	0	_	_	Offset=236-239
+12	ኣል	_	AUX	_	_	11	aux	_	Offset=240-242
+13	ኣችሁ	_	SUBJC	_	Number=Plur|Person=2	11	nsubj	_	Offset=243-246
+14	?	_	PUNCT	_	_	11	punct	_	Offset=247-248
+
+# sent_id = sleepwalking-x15-s7
+# text = ወጥ [አውጪ] አውጣ_ኢ !
+1	ወጥ	_	NOUN	_	_	2	obj	_	Offset=249-251
+2	አውጣ	_	VERB	_	Mood=Jus	0	_	_	Offset=258-261
+3	ኢ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=2	2	nsubj	_	Offset=262-263
+4	!	_	PUNCT	_	_	2	punct	_	Offset=264-265
+
+# sent_id = sleepwalking-x15-s8
+# text = አስቴር ትምህርት ቤት [ትሂድ] ት_ሂድ !
+1	አስቴር	_	PROPN	_	_	5	nsubj	_	Offset=266-270
+2	ትምህርት	_	NOUN	_	_	0	_	_	Offset=271-276
+3	ቤት	_	NOUN	_	_	2	compound	5:advmod	Offset=277-279
+4	ት	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=286-287
+5	ሂድ	_	VERB	_	Mood=Jus	0	_	_	Offset=288-290
+6	!	_	PUNCT	_	_	5	punct	_	Offset=291-292
+
+# sent_id = sleepwalking-x15-s9
+# text = እነሱ [ሳሩን] ሳር_ኡ_ን [ይጨዱ] ይ_ጨድ_ኡ !
+1	እነሱ	_	PRON	_	_	6	nsubj	_	Offset=293-296
+2	ሳር	_	NOUN	_	_	6	obj	_	Offset=303-305
+3	ኡ	_	DET	_	_	2	det	_	Offset=306-307
+4	ን	_	ACC	_	_	2	case	_	Offset=308-309
+5	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=316-317
+6	ጨድ	_	VERB	_	Mood=Jus	0	_	_	Offset=318-320
+7	ኡ	_	SUBJC	_	Number=Plur|Person=3	6	expl	_	Offset=321-322
+8	!	_	PUNCT	_	_	6	punct	_	Offset=323-324
+
+# sent_id = sleepwalking-x15-s10
+# text = [ልብሱን] ልብስ_ኡ_ን [እጠብ] እ_ጠብ !
+1	ልብስ	_	NOUN	_	_	5	obj	_	Offset=332-335
+2	ኡ	_	DET	_	_	1	det	_	Offset=336-337
+3	ን	_	ACC	_	_	1	case	_	Offset=338-339
+4	እ	_	SUBJC	_	Number=Sing|Person=3	5	nsubj	_	Offset=346-347
+5	ጠብ	_	VERB	_	Mood=Jus	0	_	_	Offset=348-350
+6	!	_	PUNCT	_	_	5	punct	_	Offset=351-352
+
+# sent_id = sleepwalking-x15-s11
+# text = ብላ !
+1	ብላ	_	VERB	_	Mood=Jus	0	_	_	Offset=353-355
+2	!	_	PUNCT	_	_	1	punct	_	Offset=356-357
+
+# sent_id = sleepwalking-x15-s12
+# text = በል [ብላት] ብላ_ኣት !
+1	በል	_	INTJ	_	_	2	discourse	_	Offset=358-360
+2	ብላ	_	VERB	_	Mood=Jus	0	_	_	Offset=367-369
+3	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	2	obj	_	Offset=370-372
+4	!	_	PUNCT	_	_	2	punct	_	Offset=373-374
+
+# sent_id = sleepwalking-x15-s13
+# text = እንጨት [ትስበር] ት_ስበር !
+1	እንጨት	_	NOUN	_	_	3	obj	_	Offset=375-379
+2	ት	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Offset=387-388
+3	ስበር	_	VERB	_	Mood=Jus	0	_	_	Offset=389-392
+4	!	_	PUNCT	_	_	3	punct	_	Offset=393-394
+
+# sent_id = sleepwalking-x15-s14
+# text = [በሩን] በር_ኡ_ን [ብትዘጋው] ብ_ት_ዘጋ_ኧው !
+1	በር	_	NOUN	_	_	6	obj	_	Offset=401-403
+2	ኡ	_	DET	_	_	1	det	_	Offset=404-405
+3	ን	_	ACC	_	_	1	case	_	Offset=406-407
+4	ብ	_	SCONJ	_	_	6	mark	_	Offset=416-417
+5	ት	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=418-419
+6	ዘጋ	_	VERB	_	Mood=Jus	0	_	_	Offset=420-422
+7	ኧው	_	SUBJC	_	Number=Sing|Person=3	6	nsubj	_	Offset=423-425
+8	!	_	PUNCT	_	_	6	punct	_	Offset=426-427
+
+# sent_id = sleepwalking-x15-s15
+# text = [የምግቡን] የ_ምግብ_ኡ_ን ዝርዝር [ብትሰጠኝ] ብ_ት_ሰጥ_ኧኝ ?
+1	የ	_	RLP	_	_	0	_	_	Offset=436-437
+2	ምግብ	_	NOUN	_	_	1	mark	5:acl	Offset=438-441
+3	ኡ	_	DET	_	_	2	det	_	Offset=442-443
+4	ን	_	ACC	_	_	2	case	_	Offset=444-445
+5	ዝርዝር	_	NOUN	_	_	8	obj	_	Offset=446-450
+6	ብ	_	SCONJ	_	_	8	mark	_	Offset=459-460
+7	ት	_	SUBJC	_	Gender=Masc|Number=Sing|Person=2	8	expl	_	Offset=461-462
+8	ሰጥ	_	VERB	_	Mood=Jus	0	_	_	Offset=463-465
+9	ኧኝ	_	SUBJC	_	Number=Sing|Person=1	8	nsubj	_	Offset=466-468
+10	?	_	PUNCT	_	_	8	punct	_	Offset=469-470
+
+# sent_id = sleepwalking-x15-s16
+# text = እስኪ መታወቂያ [ወረቀትህን] ወረቀት_ህ_ን [አሳየኝ] አሳይ_ኧ_ኝ ?
+1	እስኪ	_	INTJ	_	_	2	discourse	_	Offset=471-474
+2	መታወቂያ	_	NOUN	_	_	0	_	_	Offset=475-480
+3	ወረቀት	_	NOUN	_	_	2	compound	6:obj	Offset=490-494
+4	ህ	_	POSM	_	Gender=Masc|Number=Sing|Person=2|Poss=	3	nmod	_	Offset=495-496
+5	ን	_	ACC	_	_	3	case	_	Offset=497-498
+6	አሳይ	_	VERB	_	Mood=Jus	0	_	_	Offset=506-509
+7	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Offset=510-511
+8	ኝ	_	OBJC	_	Number=Sing|Person=1	6	expl	_	Offset=512-513
+9	?	_	PUNCT	_	_	6	punct	_	Offset=514-515
+
+# sent_id = sleepwalking-x15-s17
+# text = ወደ ታች [ውረዱ] ውረድ_ኡ !
+1	ወደ	_	ADP	_	_	2	case	_	Offset=516-518
+2	ታች	_	NOUN	_	_	3	advmod	_	Offset=519-521
+3	ውረድ	_	VERB	_	Mood=Jus	0	_	_	Offset=528-531
+4	ኡ	_	SUBJC	_	Number=Plur|Person=3	3	nsubj	_	Offset=532-533
+5	!	_	PUNCT	_	_	3	punct	_	Offset=534-535
+
+# sent_id = sleepwalking-x15-s18
+# text = [ከጨረስክ] ከ_ጨረስ_ክ በኋላ እኔ ጋር [እንድትመጣ] እንድ_ት_መጣ ! 
+1	ከ	_	ADP	_	_	0	_	_	Offset=544-545
+2	ጨረስ	_	VERB	_	_	1	mark	9:advcl	Offset=546-549
+3	ክ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=2	2	nsubj	_	Offset=550-551
+4	በኋላ	_	ADP	_	_	2	case	_	Offset=552-555
+5	እኔ	_	PRON	_	_	9	obl	_	Offset=556-558
+6	ጋር	_	ADP	_	_	5	case	_	Offset=559-561
+7	እንድ	_	SCONJ	_	_	9	mark	_	Offset=571-574
+8	ት	_	SUBJC	_	Gender=Masc|Number=Sing|Person=2	9	nsubj	_	Offset=575-576
+9	መጣ	_	VERB	_	Mood=Jus	0	_	_	Offset=577-579
+10	!	_	PUNCT	_	_	9	punct	_	Offset=580-581
+
+# sent_id = sleepwalking-x15-s19
+# text = ተቀመጥ እንጂ !
+1	ተቀመጥ	_	VERB	_	Mood=Jus|Voice=Pass	0	_	_	Offset=583-587
+2	እንጂ	_	INTJ	_	_	1	discourse	_	Offset=588-591
+3	!	_	PUNCT	_	_	1	punct	_	Offset=592-593
+
+# sent_id = sleepwalking-x15-s20
+# text = ካሳ [የሽጠው] የ_ሽጥ_ኧ_ው [የብራና] የ_ብራና መፅሀፍ ትልቅ [ነው] ን_ኧው ።
+1	ካሳ	_	PROPN	_	_	9	nsubj	_	Offset=594-596
+2	የ	_	RLP	_	_	3	mark	_	Offset=604-605
+3	ሽጥ	_	VERB	_	_	8	acl	_	Offset=606-608
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=609-610
+5	ው	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=611-612
+6	የ	_	ADP	_	_	7	case	_	Offset=620-621
+7	ብራና	_	NOUN	_	_	8	nmod	_	Offset=622-625
+8	መፅሀፍ	_	NOUN	_	_	9	obj	_	Offset=626-630
+9	ትልቅ	_	ADJ	_	_	0	_	_	Offset=631-634
+10	ን	_	AUX	_	_	9	cop	_	Offset=640-641
+11	ኧው	_	SUBJC	_	Number=Sing|Person=3	9	expl	_	Offset=642-644
+12	።	_	PUNCT	_	_	9	punct	_	Offset=645-646
+

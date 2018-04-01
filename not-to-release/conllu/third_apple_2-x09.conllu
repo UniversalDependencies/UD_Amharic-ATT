@@ -1,0 +1,207 @@
+# sent_id = third_apple_2-x09-s1
+# text = ካሳ [ሰራተኛዋን] ሰራተኛ_ዋ_ን [ወደጎጃም] ወደ_ጎጃም [አስወሰዳት] አስወሰድ_ኧ_ኣት ።
+1	ካሳ	_	PROPN	_	_	7	nsubj	_	Offset=0-2
+2	ሰራተኛ	_	NOUN	_	_	7	obj	_	Offset=12-16
+3	ዋ	_	POSM	_	Gender=Fem|Number=Sing|Person=3|Poss=	2	nmod	_	Offset=17-18
+4	ን	_	ACC	_	_	2	case	_	Offset=19-20
+5	ወደ	_	ADP	_	Case=Loc	6	case	_	Offset=29-31
+6	ጎጃም	_	PROPN	_	_	7	advmod	_	Offset=32-35
+7	አስወሰድ	_	VERB	_	Voice=Cau	0	_	_	Offset=45-50
+8	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	7	expl	_	Offset=51-52
+9	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	7	expl	_	Offset=53-55
+10	።	_	PUNCT	_	_	7	punct	_	Offset=56-57
+
+# sent_id = third_apple_2-x09-s2
+# text = አልማዝ ወተት [አመጣች] አመጣ_ኧች ።
+1	አልማዝ	_	PROPN	_	_	3	nsubj	_	Offset=58-62
+2	ወተት	_	NOUN	_	_	3	obj	_	Offset=63-66
+3	አመጣ	_	VERB	_	_	0	_	_	Offset=74-77
+4	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	3	expl	_	Offset=78-80
+5	።	_	PUNCT	_	_	3	punct	_	Offset=81-82
+
+# sent_id = third_apple_2-x09-s3
+# text = አልማዝ [ልጇን] ልጅ_ዋ_ን [አስተኛች] አስተኛ_ኧች ።
+1	አልማዝ	_	PROPN	_	_	5	nsubj	_	Offset=83-87
+2	ልጅ	_	NOUN	_	_	5	obj	_	Offset=94-96
+3	ዋ	_	POSM	_	Gender=Fem|Number=Sing|Person=3|Poss=	2	nmod	_	Offset=97-98
+4	ን	_	ACC	_	_	2	case	_	Offset=99-100
+5	አስተኛ	_	VERB	_	Voice=Cau	0	_	_	Offset=109-113
+6	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	5	expl	_	Offset=114-116
+7	።	_	PUNCT	_	_	5	punct	_	Offset=117-118
+
+# sent_id = third_apple_2-x09-s4
+# text = ካሳ [አልማዝን] አልማዝ_ን መፅሐፍ [አስሸለማት] አስሸለም_ኧ_ኣት ።
+1	ካሳ	_	PROPN	_	_	5	nsubj	_	Offset=119-121
+2	አልማዝ	_	PROPN	_	_	5	iobj	_	Offset=130-134
+3	ን	_	ACC	_	_	2	case	_	Offset=135-136
+4	መፅሐፍ	_	NOUN	_	_	5	dobj	_	Offset=137-141
+5	አስሸለም	_	VERB	_	Voice=Cau	0	_	_	Offset=151-156
+6	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=157-158
+7	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	5	expl	_	Offset=159-161
+8	።	_	PUNCT	_	_	5	punct	_	Offset=162-163
+
+# sent_id = third_apple_2-x09-s5
+# text = ካሳ [አልማዝን] አልማዝ_ን ውሻ [አስገደላት] አስገደል_ኧ_ኣት ።
+1	ካሳ	_	PROPN	_	_	5	nsubj	_	Offset=164-166
+2	አልማዝ	_	PROPN	_	_	5	iobj	_	Offset=175-179
+3	ን	_	ACC	_	_	2	case	_	Offset=180-181
+4	ውሻ	_	NOUN	_	_	5	dobj	_	Offset=182-184
+5	አስገደል	_	VERB	_	Voice=Cau	0	_	_	Offset=194-199
+6	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=200-201
+7	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	5	expl	_	Offset=202-204
+8	።	_	PUNCT	_	_	5	punct	_	Offset=205-206
+
+# sent_id = third_apple_2-x09-s6
+# text = ካሳ ቡና [አስፈላ] አስፈላ_ኧ ።
+1	ካሳ	_	PROPN	_	_	3	nsubj	_	Offset=207-209
+2	ቡና	_	NOUN	_	_	3	obj	_	Offset=210-212
+3	አስፈላ	_	VERB	_	Voice=Cau	0	_	_	Offset=220-224
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=225-226
+5	።	_	PUNCT	_	_	3	punct	_	Offset=227-228
+
+# sent_id = third_apple_2-x09-s7
+# text = ካሳ [ለአልማዝ] ለ_አልማዝ ቡና [አሰፈላላት] አሰፈላ_ኧ_ል_ኣት ።
+1	ካሳ	_	PROPN	_	_	5	nsubj	_	Offset=229-231
+2	ለ	_	ADP	_	Case=Ben	3	case	_	Offset=240-241
+3	አልማዝ	_	PROPN	_	_	5	iobj	_	Offset=242-246
+4	ቡና	_	NOUN	_	_	5	dobj	_	Offset=247-249
+5	አሰፈላ	_	VERB	_	Voice=Cau	0	_	_	Offset=259-263
+6	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=264-265
+7	ል	_	ADP	_	Case=Ben	5	mark	_	Offset=266-267
+8	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	5	expl	_	Offset=268-270
+9	።	_	PUNCT	_	_	5	punct	_	Offset=271-272
+
+# sent_id = third_apple_2-x09-s8
+# text = [አስገደሉዋት] አስገደል_ኡ_ኣት ።
+1	አስገደል	_	VERB	_	Voice=Cau	0	_	_	Offset=283-288
+2	ኡ	_	SUBJC	_	Number=Plur|Person=3	1	nsubj_pass	_	Offset=289-290
+3	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	1	expl	_	Offset=291-293
+4	።	_	PUNCT	_	_	1	punct	_	Offset=294-295
+
+# sent_id = third_apple_2-x09-s9
+# text = [የሰረቀውን] የ_ሰረቅ_ኧ_ው_ን [ሰውዬ] ሰው_ዬ [ዳኛው] ዳኛ_ው ፊት [አቀረቡት] አቀረብ_ኡ_ት ።
+1	የ	_	RLP	_	_	2	mark	_	Offset=305-306
+2	ሰረቅ	_	VERB	_	_	6	acl	_	Offset=307-310
+3	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	Offset=311-312
+4	ው	_	DET	_	_	6	det	_	Offset=313-314
+5	ን	_	ACC	_	_	6	case	_	Offset=315-316
+6	ሰው	_	NOUN	_	_	10	obj	_	Offset=323-325
+7	ዳኛ	_	NOUN	_	_	10	advmod	_	Offset=334-336
+8	ው	_	DET	_	_	7	det	_	Offset=337-338
+9	ፊት	_	ADP	_	_	7	case	_	Offset=339-341
+10	አቀረብ	_	VERB	_	Voice=Cau	0	_	_	Offset=350-354
+11	ኡ	_	SUBJC	_	Number=Plur|Person=3	10	nsubj	_	Offset=355-356
+12	ት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	10	expl	_	Offset=357-358
+13	።	_	PUNCT	_	_	10	punct	_	Offset=359-360
+
+# sent_id = third_apple_2-x09-s10
+# text = [ልብሱን] ልብስ_ኡ_ን [አስቆረጠ] አስቆረጥ_ኧ ።
+1	ልብስ	_	NOUN	_	_	4	obj	_	Offset=368-371
+2	ኡ	_	DET	_	_	1	det	_	Offset=372-373
+3	ን	_	ACC	_	_	1	case	_	Offset=374-375
+4	አስቆረጥ	_	VERB	_	Voice=Cau	0	_	_	Offset=384-389
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=390-391
+6	።	_	PUNCT	_	_	4	punct	_	Offset=392-393
+
+# sent_id = third_apple_2-x09-s11
+# text = [ቤቱን] ቤት_ኡ_ን [አስተጠበቀ] አስተጠበቅ_ኧ ።
+1	ቤት	_	NOUN	_	_	4	obj	_	Offset=400-402
+2	ኡ	_	DET	_	_	1	det	_	Offset=403-404
+3	ን	_	ACC	_	_	1	case	_	Offset=405-406
+4	አስተጠበቅ	_	VERB	_	Voice=Cau	0	_	_	Offset=416-422
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=423-424
+6	።	_	PUNCT	_	_	4	punct	_	Offset=425-426
+
+# sent_id = third_apple_2-x09-s12
+# text = [ጠላው] ጠላ_ው [አስተኛኝ] አስተኛ_ኧ_ኝ ።
+1	ጠላ	_	NOUN	_	_	3	nsubj	_	Offset=433-435
+2	ው	_	DET	_	_	1	det	_	Offset=436-437
+3	አስተኛ	_	VERB	_	Voice=Cau	0	_	_	Offset=446-450
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=451-452
+5	ኝ	_	OBJC	_	Gender=Neut|Number=Sing|Person=1	3	expl	_	Offset=453-454
+6	።	_	PUNCT	_	_	3	punct	_	Offset=455-456
+
+# sent_id = third_apple_2-x09-s13
+# text = [ልብሱን] ልብስ_ኡ_ን [አስጠበበው] አስጠበብ_ኧ_ው ።
+1	ልብስ	_	NOUN	_	_	4	obj	_	Offset=464-467
+2	ኡ	_	POSM	_	Gender=Masc|Number=Sing|Person=3|Poss=	1	nmod	_	Offset=468-469
+3	ን	_	ACC	_	_	1	case	_	Offset=470-471
+4	አስጠበብ	_	VERB	_	Voice=Cau	0	_	_	Offset=481-486
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=487-488
+6	ው	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=489-490
+7	።	_	PUNCT	_	_	4	punct	_	Offset=491-492
+
+# sent_id = third_apple_2-x09-s14
+# text = [ለፖሊስ] ለ_ፖሊስ [ነግሮ] ነግር_ኦ [ሽጉጡን] ሽጉጥ_ኡ_ን [አስወሰደበት] አስወሰድ_ኧ_ብ_ኧት ።
+1	ለ	_	ADP	_	_	2	case	_	Offset=500-501
+2	ፖሊስ	_	NOUN	_	_	3	obj	_	Offset=502-505
+3	ነግር	_	VERB	_	_	8	advcl	_	Offset=512-515
+4	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Offset=516-517
+5	ሽጉጥ	_	NOUN	_	_	8	obj	_	Offset=525-528
+6	ኡ	_	POSM	_	Gender=Masc|Number=Sing|Person=3|Poss=	5	nmod	_	Offset=529-530
+7	ን	_	ACC	_	_	5	case	_	Offset=531-532
+8	አስወሰድ	_	VERB	_	Voice=Cau	0	_	_	Offset=543-548
+9	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Offset=549-550
+10	ብ	_	ADP	_	_	8	mark	_	Offset=551-552
+11	ኧት	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	8	expl	_	Offset=553-555
+12	።	_	PUNCT	_	_	8	punct	_	Offset=556-557
+
+# sent_id = third_apple_2-x09-s15
+# text = [መጽሐፉን] መጽሐፍ_ኡ_ን [አስያዛት] አስያዝ_ኧ_ኣት ።
+1	መጽሐፍ	_	NOUN	_	_	4	obj	_	Offset=566-570
+2	ኡ	_	DET	_	_	1	det	_	Offset=571-572
+3	ን	_	ACC	_	_	1	case	_	Offset=573-574
+4	አስያዝ	_	VERB	_	Voice=Cau	0	_	_	Offset=583-587
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=588-589
+6	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	4	expl	_	Offset=590-592
+7	።	_	PUNCT	_	_	4	punct	_	Offset=593-594
+
+# sent_id = third_apple_2-x09-s16
+# text = [ከበደን] ከበደ_ን እንጀራ [አስበላሁት] አስበላ_ሁ_ት ።
+1	ከበደ	_	NOUN	_	_	4	iobj	_	Offset=602-605
+2	ን	_	ACC	_	_	1	case	_	Offset=606-607
+3	እንጀራ	_	NOUN	_	_	4	dobj	_	Offset=608-612
+4	አስበላ	_	VERB	_	Voice=Cau	0	_	_	Offset=622-626
+5	ሁ	_	SUBJC	_	Gender=Neut|Number=Sing|Person=1	4	nsubj	_	Offset=627-628
+6	ት	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=629-630
+7	።	_	PUNCT	_	_	4	punct	_	Offset=631-632
+
+# sent_id = third_apple_2-x09-s17
+# text = [ገመዱን] ገመድ_ኡ_ን [አስረዘመው] አስረዘም_ኧ_ው ።
+1	ገመድ	_	NOUN	_	_	4	obj	_	Offset=640-643
+2	ኡ	_	DET	_	_	1	det	_	Offset=644-645
+3	ን	_	ACC	_	_	1	case	_	Offset=646-647
+4	አስረዘም	_	VERB	_	Voice=Cau	0	_	_	Offset=657-662
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=663-664
+6	ው	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=665-666
+7	።	_	PUNCT	_	_	4	punct	_	Offset=667-668
+
+# sent_id = third_apple_2-x09-s18
+# text = [ውድድሩን] ውድድር_ኡ_ን [ማሸነፉ] ማሸነፍ_ኡ [አስደሰተው] አስደሰት_ኧ_ው ።
+1	ውድድር	_	NOUN	_	_	4	xcomp	_	Offset=677-681
+2	ኡ	_	DET	_	_	1	det	_	Offset=682-683
+3	ን	_	ACC	_	_	1	case	_	Offset=684-685
+4	ማሸነፍ	_	NOUN	_	VerbForm=Vnoun	6	nsubj	_	Offset=693-697
+5	ኡ	_	POSM	_	Gender=Masc|Number=Sing|Person=3|Poss=	4	det	_	Offset=698-699
+6	አስደሰት	_	VERB	_	Voice=Cau	0	_	_	Offset=709-714
+7	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=715-716
+8	ው	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=717-718
+9	።	_	PUNCT	_	_	6	punct	_	Offset=719-720
+
+# sent_id = third_apple_2-x09-s19
+# text = [ከቤት] ከ_ቤት [አስወጣኋት] አስወጣ_ሁ_ኣት ።
+1	ከ	_	ADP	_	_	2	case	_	Offset=727-728
+2	ቤት	_	NOUN	_	_	3	advmod	_	Offset=729-731
+3	አስወጣ	_	VERB	_	Voice=Cau	0	_	_	Offset=741-745
+4	ሁ	_	SUBJC	_	Gender=Neut|Number=Sing|Person=3	3	nsubj	_	Offset=746-747
+5	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	3	dobj	_	Offset=748-750
+6	።	_	PUNCT	_	_	3	punct	_	Offset=751-752
+
+# sent_id = third_apple_2-x09-s20
+# text = ልብስ [አሳጠብኳት] አሳጠብ_ኩ_ኣት ።
+1	ልብስ	_	NOUN	_	_	2	iobj	_	Offset=753-756
+2	አሳጠብ	_	VERB	_	Voice=Cau	0	_	_	Offset=766-770
+3	ኩ	_	SUBJC	_	Number=Sing|Person=1	2	nsubj	_	Offset=771-772
+4	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	2	dobj	_	Offset=773-775
+5	።	_	PUNCT	_	_	2	punct	_	Offset=776-777
+

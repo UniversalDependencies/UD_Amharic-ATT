@@ -1,0 +1,63 @@
+# sent_id = third_apple_2-x31-s1
+# text = ምን እንደ [ደረሰብኝ] ደረሰ_ብ_ኝ [ታውቃለህ] ት_ኣውቅ_ኣል_ኧህ ?
+1	ምን	_	PRON	_	_	3	nsubj	_	Offset=0-2
+2	እንደ	_	ADP	_	_	3	mark	_	Offset=3-6
+3	ደረሰ	_	VERB	_	_	7	ccomp	_	Offset=15-18
+4	ብ	_	ADP	_	Case=Mal	3	case	_	Offset=19-20
+5	ኝ	_	OBJC	_	Gender=Neut|Number=Sing|Person=1	3	expl	_	Offset=21-22
+6	ት	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	7	nsubj	_	Offset=31-32
+7	ኣውቅ	_	VERB	_	_	0	_	_	Offset=33-36
+8	ኣል	_	AUX	_	_	7	aux	_	Offset=37-39
+9	ኧህ	_	OBJC	_	Gender=Masc|Number=Sing|Person=2	7	expl	_	Offset=40-42
+10	?	_	PUNCT	_	_	7	punct	_	Offset=43-44
+
+# sent_id = third_apple_2-x31-s2
+# text = [የልጅነቱን] የ_ልጅነት_ኡ_ን ጊዜ [አስታውሶ] አስታውስ_ኦ ምንኛ ዕድለኛ [እንደነበር] እንደ_ነበር [ተገነዘበ] ተገነዘብ_ኧ ።
+1	የ	_	RLP	_	_	2	mark	_	Offset=54-55
+2	ልጅነት	_	NOUN	_	_	5	acl	_	Offset=56-60
+3	ኡ	_	POSM	_	Gender=Masc|Number=Sing|Person=3|Poss=	5	nmod	_	Offset=61-62
+4	ን	_	ACC	_	_	5	case	_	Offset=63-64
+5	ጊዜ	_	NOUN	_	_	7	obj	_	Offset=65-67
+6	አስታውስ	_	VERB	_	_	12	conj	_	Offset=76-81
+7	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Offset=82-83
+8	ምንኛ	_	ADV	_	_	9	advmod	_	Offset=84-87
+9	ዕድለኛ	_	NOUN	_	_	11	xcomp	_	Offset=88-92
+10	እንደ	_	ADP	_	_	11	mark	_	Offset=102-105
+11	ነበር	_	VERB	_	_	12	xcomp	_	Offset=106-109
+12	ተገነዘብ	_	VERB	_	Voice=Pass	0	_	_	Offset=118-123
+13	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	12	nsubj	_	Offset=124-125
+14	።	_	PUNCT	_	_	12	punct	_	Offset=126-127
+
+# sent_id = third_apple_2-x31-s3
+# text = ዛሬ ማን [ያሸንፍ] ይ_ኣሸንፍ [ይሆን] ይ_ሆን ?
+1	ዛሬ	_	ADV	_	_	4	obl	_	Offset=128-130
+2	ማን	_	PRON	_	_	4	nsubj	_	Offset=131-133
+3	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=141-142
+4	ኣሸንፍ	_	VERB	_	_	6	ccomp	_	Offset=143-147
+5	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Offset=154-155
+6	ሆን	_	VERB	_	_	0	_	_	Offset=156-158
+7	?	_	PUNCT	_	_	6	punct	_	Offset=159-160
+
+# sent_id = third_apple_2-x31-s4
+# text = ምን [ደርሶበት] ደርስ_ኦ_በ_ት [ይሆን] ይ_ሆን ?
+1	ምን	_	PRON	_	_	2	obj	_	Offset=161-163
+2	ደርስ	_	VERB	_	_	7	xcomp	_	Offset=172-175
+3	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	Offset=176-177
+4	በ	_	ADP	_	Case=Mal	2	mark	_	Offset=178-179
+5	ት	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	Offset=180-181
+6	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Offset=188-189
+7	ሆን	_	VERB	_	_	0	_	_	Offset=190-192
+8	?	_	PUNCT	_	_	7	punct	_	Offset=193-194
+
+# sent_id = third_apple_2-x31-s5
+# text = [እርሱንማ] እርሱ_ን_ማ [አውቀው] አውቅ_ኧው [የለም] የል_ኧ_ም ?
+1	እርሱ	_	PRON	_	_	4	obj	_	Offset=203-206
+2	ን	_	ACC	_	_	1	case	_	Offset=207-208
+3	ማ	_	INTJ	_	_	1	discourse	_	Offset=209-210
+4	አውቅ	_	VERB	_	_	6	conj	_	Offset=218-221
+5	ኧው	_	SUBJC	_	Number=Sing|Person=3	4	nsubj	_	Offset=222-224
+6	የል	_	VERB	_	_	0	_	_	Offset=231-233
+7	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Offset=234-235
+8	ም	_	NCM	_	_	6	discourse	_	Offset=236-237
+9	?	_	PUNCT	_	_	6	punct	_	Offset=238-239
+

@@ -1,0 +1,76 @@
+# sent_id = sleepwalking-Am_aux-s1
+# text = ካሳ አስተማሪ [ነው] ን_ኧው ።
+1	ካሳ	_	PROPN	_	_	2	nsubj	_	Offset=0-2
+2	አስተማሪ	_	NOUN	_	_	0	_	_	Offset=3-8
+3	ን	_	AUX	_	_	2	cop	_	Offset=14-15
+4	ኧው	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	2	expl	_	Offset=16-18
+5	።	_	PUNCT	_	_	2	punct	_	Offset=19-20
+
+# sent_id = sleepwalking-Am_aux-s2
+# text = አስተማሪ [ናት] ን_ኣት ።
+1	አስተማሪ	_	NOUN	_	_	0	_	_	Offset=21-26
+2	ን	_	AUX	_	_	1	cop	_	Offset=32-33
+3	ኣት	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	Offset=34-36
+4	።	_	PUNCT	_	_	1	punct	_	Offset=37-38
+
+# sent_id = sleepwalking-Am_aux-s3
+# text = አስተማሪ [ነው] ን_ኧው ።
+1	አስተማሪ	_	NOUN	_	_	0	_	_	Offset=39-44
+2	ን	_	AUX	_	_	1	cop	_	Offset=50-51
+3	ኧው	_	SUBJC	_	Gender=Masc|Number=Sing	1	nsubj	_	Offset=52-54
+4	።	_	PUNCT	_	_	1	punct	_	Offset=55-56
+
+# sent_id = sleepwalking-Am_aux-s4
+# text = [አለቀሰ] አለቀስ_ኧ ።
+1	አለቀስ	_	VERB	_	Voice=Trans	0	_	_	Offset=64-68
+2	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	1	nsubj_pass	_	Offset=69-70
+3	።	_	PUNCT	_	_	1	punct	_	Offset=71-72
+
+# sent_id = sleepwalking-Am_aux-s5
+# text = እሱ [አለቀሰ] አለቀስ_ኧ ።
+1	እሱ	_	PRON	_	_	2	nsubj_pass	_	Offset=73-75
+2	አለቀስ	_	VERB	_	Voice=Trans	0	_	_	Offset=83-87
+3	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	2	expl	_	Offset=88-89
+4	።	_	PUNCT	_	_	2	punct	_	Offset=90-91
+
+# sent_id = sleepwalking-Am_aux-s6
+# text = [በሩን] በር_ኡ_ን [ከፍቶ] ከፍት_ኦ [እቤት] እ_ቤት [ገብቶ] ገብት_ኦ [እቃውን] እቃ_ው_ን [አዘጋጅቶ] አዘጋጅት_ኦ [ቤቱን] ቤት_ኡ_ን [ጠርጎ] ጠርግ_ኦ [ሄደ] ሄድ_ኧ ።
+1	በር	_	NOUN	_	_	4	obj	_	Offset=98-100
+2	ኡ	_	DET	_	_	1	det	_	Offset=101-102
+3	ን	_	ACC	_	_	1	case	_	Offset=103-104
+4	ከፍት	_	VERB	_	VerbForm=Conv	8	compound_svc	_	Offset=111-114
+5	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=115-116
+6	እ	_	ADP	_	_	7	case	_	Offset=123-124
+7	ቤት	_	NOUN	_	_	8	obl	_	Offset=125-127
+8	ገብት	_	VERB	_	VerbForm=Conv	13	compound_svc	_	Offset=134-137
+9	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	8	expl	_	Offset=138-139
+10	እቃ	_	NOUN	_	_	13	obj	_	Offset=147-149
+11	ው	_	DET	_	_	10	det	_	Offset=150-151
+12	ን	_	ACC	_	_	10	case	_	Offset=152-153
+13	አዘጋጅት	_	VERB	_	VerbForm=Conv	18	compound_svc	_	Offset=162-167
+14	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	13	expl	_	Offset=168-169
+15	ቤት	_	NOUN	_	_	18	obj	_	Offset=176-178
+16	ኡ	_	DET	_	_	15	det	_	Offset=179-180
+17	ን	_	ACC	_	_	15	case	_	Offset=181-182
+18	ጠርግ	_	VERB	_	VerbForm=Conv	20	compound_svc	_	Offset=189-192
+19	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	18	expl	_	Offset=193-194
+20	ሄድ	_	VERB	_	_	0	_	_	Offset=200-202
+21	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	20	nsubj	_	Offset=203-204
+22	።	_	PUNCT	_	_	20	punct	_	Offset=205-206
+
+# sent_id = sleepwalking-Am_aux-s7
+# text = [ቆሞ] ቆም_ኦ [ተናገረ] ተናግር_ኧ ።
+1	ቆም	_	VERB	_	VerbForm=Conv	3	advmod	_	Offset=212-214
+2	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	1	expl	_	Offset=215-216
+3	ተናግር	_	VERB	_	Voice=Pass	0	_	_	Offset=224-228
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Offset=229-230
+5	።	_	PUNCT	_	_	3	punct	_	Offset=231-232
+
+# sent_id = sleepwalking-Am_aux-s8
+# text = [ተመልሶ] ተመልስ_ኦ [ሄደ] ሄድ_ኧ ።
+1	ተመልስ	_	VERB	_	_	3	advmod	_	Offset=240-244
+2	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	1	expl	_	Offset=245-246
+3	ሄድ	_	VERB	_	_	0	_	_	Offset=252-254
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Offset=255-256
+5	።	_	PUNCT	_	_	3	punct	_	Offset=257-258
+

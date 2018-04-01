@@ -1,0 +1,266 @@
+# sent_id = sleepwalking-x21-s1
+# text = [መብላቱን] መብላት_ኡ_ን [ትብላ] ት_ብላ እንጂ [አልጠገበችም] ኣል_ጠገብ_ኧ_ም ።
+1	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=13-14
+2	ኡ	_	DET	_	_	0	_	_	Offset=13-14
+3	ኡ	_	POSM	_	_	0	_	_	Offset=13-14
+4	ን	_	ACC	_	_	0	_	_	Offset=15-16
+5	ት	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	0	_	_	Offset=23-24
+6	ኣል	_	NEG	_	_	0	_	_	Offset=42-44
+7	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=49-50
+8	ም	_	CCONJ	_	_	0	_	_	Offset=51-52
+9	።	_	PUNCT	_	_	0	_	_	Offset=53-54
+
+# sent_id = sleepwalking-x21-s2
+# text = [የቀደደውን] የ_ቀደድ_ኧ_ው_ን መጽሐፍ [ለመመለስ] ለ_መመለስ [አልደፈረም] ኣል_ደፈር_ኧ_ም ።
+1	የ	_	ADP	_	_	0	_	_	Offset=64-65
+2	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=70-71
+3	ው	_	DET	_	_	0	_	_	Offset=72-73
+4	ው	_	POSM	_	_	0	_	_	Offset=72-73
+5	ን	_	ACC	_	_	0	_	_	Offset=74-75
+6	መጽሐፍ	_	NOUN	_	_	0	_	_	Offset=76-80
+7	ለ	_	ADP	_	_	0	_	_	Offset=89-90
+8	ኣል	_	NEG	_	_	0	_	_	Offset=105-107
+9	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=112-113
+10	ም	_	CCONJ	_	_	0	_	_	Offset=114-115
+11	።	_	PUNCT	_	_	0	_	_	Offset=116-117
+
+# sent_id = sleepwalking-x21-s3
+# text = ሰብአዊ [ባሕሪዋን] ባሕሪ_ዋ_ን [በተመለከተ] በ_ተመለከት_ኧ [ለትንሹም] ለ_ትንሽ_ኡ_ም [ለትልቁም] ለ_ትልቅ_ኡ_ም ከፍተኛ [አፍቅሮትና] አፍቅሮት_ና ርህራሄ [ነበራት] ነበር_ኧ_ኣት ።
+1	ዋ	_	DET	_	_	0	_	_	Offset=135-136
+2	ዋ	_	POSM	_	_	0	_	_	Offset=135-136
+3	ን	_	ACC	_	_	0	_	_	Offset=137-138
+4	በ	_	ADP	_	_	0	_	_	Offset=148-149
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=156-157
+6	ለ	_	ADP	_	_	0	_	_	Offset=166-167
+7	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=172-173
+8	ኡ	_	DET	_	_	0	_	_	Offset=172-173
+9	ኡ	_	POSM	_	_	0	_	_	Offset=172-173
+10	ም	_	CCONJ	_	_	0	_	_	Offset=174-175
+11	ለ	_	ADP	_	_	0	_	_	Offset=184-185
+12	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=190-191
+13	ኡ	_	DET	_	_	0	_	_	Offset=190-191
+14	ኡ	_	POSM	_	_	0	_	_	Offset=190-191
+15	ም	_	CCONJ	_	_	0	_	_	Offset=192-193
+16	ና	_	CCONJ	_	_	0	_	_	Offset=214-215
+17	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=232-233
+18	ኣት	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	0	_	_	Offset=234-236
+19	።	_	PUNCT	_	_	0	_	_	Offset=237-238
+
+# sent_id = sleepwalking-x21-s4
+# text = [በሩ] በር_ኡ [እያለ] እየ_ኣል_ኧ ምንው [በመስኮት] በ_መስኮት [መግባትህ] መግባት_ህ ?
+1	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=247-248
+2	ኡ	_	DET	_	_	0	_	_	Offset=247-248
+3	ኡ	_	POSM	_	_	0	_	_	Offset=247-248
+4	ኣል	_	AUX	_	_	0	_	_	Offset=258-260
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=261-262
+6	በ	_	ADP	_	_	0	_	_	Offset=275-276
+7	ህ	_	POSM	_	_	0	_	_	Offset=295-296
+8	?	_	PUNCT	_	_	0	_	_	Offset=297-298
+
+# sent_id = sleepwalking-x21-s5
+# text = [ቤቷ] ቤት_ዋ [በደህና] በ_ደህና [መድረሷን] መድረስ_ዋ_ን [ነገረኝ] ነገር_ኧ_ኝ ።
+1	ቤት	_	NOUN	_	_	0	_	_	Offset=304-306
+2	ዋ	_	DET	_	_	0	_	_	Offset=307-308
+3	ዋ	_	POSM	_	_	0	_	_	Offset=307-308
+4	በ	_	ADP	_	_	0	_	_	Offset=316-317
+5	ዋ	_	DET	_	_	0	_	_	Offset=335-336
+6	ዋ	_	POSM	_	_	0	_	_	Offset=335-336
+7	ን	_	ACC	_	_	0	_	_	Offset=337-338
+8	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=350-351
+9	።	_	PUNCT	_	_	0	_	_	Offset=354-355
+
+# sent_id = sleepwalking-x21-s6
+# text = [መሄድሽን] መሄድ_ሽ_ን [አልሰማሁም] ኣል_ሰማ_ሁ_ም ።
+1	ሽ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=2	0	_	_	Offset=368-369
+2	ሽ	_	POSM	_	_	0	_	_	Offset=368-369
+3	ን	_	ACC	_	_	0	_	_	Offset=370-371
+4	ኣል	_	NEG	_	_	0	_	_	Offset=381-383
+5	ም	_	CCONJ	_	_	0	_	_	Offset=389-390
+6	።	_	PUNCT	_	_	0	_	_	Offset=391-392
+
+# sent_id = sleepwalking-x21-s7
+# text = [ገንዘቡን] ገንዘብ_ኡ_ን [መስረቁን] መስረቅ_ኡ_ን [በምን] በ_ምን [ታረጋግጣለህ] ት_ኣረጋግጥ_ኣል_ኧህ ?
+1	ገንዘብ	_	NOUN	_	_	0	_	_	Offset=401-405
+2	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=406-407
+3	ኡ	_	DET	_	_	0	_	_	Offset=406-407
+4	ኡ	_	POSM	_	_	0	_	_	Offset=406-407
+5	ን	_	ACC	_	_	0	_	_	Offset=408-409
+6	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=423-424
+7	ኡ	_	DET	_	_	0	_	_	Offset=423-424
+8	ኡ	_	POSM	_	_	0	_	_	Offset=423-424
+9	ን	_	ACC	_	_	0	_	_	Offset=425-426
+10	በ	_	ADP	_	_	0	_	_	Offset=433-434
+11	ት	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	0	_	_	Offset=448-449
+12	ኣል	_	AUX	_	_	0	_	_	Offset=456-458
+13	ኧህ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=2	0	_	_	Offset=459-461
+14	?	_	PUNCT	_	_	0	_	_	Offset=462-463
+
+# sent_id = sleepwalking-x21-s8
+# text = መኪና መንዳት [አላውቅም] አል_ኣውቅ_ም ።
+1	መኪና	_	NOUN	_	_	0	_	_	Offset=464-467
+2	አል	_	NEG	_	_	0	_	_	Offset=481-483
+3	አል	_	AUX	_	_	0	_	_	Offset=481-483
+4	ም	_	CCONJ	_	_	0	_	_	Offset=488-489
+5	።	_	PUNCT	_	_	0	_	_	Offset=490-491
+
+# sent_id = sleepwalking-x21-s9
+# text = [የባላገር] የ_ባለ_አገር ሰዎች አህያ መጫን [ያውቃሉ] ይ_ኣውቅ_ኡ_ኣል_ኡ ።
+1	የ	_	ADP	_	_	0	_	_	Offset=500-501
+2	ሰዎች	_	NOUN	_	_	0	_	_	Offset=509-512
+3	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=528-529
+4	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=534-535
+5	ኡ	_	DET	_	_	0	_	_	Offset=534-535
+6	ኡ	_	POSM	_	_	0	_	_	Offset=534-535
+7	ኣል	_	AUX	_	_	0	_	_	Offset=536-538
+8	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=539-540
+9	ኡ	_	DET	_	_	0	_	_	Offset=539-540
+10	ኡ	_	POSM	_	_	0	_	_	Offset=539-540
+11	።	_	PUNCT	_	_	0	_	_	Offset=541-542
+
+# sent_id = sleepwalking-x21-s10
+# text = [መንገዱ] መንገድ_ኡ [መጣበቡ] መጣበብ_ኡ በዓል [ስለሆነ] ስለ_ሆን_ኧ [ይሆናል] ይ_ሆን_ኣል ።
+1	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=555-556
+2	ኡ	_	DET	_	_	0	_	_	Offset=555-556
+3	ኡ	_	POSM	_	_	0	_	_	Offset=555-556
+4	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=569-570
+5	ኡ	_	DET	_	_	0	_	_	Offset=569-570
+6	ኡ	_	POSM	_	_	0	_	_	Offset=569-570
+7	ስለ	_	ADP	_	_	0	_	_	Offset=582-584
+8	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=588-589
+9	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=597-598
+10	ኣል	_	AUX	_	_	0	_	_	Offset=602-604
+11	።	_	PUNCT	_	_	0	_	_	Offset=605-606
+
+# sent_id = sleepwalking-x21-s11
+# text = [የመጣ] የ_መጣ [መሆኑን] መሆን_ኡ_ን [በምን] በ_ምን [ታውቃለህ] ታውቅ_ኣል_ኧህ ?
+1	የ	_	ADP	_	_	0	_	_	Offset=613-614
+2	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=629-630
+3	ኡ	_	DET	_	_	0	_	_	Offset=629-630
+4	ኡ	_	POSM	_	_	0	_	_	Offset=629-630
+5	ን	_	ACC	_	_	0	_	_	Offset=631-632
+6	በ	_	ADP	_	_	0	_	_	Offset=639-640
+7	ኣል	_	AUX	_	_	0	_	_	Offset=656-658
+8	ኧህ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=2	0	_	_	Offset=659-661
+9	?	_	PUNCT	_	_	0	_	_	Offset=662-663
+
+# sent_id = sleepwalking-x21-s12
+# text = [የኔ] የ_እኔ ብቻ ማወቅ ምን [ያደርጋል] ይ_ኣደርግ_ኣል ?
+1	የ	_	ADP	_	_	0	_	_	Offset=669-670
+2	እኔ	_	PRON	_	_	0	_	_	Offset=671-673
+3	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=692-693
+4	ኣል	_	AUX	_	_	0	_	_	Offset=699-701
+5	?	_	PUNCT	_	_	0	_	_	Offset=702-703
+
+# sent_id = sleepwalking-x21-s13
+# text = አንተ ፈቃደኛ [መሆንህን] መሆን_ህ_ን [አለመሆንህን] ኣል_ኧ_መሆን_ህ_ን [ሳያማክሩ] ስ_ኣል_ይ_ኣማክር_ኡ [ቤቱን] ቤት_ኡ_ን [ሸጡት] ሸጥ_ኡ_ት ።
+1	አንተ	_	PRON	_	_	0	_	_	Offset=704-707
+2	ህ	_	POSM	_	_	0	_	_	Offset=725-726
+3	ን	_	ACC	_	_	0	_	_	Offset=727-728
+4	ኣል	_	NEG	_	_	0	_	_	Offset=739-741
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=742-743
+6	ህ	_	POSM	_	_	0	_	_	Offset=748-749
+7	ን	_	ACC	_	_	0	_	_	Offset=750-751
+8	ስ	_	CCONJ	_	_	0	_	_	Offset=760-761
+9	ኣል	_	AUX	_	_	0	_	_	Offset=762-764
+10	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=765-766
+11	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=772-773
+12	ኡ	_	DET	_	_	0	_	_	Offset=772-773
+13	ኡ	_	POSM	_	_	0	_	_	Offset=772-773
+14	ቤት	_	NOUN	_	_	0	_	_	Offset=780-782
+15	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=783-784
+16	ኡ	_	DET	_	_	0	_	_	Offset=783-784
+17	ኡ	_	POSM	_	_	0	_	_	Offset=783-784
+18	ን	_	ACC	_	_	0	_	_	Offset=785-786
+19	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=796-797
+20	ኡ	_	DET	_	_	0	_	_	Offset=796-797
+21	ኡ	_	POSM	_	_	0	_	_	Offset=796-797
+22	ት	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	0	_	_	Offset=798-799
+23	።	_	PUNCT	_	_	0	_	_	Offset=800-801
+
+# sent_id = sleepwalking-x21-s14
+# text = ቅጠል [ሲረግፍ] ስ_ይ_ረግፍ ክረምት [ተቃርቧል] ተቃርብ_ኦ_ኣል ማለት [ነው] ን_ኧው ።
+1	ስ	_	CCONJ	_	_	0	_	_	Offset=813-814
+2	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=815-816
+3	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=839-840
+4	ኣል	_	AUX	_	_	0	_	_	Offset=841-843
+5	ን	_	AUX	_	_	0	_	_	Offset=853-854
+6	ኧው	_	SUBJC	_	Number=Sing|Person=3	0	_	_	Offset=855-857
+7	።	_	PUNCT	_	_	0	_	_	Offset=858-859
+
+# sent_id = sleepwalking-x21-s15
+# text = [ስለማናየው] ስለ_እም_አናይ_ኧው ብቻ እግዜር [የለም] የል_ኧ_ም ማለት [አይደለም] አይደል_ኧ_ም ።
+1	ስለ	_	ADP	_	_	0	_	_	Offset=869-871
+2	እም	_	POSM	_	_	0	_	_	Offset=872-874
+3	ኧው	_	SUBJC	_	Number=Sing|Person=3	0	_	_	Offset=879-881
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=899-900
+5	ም	_	CCONJ	_	_	0	_	_	Offset=901-902
+6	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=920-921
+7	ም	_	CCONJ	_	_	0	_	_	Offset=922-923
+8	።	_	PUNCT	_	_	0	_	_	Offset=924-925
+
+# sent_id = sleepwalking-x21-s16
+# text = [የወሰድከውን] የ_ወሰድ_ክ_ኧው_ን ገንዘብ [አልመልስም] ኣል_መልስ_ም [ማለትህ] ማለት_ህ [ነው] ን_ኧው ?
+1	የ	_	ADP	_	_	0	_	_	Offset=936-937
+2	ክ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=2	0	_	_	Offset=942-943
+3	ኧው	_	SUBJC	_	Number=Sing|Person=3	0	_	_	Offset=944-946
+4	ን	_	ACC	_	_	0	_	_	Offset=947-948
+5	ገንዘብ	_	NOUN	_	_	0	_	_	Offset=949-953
+6	ኣል	_	NEG	_	_	0	_	_	Offset=963-965
+7	ም	_	CCONJ	_	_	0	_	_	Offset=970-971
+8	ህ	_	POSM	_	_	0	_	_	Offset=983-984
+9	ን	_	AUX	_	_	0	_	_	Offset=990-991
+10	ኧው	_	SUBJC	_	Number=Sing|Person=3	0	_	_	Offset=992-994
+11	?	_	PUNCT	_	_	0	_	_	Offset=995-996
+
+# sent_id = sleepwalking-x21-s17
+# text = [ሌባው] ሌባ_ው ብዙ ከብት [በመስረቁ] በ_መስረቅ_ኡ [ዳኛው] ዳኛ_ው [ፈረደበት] ፈረድ_ኧ_ብ_ኧት ።
+1	ው	_	DET	_	_	0	_	_	Offset=1006-1007
+2	ው	_	POSM	_	_	0	_	_	Offset=1006-1007
+3	ከብት	_	NOUN	_	_	0	_	_	Offset=1011-1014
+4	በ	_	ADP	_	_	0	_	_	Offset=1023-1024
+5	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=1030-1031
+6	ኡ	_	DET	_	_	0	_	_	Offset=1030-1031
+7	ኡ	_	POSM	_	_	0	_	_	Offset=1030-1031
+8	ው	_	DET	_	_	0	_	_	Offset=1041-1042
+9	ው	_	POSM	_	_	0	_	_	Offset=1041-1042
+10	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	0	_	_	Offset=1055-1056
+11	ብ	_	ADP	_	_	0	_	_	Offset=1057-1058
+12	።	_	PUNCT	_	_	0	_	_	Offset=1062-1063
+
+# sent_id = sleepwalking-x21-s18
+# text = [ዳኛው] ዳኛ_ው ጉቦ [በመቀበሉ] በ_መቀበል_ኡ [ከወምበሩ] ከ_ወምበር_ኡ [አወረዱት] አወረድ_ኡ_ት ።
+1	ው	_	DET	_	_	0	_	_	Offset=1073-1074
+2	ው	_	POSM	_	_	0	_	_	Offset=1073-1074
+3	በ	_	ADP	_	_	0	_	_	Offset=1086-1087
+4	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=1093-1094
+5	ኡ	_	DET	_	_	0	_	_	Offset=1093-1094
+6	ኡ	_	POSM	_	_	0	_	_	Offset=1093-1094
+7	ከ	_	ADP	_	_	0	_	_	Offset=1103-1104
+8	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=1110-1111
+9	ኡ	_	DET	_	_	0	_	_	Offset=1110-1111
+10	ኡ	_	POSM	_	_	0	_	_	Offset=1110-1111
+11	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=1125-1126
+12	ኡ	_	DET	_	_	0	_	_	Offset=1125-1126
+13	ኡ	_	POSM	_	_	0	_	_	Offset=1125-1126
+14	ት	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	0	_	_	Offset=1127-1128
+15	።	_	PUNCT	_	_	0	_	_	Offset=1129-1130
+
+# sent_id = sleepwalking-x21-s19
+# text = [ከመግባትህ] ከ_መግባት_ህ [በፊት] በ_ፊት [አንኳኳ] ኣንኳኵ_ኣ ።
+1	ከ	_	ADP	_	_	0	_	_	Offset=1140-1141
+2	ህ	_	POSM	_	_	0	_	_	Offset=1147-1148
+3	በ	_	ADP	_	_	0	_	_	Offset=1155-1156
+4	ኣ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	0	_	_	Offset=1172-1173
+5	።	_	PUNCT	_	_	0	_	_	Offset=1174-1175
+
+# sent_id = sleepwalking-x21-s20
+# text = [ጌታቸውን] ጌታ_ኣቸው_ን [ከመካድ] ከ_መካድ [ሞትን] ሞት_ን [መረጡ] መረጥ_ኡ ።
+1	ኣቸው	_	POSM	_	_	0	_	_	Offset=1187-1190
+2	ን	_	ACC	_	_	0	_	_	Offset=1191-1192
+3	ከ	_	ADP	_	_	0	_	_	Offset=1200-1201
+4	ን	_	ACC	_	_	0	_	_	Offset=1215-1216
+5	ኡ	_	SUBJC	_	Number=Plur|Person=3	0	_	_	Offset=1227-1228
+6	ኡ	_	DET	_	_	0	_	_	Offset=1227-1228
+7	ኡ	_	POSM	_	_	0	_	_	Offset=1227-1228
+8	።	_	PUNCT	_	_	0	_	_	Offset=1229-1230
+

@@ -1,0 +1,232 @@
+# sent_id = third_apple_2-x28-s1
+# text = እዚህ [ከራርሞ] ከራርም_ኦ [ሄደ] ሄድ_ኧ ።
+1	እዚህ	_	DET	_	_	2	advmod	_	Offset=0-3
+2	ከራርም	_	VERB	_	VerbForm=Conv	4	advmod	_	Offset=11-15
+3	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	Offset=16-17
+4	ሄድ	_	VERB	_	_	0	_	_	Offset=23-25
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=26-27
+6	።	_	PUNCT	_	_	4	punct	_	Offset=28-29
+
+# sent_id = third_apple_2-x28-s2
+# text = [ነጋዴው] ነጋዴ_ው [ከሳስሯል] ከሳስር_ኦ_ኣል ።
+1	ነጋዴ	_	NOUN	_	_	3	nsubj	_	Offset=37-40
+2	ው	_	DET	_	_	1	det	_	Offset=41-42
+3	ከሳስር	_	VERB	_	_	0	_	_	Offset=51-55
+4	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=56-57
+5	ኣል	_	AUX	_	_	3	aux	_	Offset=58-60
+6	።	_	PUNCT	_	_	3	punct	_	Offset=61-62
+
+# sent_id = third_apple_2-x28-s3
+# text = ዝሆን [አንበሳውን] አንበሳ_ው_ን [ረጋገጠው] ረጋገጥ_ኧ_ው ።
+1	ዝሆን	_	NOUN	_	_	5	nsubj	_	Offset=63-66
+2	አንበሳ	_	NOUN	_	_	5	obj	_	Offset=76-80
+3	ው	_	DET	_	_	2	det	_	Offset=81-82
+4	ን	_	ACC	_	_	2	case	_	Offset=83-84
+5	ረጋገጥ	_	VERB	_	_	0	_	_	Offset=93-97
+6	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=98-99
+7	ው	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=100-101
+8	።	_	PUNCT	_	_	5	punct	_	Offset=102-103
+
+# sent_id = third_apple_2-x28-s4
+# text = [በብዙ] በ_ብዙ አምባጓሮ [የተነሣ] የ_ተነሣ [ፊቱ] ፊት_ኡ [ተቦጫጭሯል] ተቦጫጭር_ኦ_ኣል ።
+1	በ	_	ADP	_	_	3	case	_	Offset=110-111
+2	ብዙ	_	ADJ	_	_	3	amod	_	Offset=112-114
+3	አምባጓሮ	_	NOUN	_	_	5	xcomp	_	Offset=115-120
+4	የ	_	SCONJ	_	_	5	mark	_	Offset=128-129
+5	ተነሣ	_	VERB	_	_	8	conj	_	Offset=130-133
+6	ፊት	_	NOUN	_	_	8	nsubj_pass	_	Offset=139-141
+7	ኡ	_	POSM	_	Gender=Masc|Number=Sing|Person=3|Poss=	6	nmod	_	Offset=142-143
+8	ተቦጫጭር	_	VERB	_	Voice=Pass	0	_	_	Offset=153-158
+9	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	8	expl	_	Offset=159-160
+10	ኣል	_	AUX	_	_	8	aux	_	Offset=161-163
+11	።	_	PUNCT	_	_	8	punct	_	Offset=164-165
+
+# sent_id = third_apple_2-x28-s5
+# text = [ልጆቹን] ልጆች_ኡ_ን [ሰባሰበና] ሰባሰብ_ኧ_ና ከተማ [ገባ] ገባ_ኧ ።
+1	ልጆች	_	NOUN	_	Number=Plur	4	obj	_	Offset=173-176
+2	ኡ	_	DET	_	_	1	det	_	Offset=177-178
+3	ን	_	ACC	_	_	1	case	_	Offset=179-180
+4	ሰባሰብ	_	VERB	_	_	8	conj	_	Offset=189-193
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=194-195
+6	ና	_	CCONJ	_	_	4	cc	_	Offset=196-197
+7	ከተማ	_	NOUN	_	_	8	obl	_	Offset=198-201
+8	ገባ	_	VERB	_	_	0	_	_	Offset=207-209
+9	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Offset=210-211
+10	።	_	PUNCT	_	_	8	punct	_	Offset=212-213
+
+# sent_id = third_apple_2-x28-s6
+# text = [ደብዳቤውን] ደብዳቤ_ኡ_ን [አጣጥፎ] አጣጥፍ_ኦ [ኪሱ] ኪስ_ኡ [ከተተ] ከተት_ኧ ።
+1	ደብዳቤ	_	NOUN	_	_	4	obj	_	Offset=223-227
+2	ኡ	_	DET	_	_	1	det	_	Offset=228-229
+3	ን	_	ACC	_	_	1	case	_	Offset=230-231
+4	አጣጥፍ	_	VERB	_	VerbForm=Conv	8	advmod	_	Offset=239-243
+5	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=244-245
+6	ኪስ	_	NOUN	_	_	8	advmod	_	Offset=251-253
+7	ኡ	_	POSM	_	Gender=Masc|Number=Sing|Person=3|Poss=	6	det	_	Offset=254-255
+8	ከተት	_	VERB	_	_	0	_	_	Offset=262-265
+9	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Offset=266-267
+10	።	_	PUNCT	_	_	8	punct	_	Offset=268-269
+
+# sent_id = third_apple_2-x28-s7
+# text = [ወሬው] ወሬ_ው [ተደፋፈነ] ተደፋፈን_ኧ ።
+1	ወሬ	_	NOUN	_	_	3	nsubj	_	Offset=276-278
+2	ው	_	DET	_	_	1	det	_	Offset=279-280
+3	ተደፋፈን	_	VERB	_	Voice=Pass	0	_	_	Offset=289-294
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=295-296
+5	።	_	PUNCT	_	_	3	punct	_	Offset=297-298
+
+# sent_id = third_apple_2-x28-s8
+# text = [እንግዶቹ] እንግዶች_ኡ [ከመምጣታቸው] ከ_መምጣት_ኣቸው [በፊት] በ_ፊት [ብትለባብሺ] ብ_ት_ለባብስ_ኢ [ይሻላል] ይ_ተሻል_ኣል ።
+1	እንግዶች	_	NOUN	_	Number=Plur	4	nsubj	_	Offset=307-312
+2	ኡ	_	DET	_	_	1	det	_	Offset=313-314
+3	ከ	_	ADP	_	_	4	case	_	Offset=325-326
+4	መምጣት	_	NOUN	_	VerbForm=Vnoun	12	advcl	_	Offset=327-331
+5	ኣቸው	_	POSM	_	Number=Plur|Person=3|Poss=	4	nmod	_	Offset=332-335
+6	በ_ፊት	_	ADP	_	_	4	case	_	Offset=342-346
+7	ብ	_	SCONJ	_	_	9	mark	_	Offset=356-357
+8	ት	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	9	nsubj	_	Offset=358-359
+9	ለባብስ	_	VERB	_	_	12	ccomp	_	Offset=360-364
+10	ኢ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=2	9	expl	_	Offset=365-366
+11	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	12	nsubj_pass	_	Offset=374-375
+12	ተሻል	_	VERB	_	Voice=Pass	0	_	_	Offset=376-379
+13	ኣል	_	AUX	_	_	12	aux	_	Offset=380-382
+14	።	_	PUNCT	_	_	12	punct	_	Offset=383-384
+
+# sent_id = third_apple_2-x28-s9
+# text = አጋዘኖች [በኢትዮጵያ] በ_ኢትዮጵያ ሜዳዎች ላይ [ይዘዋወራሉ] ይ_ዘዋወር_ኣል_ኡ ።
+1	አጋዘኖች	_	NOUN	_	Number=Plur	7	nsubj	_	Offset=385-390
+2	በ	_	ADP	_	_	3	case	_	Offset=400-401
+3	ትዮጵያ	_	NOUN	_	_	4	nmod	_	Offset=403-407
+4	ሜዳዎች	_	NOUN	_	Number=Plur	7	obl	_	Offset=408-412
+5	ላይ	_	ADP	_	_	4	case	_	Offset=413-415
+6	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	7	expl	_	Offset=425-426
+7	ዘዋወር	_	VERB	_	_	0	_	_	Offset=427-431
+8	ኣል	_	AUX	_	_	7	aux	_	Offset=432-434
+9	ኡ	_	SUBJC	_	Number=Plur|Person=3	7	expl	_	Offset=435-436
+10	።	_	PUNCT	_	_	7	punct	_	Offset=437-438
+
+# sent_id = third_apple_2-x28-s10
+# text = [የኔ~ቢጤው] የኔ~ቢጤ_ው [ሲለማምን] ስ_ይ_ለማምን [ውሎ] ውል_ኦ ቤተ ክርስቲያን [ያድራል] ይ_ኣድር_ኣል ።
+1	የኔ~ቢጤ	_	NOUN	_	_	5	nsubj	_	Offset=448-453
+2	ው	_	DET	_	_	1	det	_	Offset=454-455
+3	ስ	_	SCONJ	_	_	5	mark	_	Offset=464-465
+4	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=466-467
+5	ለማምን	_	VERB	_	_	6	advcl	_	Offset=468-472
+6	ውል	_	VERB	_	_	11	compound_svc	_	Offset=478-480
+7	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Offset=481-482
+8	ቤተ	_	NOUN	_	_	0	_	_	Offset=483-485
+9	ክርስቲያን	_	NOUN	_	_	8	compound	11:obl	Offset=486-492
+10	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Offset=500-501
+11	ኣድር	_	VERB	_	_	0	_	_	Offset=502-505
+12	ኣል	_	AUX	_	_	11	aux	_	Offset=506-508
+13	።	_	PUNCT	_	_	11	punct	_	Offset=509-510
+
+# sent_id = third_apple_2-x28-s11
+# text = [ጧዋቱን] ጧዋት_ኡ_ን [በሙሉ] በ_ሙሉ [ስላላክ] ስ_እ_ላላክ ነበር ።
+1	ጧዋት	_	NOUN	_	_	8	obl	_	Offset=518-521
+2	ኡ	_	DET	_	_	1	det	_	Offset=522-523
+3	ን	_	ACC	_	_	1	case	_	Offset=524-525
+4	በ	_	ADP	_	_	1	case	_	Offset=532-533
+5	ሙሉ	_	ADJ	_	_	1	amod	_	Offset=534-536
+6	ስ	_	SCONJ	_	_	8	mark	_	Offset=544-545
+7	እ	_	SUBJC	_	Number=Sing|Person=1	8	nsubj	_	Offset=546-547
+8	ላላክ	_	VERB	_	_	0	_	_	Offset=548-551
+9	ነበር	_	AUX	_	_	8	aux	_	Offset=552-555
+10	።	_	PUNCT	_	_	8	punct	_	Offset=556-557
+
+# sent_id = third_apple_2-x28-s12
+# text = [እንጨቱን] እንጨት_ኡ_ን [ቆራረጠው] ቆራረጥ_ኧ_ው ።
+1	እንጨት	_	NOUN	_	_	4	obj	_	Offset=566-570
+2	ኡ	_	DET	_	_	1	det	_	Offset=571-572
+3	ን	_	ACC	_	_	1	case	_	Offset=573-574
+4	ቆራረጥ	_	VERB	_	_	0	_	_	Offset=583-587
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=588-589
+6	።	_	PUNCT	_	_	4	punct	_	Offset=592-593
+
+# sent_id = third_apple_2-x28-s13
+# text = ሹሮ [ሠራርታ] ሠራርት_ኣ [ምሳዋን] ምሳ_ዋ_ን [በላች] በላ_ኧች ።
+1	ሹሮ	_	NOUN	_	_	2	obj	_	Offset=594-596
+2	ሠራርት	_	VERB	_	VerbForm=Conv	7	compound_svc	_	Offset=604-608
+3	ኣ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	Offset=609-610
+4	ምሳ	_	NOUN	_	_	7	obl	_	Offset=618-620
+5	ዋ	_	POSM	_	Gender=Fem|Number=Sing|Person=3|Poss=	4	nmod	_	Offset=621-622
+6	ን	_	ACC	_	_	4	acl	_	Offset=623-624
+7	በላ	_	VERB	_	_	0	_	_	Offset=631-633
+8	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	7	nsubj	_	Offset=634-636
+9	።	_	PUNCT	_	_	7	punct	_	Offset=637-638
+
+# sent_id = third_apple_2-x28-s14
+# text = [ምሳውን] ምሳ_ው_ን [በላላና] በላላ_ና [ሄደ] ሄድ_ኧ ።
+1	ምሳ	_	NOUN	_	_	4	obj	_	Offset=646-648
+2	ው	_	DET	_	_	1	det	_	Offset=649-650
+3	ን	_	ACC	_	_	1	case	_	Offset=651-652
+4	ላላ	_	VERB	_	_	6	conj	_	Offset=661-663
+5	ና	_	CCONJ	_	_	4	cc	_	Offset=664-665
+6	ሄድ	_	VERB	_	_	0	_	_	Offset=671-673
+7	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Offset=674-675
+8	።	_	PUNCT	_	_	6	punct	_	Offset=676-677
+
+# sent_id = third_apple_2-x28-s15
+# text = ቁርስ [ቀማምሳ] ቀማምስ_ኣ ልብስ አጠባ [ያዘች] ያዝ_ኧች ።
+1	ቁርስ	_	NOUN	_	_	2	obj	_	Offset=678-681
+2	ቀማምስ	_	VERB	_	VerbForm=Conv	5	conj	_	Offset=689-693
+3	ኣ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	Offset=694-695
+4	ልብስ	_	NOUN	_	_	5	obj	_	Offset=696-699
+5	አጠባ	_	VERB	_	VerbForm=Conv	6	conj	_	Offset=700-703
+6	ያዝ	_	VERB	_	_	0	_	_	Offset=710-712
+7	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Offset=713-715
+8	።	_	PUNCT	_	_	6	punct	_	Offset=716-717
+
+# sent_id = third_apple_2-x28-s16
+# text = [ሲዘንብ] ስ_ይ_ዘንብ [አድሮ] አድር_ኦ [መሬቱ] መሬት_ኡ [ረጣጥቧል] ረጣጥብ_ኦ_ኣል ።
+1	ስ	_	SCONJ	_	_	3	mark	_	Offset=725-726
+2	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Offset=727-728
+3	ዘንብ	_	VERB	_	_	4	advcl	_	Offset=729-732
+4	አድር	_	VERB	_	_	8	compound_svc	_	Offset=739-742
+5	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=743-744
+6	መሬት	_	NOUN	_	_	8	nsubj	_	Offset=751-754
+7	ኡ	_	DET	_	_	6	det	_	Offset=755-756
+8	ረጣጥብ	_	VERB	_	_	0	_	_	Offset=765-769
+9	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	8	expl	_	Offset=770-771
+10	ኣል	_	AUX	_	_	8	aux	_	Offset=772-774
+11	።	_	PUNCT	_	_	8	punct	_	Offset=775-776
+
+# sent_id = third_apple_2-x28-s17
+# text = ቀለብ [ስትገዛዛ] ስ_ት_ገዛዝ_ኣ [ዋለች] ዋል_ኧች ።
+1	ቀለብ	_	NOUN	_	_	4	obj	_	Offset=777-780
+2	ስ	_	SCONJ	_	_	4	mark	_	Offset=789-790
+3	ት	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	4	nsubj	_	Offset=791-792
+4	ገዛዝ	_	VERB	_	_	6	advmod	_	Offset=793-796
+5	ኣ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	4	expl	_	Offset=797-798
+6	ዋል	_	VERB	_	_	0	_	_	Offset=805-807
+7	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Offset=808-810
+8	።	_	PUNCT	_	_	6	punct	_	Offset=811-812
+
+# sent_id = third_apple_2-x28-s18
+# text = [እየሰራራ] እየሰራር_ኣ [ራሱን] ራስ_ኡ_ን [ችሏል] ችል_ኦ_ኣል ።
+1	እየሰራር	_	VERB	_	VerbForm=Conv	6	advcl	_	Offset=821-826
+2	ኣ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	Offset=827-828
+3	ራስ	_	NOUN	_	_	6	xcomp	_	Offset=835-837
+4	ኡ	_	POSM	_	Gender=Masc|Number=Sing|Person=3|Poss=	3	nmod	_	Offset=838-839
+5	ን	_	ACC	_	_	3	case	_	Offset=840-841
+6	ችል	_	VERB	_	_	0	_	_	Offset=848-850
+7	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Offset=851-852
+8	ኣል	_	AUX	_	_	6	aux	_	Offset=853-855
+9	።	_	PUNCT	_	_	6	punct	_	Offset=856-857
+
+# sent_id = third_apple_2-x28-s19
+# text = ስለ [ጉዳዩ] ጉዳይ_ኡ [ተነጋገርን] ተነጋገር_ን ።
+1	ስለ	_	ADP	_	_	2	case	_	Offset=858-860
+2	ጉዳይ	_	NOUN	_	_	4	obl	_	Offset=867-870
+3	ኡ	_	DET	_	_	2	det	_	Offset=871-872
+4	ተነጋገር	_	VERB	_	Voice=Rcp	0	_	_	Offset=882-887
+5	ን	_	SUBJC	_	Gender=Neut|Number=Plur|Person=1	4	nsubj	_	Offset=888-889
+6	።	_	PUNCT	_	_	4	punct	_	Offset=890-891
+
+# sent_id = third_apple_2-x28-s20
+# text = ልብስ [ተለዋወጡ] ተለዋወጥ_ኡ ።
+1	ልብስ	_	NOUN	_	_	2	obj	_	Offset=892-895
+2	ተለዋወጥ	_	VERB	_	Voice=Rcp	0	_	_	Offset=904-909
+3	ኡ	_	SUBJC	_	Number=Plur|Person=3	2	nsubj	_	Offset=910-911
+4	።	_	PUNCT	_	_	2	punct	_	Offset=912-913
+
