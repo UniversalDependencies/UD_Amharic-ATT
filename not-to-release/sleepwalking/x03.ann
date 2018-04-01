@@ -1,0 +1,312 @@
+T1	SUBJC 24 25	ኧ
+A1	Person T1 3
+A2	Gender T1 Masc
+A3	Number T1 Sing
+T2	SUBJC 81 82	ኧ
+A4	Person T2 3
+A5	Gender T2 Masc
+A6	Number T2 Sing
+T3	SUBJC 107 108	ኧ
+A7	Person T3 3
+A8	Gender T3 Masc
+A9	Number T3 Sing
+T4	SUBJC 242 243	ኧ
+A10	Person T4 3
+A11	Gender T4 Masc
+A12	Number T4 Sing
+T5	SUBJC 256 257	ኧ
+A13	Person T5 3
+A14	Gender T5 Masc
+A15	Number T5 Sing
+T6	SUBJC 305 306	ኧ
+A16	Person T6 3
+A17	Gender T6 Masc
+A18	Number T6 Sing
+T7	SUBJC 372 373	ኧ
+A19	Person T7 3
+A20	Gender T7 Masc
+A21	Number T7 Sing
+T8	SUBJC 176 178	ኧች
+A22	Person T8 3
+A23	Gender T8 Fem
+A24	Number T8 Sing
+T9	SUBJC 195 197	ኧች
+A25	Person T9 3
+A26	Gender T9 Fem
+A27	Number T9 Sing
+T10	SUBJC 278 280	ኧች
+A28	Person T10 3
+A29	Gender T10 Fem
+A30	Number T10 Sing
+T11	SUBJC 544 546	ኧች
+A31	Person T11 3
+A32	Gender T11 Fem
+A33	Number T11 Sing
+T12	SUBJC 583 585	ኧች
+A34	Person T12 3
+A35	Gender T12 Fem
+A36	Number T12 Sing
+T15	SUBJC 228 229	ኡ
+A42	Person T15 3
+A43	Number T15 Plur
+T17	SUBJC 66 67	ኦ
+A46	Person T17 3
+A47	Gender T17 Masc
+A48	Number T17 Sing
+T18	SUBJC 437 438	ኦ
+A49	Person T18 3
+A50	Gender T18 Masc
+A51	Number T18 Sing
+T19	SUBJC 344 345	ኣ
+A52	Person T19 3
+A53	Gender T19 Fem
+A54	Number T19 Sing
+T20	SUBJC 393 394	ኣ
+A55	Person T20 3
+A56	Gender T20 Fem
+A57	Number T20 Sing
+T21	SUBJC 126 127	ት
+A58	Person T21 3
+A59	Number T21 Sing
+A60	Gender T21 Fem
+T22	SUBJC 446 447	ይ
+A61	Person T22 3
+A62	Number T22 Sing
+A63	Gender T22 Masc
+T23	SUBJC 508 509	ይ
+A64	Person T23 3
+A65	Number T23 Sing
+A66	Gender T23 Masc
+T24	NCM 513 514	ም
+T26	DET 321 322	ው
+T28	DET 213 214	ኡ
+T30	POSM 362 363	ኡ
+T31	NEG 505 507	ኣል
+T32	AUX 68 70	ኣል
+T33	AUX 451 453	ኣል
+T34	ACC 531 532	ን
+T35	PROPN 0 2	ካሳ
+T36	PROPN 41 43	ካሳ
+T37	PROPN 348 350	ካሳ
+T38	PROPN 376 378	ካሳ
+T39	PROPN 403 405	ካሳ
+T40	PROPN 456 458	ካሳ
+T41	PROPN 528 530	ካሳ
+T42	PROPN 138 142	አልማዝ
+T43	PROPN 283 287	አልማዝ
+T44	PROPN 517 521	አልማዝ
+T45	PRON 93 95	እኔ
+T47	NOUN 359 361	ቤት
+T48	NOUN 494 496	ቤት
+T49	PUNCT 26 27	።
+T50	PUNCT 71 72	።
+T51	PUNCT 83 84	።
+T52	PUNCT 109 110	።
+T53	PUNCT 179 180	።
+T54	PUNCT 198 199	።
+T55	PUNCT 230 231	።
+T56	PUNCT 244 245	።
+T57	PUNCT 258 259	።
+T58	PUNCT 281 282	።
+T59	PUNCT 310 311	።
+T60	PUNCT 346 347	።
+T61	PUNCT 374 375	።
+T62	PUNCT 395 396	።
+T63	PUNCT 454 455	።
+T64	PUNCT 515 516	።
+T65	PUNCT 547 548	።
+T66	PUNCT 563 564	።
+T67	PUNCT 586 587	።
+T68	PUNCT 136 137	?
+T69	ADP 330 331	ከ
+T70	ADP 91 92	የ
+T71	RLP 121 122	የ
+T72	ADP 8 10	ወደ
+T73	ADP 49 51	ወደ
+T74	ADP 351 353	ወደ
+T75	ADP 421 423	ወደ
+T76	ADP 485 487	ወደ
+T77	ADP 35 36	በ
+T78	ADP 151 152	በ
+T79	ADP 207 208	በ
+T80	ADP 414 415	በ
+T81	ADP 466 467	በ
+T82	ADP 479 480	በ
+T83	POSM 158 159	ዋ
+T89	IRLP 123 125	እም
+T14	ADV 3 7	ትናትና
+T16	NOUN 11 15	ጎንደር
+T25	VERB 21 23	ሄድ
+R1	punct Arg1:T25 Arg2:T49	
+R2	nsubj Arg1:T25 Arg2:T35	
+R3	case Arg1:T16 Arg2:T72	
+R4	advmod Arg1:T25 Arg2:T14	
+R5	obl Arg1:T25 Arg2:T16	
+R6	expl Arg1:T25 Arg2:T1	
+T27	ADJ 37 40	ርግጥ
+T29	ADV 44 48	ትናንት
+T84	NOUN 52 56	ጎንደር
+T85	VERB 63 65	ሄድ
+R7	case Arg1:T27 Arg2:T77	
+R8	nsubj Arg1:T85 Arg2:T36	
+R9	case Arg1:T84 Arg2:T73	
+R10	amod Arg1:T85 Arg2:T27	
+R11	advmod Arg1:T85 Arg2:T29	
+R12	aux Arg1:T85 Arg2:T32	
+R13	punct Arg1:T85 Arg2:T50	
+R14	expl Arg1:T85 Arg2:T17	
+R15	obl Arg1:T85 Arg2:T84	
+T86	VERB 78 80	ሞት
+R16	punct Arg1:T86 Arg2:T51	
+R17	nsubj Arg1:T86 Arg2:T2	
+T87	NOUN 96 98	ውሻ
+T88	VERB 104 106	ሞት
+R18	case Arg1:T45 Arg2:T70	
+R19	nmod Arg1:T87 Arg2:T45	
+R20	nsubj Arg1:T88 Arg2:T87	
+R21	expl Arg1:T88 Arg2:T3	
+R22	punct Arg1:T88 Arg2:T52	
+T90	VERB 128 131	ደንሽ
+T91	SUBJC 132 133	ኢ
+A40	Gender T91 Fem
+A41	Number T91 Sing
+A44	Person T91 2
+T92	OBJC 134 135	ው
+A45	Gender T92 Masc
+A67	Number T92 Sing
+A68	Person T92 3
+R23	mark Arg1:T90 Arg2:T71	
+R24	mark Arg1:T90 Arg2:T89	
+R25	nsubj Arg1:T90 Arg2:T91	
+R26	expl Arg1:T90 Arg2:T21	
+R27	obj Arg1:T90 Arg2:T92	
+R28	punct Arg1:T90 Arg2:T68	
+T93	NOUN 153 157	ወንድም
+T94	NOUN 160 162	ሞት
+T95	VERB 171 175	ደነገጥ
+R29	punct Arg1:T95 Arg2:T53	
+R30	case Arg1:T93 Arg2:T78	
+R31	nsubj Arg1:T95 Arg2:T42	
+R32	nmod Arg1:T93 Arg2:T83	
+R33	expl Arg1:T95 Arg2:T8	
+R34	nmod Arg1:T94 Arg2:T93	
+R35	ccomp Arg1:T95 Arg2:T94	
+T96	NUM 181 185	አንደኛ
+T97	VERB 192 194	ሆን
+R36	punct Arg1:T97 Arg2:T54	
+R37	nsubj Arg1:T97 Arg2:T9	
+R38	nummod Arg1:T97 Arg2:T96	
+T98	NOUN 209 212	ወንዝ
+T99	ADP 215 219	አጠገብ
+T100	VERB 225 227	ሄድ
+R39	punct Arg1:T100 Arg2:T55	
+R40	nsubj Arg1:T100 Arg2:T15	
+R41	case Arg1:T98 Arg2:T79	
+R42	case Arg1:T98 Arg2:T99	
+R43	det Arg1:T98 Arg2:T28	
+R44	obl Arg1:T100 Arg2:T98	
+T101	VERB 238 241	ዘነብ
+R45	punct Arg1:T101 Arg2:T56	
+R46	nsubj Arg1:T101 Arg2:T4	
+T102	VERB 252 255	ጀመር
+R47	nsubj Arg1:T102 Arg2:T5	
+R48	punct Arg1:T102 Arg2:T57	
+T103	NOUN 260 264	መፅሐፍ
+T104	VERB 273 277	አነበብ
+R49	punct Arg1:T104 Arg2:T58	
+R50	obj Arg1:T104 Arg2:T103	
+R51	nsubj Arg1:T104 Arg2:T10	
+T105	NOUN 288 293	እንቅልፍ
+T106	VERB 301 304	ወሰድ
+T107	OBJC 307 309	ኣት
+A69	Gender T107 Fem
+A70	Number T107 Sing
+A71	Person T107 3
+R52	punct Arg1:T106 Arg2:T59	
+R53	nsubj Arg1:T106 Arg2:T43	
+R54	obj Arg1:T106 Arg2:T105	
+R55	expl Arg1:T106 Arg2:T6	
+R56	expl Arg1:T106 Arg2:T107	
+T13	NOUN 318 320	አሳ
+T108	NOUN 332 335	ባህር
+T109	VERB 341 343	ወጥ
+R57	det Arg1:T13 Arg2:T26	
+R58	case Arg1:T108 Arg2:T69	
+R59	nsubj Arg1:T109 Arg2:T13	
+R60	obl Arg1:T109 Arg2:T108	
+R61	expl Arg1:T109 Arg2:T19	
+R62	punct Arg1:T109 Arg2:T60	
+T110	VERB 369 371	ገባ
+R63	punct Arg1:T110 Arg2:T61	
+R64	nsubj Arg1:T110 Arg2:T37	
+R65	case Arg1:T47 Arg2:T74	
+R66	nmod Arg1:T47 Arg2:T30	
+R67	obl Arg1:T110 Arg2:T47	
+T111	ADV 379 382	ክፉኛ
+T112	VERB 389 392	ተቆጥ
+A37	Voice T112 Pass
+R68	punct Arg1:T112 Arg2:T62	
+R69	expl Arg1:T110 Arg2:T7	
+R70	nsubj Arg1:T112 Arg2:T38	
+R71	advmod Arg1:T112 Arg2:T111	
+R72	expl Arg1:T112 Arg2:T20	
+T113	ADV 397 402	ምናልባት
+T114	ADV 416 420	ድንገት
+T115	NOUN 424 428	ጎንደር
+T116	VERB 434 436	ሄድ
+T117	AUX 448 450	ሆን
+R74	nsubj Arg1:T116 Arg2:T39	
+R75	case Arg1:T115 Arg2:T75	
+R76	case Arg1:T114 Arg2:T80	
+R77	advmod Arg1:T116 Arg2:T113	
+R78	advmod Arg1:T116 Arg2:T114	
+R79	obl Arg1:T116 Arg2:T115	
+R80	expl Arg1:T116 Arg2:T18	
+R81	aux Arg1:T116 Arg2:T117	
+R83	punct Arg1:T116 Arg2:T63	
+T118	ADV 468 471	ፍፁም
+T119	NOUN 481 484	መኪና
+T46	NOUN 488 493	ትምህርት
+T120	VERB 510 512	ሄድ
+R84	punct Arg1:T120 Arg2:T64	
+R85	neg Arg1:T120 Arg2:T31	
+R86	discourse Arg1:T120 Arg2:T24	
+R87	expl Arg1:T120 Arg2:T23	
+R88	nsubj Arg1:T120 Arg2:T40	
+R89	case Arg1:T118 Arg2:T81	
+R90	case Arg1:T119 Arg2:T82	
+R91	compound Arg1:T46 Arg2:T48	
+R92	case Arg1:T46 Arg2:T76	
+R93	obl Arg1:T120 Arg2:T48	
+R94	advmod Arg1:T120 Arg2:T118	
+R95	obl Arg1:T46 Arg2:T119	
+T121	VERB 540 543	ገደል
+R96	punct Arg1:T121 Arg2:T65	
+R97	expl Arg1:T121 Arg2:T11	
+R98	nsubj Arg1:T121 Arg2:T44	
+R99	case Arg1:T41 Arg2:T34	
+R100	obj Arg1:T121 Arg2:T41	
+T122	NOUN 549 551	ምሳ
+T123	VERB 558 560	በላ
+T124	SUBJC 561 562	ሁ
+A38	Person T124 1
+A39	Number T124 Sing
+R101	punct Arg1:T123 Arg2:T66	
+R102	nsubj Arg1:T123 Arg2:T124	
+R103	obj Arg1:T123 Arg2:T122	
+T125	NOUN 565 569	መፅሐፍ
+T126	VERB 578 582	አነበብ
+R104	punct Arg1:T126 Arg2:T67	
+R105	obj Arg1:T126 Arg2:T125	
+R106	nsubj Arg1:T126 Arg2:T12	
+A72	Gender T83 Fem
+A73	Number T83 Sing
+A74	Person T83 3
+A75	Poss T83
+A76	Gender T30 Masc
+A77	Number T30 Sing
+A78	Person T30 3
+A79	Poss T30
+R73	aux Arg1:T116 Arg2:T33	
+R82	expl Arg1:T116 Arg2:T22	
+A80	Voice T126 Trans

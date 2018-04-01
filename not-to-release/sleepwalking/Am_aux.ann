@@ -1,0 +1,145 @@
+T1	PROPN 0 2	ካሳ
+T2	NOUN 3 8	አስተማሪ
+T3	AUX 14 15	ን
+T4	SUBJC 16 18	ኧው
+A1	Gender T4 Masc
+A2	Number T4 Sing
+A3	Person T4 3
+T5	PUNCT 19 20	።
+T6	NOUN 21 26	አስተማሪ
+T7	AUX 32 33	ን
+T8	SUBJC 34 36	ኣት
+A4	Gender T8 Fem
+A5	Number T8 Sing
+A6	Person T8 3
+T9	PUNCT 37 38	።
+T10	NOUN 39 44	አስተማሪ
+T11	AUX 50 51	ን
+T12	SUBJC 52 54	ኧው
+A7	Gender T12 Masc
+A8	Number T12 Sing
+R1	nsubj Arg1:T2 Arg2:T1	
+R2	punct Arg1:T2 Arg2:T5	
+R3	cop Arg1:T2 Arg2:T3	
+R5	punct Arg1:T6 Arg2:T9	
+T13	PUNCT 55 56	።
+R7	punct Arg1:T10 Arg2:T13	
+R9	cop Arg1:T10 Arg2:T11	
+R10	cop Arg1:T6 Arg2:T7	
+R4	expl Arg1:T2 Arg2:T4	
+R6	nsubj Arg1:T6 Arg2:T8	
+R8	nsubj Arg1:T10 Arg2:T12	
+T14	VERB 64 68	አለቀስ
+T15	SUBJC 69 70	ኧ
+A9	Gender T15 Masc
+A10	Number T15 Sing
+A11	Person T15 3
+T16	PUNCT 71 72	።
+T17	PRON 73 75	እሱ
+T18	VERB 83 87	አለቀስ
+T19	SUBJC 88 89	ኧ
+A12	Gender T19 Masc
+A13	Number T19 Sing
+A14	Person T19 3
+T20	PUNCT 90 91	።
+R11	punct Arg1:T14 Arg2:T16	
+R12	nsubj_pass Arg1:T14 Arg2:T15	
+R13	nsubj_pass Arg1:T18 Arg2:T17	
+R14	expl Arg1:T18 Arg2:T19	
+R15	punct Arg1:T18 Arg2:T20	
+T21	NOUN 98 100	በር
+T22	DET 101 102	ኡ
+T23	ACC 103 104	ን
+T24	VERB 111 114	ከፍት
+T25	SUBJC 115 116	ኦ
+A15	Gender T25 Masc
+A16	Number T25 Sing
+A17	Person T25 3
+T26	ADP 123 124	እ
+T27	NOUN 125 127	ቤት
+T28	VERB 134 137	ገብት
+T29	SUBJC 138 139	ኦ
+A18	Gender T29 Masc
+A19	Number T29 Sing
+A20	Person T29 3
+T30	NOUN 147 149	እቃ
+T31	DET 150 151	ው
+T32	ACC 152 153	ን
+T33	VERB 162 167	አዘጋጅት
+A21	VerbForm T24 Conv
+A22	VerbForm T28 Conv
+A23	VerbForm T33 Conv
+T34	SUBJC 168 169	ኦ
+A24	Gender T34 Masc
+A25	Number T34 Sing
+A26	Person T34 3
+T35	NOUN 176 178	ቤት
+T36	DET 179 180	ኡ
+T37	ACC 181 182	ን
+T38	VERB 189 192	ጠርግ
+A27	VerbForm T38 Conv
+T39	SUBJC 193 194	ኦ
+A28	Gender T39 Masc
+A29	Number T39 Sing
+A30	Person T39 3
+T40	VERB 200 202	ሄድ
+T41	SUBJC 203 204	ኧ
+A31	Gender T41 Masc
+A32	Number T41 Sing
+A33	Person T41 3
+T42	PUNCT 205 206	።
+R16	det Arg1:T21 Arg2:T22	
+R17	case Arg1:T21 Arg2:T23	
+R18	expl Arg1:T24 Arg2:T25	
+R19	case Arg1:T27 Arg2:T26	
+R20	expl Arg1:T28 Arg2:T29	
+R21	det Arg1:T30 Arg2:T31	
+R22	case Arg1:T30 Arg2:T32	
+R23	expl Arg1:T33 Arg2:T34	
+R24	det Arg1:T35 Arg2:T36	
+R25	case Arg1:T35 Arg2:T37	
+R26	expl Arg1:T38 Arg2:T39	
+R27	nsubj Arg1:T40 Arg2:T41	
+R28	punct Arg1:T40 Arg2:T42	
+R29	obj Arg1:T24 Arg2:T21	
+R30	obl Arg1:T28 Arg2:T27	
+R31	obj Arg1:T33 Arg2:T30	
+R32	obj Arg1:T38 Arg2:T35	
+R33	compound_svc Arg1:T28 Arg2:T24	
+R34	compound_svc Arg1:T33 Arg2:T28	
+R35	compound_svc Arg1:T38 Arg2:T33	
+R36	compound_svc Arg1:T40 Arg2:T38	
+T43	VERB 212 214	ቆም
+A34	VerbForm T43 Conv
+T44	SUBJC 215 216	ኦ
+A35	Gender T44 Masc
+A36	Number T44 Sing
+A37	Person T44 3
+T45	VERB 224 228	ተናግር
+T46	SUBJC 229 230	ኧ
+A38	Gender T46 Masc
+A39	Number T46 Sing
+A40	Person T46 3
+T47	PUNCT 231 232	።
+R37	punct Arg1:T45 Arg2:T47	
+R38	expl Arg1:T43 Arg2:T44	
+R39	advmod Arg1:T45 Arg2:T43	
+R40	nsubj Arg1:T45 Arg2:T46	
+T48	VERB 240 244	ተመልስ
+T49	SUBJC 245 246	ኦ
+A41	Gender T49 Masc
+A42	Number T49 Sing
+A43	Person T49 3
+T50	VERB 252 254	ሄድ
+T51	SUBJC 255 256	ኧ
+A44	Gender T51 Masc
+A45	Number T51 Sing
+A46	Person T51 3
+T52	PUNCT 257 258	።
+R41	expl Arg1:T48 Arg2:T49	
+R42	nsubj Arg1:T50 Arg2:T51	
+R43	punct Arg1:T50 Arg2:T52	
+R44	advmod Arg1:T50 Arg2:T48	
+A47	Voice T45 Pass
+A48	Voice T18 Trans
+A49	Voice T14 Trans
