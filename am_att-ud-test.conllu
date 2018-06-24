@@ -6835,27 +6835,6 @@
 9	ነበር	ነበር	AUX	AUX	_	7	aux	_	_
 10	።	።	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = data_UD-third_apple_2-x00-s10
-# text = በምንም ዐይነት ብትሠራው አለቅየው አይደሰትም ።
-1-2	በምንም	_	_	_	_	_	_	_	_
-1	በ	በ	ADP	ADP	Case=Loc	2	case	_	_
-2	ምንም	ምንም	ADJ	ADJ	_	3	amod	_	_
-3	ዐይነት	ዐይነት	NOUN	NOUN	_	6	advcl	_	_
-4-7	ብትሠራው	_	_	_	_	_	_	_	_
-4	ብ	ብ	SCONJ	SCONJ	_	6	mark	_	_
-5	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_
-6	ሠር	ሠር	VERB	VERB	_	13	advcl	_	_
-7	ኣው	ኣው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
-8-10	አለቅየው	_	_	_	_	_	_	_	_
-8	አለቃ	አለቃ	NOUN	NOUN	_	13	nsubj	_	_
-10	ው	ው	DET	DET	Gender=Masc|Number=Sing|Person=3	8	det	_	_
-11-14	አይደሰትም	_	_	_	_	_	_	_	_
-11	ኣል	ኣል	PART	NEG	_	13	root	_	_
-12	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	expl	_	_
-13	ደሰት	ደሰት	VERB	VERB	_	0	root	_	_
-14	ም	ም	PART	NCM	_	13	discourse	_	_
-15	።	።	PUNCT	PUNCT	_	13	punct	_	_
-
 # sent_id = data_UD-third_apple_2-x00-s11
 # text = በእናቴ ፈንታ ምነው እኔ በሞትኩ ።
 1-3	በእናቴ	_	_	_	_	_	_	_	_
@@ -10727,30 +10706,6 @@
 7	ም	ም	PART	NCM	_	5	discourse	_	_
 8	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
-# sent_id = data_UD-third_apple_2-x14-s13
-# text = ተማሪው ካልተጠነቀቁ ብዙ ስሕተት ሳይሠራ አይቀርም ።
-1-2	ተማሪው	_	_	_	_	_	_	_	_
-1	ተማሪ	ተማሪ	NOUN	NOUN	_	11	nsubj	_	_
-2	ው	ው	DET	DET	_	1	det	_	_
-3-6	ካልተጠነቀቁ	_	_	_	_	_	_	_	_
-3	ከ	ከ	SCONJ	SCONJ	_	5	mark	_	_
-4	ኣል	ኣል	PART	NEG	_	5	root	_	_
-5	ተጠነቀቅ	ተጠነቀቅ	VERB	VERB	_	11	conj	_	_
-6	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	5	nsubj	_	_
-7	ብዙ	ብዙ	NUM	NUM	_	8	nummod	_	_
-8	ስሕተት	ስሕተት	NOUN	NOUN	_	11	obj	_	_
-9-12	ሳይሠራ	_	_	_	_	_	_	_	_
-9	ሲ	ሲ	SCONJ	SCONJ	_	11	mark	_	_
-10	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	expl	_	_
-10	ኣ	ኣ	PART	NEG	_	11	root	_	_
-11	ሰር	ሰር	VERB	VERB	_	15	conj	_	_
-13-16	አይቀርም	_	_	_	_	_	_	_	_
-13	ኣል	ኣል	PART	NEG	_	15	root	_	_
-14	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	15	nsubj	_	_
-15	ቀር	ቀር	VERB	VERB	_	0	root	_	_
-16	ም	ም	PART	NCM	_	15	discourse	_	_
-17	።	።	PUNCT	PUNCT	_	15	punct	_	_
-
 # sent_id = data_UD-third_apple_2-x14-s14
 # text = ምንም እንኳ ሥራ ቢበዛበት መምጣቱ አይቀርም ።
 1	ምንም	ምንም	ADV	ADV	_	0	root	_	_
@@ -11344,7 +11299,7 @@
 8	እ	እ	PRON	SUBJC	Number=Sing|Person=1	9	nsubj	_	_
 9	ጫወት	ጫወት	VERB	VERB	_	0	root	_	_
 10	ኣል	ኣል	AUX	AUX	_	9	aux	_	_
-12	።	።	PUNCT	PUNCT	_	9	punct	_	_
+11	።	።	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x16-s16
 # text = ምን ያህል ጊዜ አየሃት ?
@@ -11372,7 +11327,7 @@
 9-11	ንገረን	_	_	_	_	_	_	_	_
 9	ንገር	ንገር	VERB	VERB	_	0	root	_	_
 10	ኧ	ኧ	PRON	OBJC	Gender=Neut|Number=Plur|Person=1	9	expl	_	_
-12	?	?	PUNCT	PUNCT	_	9	punct	_	_
+11	?	?	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x16-s18
 # text = ከጥቂት ልምምድ በኋላ የተሻለ አድርገው ሠሩት ።
@@ -11482,25 +11437,6 @@
 14	ብ	ብ	ADP	ADP	_	13	mark	_	_
 15	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	13	nsubj	_	_
 16	።	።	PUNCT	PUNCT	_	13	punct	_	_
-
-# sent_id = data_UD-third_apple_2-x17-s3
-# text = በምን ያርሳሉ ? በበሬ ነዋ ።
-1-2	በምን	_	_	_	_	_	_	_	_
-1	በ	በ	ADP	ADP	_	2	case	_	_
-2	ምን	ምን	PRON	PRON	_	4	advmod	_	_
-3-6	ያርሳሉ	_	_	_	_	_	_	_	_
-3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-4	ኣርስ	ኣርስ	VERB	VERB	_	0	root	_	_
-5	ኣል	ኣል	AUX	AUX	_	4	aux	_	_
-6	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	4	nsubj	_	_
-7	?	?	PUNCT	PUNCT	_	4	punct	_	_
-8-9	በበሬ	_	_	_	_	_	_	_	_
-8	በ	በ	ADP	ADP	_	9	case	_	_
-9	በሬ	በሬ	NOUN	NOUN	_	0	root	_	_
-10-12	ነዋ	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	9	aux	_	_
-11	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	9	nsubj	_	_
-13	።	።	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x17-s4
 # text = እንጀራውን ምን አረግሽው ? በላሁታ ።
@@ -11772,24 +11708,6 @@
 8	ም	ም	PART	NCM	_	6	discourse	_	_
 9	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = data_UD-third_apple_2-x18-s2
-# text = አንተ ካልመጣህ እሱም አይመጣም ።
-1	አንተ	አንተ	PRON	PRON	_	4	nsubj	_	_
-2-6	ካልመጣህ	_	_	_	_	_	_	_	_
-2	ከ	ከ	ADP	ADP	_	4	mark	_	_
-3	ኣል	ኣል	PART	NEG	_	4	root	_	_
-4	መጣ	መጣ	VERB	VERB	_	11	advcl	_	_
-6	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	4	expl	_	_
-7-8	እሱም	_	_	_	_	_	_	_	_
-7	እርሱ	እርሱ	PRON	PRON	_	11	nsubj	_	_
-8	ም	ም	CCONJ	CCONJ	_	7	cc	_	_
-9-12	አይመጣም	_	_	_	_	_	_	_	_
-9	ኣል	ኣል	PART	NEG	_	11	root	_	_
-10	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	expl	_	_
-11	መጣ	መጣ	VERB	VERB	_	0	root	_	_
-12	ም	ም	PART	NCM	_	11	discourse	_	_
-13	።	።	PUNCT	PUNCT	_	11	punct	_	_
-
 # sent_id = data_UD-third_apple_2-x18-s3
 # text = እሱም አያውቀውም ።
 1-2	እሱም	_	_	_	_	_	_	_	_
@@ -11932,17 +11850,6 @@
 20	መለስ	መለስ	VERB	VERB	_	0	root	_	_
 21	ም	ም	PART	NCM	_	20	discourse	_	_
 22	።	።	PUNCT	PUNCT	_	20	punct	_	_
-
-# sent_id = data_UD-third_apple_2-x18-s10
-# text = እንግዲያስ እመጣለሁ ።
-1-2	እንግዲያስ	_	_	_	_	_	_	_	_
-1	እንግዲያ	እንግዲያ	PRON	PRON	_	4	advcl	_	_
-2	ስ	ስ	INTJ	INTJ	_	0	root	_	_
-3-6	እመጣለሁ	_	_	_	_	_	_	_	_
-3	እ	እ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	_
-4	መጣ	መጣ	VERB	VERB	_	0	root	_	_
-5	ኣል	ኣል	AUX	AUX	_	4	aux	_	_
-7	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x18-s11
 # text = ከኛ ጋር እንደምትቆይ መቼስ የታወቀ ነው ።
@@ -12875,36 +12782,6 @@
 11	ኣል	ኣል	AUX	AUX	_	9	aux	_	_
 12	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	9	expl	_	_
 13	።	።	PUNCT	PUNCT	_	9	punct	_	_
-
-# sent_id = data_UD-third_apple_2-x21-s10
-# text = መኪና በየጊዜው ካልታደሰ ብዙ የማይቆይ መሆኑ የታወቀ ነው ።
-1	መኪና	መኪና	NOUN	NOUN	_	0	root	_	_
-2-5	በየጊዜው	_	_	_	_	_	_	_	_
-2	በ	በ	ADP	ADP	_	0	root	_	_
-5	ው	ው	DET	DET	_	0	root	_	_
-6-9	ካልታደሰ	_	_	_	_	_	_	_	_
-6	ከ	ከ	ADP	ADP	_	0	root	_	_
-7	ኣል	ኣል	PART	NEG	_	0	root	_	_
-8	ታደስ	ታደስ	VERB	VERB	_	0	root	_	_
-9	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-10	ብዙ	ብዙ	ADJ	ADJ	_	0	root	_	_
-11-15	የማይቆይ	_	_	_	_	_	_	_	_
-11	የ	የ	PART	RLP	_	0	root	_	_
-12	እም	እም	PART	IRLP	_	0	root	_	_
-13	ኣል	ኣል	AUX	AUX	_	0	root	_	_
-14	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-15	ቆይ	ቆይ	VERB	VERB	_	0	root	_	_
-16-17	መሆኑ	_	_	_	_	_	_	_	_
-16	መሆን	መሆን	NOUN	NOUN	VerbForm=Vnoun	0	root	_	_
-17	ኡ	ኡ	DET	DET	_	0	root	_	_
-18-20	የታወቀ	_	_	_	_	_	_	_	_
-18	የ	የ	ADP	ADP	_	0	root	_	_
-19	ታወቅ	ታወቅ	VERB	VERB	Voice=Pass	0	root	_	_
-20	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-21-22	ነው	_	_	_	_	_	_	_	_
-21	ን	ን	AUX	AUX	_	0	root	_	_
-22	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	0	root	_	_
-23	።	።	PUNCT	PUNCT	_	0	root	_	_
 
 # sent_id = data_UD-third_apple_2-x21-s11
 # text = መምጣት መቅረቱን ለማወቅ እፈልጋለሁ ።
