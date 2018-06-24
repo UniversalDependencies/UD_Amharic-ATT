@@ -10722,7 +10722,7 @@
 # sent_id = data_UD-third_apple_2-x14-s8
 # text = ብዙ ህፃናት ያለረዳት ያድጋሉ ።
 1	ብዙ	ብዙ	DET	DET	_	2	det	_	_
-2	ፃናት	ፃናት	NOUN	NOUN	_	6	nsubj	_	_
+2	ህፃናት	ፃናት	NOUN	NOUN	_	6	nsubj	_	_
 3-4	ያለረዳት	_	_	_	_	_	_	_	_
 3	ያለ	ያለ	PART	NEG	_	4	root	_	_
 4	ረዳት	ረዳት	NOUN	NOUN	_	6	nmod	_	_
@@ -14297,7 +14297,7 @@
 7	የትኛ	የትኛ	PRON	PRON	_	10	nmod	_	_
 8	ኡ	ኡ	DET	DET	_	7	det	_	_
 9	ም	ም	CCONJ	CCONJ	_	7	discourse	_	_
-10	ታ	ታ	NOUN	NOUN	_	12	obl	_	_
+10	ቦታ	ታ	NOUN	NOUN	_	12	obl	_	_
 11	ሽርሽር	ሽርሽር	NOUN	NOUN	_	12	nmod	_	_
 12	መሄድ	መሄድ	NOUN	NOUN	VerbForm=Vnoun	15	csubj	_	_
 13	ደስ	ደስ	VERB	VERB	_	15	compound	_	_
