@@ -4017,7 +4017,7 @@
 4-5	ነው	_	_	_	_	_	_	_	_
 4	ን	ን	AUX	AUX	_	3	cop	_	_
 5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	3	expl	_	_
-6-9	ይላሉ	_	_	_	_	_	_	_	_
+6-8	ይላሉ	_	_	_	_	_	_	_	_
 6	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
 7	ኣል	ኣል	VERB	VERB	_	0	root	_	_
 8	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	7	nsubj	_	_
@@ -7436,7 +7436,7 @@
 8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
 9	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
 10	ን	ን	PART	ACC	_	7	dep	_	_
-11-16	እገዛለታለሁ	_	_	_	_	_	_	_	_
+11-15	እገዛለታለሁ	_	_	_	_	_	_	_	_
 11	እ	እ	PRON	SUBJC	Number=Sing|Person=1	12	nsubj	_	_
 12	ገዝ	ገዝ	VERB	VERB	_	0	root	_	_
 13	ኣል	ኣል	AUX	AUX	_	12	aux	_	_
@@ -7451,7 +7451,7 @@
 2	ብ	ብ	SCONJ	SCONJ	_	3	mark	_	_
 3	ለምን	ለምን	VERB	VERB	_	5	advcl	_	_
 4	ኧው	ኧው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
-5-7	አባረረኝ	_	_	_	_	_	_	_	_
+5-6	አባረረኝ	_	_	_	_	_	_	_	_
 5	አባረር	አባረር	VERB	VERB	_	0	root	_	_
 6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7	።	።	PUNCT	PUNCT	_	5	punct	_	_
@@ -8288,7 +8288,7 @@
 
 # sent_id = data_UD-third_apple_2-x05-s18
 # text = እንደምመጣ ለአልማዝ ነገርኩዋት ።
-1-5	እንደምመጣ	_	_	_	_	_	_	_	_
+1-4	እንደምመጣ	_	_	_	_	_	_	_	_
 1	እንደ	እንደ	ADP	ADP	_	4	mark	_	_
 2	እም	እም	PART	IRLP	_	4	mark	_	_
 3	እ	እ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	_
@@ -11324,7 +11324,7 @@
 6	ሰጥ	ሰጥ	VERB	VERB	_	9	ccomp	_	_
 7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
 8	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	6	expl	_	_
-9-11	ንገረን	_	_	_	_	_	_	_	_
+9-10	ንገረን	_	_	_	_	_	_	_	_
 9	ንገር	ንገር	VERB	VERB	_	0	root	_	_
 10	ኧ	ኧ	PRON	OBJC	Gender=Neut|Number=Plur|Person=1	9	expl	_	_
 11	?	?	PUNCT	PUNCT	_	9	punct	_	_
@@ -14334,7 +14334,7 @@
 10	ከፍል	ከፍል	VERB	VERB	_	0	root	_	_
 11	ኧው	ኧው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	10	expl	_	_
 12	ኣል	ኣል	AUX	AUX	_	10	aux	_	_
-14	።	።	PUNCT	PUNCT	_	10	punct	_	_
+13	።	።	PUNCT	PUNCT	_	10	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x25-s20
 # text = ፈረሱን ካሉበት ዘንድ ወሰድኩት ።
@@ -14496,25 +14496,6 @@
 6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 7	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	5	expl	_	_
 8	።	።	PUNCT	PUNCT	_	5	punct	_	_
-
-# sent_id = data_UD-third_apple_2-x26-s11
-# text = በእንዲህ ሁኔታ የበሉት ምግብ አያረካም ።
-1-2	በእንዲህ	_	_	_	_	_	_	_	_
-1	በ	በ	ADP	ADP	_	3	case	_	_
-2	እንዲህ	እንዲህ	DET	DET	_	3	det	_	_
-3	ሁኔታ	ሁኔታ	NOUN	NOUN	_	10	advmod	_	_
-4-6	የበሉት	_	_	_	_	_	_	_	_
-4	የ	የ	PART	RLP	_	5	mark	_	_
-5	በል	በል	VERB	VERB	_	7	acl	_	_
-6	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	5	nsubj	_	_
-6	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
-7	ምግብ	ምግብ	NOUN	NOUN	_	10	nsubj	_	_
-8-11	አያረካም	_	_	_	_	_	_	_	_
-8	ኣል	ኣል	PART	NEG	_	10	root	_	_
-9	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	expl	_	_
-10	ኣረካ	ኣረካ	VERB	VERB	_	0	root	_	_
-11	ም	ም	PART	NCM	_	10	discourse	_	_
-12	።	።	PUNCT	PUNCT	_	10	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x26-s12
 # text = በዚህ ድልድይ ላይ ሲያልፉ ቀረጥ መክፈል ያስፈልጋል ።
@@ -15150,7 +15131,7 @@
 4-6	ቆራረጠው	_	_	_	_	_	_	_	_
 4	ቆራረጥ	ቆራረጥ	VERB	VERB	_	0	root	_	_
 5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-7	።	።	PUNCT	PUNCT	_	4	punct	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x28-s13
 # text = ሹሮ ሠራርታ ምሳዋን በላች ።
