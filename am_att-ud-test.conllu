@@ -5986,32 +5986,6 @@
 5	ስ	ስ	INTJ	INTJ	_	4	discourse	_	_
 6	?	?	PUNCT	PUNCT	_	3	punct	_	_
 
-# sent_id = data_UD-Sleepwalking-x18-s12
-# text = እሱስ ቢሆን እንዴት ለገንዘብ ሲል ጓደኛውን ይክዳል ?
-1-2	እሱስ	_	_	_	_	_	_	_	_
-1	እሱ	እሱ	PRON	PRON	_	16	nsubj	_	_
-2	ስ	ስ	INTJ	INTJ	_	1	discourse	_	_
-3-5	ቢሆን	_	_	_	_	_	_	_	_
-3	ብ	ብ	SCONJ	SCONJ	_	5	mark	_	_
-4	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
-5	ሆን	ሆን	VERB	VERB	_	16	advcl	_	_
-6	እንዴት	እንዴት	PRON	PRON	_	16	advmod	_	_
-7-8	ለገንዘብ	_	_	_	_	_	_	_	_
-7	ለ	ለ	ADP	ADP	_	8	case	_	_
-8	ገንዘብ	ገንዘብ	NOUN	NOUN	_	11	obl	_	_
-9-11	ሲል	_	_	_	_	_	_	_	_
-9	ስ	ስ	SCONJ	SCONJ	_	11	mark	_	_
-10	ይ	ይ	PRON	SUBJC	_	11	expl	_	_
-11	ል	ል	VERB	VERB	_	16	advcl	_	_
-12-14	ጓደኛውን	_	_	_	_	_	_	_	_
-12	ጓደኛ	ጓደኛ	NOUN	NOUN	_	16	obj	_	_
-14	ን	ን	PART	ACC	_	12	case	_	_
-15-17	ይክዳል	_	_	_	_	_	_	_	_
-15	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	16	expl	_	_
-16	ክድ	ክድ	VERB	VERB	_	0	root	_	_
-17	ኣል	ኣል	AUX	AUX	_	16	aux	_	_
-18	?	?	PUNCT	PUNCT	_	16	punct	_	_
-
 # sent_id = data_UD-Sleepwalking-x18-s13
 # text = ትንሿ ቤትስ ብትሆን ለሁላችንም አትበቃም ?
 1-2	ትንሿ	_	_	_	_	_	_	_	_
