@@ -858,20 +858,6 @@
 14	ሄድ	ሄድ	VERB	VERB	_	4	conj	_	_
 15	?	?	PUNCT	PUNCT	_	6	punct	_	_
 
-# sent_id = data_UD-Sleepwalking-x01-s10
-# text = ነገ ይዘንባል ? ባልዘነበ ።
-1	ነገ	ነገ	ADV	ADV	_	3	advmod	_	_
-2-4	ይዘንባል	_	_	_	_	_	_	_	_
-2	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
-3	ዘንብ	ዘንብ	VERB	VERB	_	0	root	_	_
-4	ኣል	ኣል	AUX	AUX	_	3	aux	_	_
-5	?	?	PUNCT	PUNCT	_	3	punct	_	_
-6-8	ባልዘነበ	_	_	_	_	_	_	_	_
-6	ብ	ብ	SCONJ	SCONJ	_	8	mark	_	_
-7	ኣል	ኣል	PART	NEG	_	8	dep	_	_
-8	ዘነበ	ዘነበ	VERB	VERB	_	0	root	_	_
-9	።	።	PUNCT	PUNCT	_	8	punct	_	_
-
 # sent_id = data_UD-Sleepwalking-x01-s11
 # text = ካሳ አስቴርን ቡና እንድታፈላ አደረገ ።
 1	ካሳ	ካሳ	PROPN	PROPN	_	8	nsubj	_	_
@@ -902,25 +888,6 @@
 8	ኣል	ኣል	AUX	AUX	_	7	aux	_	_
 9	።	።	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = data_UD-Sleepwalking-x01-s13
-# text = ምን ያህል እንደተለወጠ ብታይ ይገርምሃል ።
-1	ምን	ምን	ADV	ADV	_	2	advmod	_	_
-2	ያህል	ያህል	NOUN	NOUN	_	4	advmod	_	_
-3-5	እንደተለወጠ	_	_	_	_	_	_	_	_
-3	እንደ	እንደ	SCONJ	SCONJ	_	4	mark	_	_
-4	ተለወጥ	ተለወጥ	VERB	VERB	Voice=Pass	8	ccomp	_	_
-5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	dep	_	_
-6-8	ብታይ	_	_	_	_	_	_	_	_
-6	ብ	ብ	ADP	ADP	_	8	mark	_	_
-7	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	8	nsubj	_	_
-8	ኣይ	ኣይ	VERB	VERB	_	10	advcl	_	_
-9-12	ይገርምሃል	_	_	_	_	_	_	_	_
-9	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
-10	ገርም	ገርም	VERB	VERB	_	0	root	_	_
-11	ህ	ህ	PRON	SUBJC	_	10	expl	_	_
-12	ኣል	ኣል	AUX	AUX	_	0	root	_	_
-13	።	።	PUNCT	PUNCT	_	10	punct	_	_
-
 # sent_id = data_UD-Sleepwalking-x01-s14
 # text = ይህ ሕመም ምነው በለቀቀኝ ።
 1	ይህ	ይህ	DET	DET	_	2	det	_	_
@@ -947,26 +914,6 @@
 9	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	_
 10	አል	አል	AUX	AUX	_	8	aux	_	_
 11	።	።	PUNCT	PUNCT	_	8	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x01-s16
-# text = ካሳ አስቴር ወደ ትምህርት ቤት እንደ ሄደች ምሳውን በላ ።
-1	ካሳ	ካሳ	PROPN	PROPN	_	12	nsubj	_	_
-2	አስቴር	አስቴር	PROPN	PROPN	_	7	nsubj	_	_
-3	ወደ	ወደ	ADP	ADP	_	5	case	_	_
-4	ትምህርት	ትምህርት	NOUN	NOUN	_	0	root	_	_
-5	ቤት	ቤት	NOUN	NOUN	_	7	obl	_	_
-6	እንደ	እንደ	SCONJ	SCONJ	_	7	mark	_	_
-7-8	ሄደች	_	_	_	_	_	_	_	_
-7	ሄድ	ሄድ	VERB	VERB	_	12	advcl	_	_
-8	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	7	expl	_	_
-9-11	ምሳውን	_	_	_	_	_	_	_	_
-9	ምሳ	ምሳ	NOUN	NOUN	_	12	obj	_	_
-10	ው	ው	DET	DET	_	9	det	_	_
-11	ን	ን	PART	ACC	_	9	case	_	_
-12-13	በላ	_	_	_	_	_	_	_	_
-12	በላ	በላ	VERB	VERB	_	0	root	_	_
-13	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	12	expl	_	_
-14	።	።	PUNCT	PUNCT	_	12	punct	_	_
 
 # sent_id = data_UD-Sleepwalking-x01-s17
 # text = ልክ ሆስፒታል ስንደርስ ተገላገለች ።
@@ -1113,69 +1060,6 @@
 7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
 8	ስ	ስ	INTJ	INTJ	_	6	discourse	_	_
 9	።	።	PUNCT	PUNCT	_	6	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x02-s6
-# text = አማርኛ ቢችል በተሻለ ነበር ።
-1	አማርኛ	አማርኛ	NOUN	NOUN	_	4	obj	_	_
-2-4	ቢችል	_	_	_	_	_	_	_	_
-2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	_
-3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-4	ችል	ችል	VERB	VERB	_	6	advcl	_	_
-5-7	በተሻለ	_	_	_	_	_	_	_	_
-5	በ	በ	ADP	ADP	_	6	mark	_	_
-6	ተሻል	ተሻል	VERB	VERB	Voice=Pass	0	root	_	_
-7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-8	ነበር	ነበር	AUX	AUX	_	6	aux	_	_
-9	።	።	PUNCT	PUNCT	_	6	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x02-s8
-# text = ገንዘብ ስላልነበረኝ መሄድ አልቻልኩም ።
-1	ገንዘብ	ገንዘብ	NOUN	NOUN	_	4	obj	_	_
-2-5	ስላልነበረኝ	_	_	_	_	_	_	_	_
-2	ስለ	ስለ	SCONJ	SCONJ	_	4	mark	_	_
-3	ኣል	ኣል	PART	NEG	_	4	dep	_	_
-4	ነበር	ነበር	VERB	VERB	_	8	advcl	_	_
-5	ኧኝ	ኧኝ	PRON	SUBJC	Number=Sing|Person=1	0	root	_	_
-6	መሄድ	መሄድ	NOUN	NOUN	VerbForm=Vnoun	8	obl	_	_
-7-10	አልቻልኩም	_	_	_	_	_	_	_	_
-7	ኣል	ኣል	PART	NEG	_	8	dep	_	_
-8	ቻል	ቻል	VERB	VERB	_	0	root	_	_
-9	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj	_	_
-10	ም	ም	PART	NCM	_	8	discourse	_	_
-11	።	።	PUNCT	PUNCT	_	8	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x02-s9
-# text = አስቴር ወደ ትምህርት ቤት የሄደች ይመስላል ።
-1	አስቴር	አስቴር	PROPN	PROPN	_	6	nsubj	_	_
-2	ወደ	ወደ	ADP	ADP	_	3	case	_	_
-3	ትምህርት	ትምህርት	NOUN	NOUN	_	0	root	_	_
-4	ቤት	ቤት	NOUN	NOUN	_	6	obl	_	_
-5-7	የሄደች	_	_	_	_	_	_	_	_
-5	የ	የ	SCONJ	SCONJ	_	6	mark	_	_
-6	ሄድ	ሄድ	VERB	VERB	_	9	ccomp	_	_
-7	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	6	expl	_	_
-8-10	ይመስላል	_	_	_	_	_	_	_	_
-8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	_
-9	መስል	መስል	VERB	VERB	_	0	root	_	_
-10	ኣል	ኣል	AUX	AUX	_	9	aux	_	_
-11	።	።	PUNCT	PUNCT	_	9	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x02-s10
-# text = ትምህርት ቤት በሄድኩ ቁጥር ኳስ እጫወታለሁ ።
-1	ትምህርት	ትምህርት	NOUN	NOUN	_	0	root	_	_
-2	ቤት	ቤት	NOUN	NOUN	_	4	obl	_	_
-3-5	በሄድኩ	_	_	_	_	_	_	_	_
-3	በ	በ	ADP	ADP	_	4	mark	_	_
-4	ሄድ	ሄድ	VERB	VERB	_	9	advcl	_	_
-5	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	_
-6	ቁጥር	ቁጥር	ADV	ADV	_	4	advmod	_	_
-7	ኳስ	ኳስ	NOUN	NOUN	_	9	obj	_	_
-8-11	እጫወታለሁ	_	_	_	_	_	_	_	_
-8	እ	እ	PRON	SUBJC	Number=Sing|Person=1	9	nsubj	_	_
-9	ጫወ	ጫወ	VERB	VERB	_	0	root	_	_
-10	ኣል	ኣል	AUX	AUX	_	0	root	_	_
-11	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	9	expl	_	_
-12	።	።	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = data_UD-Sleepwalking-x02-s11
 # text = አለቀሰ ።
@@ -1438,25 +1322,6 @@
 10	ሆን	ሆን	AUX	AUX	_	7	aux	_	_
 11	ኣል	ኣል	AUX	AUX	_	7	aux	_	_
 12	።	።	PUNCT	PUNCT	_	7	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x03-s17
-# text = ካሳ በፍፁም በመኪና ወደ ትምህርት ቤት አይሄድም ።
-1	ካሳ	ካሳ	PROPN	PROPN	_	11	nsubj	_	_
-2-3	በፍፁም	_	_	_	_	_	_	_	_
-2	በ	በ	ADP	ADP	_	3	case	_	_
-3	ፍፁም	ፍፁም	ADV	ADV	_	11	advmod	_	_
-4-5	በመኪና	_	_	_	_	_	_	_	_
-4	በ	በ	ADP	ADP	_	5	case	_	_
-5	መኪና	መኪና	NOUN	NOUN	_	7	obl	_	_
-6	ወደ	ወደ	ADP	ADP	_	7	case	_	_
-7	ትምህርት	ትምህርት	NOUN	NOUN	_	0	root	_	_
-8	ቤት	ቤት	NOUN	NOUN	_	11	obl	_	_
-9-12	አይሄድም	_	_	_	_	_	_	_	_
-9	ኣል	ኣል	PART	NEG	_	11	dep	_	_
-10	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	expl	_	_
-11	ሄድ	ሄድ	VERB	VERB	_	0	root	_	_
-12	ም	ም	PART	NCM	_	11	discourse	_	_
-13	።	።	PUNCT	PUNCT	_	11	punct	_	_
 
 # sent_id = data_UD-Sleepwalking-x03-s18
 # text = አልማዝ ካሳን ገደለች ።
@@ -1936,24 +1801,6 @@
 6	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	4	obj	_	_
 7	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
-# sent_id = data_UD-Sleepwalking-x05-s18
-# text = ካሳ እነደሚመጣ ለአልማዝ ነገራት ።
-1	ካሳ	ካሳ	PROPN	PROPN	_	9	nsubj	_	_
-2-6	እነደሚመጣ	_	_	_	_	_	_	_	_
-2	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	_
-3	እም	እም	PART	IRLP	_	5	mark	_	_
-4	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
-5	መጥ	መጥ	VERB	VERB	_	9	advcl	_	_
-6	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	5	expl	_	_
-7-8	ለአልማዝ	_	_	_	_	_	_	_	_
-7	ለ	ለ	ADP	ADP	_	8	case	_	_
-8	አልማዝ	አልማዝ	PROPN	PROPN	_	9	obl	_	_
-9-11	ነገራት	_	_	_	_	_	_	_	_
-9	ነገር	ነገር	VERB	VERB	_	0	root	_	_
-10	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-11	ኣት	ኣት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	0	root	_	_
-12	።	።	PUNCT	PUNCT	_	9	punct	_	_
-
 # sent_id = data_UD-Sleepwalking-x05-s19
 # text = ማን እንደሚመጣ ነገርኩዋት ።
 1	ማን	ማን	PRON	PRON	_	5	nmod	_	_
@@ -1994,33 +1841,6 @@
 1	አጎነበስ	አጎነበስ	VERB	VERB	Voice=Cau	0	root	_	_
 2	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
 3	።	።	PUNCT	PUNCT	_	1	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x06-s3
-# text = ካሳ ምክሬን አልቀበል አለ ።
-1	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	_
-2-4	ምክሬን	_	_	_	_	_	_	_	_
-2	ምክር	ምክር	NOUN	NOUN	_	6	obj	_	_
-3	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	2	nmod	_	_
-4	ን	ን	PART	ACC	_	2	case	_	_
-5-6	አልቀበል	_	_	_	_	_	_	_	_
-5	ኣል	ኣል	PART	NEG	_	6	dep	_	_
-6	ቀበል	ቀበል	VERB	VERB	_	0	root	_	_
-7-8	አለ	_	_	_	_	_	_	_	_
-7	ኣል	ኣል	VERB	VERB	_	6	compound	_	_
-8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-9	።	።	PUNCT	PUNCT	_	7	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x06-s4
-# text = ሁሉን አዘጋጅተናል ።
-1-2	ሁሉን	_	_	_	_	_	_	_	_
-1	ሁሉ	ሁሉ	ADV	ADV	_	3	advmod	_	_
-2	ን	ን	PART	ACC	_	1	case	_	_
-3-6	አዘጋጅተናል	_	_	_	_	_	_	_	_
-3	አዘጋጅ	አዘጋጅ	VERB	VERB	Voice=Cau	0	root	_	_
-4	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	0	root	_	_
-5	ኧን	ኧን	PRON	SUBJC	Number=Plur|Person=1	3	nsubj	_	_
-6	ኣል	ኣል	AUX	AUX	_	3	aux	_	_
-7	።	።	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = data_UD-Sleepwalking-x06-s5
 # text = የቤቴን ጣሪያ አነሳሁት ።
@@ -2194,29 +2014,6 @@
 8	ን	ን	AUX	AUX	_	7	cop	_	_
 9	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	7	expl	_	_
 10	።	።	PUNCT	PUNCT	_	7	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x06-s18
-# text = የምበላ ከሆነ የምበላው ስጋ ነው ።
-1-4	የምበላ	_	_	_	_	_	_	_	_
-1	የ	የ	PART	RLP	_	4	mark	_	_
-2	እም	እም	PART	IRLP	_	4	mark	_	_
-3	እ	እ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	_
-4	በላ	በላ	VERB	VERB	_	6	advcl	_	_
-5-7	ከሆነ	_	_	_	_	_	_	_	_
-5	ከ	ከ	ADP	ADP	_	6	mark	_	_
-6	ሆን	ሆን	VERB	VERB	_	11	advcl	_	_
-7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
-8-12	የምበላው	_	_	_	_	_	_	_	_
-8	የ	የ	PART	RLP	_	11	mark	_	_
-9	እም	እም	PART	IRLP	_	11	mark	_	_
-10	እ	እ	PRON	SUBJC	Number=Sing|Person=1	11	nsubj	_	_
-11	በላ	በላ	VERB	VERB	_	0	root	_	_
-12	ው	ው	PRON	OBJC	Number=Sing|Person=3	0	root	_	_
-13	ስጋ	ስጋ	NOUN	NOUN	_	11	obj	_	_
-14-15	ነው	_	_	_	_	_	_	_	_
-14	ን	ን	AUX	AUX	_	11	aux	_	_
-15	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	11	expl	_	_
-16	።	።	PUNCT	PUNCT	_	11	punct	_	_
 
 # sent_id = data_UD-Sleepwalking-x06-s19
 # text = ወደጎጃም የሄደችው በአውቶቢስ ነው ።
@@ -2674,24 +2471,6 @@
 10	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	7	expl	_	_
 11	።	።	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = data_UD-Sleepwalking-x08-s16
-# text = አስቴር በመጥረጊያው ቤቱን ጠረገችበት ።
-1	አስቴር	አስቴር	PROPN	PROPN	_	8	nsubj	_	_
-2-4	በመጥረጊያው	_	_	_	_	_	_	_	_
-2	በ	በ	ADP	ADP	_	3	case	_	_
-3	መጥረጊያ	መጥረጊያ	NOUN	NOUN	_	8	obl	_	_
-4	ው	ው	DET	DET	_	3	det	_	_
-5-7	ቤቱን	_	_	_	_	_	_	_	_
-5	ቤት	ቤት	NOUN	NOUN	_	8	obj	_	_
-6	ኡ	ኡ	DET	DET	_	5	det	_	_
-7	ን	ን	PART	ACC	_	5	case	_	_
-8-11	ጠረገችበት	_	_	_	_	_	_	_	_
-8	ጠረግ	ጠረግ	VERB	VERB	_	0	root	_	_
-9	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	8	expl	_	_
-10	በ	በ	ADP	ADP	_	8	case	_	_
-11	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-12	።	።	PUNCT	PUNCT	_	8	punct	_	_
-
 # sent_id = data_UD-Sleepwalking-x08-s17
 # text = መኖሪያ~ቤቱ ታሸገበት ።
 1-2	መኖሪያ~ቤቱ	_	_	_	_	_	_	_	_
@@ -2947,27 +2726,6 @@
 10	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	7	nsubj	_	_
 11	።	።	PUNCT	PUNCT	_	7	punct	_	_
 
-# sent_id = data_UD-Sleepwalking-x09-s17
-# text = ልጁቹን ጠርተህ እህሉን እጎተራ አስገባ ።
-1-3	ልጁቹን	_	_	_	_	_	_	_	_
-1	ልጁች	ልጁች	NOUN	NOUN	Number=Plur	4	obj	_	_
-2	ኡ	ኡ	DET	DET	_	1	det	_	_
-3	ን	ን	PART	ACC	_	1	case	_	_
-4-5	ጠርተህ	_	_	_	_	_	_	_	_
-4	ጠርተ	ጠርተ	VERB	VERB	_	11	xcomp	_	_
-5	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	4	nsubj	_	_
-6-8	እህሉን	_	_	_	_	_	_	_	_
-6	እህል	እህል	NOUN	NOUN	_	11	obj	_	_
-7	ኡ	ኡ	DET	DET	_	6	det	_	_
-8	ን	ን	PART	ACC	_	6	case	_	_
-9-10	እጎተራ	_	_	_	_	_	_	_	_
-9	እ	እ	ADP	ADP	_	11	obl	_	_
-10	ጎተራ	ጎተራ	NOUN	NOUN	_	0	root	_	_
-11-12	አስገባ	_	_	_	_	_	_	_	_
-11	አስገባ	አስገባ	VERB	VERB	Voice=Cau	0	root	_	_
-12	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
-13	።	።	PUNCT	PUNCT	_	11	punct	_	_
-
 # sent_id = data_UD-Sleepwalking-x09-s18
 # text = እህሉን አስሸከመ ።
 1-3	እህሉን	_	_	_	_	_	_	_	_
@@ -3001,16 +2759,6 @@
 4	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	2	expl	_	_
 5	።	።	PUNCT	PUNCT	_	2	punct	_	_
 
-# sent_id = data_UD-Sleepwalking-x10-s1
-# text = ተማሪ ቤት አስኬድኩት ።
-1	ተማሪ	ተማሪ	NOUN	NOUN	_	0	root	_	_
-2	ቤት	ቤት	NOUN	NOUN	_	3	ccomp	_	_
-3-5	አስኬድኩት	_	_	_	_	_	_	_	_
-3	አስኬድ	አስኬድ	VERB	VERB	Voice=Cau	0	root	_	_
-4	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	3	nsubj	_	_
-5	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	3	obj	_	_
-6	።	።	PUNCT	PUNCT	_	3	punct	_	_
-
 # sent_id = data_UD-Sleepwalking-x10-s2
 # text = ሸክሙን አሳርፉኝ ።
 1-3	ሸክሙን	_	_	_	_	_	_	_	_
@@ -3022,16 +2770,6 @@
 5	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	4	nsubj	_	_
 6	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	4	iobj	_	_
 7	።	።	PUNCT	PUNCT	_	4	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x10-s3
-# text = ሰው አያስወጣም ።
-1	ሰው	ሰው	NOUN	NOUN	_	4	nsubj	_	_
-2-5	አያስወጣም	_	_	_	_	_	_	_	_
-2	ኣል	ኣል	PART	NEG	_	4	dep	_	_
-3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	0	root	_	_
-4	ኣስወጣ	ኣስወጣ	VERB	VERB	Voice=Cau	0	root	_	_
-5	ም	ም	PART	NCM	_	4	mark	_	_
-6	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = data_UD-Sleepwalking-x10-s4
 # text = ሥራዬን ለምን አታሰራኝም ?
@@ -3070,17 +2808,6 @@
 12	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	10	expl	_	_
 13	ም	ም	PART	NCM	_	10	discourse	_	_
 14	።	።	PUNCT	PUNCT	_	10	punct	_	_
-
-# sent_id = data_UD-Sleepwalking-x10-s6
-# text = እህትና ወንድም ተደባደቡ ።
-1-2	እህትና	_	_	_	_	_	_	_	_
-1	እህት	እህት	NOUN	NOUN	_	0	root	_	_
-2	ና	ና	CCONJ	CCONJ	_	0	root	_	_
-3	ወንድም	ወንድም	NOUN	NOUN	_	4	nsubj	_	_
-4-5	ተደባደቡ	_	_	_	_	_	_	_	_
-4	ተደባደብ	ተደባደብ	VERB	VERB	Voice=Rcp	0	root	_	_
-5	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	4	expl	_	_
-6	።	።	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = data_UD-Sleepwalking-x10-s7
 # text = ወታደሮቹ ለገራቸው ተጋደሉ ።
