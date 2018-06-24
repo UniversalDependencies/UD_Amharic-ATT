@@ -26,7 +26,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Ephrem, Binyam; Arutie, Gashaw; Woldemariam, Tsegay
+Contributors: Ephrem, Binyam; Arutie, Gashaw; Woldemariam, Tsegay; Navarro Horñiacek, Juan Ignacio
 Contributing: elsewhere
 Contact: binephrem@gmail.com
 ===============================================================================
