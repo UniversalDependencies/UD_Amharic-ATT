@@ -7446,24 +7446,24 @@
 # sent_id = data_UD-third_apple_2-x02-s6
 # text = ገንዘብ ይስጠኝ እንጂ የፈለገውን እገዛለታለሁ ።
 1	ገንዘብ	ገንዘብ	NOUN	NOUN	_	3	obj	_	_
-2-5	ይስጠኝ	_	_	_	_	_	_	_	_
+2-4	ይስጠኝ	_	_	_	_	_	_	_	_
 2	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 3	ስጥ	ስጥ	VERB	VERB	_	13	conj	_	_
-5	ኝ	ኝ	PRON	OBJC	Gender=Neut|Number=Sing|Person=1	3	iobj	_	_
-6	እንጂ	እንጂ	INTJ	INTJ	_	3	cc	_	_
-7-11	የፈለገውን	_	_	_	_	_	_	_	_
-7	የ	የ	ADP	ADP	_	8	mark	_	_
-8	ፈለግ	ፈለግ	VERB	VERB	_	13	xcomp	_	_
-9	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
-10	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	_
-11	ን	ን	PART	ACC	_	0	root	_	_
-12-17	እገዛለታለሁ	_	_	_	_	_	_	_	_
-12	እ	እ	PRON	SUBJC	Number=Sing|Person=1	13	nsubj	_	_
-13	ገዝ	ገዝ	VERB	VERB	_	0	root	_	_
-14	ኣል	ኣል	AUX	AUX	_	13	aux	_	_
-15	ኧት	ኧት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	13	expl	_	_
-16	ኣል	ኣል	AUX	AUX	_	13	aux	_	_
-18	።	።	PUNCT	PUNCT	_	13	punct	_	_
+4	ኝ	ኝ	PRON	OBJC	Gender=Neut|Number=Sing|Person=1	3	iobj	_	_
+5	እንጂ	እንጂ	INTJ	INTJ	_	3	cc	_	_
+6-10	የፈለገውን	_	_	_	_	_	_	_	_
+6	የ	የ	ADP	ADP	_	7	mark	_	_
+7	ፈለግ	ፈለግ	VERB	VERB	_	13	xcomp	_	_
+8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
+9	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+10	ን	ን	PART	ACC	_	7	dep	_	_
+11-16	እገዛለታለሁ	_	_	_	_	_	_	_	_
+11	እ	እ	PRON	SUBJC	Number=Sing|Person=1	12	nsubj	_	_
+12	ገዝ	ገዝ	VERB	VERB	_	0	root	_	_
+13	ኣል	ኣል	AUX	AUX	_	12	aux	_	_
+14	ኧት	ኧት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	12	expl	_	_
+15	ኣል	ኣል	AUX	AUX	_	12	aux	_	_
+16	።	።	PUNCT	PUNCT	_	12	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x02-s7
 # text = ገነዘብ ብለምነው አባረረኝ ።
@@ -7475,7 +7475,7 @@
 5-7	አባረረኝ	_	_	_	_	_	_	_	_
 5	አባረር	አባረር	VERB	VERB	_	0	root	_	_
 6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-8	።	።	PUNCT	PUNCT	_	5	punct	_	_
+7	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x02-s8
 # text = አስቴር ወደ ጎጃም ስለ ሄደ አለቀሰች ።
@@ -7683,13 +7683,13 @@
 3-4	ነው	_	_	_	_	_	_	_	_
 3	ን	ን	AUX	AUX	_	8	advcl	_	_
 4	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	3	expl	_	_
-5-10	የምትደንሰው	_	_	_	_	_	_	_	_
+5-9	የምትደንሰው	_	_	_	_	_	_	_	_
 5	የ	የ	PART	RLP	_	8	mark	_	_
 6	እም	እም	PART	IRLP	_	8	mark	_	_
 7	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	8	nsubj	_	_
 8	ደንስ	ደንስ	VERB	VERB	_	0	root	_	_
-10	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	_
-11	?	?	PUNCT	PUNCT	_	8	punct	_	_
+9	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	_
+10	?	?	PUNCT	PUNCT	_	8	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x03-s5
 # text = ደነገጠች ።
@@ -8313,15 +8313,15 @@
 1	እንደ	እንደ	ADP	ADP	_	4	mark	_	_
 2	እም	እም	PART	IRLP	_	4	mark	_	_
 3	እ	እ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	_
-4	መጥ	መጥ	VERB	VERB	_	8	advcl	_	_
-6-7	ለአልማዝ	_	_	_	_	_	_	_	_
-6	ለ	ለ	ADP	ADP	_	7	case	_	_
-7	አልማዝ	አልማዝ	PROPN	PROPN	_	8	obl	_	_
-8-10	ነገርኩዋት	_	_	_	_	_	_	_	_
-8	ነገር	ነገር	VERB	VERB	_	0	root	_	_
-9	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj	_	_
-10	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	8	expl	_	_
-11	።	።	PUNCT	PUNCT	_	8	punct	_	_
+4	መጥ	መጥ	VERB	VERB	_	7	advcl	_	_
+5-6	ለአልማዝ	_	_	_	_	_	_	_	_
+5	ለ	ለ	ADP	ADP	_	6	case	_	_
+6	አልማዝ	አልማዝ	PROPN	PROPN	_	7	obl	_	_
+7-9	ነገርኩዋት	_	_	_	_	_	_	_	_
+7	ነገር	ነገር	VERB	VERB	_	0	root	_	_
+8	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	7	nsubj	_	_
+9	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	7	expl	_	_
+10	።	።	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x05-s19
 # text = ካሳ እንድትመጣ ጠየቃት ።
@@ -9217,26 +9217,6 @@
 3	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	1	expl	_	_
 4	።	።	PUNCT	PUNCT	_	1	punct	_	_
 
-# sent_id = data_UD-third_apple_2-x09-s9
-# text = የሰረቀውን ሰውዬ ዳኛው ፊት አቀረቡት ።
-1-5	የሰረቀውን	_	_	_	_	_	_	_	_
-1	የ	የ	PART	RLP	_	2	mark	_	_
-2	ሰረቅ	ሰረቅ	VERB	VERB	_	6	acl	_	_
-3	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
-4	ው	ው	DET	DET	_	6	det	_	_
-5	ን	ን	PART	ACC	_	6	case	_	_
-6-7	ሰውዬ	_	_	_	_	_	_	_	_
-6	ሰው	ሰው	NOUN	NOUN	_	11	obj	_	_
-8-9	ዳኛው	_	_	_	_	_	_	_	_
-8	ዳኛ	ዳኛ	NOUN	NOUN	_	11	advmod	_	_
-9	ው	ው	DET	DET	_	8	det	_	_
-10	ፊት	ፊት	ADP	ADP	_	8	case	_	_
-11-13	አቀረቡት	_	_	_	_	_	_	_	_
-11	አቀረብ	አቀረብ	VERB	VERB	Voice=Cau	0	root	_	_
-12	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	11	nsubj	_	_
-13	ት	ት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	11	expl	_	_
-14	።	።	PUNCT	PUNCT	_	11	punct	_	_
-
 # sent_id = data_UD-third_apple_2-x09-s10
 # text = ልብሱን አስቆረጠ ።
 1-3	ልብሱን	_	_	_	_	_	_	_	_
@@ -9406,26 +9386,26 @@
 1	ጥርስ	ጥርስ	NOUN	NOUN	_	6	nsubj	_	_
 2	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	1	nmod	_	_
 3	ቆሎ	ቆሎ	NOUN	NOUN	_	6	obj	_	_
-4-9	አያስበላኝም	_	_	_	_	_	_	_	_
+4-8	አያስበላኝም	_	_	_	_	_	_	_	_
 4	ኣል	ኣል	PART	NEG	_	5	root	_	_
 5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
 6	ኣስበላ	ኣስበላ	VERB	VERB	Voice=Cau	0	root	_	_
-8	ኝ	ኝ	PRON	OBJC	Gender=Neut|Number=Sing|Person=1	6	expl	_	_
-9	ም	ም	PART	NCM	_	6	discourse	_	_
-10	።	።	PUNCT	PUNCT	_	6	punct	_	_
+7	ኝ	ኝ	PRON	OBJC	Gender=Neut|Number=Sing|Person=1	6	expl	_	_
+8	ም	ም	PART	NCM	_	6	discourse	_	_
+9	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x10-s4
 # text = ጩኸቱ አያስተኛኝም ።
 1-2	ጩኸቱ	_	_	_	_	_	_	_	_
 1	ጩኸት	ጩኸት	NOUN	NOUN	_	5	nsubj	_	_
 2	ኡ	ኡ	DET	DET	_	1	det	_	_
-3-8	አያስተኛኝም	_	_	_	_	_	_	_	_
+3-7	አያስተኛኝም	_	_	_	_	_	_	_	_
 3	ኣል	ኣል	PART	NEG	_	5	root	_	_
 4	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
 5	ኣስተኛ	ኣስተኛ	VERB	VERB	Voice=Cau	0	root	_	_
-7	ኝ	ኝ	PRON	OBJC	Gender=Neut|Number=Sing|Person=1	5	expl	_	_
-8	ም	ም	PART	NCM	_	5	discourse	_	_
-9	።	።	PUNCT	PUNCT	_	5	punct	_	_
+6	ኝ	ኝ	PRON	OBJC	Gender=Neut|Number=Sing|Person=1	5	expl	_	_
+7	ም	ም	PART	NCM	_	5	discourse	_	_
+8	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = data_UD-third_apple_2-x10-s5
 # text = አንበሳዎቹ ተገዳደሉ ።
