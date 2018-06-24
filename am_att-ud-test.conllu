@@ -6758,7 +6758,7 @@
 
 # sent_id = data_UD-third_apple_2-x00-s3
 # text = የገዛ ልብሴን የመስፋት ችሎታ ምነው በኖረኝ ።
-1	የገዝኣ	የገዝኣ	ADJ	ADJ	_	2	amod	_	_
+1	የገዛ	የገዝኣ	ADJ	ADJ	_	2	amod	_	_
 2-4	ልብሴን	_	_	_	_	_	_	_	_
 2	ልብስ	ልብስ	NOUN	NOUN	_	6	obj	_	_
 3	ኤ	ኤ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	2	nmod	_	_
@@ -7014,7 +7014,7 @@
 9	ተሻል	ተሻል	VERB	VERB	_	0	root	_	_
 10	ኣል	ኣል	AUX	AUX	_	9	aux	_	_
 11	፤	፤	PUNCT	PUNCT	_	9	punct	_	_
-12	ኣልዚያ	ኣልዚያ	ADV	ADV	_	14	advmod	_	_
+12	አለዚያ	ኣልዚያ	ADV	ADV	_	14	advmod	_	_
 13-16	ትጠፋለህ	_	_	_	_	_	_	_	_
 13	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	14	nsubj	_	_
 14	ጠፍ	ጠፍ	VERB	VERB	_	0	root	_	_
@@ -7684,7 +7684,7 @@
 5	በ	በ	ADP	ADP	_	6	case	_	_
 6	መኪና	መኪና	NOUN	NOUN	_	9	obl	_	_
 7	ወደ	ወደ	ADP	ADP	_	8	case	_	_
-8	ንደር	ንደር	PROPN	PROPN	_	9	obl	_	_
+8	ጎንደር	ንደር	PROPN	PROPN	_	9	obl	_	_
 9-10	ሄደ	_	_	_	_	_	_	_	_
 9	ሄድ	ሄድ	VERB	VERB	_	0	root	_	_
 10	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	_
