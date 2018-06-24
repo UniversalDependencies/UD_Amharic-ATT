@@ -2839,7 +2839,6 @@
 7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
 8	።	።	PUNCT	PUNCT	_	6	punct	_	_
 
-
 # sent_id = data_UD-Sleepwalking-x08-s1
 # text = ሰዎቹ ዕንጨት ሰበሰቡ ።
 1-2	ሰዎቹ	_	_	_	_	_	_	_	_
@@ -3005,11 +3004,11 @@
 3-4	ለአስቴር	_	_	_	_	_	_	_	_
 3	ለ	ለ	ADP	ADP	_	4	case	_	_
 4	አስቴር	አስቴር	PROPN	PROPN	_	5	obl	_	_
-5-8	ፈረዱላት	_	_	_	_	_	_	_	_
+5-7	ፈረዱላት	_	_	_	_	_	_	_	_
 5	ፈረድ	ፈረድ	VERB	VERB	_	0	root	_	_
 6	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	5	expl	_	_
-8	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	5	expl	_	_
-9	።	።	PUNCT	PUNCT	_	5	punct	_	_
+7	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	5	expl	_	_
+8	።	።	PUNCT	PUNCT	_	5	punct	_	_
 
 # sent_id = data_UD-Sleepwalking-x08-s15
 # text = ዮሐንስ መጵሐፉን ለአስቴር መለሰላት ።
