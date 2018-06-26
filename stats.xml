@@ -5,102 +5,93 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>1309</sentences><tokens>11896</tokens><words>11896</words><fused>0</fused></total>
+    <total><sentences>1074</sentences><tokens>5245</tokens><words>10010</words><fused>2672</fused></total>
   </size>
-  <lemmas unique="0" /><!--  -->
-  <forms unique="1485" /><!-- ።, ኡ, ን, ኧ, ኣል, ይ, ው, የ, ት, ም, በ, ኧው, ብ, ?, ኧች -->
-  <fusions unique="0" /><!--  -->
+  <lemmas unique="1473" /><!-- ።, ን, ኡ, ኧ, ኣል, ይ, ው, የ, ት, ም, በ, ኧው, ብ, ኧች, ? -->
+  <forms unique="1473" /><!-- ።, ን, ኡ, ኧ, ኣል, ይ, ው, የ, ት, ም, በ, ኧው, ብ, ኧች, ? -->
+  <fusions unique="1857" /><!-- ነው, ልጁ, ሄደ, አለ, ልጆቹ, ብሎ, ልብሱን, ልጁን, መጽሐፉን, መጣ, ቢሆን, ናት, አስተማሪው, እንደሆነ, ሲል -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="24">
-    <tag name="ACC">474</tag><!-- _ -->
-    <tag name="ADJ">118</tag><!-- _ -->
-    <tag name="ADP">934</tag><!-- _ -->
-    <tag name="ADV">92</tag><!-- _ -->
-    <tag name="AUX">523</tag><!-- _ -->
-    <tag name="CCONJ">156</tag><!-- _ -->
-    <tag name="DET">685</tag><!-- _ -->
-    <tag name="INTJ">66</tag><!-- _ -->
-    <tag name="IRLP">57</tag><!-- _ -->
-    <tag name="Multiword-token">2</tag><!-- _ -->
-    <tag name="NCM">120</tag><!-- _ -->
-    <tag name="NEG">229</tag><!-- _ -->
-    <tag name="NOUN">1595</tag><!-- _ -->
-    <tag name="NUM">43</tag><!-- _ -->
-    <tag name="OBJC">416</tag><!-- _ -->
-    <tag name="PART">1</tag><!-- _ -->
-    <tag name="POSM">467</tag><!-- _ -->
-    <tag name="PRON">184</tag><!-- _ -->
-    <tag name="PROPN">250</tag><!-- _ -->
-    <tag name="PUNCT">1322</tag><!-- _ -->
-    <tag name="RLP">128</tag><!-- _ -->
-    <tag name="SCONJ">209</tag><!-- _ -->
-    <tag name="SUBJC">2247</tag><!-- _ -->
-    <tag name="VERB">1578</tag><!-- _ -->
+  <tags unique="15">
+    <tag name="ADJ">116</tag><!-- ብዙ, ጥሩ, ጎበዝ, ቆንጆ, ትልቅ, ትንሽ, ወፍራም, ሁሉ, መልካም, ምንም -->
+    <tag name="ADP">681</tag><!-- በ, ለ, የ, ከ, ወደ, ብ, ል, ላይ, እንደ, ጋር -->
+    <tag name="ADV">93</tag><!-- ነገ, በጣም, ትናንት, ዛሬ, ብዙ, እንዲሁ, ይልቅ, ሁሉ, ምን, ቶሎ -->
+    <tag name="AUX">419</tag><!-- ኣል, ን, ነበር, ሆን, ችል, ኖር, አይደል, እየ, ማለት, ብል -->
+    <tag name="CCONJ">99</tag><!-- ም, ና, ስ, ወይስ, ግን, ሳ, እንጂ, ደግሞ -->
+    <tag name="DET">487</tag><!-- ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, ያ, እየ -->
+    <tag name="INTJ">67</tag><!-- ስ, ኣ, እንዴ, ምነው, ማ, ሳ, ወይ, እንደሆን, እንጂ, እኮ -->
+    <tag name="NOUN">1486</tag><!-- ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና -->
+    <tag name="NUM">42</tag><!-- አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ -->
+    <tag name="PART">875</tag><!-- ን, ኣል, ም, የ, እም, አል, ኣለ, በ, ያለ, አለ -->
+    <tag name="PRON">2549</tag><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
+    <tag name="PROPN">236</tag><!-- ካሳ, አስቴር, አልማዝ, ጎጃም, ከበደ, በቀለ, ተስፋዬ, ዓለሙ, ጎንደር, ኃይሉ -->
+    <tag name="PUNCT">1093</tag><!-- ።, ?, !, ፣, /, ፤ -->
+    <tag name="SCONJ">214</tag><!-- ብ, ስ, እንደ, ል, ከ, ስለ, በ, እንድ, ም, እስከ -->
+    <tag name="VERB">1553</tag><!-- ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="24">
+  <feats unique="26">
     <feat name="Case" value="Abl" upos="ADP">2</feat><!-- ለ, ከ -->
     <feat name="Case" value="Ben" upos="ADP">37</feat><!-- ል, ለ, በ, ብ -->
     <feat name="Case" value="Ins" upos="ADP">8</feat><!-- በ -->
     <feat name="Case" value="Loc" upos="ADP">27</feat><!-- በ, ከ, ወደ, እ, ላይ, እሰከ -->
-    <feat name="Case" value="Mal" upos="ADP">39</feat><!-- ብ, በ, ል -->
-    <feat name="Gender" value="Com" upos="OBJC,SUBJC">15</feat><!-- ኝ, ኧሁ, ሁ, ን, ኤ, እ -->
-    <feat name="Gender" value="Fem" upos="DET,OBJC,POSM,SUBJC">510</feat><!-- ት, ኧች, ኣት, ኣ, ዋ, ሽ, ኢ, ኣች, ኧሽ, ኡ -->
-    <feat name="Gender" value="Masc" upos="DET,OBJC,POSM,SUBJC,VERB">1445</feat><!-- ኧ, ይ, ኦ, ት, ው, ኡ, ህ, ኧት, ኧህ, ክ -->
-    <feat name="Gender" value="Neut" upos="OBJC,SUBJC">65</feat><!-- ኝ, ኧሁ, ሁ, ኣቸው, ን, ኡ, ኣሁ, ኧ, ኧ_ኝ, ኧኝ -->
+    <feat name="Case" value="Mal" upos="ADP">40</feat><!-- ብ, በ, ል -->
+    <feat name="Gender" value="Com" upos="PRON">15</feat><!-- ኝ, ኧሁ, ሁ, ን, ኤ, እ -->
+    <feat name="Gender" value="Fem" upos="DET,PRON">418</feat><!-- ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, ኧሽ, ኡ -->
+    <feat name="Gender" value="Masc" upos="DET,PRON,VERB">1234</feat><!-- ኧ, ይ, ት, ኦ, ው, ኡ, ህ, ኧት, ኧህ, ክ -->
+    <feat name="Gender" value="Neut" upos="PRON">62</feat><!-- ኝ, ኧሁ, ሁ, ኣቸው, ን, ኡ, ኣሁ, ኧ, ኧኝ, ዋ -->
     <feat name="Mood" value="Jus" upos="VERB">17</feat><!-- ሂድ, ብላ, ላክ, መጣ, ሰጥ, ስበር, ተቀመጥ, አሳይ, አውጣ, ውረድ -->
-    <feat name="Number" value="Dual" upos="SUBJC">1</feat><!-- ኢ -->
-    <feat name="Number" value="Plur" upos="ADJ,NOUN,NUM,OBJC,POSM,PRON,SUBJC">408</feat><!-- ኡ, ኣቸው, ኧን, ኣችን, እን, ን, ልጆች, ኣችሁ, ተማሪዎች, ወታደሮች -->
-    <feat name="Number" value="Sing" upos="DET,OBJC,POSM,SUBJC,VERB">2529</feat><!-- ኧ, ይ, ት, ኧው, ኧች, ኦ, ኣት, ው, ኝ, ኡ -->
-    <feat name="Person" value="1" upos="OBJC,POSM,SUBJC">439</feat><!-- ኝ, እ, ኤ, ሁ, ኩ, ኧሁ, ኧኝ, ኧን, እን, ን -->
-    <feat name="Person" value="2" upos="OBJC,POSM,SUBJC">142</feat><!-- ህ, ኧህ, ክ, ሽ, ት, ኢ, ኣችን, ኣችሁ, ኧሽ, ኧ -->
-    <feat name="Person" value="3" upos="DET,OBJC,POSM,SUBJC,VERB">2296</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ኣት, ው, ኣ -->
-    <feat name="Poss" value="" upos="POSM">211</feat><!-- ኡ, ዋ, ኤ, ህ, ኣቸው, ኣችን, ዬ, ው, ሽ, ኣችሁ -->
+    <feat name="Number" value="Dual" upos="PRON">1</feat><!-- ኢ -->
+    <feat name="Number" value="Plur" upos="ADJ,NOUN,NUM,PRON">287</feat><!-- ኡ, ኣቸው, ኣችን, ን, ኧን, እን, ልጆች, ኣችሁ, ተማሪዎች, ሰዎች -->
+    <feat name="Number" value="Sing" upos="DET,PRON,VERB">2151</feat><!-- ኧ, ይ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት, ኡ -->
+    <feat name="NumType" value="Card" upos="NUM">42</feat><!-- አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ -->
+    <feat name="Person" value="1" upos="PRON">401</feat><!-- ኝ, ኤ, እ, ሁ, ኧሁ, ኩ, ኧኝ, ን, ኧን, እን -->
+    <feat name="Person" value="2" upos="PRON">133</feat><!-- ህ, ኧህ, ት, ሽ, ኢ, ክ, ኣችን, ኧ, ኣችሁ, ኧሽ -->
+    <feat name="Person" value="3" upos="DET,PRON,VERB">1844</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኣት, ኣ -->
+    <feat name="Polarity" value="Neg" upos="PART">197</feat><!-- ኣል, አል, ኣለ, ያለ, አለ, ኣይ, ም, አይ -->
+    <feat name="Poss" value="Yes" upos="PRON">205</feat><!-- ኡ, ዋ, ኤ, ህ, ኣችን, ኣቸው, ው, ዬ, ሽ, ኣችሁ -->
     <feat name="Tense" value="Past" upos="AUX">1</feat><!-- ነበር -->
     <feat name="VerbForm" value="Conv" upos="VERB">51</feat><!-- ገዝት, ብል, መጥት, በልት, ከፍት, ዘንብ, ይዝ, ሄድ, ሠራርት, ረጥብ -->
-    <feat name="VerbForm" value="Vnoun" upos="NOUN,VERB">170</feat><!-- መሄድ, መምጣት, መሆን, መሥራት, መግደል, መክፈል, ማለፍ, መስራት, መቆየት, መታመም -->
+    <feat name="VerbForm" value="Vnoun" upos="NOUN,VERB">166</feat><!-- መሄድ, መምጣት, መሆን, መሥራት, መግደል, መክፈል, ማለፍ, መስራት, መቆየት, መታመም -->
     <feat name="Voice" value="Cau" upos="VERB">92</feat><!-- አስወሰድ, አስገደል, አስያዝ, አሳርፍ, አሳጠብ, አስመሽ, አስረዘም, አስሸለም, አስሸከም, አስቀመስ -->
-    <feat name="Voice" value="Pass" upos="VERB">139</feat><!-- ተሻል, ተሰረቅ, ተቀመጥ, ተደሰት, ተለወጥ, ተመለስ, ተመታ, ተመኝ, ተሸለም, ተገነዘብ -->
+    <feat name="Voice" value="Pass" upos="VERB">137</feat><!-- ተሻል, ተሰረቅ, ተቀመጥ, ተደሰት, ተለወጥ, ተመለስ, ተመኝ, ተሸለም, ተበደር, ተገነዘብ -->
     <feat name="Voice" value="Rcp" upos="VERB">11</feat><!-- አጋደል, ሰባበር, ተለዋወጥ, ተነጋገር, ተናነቅ, ተንከባከብ, ተወራውር, ተደባደብ, ተገዳደል, ተጋደል -->
     <feat name="Voice" value="Trans" upos="VERB">12</feat><!-- አለቀስ, አመጥ, አነሥ, አነበብ, አደናቀፍ, አገነፍ, አገኘ, አግዝ, አጠብ -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="36">
-    <dep name="_">3000</dep>
-    <dep name="acl">82</dep>
-    <dep name="advcl">228</dep>
-    <dep name="advmod">246</dep>
-    <dep name="amod">61</dep>
-    <dep name="aux">323</dep>
-    <dep name="case">919</dep>
-    <dep name="cc">94</dep>
-    <dep name="ccomp">94</dep>
+  <deps unique="34">
+    <dep name="acl">88</dep>
+    <dep name="advcl">267</dep>
+    <dep name="advmod">453</dep>
+    <dep name="amod">62</dep>
+    <dep name="aux">319</dep>
+    <dep name="case">912</dep>
+    <dep name="cc">88</dep>
+    <dep name="ccomp">114</dep>
     <dep name="clf">1</dep>
-    <dep name="compound">41</dep>
-    <dep name="compound_svc">35</dep>
-    <dep name="conj">77</dep>
-    <dep name="cop">102</dep>
+    <dep name="compound">45</dep>
+    <dep name="compound:svc">35</dep>
+    <dep name="conj">48</dep>
+    <dep name="cop">101</dep>
     <dep name="csubj">40</dep>
-    <dep name="csubjpass">1</dep>
-    <dep name="dep">1</dep>
-    <dep name="det">474</dep>
-    <dep name="discourse">206</dep>
-    <dep name="dobj">47</dep>
-    <dep name="expl">1137</dep>
-    <dep name="fixed">7</dep>
-    <dep name="flat">7</dep>
-    <dep name="goeswith">2</dep>
+    <dep name="csubj:pass">1</dep>
+    <dep name="dep">2</dep>
+    <dep name="det">477</dep>
+    <dep name="discourse">209</dep>
+    <dep name="expl">1147</dep>
+    <dep name="fixed">3</dep>
+    <dep name="flat">4</dep>
+    <dep name="goeswith">13</dep>
     <dep name="iobj">30</dep>
-    <dep name="mark">543</dep>
-    <dep name="mwe">2</dep>
-    <dep name="neg">194</dep>
-    <dep name="nmod">298</dep>
-    <dep name="nsubj">1441</dep>
-    <dep name="nsubj_pass">98</dep>
-    <dep name="nummod">39</dep>
-    <dep name="obj">525</dep>
-    <dep name="obl">258</dep>
-    <dep name="punct">1107</dep>
+    <dep name="mark">536</dep>
+    <dep name="nmod">292</dep>
+    <dep name="nsubj">1437</dep>
+    <dep name="nsubj:pass">93</dep>
+    <dep name="nummod">38</dep>
+    <dep name="obj">572</dep>
+    <dep name="obl">275</dep>
+    <dep name="parataxis">6</dep>
+    <dep name="punct">1092</dep>
+    <dep name="root">1074</dep>
     <dep name="xcomp">136</dep>
   </deps>
 </treebank>
