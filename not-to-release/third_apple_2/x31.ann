@@ -1,0 +1,133 @@
+T1	SUBJC 124 125	ኧ
+A1	Person T1 3
+A2	Gender T1 Masc
+A3	Number T1 Sing
+T2	SUBJC 234 235	ኧ
+A4	Person T2 3
+A5	Gender T2 Masc
+A6	Number T2 Sing
+T4	OBJC 40 42	ኧህ
+A9	Person T4 2
+A10	Gender T4 Masc
+A11	Number T4 Sing
+T5	SUBJC 82 83	ኦ
+A12	Person T5 3
+A13	Gender T5 Masc
+A14	Number T5 Sing
+T6	SUBJC 176 177	ኦ
+A15	Person T6 3
+A16	Gender T6 Masc
+A17	Number T6 Sing
+T7	SUBJC 222 224	ኧው
+A18	Person T7 3
+A19	Number T7 Sing
+T8	SUBJC 31 32	ት
+A20	Person T8 3
+A21	Number T8 Sing
+A22	Gender T8 Fem
+T9	OBJC 180 181	ት
+A23	Person T9 3
+A24	Number T9 Sing
+A25	Gender T9 Masc
+T10	SUBJC 154 155	ይ
+A26	Person T10 3
+A27	Number T10 Sing
+A28	Gender T10 Masc
+T11	SUBJC 188 189	ይ
+A29	Person T11 3
+A30	Number T11 Sing
+A31	Gender T11 Masc
+T12	NCM 236 237	ም
+T14	AUX 37 39	ኣል
+T15	ACC 63 64	ን
+T16	PRON 203 206	እርሱ
+T17	NOUN 56 60	ልጅነት
+T18	PUNCT 126 127	።
+T19	PUNCT 43 44	?
+T20	PUNCT 159 160	?
+T21	PUNCT 193 194	?
+T22	PUNCT 238 239	?
+T23	RLP 54 55	የ
+T25	ADP 3 6	እንደ
+T26	ADP 102 105	እንደ
+T27	ADP 178 179	በ
+T28	ADP 19 20	ብ
+T29	POSM 61 62	ኡ
+T30	PRON 0 2	ምን
+T31	VERB 15 18	ደረሰ
+R1	case Arg1:T31 Arg2:T28	
+T32	OBJC 21 22	ኝ
+A32	Gender T32 Neut
+A33	Number T32 Sing
+A34	Person T32 1
+R2	expl Arg1:T31 Arg2:T32	
+T33	VERB 33 36	ኣውቅ
+R3	nsubj Arg1:T33 Arg2:T8	
+R4	aux Arg1:T33 Arg2:T14	
+R5	expl Arg1:T33 Arg2:T4	
+R6	punct Arg1:T33 Arg2:T19	
+R7	mark Arg1:T31 Arg2:T25	
+R8	nsubj Arg1:T31 Arg2:T30	
+R9	mark Arg1:T17 Arg2:T23	
+T3	NOUN 65 67	ጊዜ
+T13	VERB 76 81	አስታውስ
+R12	nsubj Arg1:T13 Arg2:T5	
+R13	acl Arg1:T3 Arg2:T17	
+R14	obj Arg1:T5 Arg2:T3	
+T34	NOUN 88 92	ዕድለኛ
+T35	ADV 84 87	ምንኛ
+T36	VERB 106 109	ነበር
+R15	mark Arg1:T36 Arg2:T26	
+R16	advmod Arg1:T34 Arg2:T35	
+R17	xcomp Arg1:T36 Arg2:T34	
+T37	VERB 118 123	ተገነዘብ
+R18	nsubj Arg1:T37 Arg2:T1	
+R19	punct Arg1:T37 Arg2:T18	
+R20	xcomp Arg1:T37 Arg2:T36	
+R21	conj Arg1:T37 Arg2:T13	
+T38	PRON 131 133	ማን
+T39	ADV 128 130	ዛሬ
+T40	VERB 143 147	ኣሸንፍ
+R23	nsubj Arg1:T40 Arg2:T38	
+R24	obl Arg1:T40 Arg2:T39	
+T41	VERB 156 158	ሆን
+R25	nsubj Arg1:T41 Arg2:T10	
+R26	punct Arg1:T41 Arg2:T20	
+R27	ccomp Arg1:T41 Arg2:T40	
+T42	PRON 161 163	ምን
+T43	VERB 172 175	ደርስ
+R28	nsubj Arg1:T43 Arg2:T6	
+R29	mark Arg1:T43 Arg2:T27	
+R30	nsubj Arg1:T43 Arg2:T9	
+T44	VERB 190 192	ሆን
+R31	nsubj Arg1:T44 Arg2:T11	
+R32	punct Arg1:T44 Arg2:T21	
+R33	xcomp Arg1:T44 Arg2:T43	
+R34	obj Arg1:T43 Arg2:T42	
+T45	ACC 207 208	ን
+T46	INTJ 209 210	ማ
+R35	case Arg1:T16 Arg2:T45	
+R36	discourse Arg1:T16 Arg2:T46	
+T47	VERB 218 221	አውቅ
+R37	nsubj Arg1:T47 Arg2:T7	
+T48	VERB 231 233	የል
+R38	nsubj Arg1:T48 Arg2:T2	
+R39	discourse Arg1:T48 Arg2:T12	
+R40	punct Arg1:T48 Arg2:T22	
+R41	obj Arg1:T47 Arg2:T16	
+R42	conj Arg1:T48 Arg2:T47	
+R43	ccomp Arg1:T33 Arg2:T31	
+A7	Voice T37 Pass
+T24	SUBJC 141 142	ይ
+A8	Gender T24 Masc
+A35	Number T24 Sing
+A36	Person T24 3
+R22	expl Arg1:T40 Arg2:T24	
+A37	Gender T29 Masc
+A38	Number T29 Sing
+A39	Person T29 3
+A40	Poss T29
+R10	nmod Arg1:T3 Arg2:T29	
+R11	case Arg1:T3 Arg2:T15	
+A41	Case T27 Mal
+A42	Case T28 Mal

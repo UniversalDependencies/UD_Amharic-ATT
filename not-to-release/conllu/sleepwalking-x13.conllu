@@ -1,0 +1,204 @@
+# sent_id = sleepwalking-x13-s1
+# text = አስቴር [ወፈረች] ወፈር_ኧች ።
+1	አስቴር	_	PROPN	_	_	2	nsubj	_	Offset=0-4
+2	ወፈር	_	VERB	_	_	0	_	_	Offset=12-15
+3	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	2	expl	_	Offset=16-18
+4	።	_	PUNCT	_	_	2	punct	_	Offset=19-20
+
+# sent_id = sleepwalking-x13-s2
+# text = አስቴር ወፍራም [ሆነች] ሆን_ኧች ።
+1	አስቴር	_	PROPN	_	_	2	nsubj	_	Offset=21-25
+2	ወፍራም	_	ADJ	_	_	0	_	_	Offset=26-30
+3	ሆን	_	AUX	_	_	2	cop	_	Offset=37-39
+4	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	2	expl	_	Offset=40-42
+5	።	_	PUNCT	_	_	2	punct	_	Offset=43-44
+
+# sent_id = sleepwalking-x13-s3
+# text = አስቴር [ተጨነቀች] ተጨነቅ_ኧች ።
+1	አስቴር	_	PROPN	_	_	2	nsubj_pass	_	Offset=45-49
+2	ተጨነቅ	_	VERB	_	Voice=Pass	0	_	_	Offset=58-62
+3	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	2	expl	_	Offset=63-65
+4	።	_	PUNCT	_	_	2	punct	_	Offset=66-67
+
+# sent_id = sleepwalking-x13-s4
+# text = ካሳ ወደ ገበያ [ሄደ] ሄድ_ኧ ።
+1	ካሳ	_	PROPN	_	_	4	nsubj	_	Offset=68-70
+2	ወደ	_	ADP	_	_	3	case	_	Offset=71-73
+3	ገበያ	_	NOUN	_	_	4	obl	_	Offset=74-77
+4	ሄድ	_	VERB	_	_	0	_	_	Offset=83-85
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=86-87
+6	።	_	PUNCT	_	_	4	punct	_	Offset=88-89
+
+# sent_id = sleepwalking-x13-s5
+# text = [ልጆቹ] ልጆች_ኡ ዛፍ ላይ [ወጡ] ወጥ_ኡ ።
+1	ልጆች	_	NOUN	_	_	5	nsubj	_	Offset=96-99
+2	ኡ	_	DET	_	_	1	det	_	Offset=100-101
+3	ዛፍ	_	NOUN	_	_	5	obl	_	Offset=102-104
+4	ላይ	_	ADP	_	_	3	case	_	Offset=105-107
+5	ወጥ	_	VERB	_	_	0	_	_	Offset=113-115
+6	ኡ	_	SUBJC	_	Number=Plur|Person=3	5	expl	_	Offset=116-117
+7	።	_	PUNCT	_	_	5	punct	_	Offset=118-119
+
+# sent_id = sleepwalking-x13-s6
+# text = አስቴር [አልጋው] አልጋ_ው ላይ [ወደቀች] ወደቅ_ኧች ።
+1	አስቴር	_	PROPN	_	_	5	nsubj	_	Offset=120-124
+2	አልጋ	_	NOUN	_	_	5	obl	_	Offset=132-135
+3	ው	_	DET	_	_	2	det	_	Offset=136-137
+4	ላይ	_	ADP	_	_	2	case	_	Offset=138-140
+5	ወደቅ	_	VERB	_	_	0	_	_	Offset=148-151
+6	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	5	expl	_	Offset=152-154
+7	።	_	PUNCT	_	_	5	punct	_	Offset=155-156
+
+# sent_id = sleepwalking-x13-s7
+# text = ካሳ [ከመቀመጫው] ከ_መቀመጫ_ው [ተነሳ] ተነሳ_ኧ ።
+1	ካሳ	_	PROPN	_	_	5	nsubj_pass	_	Offset=157-159
+2	ከ	_	ADP	_	_	3	case	_	Offset=169-170
+3	መቀመጫ	_	NOUN	_	_	5	obl	_	Offset=171-175
+4	ው	_	DET	_	_	3	det	_	Offset=176-177
+5	ተነሳ	_	VERB	_	Voice=Pass	0	_	_	Offset=184-187
+6	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=188-189
+7	።	_	PUNCT	_	_	5	punct	_	Offset=190-191
+
+# sent_id = sleepwalking-x13-s8
+# text = አስቴር አልጋ ላይ [ተኛች] ተኛ_ኧች ።
+1	አስቴር	_	PROPN	_	_	4	nsubj	_	Offset=192-196
+2	አልጋ	_	NOUN	_	_	4	obl	_	Offset=197-200
+3	ላይ	_	ADP	_	_	2	case	_	Offset=201-203
+4	ተኛ	_	VERB	_	_	0	_	_	Offset=210-212
+5	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	4	expl	_	Offset=213-215
+6	።	_	PUNCT	_	_	4	punct	_	Offset=216-217
+
+# sent_id = sleepwalking-x13-s9
+# text = አስቴር ሽልማት [ተቀበለች] ተቀበል_ኧች ።
+1	አስቴር	_	PROPN	_	_	3	nsubj_pass	_	Offset=218-222
+2	ሽልማት	_	NOUN	_	_	3	obj	_	Offset=223-227
+3	ተቀበል	_	VERB	_	Voice=Pass	0	_	_	Offset=236-240
+4	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	3	expl	_	Offset=241-243
+5	።	_	PUNCT	_	_	3	punct	_	Offset=244-245
+
+# sent_id = sleepwalking-x13-s10
+# text = [ልጁ] ልጅ_ኡ መኪና [ተሰጠው] ተሰጥ_ኧው ።
+1	ልጅ	_	NOUN	_	_	4	nsubj_pass	_	Offset=251-253
+2	ኡ	_	DET	_	_	1	det	_	Offset=254-255
+3	መኪና	_	NOUN	_	_	4	obj	_	Offset=256-259
+4	ተሰጥ	_	VERB	_	Voice=Pass	0	_	_	Offset=267-270
+5	ኧው	_	SUBJC	_	Number=Sing|Person=3	4	expl	_	Offset=271-273
+6	።	_	PUNCT	_	_	4	punct	_	Offset=274-275
+
+# sent_id = sleepwalking-x13-s11
+# text = [ገበሬው] ገበሬ_ው [ማሳውን] ማሳ_ው_ን [አጥሮታል] አጥር_ኦ_ት_ኣል ።
+1	ገበሬ	_	NOUN	_	_	6	nsubj	_	Offset=283-286
+2	ው	_	DET	_	_	1	det	_	Offset=287-288
+3	ማሳ	_	NOUN	_	_	6	obj	_	Offset=296-298
+4	ው	_	DET	_	_	3	det	_	Offset=299-300
+5	ን	_	ACC	_	_	3	case	_	Offset=301-302
+6	አጥር	_	VERB	_	_	0	_	_	Offset=311-314
+7	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=315-316
+8	ት	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=317-318
+9	ኣል	_	AUX	_	_	6	aux	_	Offset=319-321
+10	።	_	PUNCT	_	_	6	punct	_	Offset=322-323
+
+# sent_id = sleepwalking-x13-s12
+# text = [አስተማሪው] አስተማሪ_ው [ለተማሪዎች] ለ_ተማሪዎች መፅሀፍ [ሰጣቸው] ሰጥ_ኧ_ኣቸው ።
+1	አስተማሪ	_	NOUN	_	_	6	nsubj	_	Offset=333-338
+2	ው	_	DET	_	_	1	det	_	Offset=339-340
+3	ለ	_	ADP	_	_	4	case	_	Offset=350-351
+4	ተማሪዎች	_	NOUN	_	Number=Plur	6	obl	_	Offset=352-357
+5	መፅሀፍ	_	NOUN	_	_	6	dobj	_	Offset=358-362
+6	ሰጥ	_	VERB	_	_	0	_	_	Offset=370-372
+7	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=373-374
+8	ኣቸው	_	OBJC	_	Number=Plur|Person=3	6	expl	_	Offset=375-378
+9	።	_	PUNCT	_	_	6	punct	_	Offset=379-380
+
+# sent_id = sleepwalking-x13-s13
+# text = ካሳ [ለወታደሮች] ለ_ወታደሮች [ገንዘቡን] ገንዘብ_ኡ_ን [ሰጠቻው] ሰጥ_ኧ_ኣቸው ።
+1	ካሳ	_	PROPN	_	_	7	nsubj	_	Offset=381-383
+2	ለ	_	ADP	_	_	3	case	_	Offset=393-394
+3	ወታደሮች	_	NOUN	_	Number=Plur	7	obl	_	Offset=395-400
+4	ገንዘብ	_	NOUN	_	_	7	dobj	_	Offset=409-413
+5	ኡ	_	DET	_	_	4	det	_	Offset=414-415
+6	ን	_	ACC	_	_	4	case	_	Offset=416-417
+7	ሰጥ	_	VERB	_	_	0	_	_	Offset=425-427
+8	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	7	expl	_	Offset=428-429
+9	ኣቸው	_	OBJC	_	Number=Plur|Person=3	7	expl	_	Offset=430-433
+10	።	_	PUNCT	_	_	7	punct	_	Offset=434-435
+
+# sent_id = sleepwalking-x13-s14
+# text = [ልጆቹ] ልጆች_ኡ [ስህተታቸውን] ስህተት_ኣቸው_ን [አውቀዋል] አውቅ_ኧው_ኣል ።
+1	ልጆች	_	NOUN	_	Number=Plur	6	nsubj	_	Offset=442-445
+2	ኡ	_	DET	_	_	1	det	_	Offset=446-447
+3	ስህተት	_	NOUN	_	_	4	nmod	6:obj	Offset=458-462
+4	ኣቸው	_	POSM	_	Number=Plur|Person=3|Poss=	0	_	_	Offset=463-466
+5	ን	_	ACC	_	_	3	case	_	Offset=467-468
+6	አውቅ	_	VERB	_	_	0	_	_	Offset=477-480
+7	ኧው	_	SUBJC	_	Number=Sing|Person=3	6	expl	_	Offset=481-483
+8	ኣል	_	AUX	_	_	6	aux	_	Offset=484-486
+9	።	_	PUNCT	_	_	6	punct	_	Offset=487-488
+
+# sent_id = sleepwalking-x13-s15
+# text = [ልጆቹ] ልጆች_ኡ ወተት [ይወዳሉ] ይ_ወድድ_ኣል_ኡ ።
+1	ልጆች	_	NOUN	_	_	5	nsubj	_	Offset=495-498
+2	ኡ	_	DET	_	_	1	det	_	Offset=499-500
+3	ወተት	_	NOUN	_	_	5	obj	_	Offset=501-504
+4	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=512-513
+5	ወድድ	_	VERB	_	_	0	_	_	Offset=514-517
+6	ኣል	_	AUX	_	_	0	_	_	Offset=518-520
+7	ኡ	_	SUBJC	_	Number=Plur|Person=3	5	expl	_	Offset=521-522
+8	።	_	PUNCT	_	_	5	punct	_	Offset=523-524
+
+# sent_id = sleepwalking-x13-s16
+# text = ካሳ ሰው [ያከብራል] ይ_ኣከብር_ኣል ።
+1	ካሳ	_	PROPN	_	_	4	nsubj	_	Offset=525-527
+2	ሰው	_	NOUN	_	_	4	obj	_	Offset=528-530
+3	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=539-540
+4	ኣከብር	_	VERB	_	_	0	_	_	Offset=541-545
+5	ኣል	_	AUX	_	_	4	aux	_	Offset=546-548
+6	።	_	PUNCT	_	_	4	punct	_	Offset=549-550
+
+# sent_id = sleepwalking-x13-s17
+# text = [እግዜርን] እግዜር_ን [ይፈሩአል] ይ_ፈር_ኡ_ኣል ።
+1	እግዜር	_	NOUN	_	_	4	obj	_	Offset=559-563
+2	ን	_	ACC	_	_	1	case	_	Offset=564-565
+3	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=574-575
+4	ፈር	_	VERB	_	_	0	_	_	Offset=576-578
+5	ኡ	_	SUBJC	_	Number=Plur|Person=3	4	nsubj	_	Offset=579-580
+6	ኣል	_	AUX	_	_	4	aux	_	Offset=581-583
+7	።	_	PUNCT	_	_	4	punct	_	Offset=584-585
+
+# sent_id = sleepwalking-x13-s18
+# text = [ምክርን] ምክር_ን [ያደምጣሉ] ይ_ኣደምጥ_ኣል_ኡ ።
+1	ምክር	_	NOUN	_	_	4	obj	_	Offset=593-596
+2	ን	_	ACC	_	_	1	case	_	Offset=597-598
+3	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	expl	_	Offset=607-608
+4	ኣደምጥ	_	VERB	_	_	0	_	_	Offset=609-613
+5	ኣል	_	AUX	_	_	4	aux	_	Offset=614-616
+6	ኡ	_	SUBJC	_	Number=Plur|Person=3	4	nsubj	_	Offset=617-618
+7	።	_	PUNCT	_	_	4	punct	_	Offset=619-620
+
+# sent_id = sleepwalking-x13-s19
+# text = [ጫካው] ጫካ_ው [ተመንጥሮአል] ተመንጥር_ኦ_ኣል ።
+1	ጫካ	_	NOUN	_	_	3	nsubj_pass	_	Offset=627-629
+2	ው	_	DET	_	_	1	det	_	Offset=630-631
+3	ተመንጥር	_	VERB	_	Voice=Pass	0	_	_	Offset=642-647
+4	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=648-649
+5	ኣል	_	AUX	_	_	3	aux	_	Offset=650-652
+6	።	_	PUNCT	_	_	3	punct	_	Offset=653-654
+
+# sent_id = sleepwalking-x13-s20
+# text = [አገሩ] አገር_ኡ [ተወሮአል] ተወር_ኦ_ኣል ።
+1	አገር	_	NOUN	_	_	3	nsubj_pass	_	Offset=661-664
+2	ኡ	_	DET	_	_	1	det	_	Offset=665-666
+3	ተወር	_	VERB	_	Voice=Pass	0	_	_	Offset=675-678
+4	ኦ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=679-680
+5	ኣል	_	AUX	_	_	3	aux	_	Offset=681-683
+6	።	_	PUNCT	_	_	3	punct	_	Offset=684-685
+
+# sent_id = sleepwalking-x13-s21
+# text = ስንቅ [ይነጠቁአል] ይ_ነጠቅ_ኡ_ኣል ።
+1	ስንቅ	_	NOUN	_	_	3	nsubj	_	Offset=686-689
+2	ይ	_	SUBJC	_	Number=Plur|Person=3	3	expl	_	Offset=699-700
+3	ነጠቅ	_	VERB	_	_	0	_	_	Offset=701-704
+4	ኡ	_	SUBJC	_	Number=Plur|Person=3	3	nsubj	_	Offset=705-706
+5	ኣል	_	AUX	_	_	3	aux	_	Offset=707-709
+6	።	_	PUNCT	_	_	3	punct	_	Offset=710-711
+

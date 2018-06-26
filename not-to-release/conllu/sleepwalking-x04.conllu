@@ -1,0 +1,189 @@
+# sent_id = sleepwalking-x04-s1
+# text = አልማዝ እንቅልፍ [ወሰዳት] ወሰድ_ኧ_ኣት ።
+1	አልማዝ	_	PROPN	_	_	3	obj	_	Offset=0-4
+2	እንቅልፍ	_	NOUN	_	_	3	nsubj	_	Offset=5-10
+3	ወሰድ	_	VERB	_	_	0	_	_	Offset=18-21
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=22-23
+5	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	3	expl	_	Offset=24-26
+6	።	_	PUNCT	_	_	3	punct	_	Offset=27-28
+
+# sent_id = sleepwalking-x04-s2
+# text = ካሳ ልብስ [ተኮሰ] ተኮስ_ኧ ።
+1	ካሳ	_	PROPN	_	_	3	nsubj	_	Offset=29-31
+2	ልብስ	_	NOUN	_	_	3	obj	_	Offset=32-35
+3	ተኮስ	_	VERB	_	Voice=Pass	0	_	_	Offset=42-45
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=46-47
+5	።	_	PUNCT	_	_	3	punct	_	Offset=48-49
+
+# sent_id = sleepwalking-x04-s3
+# text = [መንገድሽን] መንገድ_ሽ_ን [ተከተለ] ተከተል_ኧ ።
+1	መንገድ	_	NOUN	_	_	4	obj	_	Offset=59-63
+2	ሽ	_	POSM	_	Gender=Fem|Number=Sing|Person=2|Poss=	1	nmod	_	Offset=64-65
+3	ን	_	ACC	_	_	1	case	_	Offset=66-67
+4	ተከተል	_	VERB	_	Voice=Pass	0	_	_	Offset=75-79
+5	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Offset=80-81
+6	።	_	PUNCT	_	_	4	punct	_	Offset=82-83
+
+# sent_id = sleepwalking-x04-s4
+# text = ካሳ [ምሳውን] ምሳ_ው_ን [በላ] በላ_ኧ ።
+1	ካሳ	_	PROPN	_	_	5	nsubj	_	Offset=84-86
+2	ምሳ	_	NOUN	_	_	5	obj	_	Offset=94-96
+3	ው	_	DET	_	_	2	det	_	Offset=97-98
+4	ን	_	ACC	_	_	2	case	_	Offset=99-100
+5	በላ	_	VERB	_	_	0	_	_	Offset=106-108
+6	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=109-110
+7	።	_	PUNCT	_	_	5	punct	_	Offset=111-112
+
+# sent_id = sleepwalking-x04-s5
+# text = [መንገዱ] መንገድ_ኡ ጎንደር [ይደርሳል] ይ_ደርስ_ኣል ።
+1	መንገድ	_	NOUN	_	_	5	nsubj	_	Offset=120-124
+2	ኡ	_	DET	_	_	1	det	_	Offset=125-126
+3	ጎንደር	_	NOUN	_	_	5	obl	_	Offset=127-131
+4	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=140-141
+5	ደርስ	_	VERB	_	_	0	_	_	Offset=142-145
+6	ኣል	_	AUX	_	_	5	aux	_	Offset=146-148
+7	።	_	PUNCT	_	_	5	punct	_	Offset=149-150
+
+# sent_id = sleepwalking-x04-s6
+# text = አልማዝ ክብደት [ቀነሰች] ቀነስ_ኧች ።
+1	አልማዝ	_	PROPN	_	_	3	nsubj	_	Offset=151-155
+2	ክብደት	_	NOUN	_	_	3	obj	_	Offset=156-160
+3	ቀነስ	_	VERB	_	_	0	_	_	Offset=168-171
+4	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	3	expl	_	Offset=172-174
+5	።	_	PUNCT	_	_	3	punct	_	Offset=175-176
+
+# sent_id = sleepwalking-x04-s7
+# text = [ስጋው] ስጋ_ው ሁለት ኪሎ [ይመዝናል] ይ_መዝን_ኣል ።
+1	ስጋ	_	NOUN	_	_	6	nsubj	_	Offset=183-185
+2	ው	_	DET	_	_	1	det	_	Offset=186-187
+3	ሁለት	_	NUM	_	_	4	nummod	_	Offset=188-191
+4	ኪሎ	_	NOUN	_	_	6	ccomp	_	Offset=192-194
+5	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=203-204
+6	መዝን	_	VERB	_	_	0	_	_	Offset=205-208
+7	ኣል	_	AUX	_	_	6	aux	_	Offset=209-211
+8	።	_	PUNCT	_	_	6	punct	_	Offset=212-213
+
+# sent_id = sleepwalking-x04-s8
+# text = [ወንድሜን] ወንድም_ኤ_ን [ያቀዋል] ይ_አውቅ_ኧው_ኣል ።
+1	ወንድም	_	NOUN	_	_	5	obj	_	Offset=222-226
+2	ኤ	_	POSM	_	Gender=Masc|Number=Sing|Person=3|Poss=	1	nmod	_	Offset=227-228
+3	ን	_	ACC	_	_	1	case	_	Offset=229-230
+4	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Offset=238-239
+5	አውቅ	_	VERB	_	_	0	_	_	Offset=240-243
+6	ኧው	_	SUBJC	_	Number=Sing|Person=3	5	expl	_	Offset=244-246
+7	ኣል	_	AUX	_	_	5	aux	_	Offset=247-249
+8	።	_	PUNCT	_	_	5	punct	_	Offset=250-251
+
+# sent_id = sleepwalking-x04-s9
+# text = አልማዝ ገንፎ [አገነፋች] አገነፍ_ኣች ።
+1	አልማዝ	_	PROPN	_	_	3	nsubj	_	Offset=252-256
+2	ገንፎ	_	NOUN	_	_	3	obj	_	Offset=257-260
+3	አገነፍ	_	VERB	_	Voice=Trans	0	_	_	Offset=269-273
+4	ኣች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	3	expl	_	Offset=274-276
+5	።	_	PUNCT	_	_	3	punct	_	Offset=277-278
+
+# sent_id = sleepwalking-x04-s10
+# text = ጡት [አጠባሁዋት] አጠብ_ኣሁ_ኣት ።
+1	ጡት	_	NOUN	_	_	2	obj	_	Offset=279-281
+2	አጠብ	_	VERB	_	Voice=Trans	0	_	_	Offset=291-294
+3	ኣሁ	_	SUBJC	_	Number=Sing|Person=1	2	nsubj	_	Offset=295-297
+4	ኣት	_	OBJC	_	Gender=Fem|Number=Sing|Person=3	2	expl	_	Offset=298-300
+5	።	_	PUNCT	_	_	2	punct	_	Offset=301-302
+
+# sent_id = sleepwalking-x04-s11
+# text = ካሳ ትናንት መኪና [ገዛ] ገዝ_ኣ ።
+1	ካሳ	_	PROPN	_	_	4	nsubj	_	Offset=303-305
+2	ትናንት	_	ADV	_	_	4	advmod	_	Offset=306-310
+3	መኪና	_	NOUN	_	_	4	obj	_	Offset=311-314
+4	ገዝ	_	VERB	_	_	0	_	_	Offset=320-322
+5	ኣ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	4	expl	_	Offset=323-324
+6	።	_	PUNCT	_	_	4	punct	_	Offset=325-326
+
+# sent_id = sleepwalking-x04-s12
+# text = ካሳ [ልጁን] ልጅ_ኡ_ን [ገረፈው] ገረፍ_ኧ_ው ።
+1	ካሳ	_	PROPN	_	_	5	nsubj	_	Offset=327-329
+2	ልጅ	_	NOUN	_	_	5	obj	_	Offset=336-338
+3	ኡ	_	DET	_	_	2	det	_	Offset=339-340
+4	ን	_	ACC	_	_	2	case	_	Offset=341-342
+5	ገረፍ	_	VERB	_	_	0	_	_	Offset=350-353
+6	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=354-355
+7	ው	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=356-357
+8	።	_	PUNCT	_	_	5	punct	_	Offset=358-359
+
+# sent_id = sleepwalking-x04-s13
+# text = ካሳ ልጅ [ወለደ] ወለድ_ኧ ።
+1	ካሳ	_	PROPN	_	_	3	nsubj	_	Offset=360-362
+2	ልጅ	_	NOUN	_	_	3	obj	_	Offset=363-365
+3	ወለድ	_	VERB	_	_	0	_	_	Offset=372-375
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=376-377
+5	።	_	PUNCT	_	_	3	punct	_	Offset=378-379
+
+# sent_id = sleepwalking-x04-s14
+# text = ካሳ [አባቱን] አባት_ኡ_ን [ይመስላል] ይ_መስል_ኣል ።
+1	ካሳ	_	PROPN	_	_	6	nsubj	_	Offset=380-382
+2	አባት	_	NOUN	_	_	6	obj	_	Offset=390-393
+3	ኡ	_	DET	_	_	2	det	_	Offset=394-395
+4	ን	_	ACC	_	_	2	case	_	Offset=396-397
+5	ይ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=406-407
+6	መስል	_	VERB	_	_	0	_	_	Offset=408-411
+7	ኣል	_	AUX	_	_	6	aux	_	Offset=412-414
+8	።	_	PUNCT	_	_	6	punct	_	Offset=415-416
+
+# sent_id = sleepwalking-x04-s15
+# text = ወደ ከተማ [ተጓዘ] ተጓዝ_ኧ ።
+1	ወደ	_	ADP	_	_	2	case	_	Offset=417-419
+2	ከተማ	_	NOUN	_	_	3	obl	_	Offset=420-423
+3	ተጓዝ	_	VERB	_	_	0	_	_	Offset=430-433
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Offset=434-435
+5	።	_	PUNCT	_	_	3	punct	_	Offset=436-437
+
+# sent_id = sleepwalking-x04-s16
+# text = [ልጁ] ልጅ_ኡ [ብርጭቆውን] ብርጭቆ_ው_ን [ወረወረው] ወረወር_ኧ_ው ።
+1	ልጅ	_	NOUN	_	_	6	nsubj	_	Offset=443-445
+2	ኡ	_	DET	_	_	1	det	_	Offset=446-447
+3	ብርጭቆ	_	NOUN	_	_	6	obj	_	Offset=457-461
+4	ው	_	DET	_	_	3	det	_	Offset=462-463
+5	ን	_	ACC	_	_	3	case	_	Offset=464-465
+6	ወረወር	_	VERB	_	_	0	_	_	Offset=474-478
+7	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=479-480
+8	ው	_	OBJC	_	Gender=Masc|Number=Sing|Person=3	6	expl	_	Offset=481-482
+9	።	_	PUNCT	_	_	6	punct	_	Offset=483-484
+
+# sent_id = sleepwalking-x04-s17
+# text = [ልጇን] ልጅ_ዋ_ን [ተንከባከበች] ተንከባከብ_ኧች ።
+1	ልጅ	_	NOUN	_	_	4	obj	_	Offset=491-493
+2	ዋ	_	POSM	_	Gender=Fem|Number=Sing|Person=3|Poss=	1	nmod	_	Offset=494-495
+3	ን	_	ACC	_	_	1	case	_	Offset=496-497
+4	ተንከባከብ	_	VERB	_	_	0	_	_	Offset=508-514
+5	ኧች	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	4	nsubj	_	Offset=515-517
+6	።	_	PUNCT	_	_	4	punct	_	Offset=518-519
+
+# sent_id = sleepwalking-x04-s18
+# text = ፖሊሱ ጥይት [ተኮሰ] ተኮስ_ኧ ።
+1	ፖሊሱ	_	NOUN	_	_	3	nsubj	_	Offset=520-523
+2	ጥይት	_	NOUN	_	_	3	obj	_	Offset=524-527
+3	ተኮስ	_	VERB	_	_	0	_	_	Offset=534-537
+4	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	3	expl	_	Offset=538-539
+5	።	_	PUNCT	_	_	3	punct	_	Offset=540-541
+
+# sent_id = sleepwalking-x04-s19
+# text = ካሳ [ከአባቱ] ከ_አባት_ኡ [ተሻለ] ተሻል_ኧ ።
+1	ካሳ	_	PROPN	_	_	5	nsubj	_	Offset=542-544
+2	ከ	_	ADP	_	_	3	case	_	Offset=552-553
+3	አባት	_	NOUN	_	_	5	obl	_	Offset=554-557
+4	ኡ	_	DET	_	_	3	det	_	Offset=558-559
+5	ተሻል	_	VERB	_	_	0	_	_	Offset=566-569
+6	ኧ	_	SUBJC	_	Gender=Masc|Number=Sing|Person=3	5	expl	_	Offset=570-571
+7	።	_	PUNCT	_	_	5	punct	_	Offset=572-573
+
+# sent_id = sleepwalking-x04-s20
+# text = [ልጁ] ልጅ_ኡ [ኳሱን] ኳስ_ኡ_ን [አነሳ] አነስ_ኣ ።
+1	ልጅ	_	NOUN	_	_	6	nsubj	_	Offset=579-581
+2	ኡ	_	DET	_	_	1	det	_	Offset=582-583
+3	ኳስ	_	NOUN	_	_	6	obj	_	Offset=590-592
+4	ኡ	_	DET	_	_	3	det	_	Offset=593-594
+5	ን	_	ACC	_	_	3	case	_	Offset=595-596
+6	አነስ	_	VERB	_	_	0	_	_	Offset=603-606
+7	ኣ	_	SUBJC	_	Gender=Fem|Number=Sing|Person=3	6	expl	_	Offset=607-608
+8	።	_	PUNCT	_	_	6	punct	_	Offset=609-610
+
