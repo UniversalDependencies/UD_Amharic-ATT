@@ -15,6 +15,12 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 
 * Binyam Ephrem Seyoum ,Yusuke Miyao and Baye Yimam Mekonnen.2018.Universal Dependencies for Amharic. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), pp. 2216–2222, Miyazaki, Japan: European Language Resources Association (ELRA)
 
+
+# Changelog
+
+* 2018-07-01 v2.2
+  * First official release.
+
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.2
