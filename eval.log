@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Amharic-ATT:
-commit 65341ee56a4cfe211c07ed07c13ffecf49907a05
-Merge: 56abc96 e6eca02
+commit aa29243dc9b08187c030b39d993b34cf532fb514
+Merge: 9f281d3 2489837
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 10010 of 10010 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60716918665426.
