@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Amharic-ATT:
-commit aa29243dc9b08187c030b39d993b34cf532fb514
-Merge: 9f281d3 2489837
+commit 11d898fa8e4d3262961037a6fb4844d6a0ad6979
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 20:51:44 2019 +0200
 Size: counted 10010 of 10010 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60716918665426.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,8 +23,20 @@ Udapi: found 4688 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10010 words.
 Genres: found 5 out of 17 known.
 validate.py --lang am --max-err=10 UD_Amharic-ATT/am_att-ud-test.conllu
-*** PASSED ***
-Validity: 1
+[Line 372 Sent data_UD-Sleepwalking-Am_aux-s7 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
+[Line 383 Sent data_UD-Sleepwalking-Am_aux-s8 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
+[Line 404 Sent data_UD-x00-s1 Node 9]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 401 Sent data_UD-x00-s1 Node 9]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (9:ሻል:aux --> 7:ሄድ:ccomp)
+[Line 403 Sent data_UD-x00-s1 Node 9]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (9:ሻል:aux --> 8:ይ:expl)
+[Line 405 Sent data_UD-x00-s1 Node 9]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (9:ሻል:aux --> 10:ኧኝ:nsubj)
+[Line 442 Sent data_UD-x00-s3 Node 10]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
+[Line 463 Sent data_UD-x00-s4 Node 8]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 460 Sent data_UD-x00-s4 Node 8]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (8:ወድ:aux --> 6:ገላገል:advcl)
+...suppressing further errors regarding Syntax
+Syntax errors: 268
+*** FAILED *** with 268 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.3) = 0.0230769230769231
 (weight=0.0769230769230769) * (score{genres}=0.294117647058824) = 0.0226244343891403
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
@@ -33,6 +45,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.36096680862779) * (availability=1) * (validity=1) = 0.36096680862779
-STARS = 2
-UD_Amharic-ATT	0.36096680862779	2
+(TOTAL score=0.36096680862779) * (availability=1) * (validity=0.01) = 0.0036096680862779
+STARS = 0
+UD_Amharic-ATT	0.0036096680862779	0
