@@ -1312,7 +1312,7 @@
 # translit = mäţačə .
 1-2	መጣች	_	_	_	_	_	_	_	_
 1	መጥ	መጥ	VERB	VERB	_	0	root	_	Translit=mäţə|LTranslit=mäţə
-2	ኣች	ኣች	PRON	SUBJC	Number=Sing|Person=3	1	nsubj	_	Translit='ačə|LTranslit='ačə
+2	ኣች	ኣች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	Translit='ačə|LTranslit='ačə
 3	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-x02-s13

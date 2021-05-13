@@ -39,7 +39,7 @@
     <feat name="Case" value="Loc" upos="ADP">27</feat><!-- በ, ከ, ወደ, እ, ላይ, እሰከ -->
     <feat name="Case" value="Mal" upos="ADP">40</feat><!-- ብ, በ, ል -->
     <feat name="Gender" value="Com" upos="PRON">15</feat><!-- ኝ, ኧሁ, ሁ, ን, ኤ, እ -->
-    <feat name="Gender" value="Fem" upos="DET,PRON">418</feat><!-- ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, ኧሽ, ኡ -->
+    <feat name="Gender" value="Fem" upos="DET,PRON">419</feat><!-- ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, ኧሽ, ኡ -->
     <feat name="Gender" value="Masc" upos="DET,PRON,VERB">1234</feat><!-- ኧ, ይ, ት, ኦ, ው, ኡ, ህ, ኧት, ኧህ, ክ -->
     <feat name="Gender" value="Neut" upos="PRON">62</feat><!-- ኝ, ኧሁ, ሁ, ኣቸው, ን, ኡ, ኣሁ, ኧ, ኧኝ, ዋ -->
     <feat name="Mood" value="Jus" upos="VERB">17</feat><!-- ሂድ, ብላ, ላክ, መጣ, ሰጥ, ስበር, ተቀመጥ, አሳይ, አውጣ, ውረድ -->
