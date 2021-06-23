@@ -12611,7 +12611,7 @@
 13-14	ነው	_	_	_	_	_	_	_	_
 13	ን	ን	AUX	AUX	_	11	aux	_	Translit=nə|LTranslit=nə
 14	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	11	expl	_	Translit='ăwə|LTranslit='ăwə
-15	።	።	PUNCT	PUNCT	_	11	expl	_	Translit=.|LTranslit=.
+15	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x18-s12
 # text = ምንስ ቢሆን ትመታታለህ ?
