@@ -7562,9 +7562,9 @@
 1	ምንም	ምንም	PRON	PRON	_	4	nsubj	_	Translit=mənəmə|LTranslit=mənəmə
 2-5	ቢመጣ	_	_	_	_	_	_	_	_
 2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	Translit=bə|LTranslit=bə
-3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=jə|LTranslit=jə
+3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	Translit=jə|LTranslit=jə
 4	መጥ	መጥ	VERB	VERB	_	8	advcl	_	Translit=mäţə|LTranslit=mäţə
-5	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	4	nsubj	_	Translit='a|LTranslit='a
+5	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	4	expl	_	Translit='a|LTranslit='a
 6-9	አልፈራም	_	_	_	_	_	_	_	_
 6	ኣል	ኣል	PART	NEG	Polarity=Neg	8	advmod	_	Translit='alə|LTranslit='alə
 7	እ	እ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj	_	Translit='ə|LTranslit='ə
@@ -15910,9 +15910,9 @@
 5-9	የሚኖሩ	_	_	_	_	_	_	_	_
 5	የ	የ	PART	RLP	_	8	mark	_	Translit=jä|LTranslit=jä
 6	እም	እም	PART	IRLP	_	8	mark	_	Translit='əmə|LTranslit='əmə
-7	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Translit=jə|LTranslit=jə
+7	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	Translit=jə|LTranslit=jə
 8	ኖር	ኖር	VERB	VERB	_	0	root	_	Translit=norə|LTranslit=norə
-9	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	8	nsubj	_	Translit='u|LTranslit='u
+9	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	8	expl	_	Translit='u|LTranslit='u
 10	ሕዝብ	ሕዝብ	NOUN	NOUN	_	8	csubj	_	Translit=ħəzəbə|LTranslit=ħəzəbə
 11-12	ናቸው	_	_	_	_	_	_	_	_
 11	ን	ን	AUX	AUX	_	10	cop	_	Translit=nə|LTranslit=nə
