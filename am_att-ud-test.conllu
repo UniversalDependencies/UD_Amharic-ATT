@@ -2393,7 +2393,7 @@
 4	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	2	expl	_	Translit=tə|LTranslit=tə
 5-6	ያንን	_	_	_	_	_	_	_	_
 5	ያ	ያ	DET	DET	_	7	det	_	Translit=ja|LTranslit=ja
-6	ን	ን	PART	ACC	_	5	det	_	Translit=nə|LTranslit=nə
+6	ን	ን	PART	ACC	_	5	case	_	Translit=nə|LTranslit=nə
 7	ቤት	ቤት	NOUN	NOUN	_	2	acl	_	Translit=betə|LTranslit=betə
 8-9	ነው	_	_	_	_	_	_	_	_
 8	ን	ን	AUX	AUX	_	7	cop	_	Translit=nə|LTranslit=nə
@@ -7061,7 +7061,7 @@
 7	ኣው	ኣው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	Translit='awə|LTranslit='awə
 8-10	አለቅየው	_	_	_	_	_	_	_	_
 8	አለቃ	አለቃ	NOUN	NOUN	_	13	nsubj	_	Translit='äläqa|LTranslit='äläqa
-9	እየ	እየ	PART	PART	_	8	det	_	Translit='əjä|LTranslit='əjä
+9	እየ	እየ	DET	DET	_	8	det	_	Translit='əjä|LTranslit='əjä
 10	ው	ው	DET	DET	_	8	det	_	Translit=wə|LTranslit=wə
 11-14	አይደሰትም	_	_	_	_	_	_	_	_
 11	ኣል	ኣል	PART	NEG	Polarity=Neg	13	advmod	_	Translit='alə|LTranslit='alə
