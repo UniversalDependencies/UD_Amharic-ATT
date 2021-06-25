@@ -794,7 +794,7 @@
 3	ላይ	ላይ	ADP	ADP	_	2	case	_	Translit=lajə|LTranslit=lajə
 4-6	እያለሁ	_	_	_	_	_	_	_	_
 4	እየ	እየ	SCONJ	SCONJ	_	5	mark	_	Translit='əjä|LTranslit='əjä
-5	ኣለ	ኣለ	VERB	VERB	_	2	mark	_	Translit='alä|LTranslit='alä
+5	ኣለ	ኣለ	VERB	VERB	_	2	advcl	_	Translit='alä|LTranslit='alä
 6	ሁ	ሁ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	5	nsubj	_	Translit=hu|LTranslit=hu
 7	መልስ	መልስ	NOUN	NOUN	_	8	obj	_	Translit=mäləsə|LTranslit=mäləsə
 8-10	ሰጠችኝ	_	_	_	_	_	_	_	_
@@ -3050,7 +3050,7 @@
 2-4	ለልጆቹ	_	_	_	_	_	_	_	_
 2	ለ	ለ	ADP	ADP	_	3	case	_	Translit=lä|LTranslit=lä
 3	ልጆች	ልጆች	NOUN	NOUN	_	8	obl	_	Translit=lədžočə|LTranslit=lədžočə
-4	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
+4	ኡ	ኡ	DET	DET	_	3	det	_	Translit='u|LTranslit='u
 5-7	መንገዱን	_	_	_	_	_	_	_	_
 5	መንገድ	መንገድ	NOUN	NOUN	_	8	obj	_	Translit=mänəgädə|LTranslit=mänəgädə
 6	ኡ	ኡ	DET	DET	_	5	det	_	Translit='u|LTranslit='u
@@ -3762,7 +3762,7 @@
 6	ኣል	ኣል	AUX	AUX	_	5	aux	_	Translit='alə|LTranslit='alə
 7	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	5	nsubj	_	Translit='ăhu|LTranslit='ăhu
 8-9	ብዬ	_	_	_	_	_	_	_	_
-8	ብል	ብል	VERB	VERB	_	5	mark	_	Translit=bələ|LTranslit=bələ
+8	ብል	ብል	VERB	VERB	_	5	advcl	_	Translit=bələ|LTranslit=bələ
 9	ኤ	ኤ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj	_	Translit='e|LTranslit='e
 10-12	እጄን	_	_	_	_	_	_	_	_
 10	እጅ	እጅ	NOUN	NOUN	_	14	obj	_	Translit='ədžə|LTranslit='ədžə
@@ -4144,7 +4144,7 @@
 5	ኣስከትል	ኣስከትል	VERB	VERB	_	9	xcomp	_	Translit='asəkätələ|LTranslit='asəkätələ
 6	ኣል	ኣል	AUX	AUX	_	5	aux	_	Translit='alə|LTranslit='alə
 7-8	ብዬ	_	_	_	_	_	_	_	_
-7	ብል	ብል	VERB	VERB	_	5	mark	_	Translit=bələ|LTranslit=bələ
+7	ብል	ብል	VERB	VERB	_	5	advcl	_	Translit=bələ|LTranslit=bələ
 8	ኤ	ኤ	PRON	SUBJC	Number=Sing|Person=1	7	expl	_	Translit='e|LTranslit='e
 9-11	አምናለሁ	_	_	_	_	_	_	_	_
 9	አምን	አምን	VERB	VERB	_	0	root	_	Translit='ämənə|LTranslit='ämənə
@@ -4718,7 +4718,7 @@
 2-4	ከእናቱ	_	_	_	_	_	_	_	_
 2	ከ	ከ	ADP	ADP	_	3	case	_	Translit=kä|LTranslit=kä
 3	እናት	እናት	NOUN	NOUN	_	9	obl	_	Translit='ənatə|LTranslit='ənatə
-4	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	2	nmod	_	Translit='u|LTranslit='u
+4	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod	_	Translit='u|LTranslit='u
 5	ጋር	ጋር	ADP	ADP	_	3	case	_	Translit=garə|LTranslit=garə
 6	ጋር	ጋር	ADP	ADP	_	3	case	_	Translit=garə|LTranslit=garə
 7	ምሳ	ምሳ	NOUN	NOUN	_	9	obj	_	Translit=məsa|LTranslit=məsa
@@ -4978,7 +4978,7 @@
 8	ጊዜ	ጊዜ	NOUN	NOUN	_	4	advmod	_	Translit=gize|LTranslit=gize
 9-10	በፊት	_	_	_	_	_	_	_	_
 9	በ	በ	ADP	ADP	_	10	case	_	Translit=bä|LTranslit=bä
-10	ፊት	ፊት	NOUN	NOUN	_	8	case	_	Translit=fitə|LTranslit=fitə
+10	ፊት	ፊት	NOUN	NOUN	_	8	nmod	_	Translit=fitə|LTranslit=fitə
 11	ነበር	ነበር	AUX	AUX	_	4	aux	_	Translit=näbärə|LTranslit=näbärə
 12	?	?	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=?
 
@@ -15607,7 +15607,7 @@
 1	ብር	ብር	NOUN	NOUN	_	4	obj	_	Translit=bərə|LTranslit=bərə
 2-6	በምታገኝበት	_	_	_	_	_	_	_	_
 2	በ	በ	PART	RLP	_	4	mark	_	Translit=bä|LTranslit=bä
-3	እም	እም	PART	IRLP	_	5	mark	_	Translit='əmə|LTranslit='əmə
+3	እም	እም	PART	IRLP	_	4	mark	_	Translit='əmə|LTranslit='əmə
 4	ታገኝ	ታገኝ	VERB	VERB	_	7	acl	_	Translit=tagäňə|LTranslit=tagäňə
 5	በ	በ	ADP	ADP	Case=Ben	4	mark	_	Translit=bä|LTranslit=bä
 6	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	Translit=tə|LTranslit=tə
