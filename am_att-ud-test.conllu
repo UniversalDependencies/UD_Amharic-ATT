@@ -711,7 +711,7 @@
 # translit = misətunə bämägədälu täkäsäsä .
 1-3	ሚስቱን	_	_	_	_	_	_	_	_
 1	ሚስት	ሚስት	NOUN	NOUN	_	7	obj	_	Translit=misətə|LTranslit=misətə
-2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nummod	_	Translit='u|LTranslit='u
+2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4-6	በመግደሉ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
@@ -15747,7 +15747,7 @@
 2	መሬት	መሬት	NOUN	NOUN	_	4	nmod	_	Translit=märetə|LTranslit=märetə
 3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
 4	መንቀጥቀጥ	መንቀጥቀጥ	NOUN	NOUN	VerbForm=Vnoun	8	nsubj	_	Translit=mänəqäţəqäţə|LTranslit=mänəqäţəqäţə
-5	ብዙ	ብዙ	ADJ	ADJ	_	6	nummod	_	Translit=bəzu|LTranslit=bəzu
+5	ብዙ	ብዙ	ADJ	ADJ	_	6	amod	_	Translit=bəzu|LTranslit=bəzu
 6-7	ቋጥኞችን	_	_	_	_	_	_	_	_
 6	ቋጥኞች	ቋጥኞች	NOUN	NOUN	Number=Plur	8	obj	_	Translit=qwaţəňočə|LTranslit=qwaţəňočə
 7	ን	ን	PART	ACC	_	6	case	_	Translit=nə|LTranslit=nə
@@ -16864,7 +16864,7 @@
 # sent_id = data_UD-third_apple_2-x30-s19
 # text = ስንት መጽሐፍ ትፈልጋለህ ?
 # translit = sənətə mäcəħäfə təfäləgalähə ?
-1	ስንት	ስንት	PRON	PRON	_	2	nummod	_	Translit=sənətə|LTranslit=sənətə
+1	ስንት	ስንት	PRON	PRON	_	2	det	_	Translit=sənətə|LTranslit=sənətə
 2	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	4	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 3-6	ትፈልጋለህ	_	_	_	_	_	_	_	_
 3	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	4	nsubj	_	Translit=tə|LTranslit=tə
