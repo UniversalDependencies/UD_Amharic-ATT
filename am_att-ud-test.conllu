@@ -401,10 +401,10 @@
 7	ሄድ	ሄድ	VERB	VERB	_	9	ccomp	_	Translit=hedə|LTranslit=hedə
 8-11	ይሻለኛል	_	_	_	_	_	_	_	_
 8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	Translit=jə|LTranslit=jə
-9	ሻል	ሻል	VERB	VERB	_	11	aux	_	Translit=šalə|LTranslit=šalə
+9	ሻል	ሻል	VERB	VERB	_	0	root	_	Translit=šalə|LTranslit=šalə
 10	ኧኝ	ኧኝ	PRON	SUBJC	Number=Sing|Person=1	9	nsubj	_	Translit='ăňə|LTranslit='ăňə
-11	ኣል	ኣል	AUX	AUX	_	0	root	_	Translit='alə|LTranslit='alə
-12	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
+11	ኣል	ኣል	AUX	AUX	_	9	aux	_	Translit='alə|LTranslit='alə
+12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-x00-s2
 # text = ልቡ ሊፈነዳ ትንሽ ቀረው ።
@@ -460,9 +460,9 @@
 6	ገላገል	ገላገል	VERB	VERB	_	8	advcl	_	Translit=gälagälə|LTranslit=gälagälə
 7-8	እወድ	_	_	_	_	_	_	_	_
 7	እ	እ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj	_	Translit='ə|LTranslit='ə
-8	ወድ	ወድ	VERB	VERB	_	9	aux	_	Translit=wädə|LTranslit=wädə
-9	ነበር	ነበር	AUX	AUX	_	0	root	_	Translit=näbärə|LTranslit=näbärə
-10	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
+8	ወድ	ወድ	VERB	VERB	_	0	root	_	Translit=wädə|LTranslit=wädə
+9	ነበር	ነበር	AUX	AUX	_	8	aux	_	Translit=näbärə|LTranslit=näbärə
+10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-x00-s5
 # text = መቼም ይምጣ መች እራቱን ሳይበላ አይተኛ ።
@@ -676,7 +676,7 @@
 7	ሄድ	ሄድ	VERB	VERB	_	13	advcl	_	Translit=hedə|LTranslit=hedə
 8-10	ከሆነ	_	_	_	_	_	_	_	_
 8	ከ	ከ	ADP	ADP	_	9	mark	_	Translit=kä|LTranslit=kä
-9	ሆን	ሆን	VERB	VERB	_	7	aux	_	Translit=honə|LTranslit=honə
+9	ሆን	ሆን	VERB	VERB	_	7	advcl	_	Translit=honə|LTranslit=honə
 10	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	Translit='ă|LTranslit='ă
 11	ይህን	ይህን	DET	DET	_	12	det	_	Translit=jəhənə|LTranslit=jəhənə
 12	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	13	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
@@ -6886,8 +6886,8 @@
 6	ሲል	ሲል	VERB	VERB	_	7	advcl	_	Translit=silə|LTranslit=silə
 7	ይዘንብ	ይዘንብ	VERB	VERB	_	0	root	_	Translit=jəzänəbə|LTranslit=jəzänəbə
 8-9	ጀመረ	_	_	_	_	_	_	_	_
-8	ጀመር	ጀመር	VERB	VERB	_	7	aux	_	Translit=džämärə|LTranslit=džämärə
-9	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Translit='ă|LTranslit='ă
+8	ጀመር	ጀመር	AUX	AUX	_	7	aux	_	Translit=džämärə|LTranslit=džämärə
+9	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit='ă|LTranslit='ă
 10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x00-s2
