@@ -8794,9 +8794,9 @@
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
 5	ሰላም	ሰላም	NOUN	NOUN	_	6	obl	_	Translit=sälamə|LTranslit=sälamə
 6	መመለስ	መመለስ	NOUN	NOUN	VerbForm=Vnoun	7	csubj	_	Translit=mämäläsə|LTranslit=mämäläsə
-7	መልካም	መልካም	ADJ	ADJ	_	8	cop	_	Translit=mäləkamə|LTranslit=mäləkamə
+7	መልካም	መልካም	ADJ	ADJ	_	0	root	_	Translit=mäləkamə|LTranslit=mäləkamə
 8-9	ነው	_	_	_	_	_	_	_	_
-8	ን	ን	AUX	AUX	_	0	root	_	Translit=nə|LTranslit=nə
+8	ን	ን	AUX	AUX	_	7	cop	_	Translit=nə|LTranslit=nə
 9	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	7	expl	_	Translit='ăwə|LTranslit='ăwə
 10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -10813,10 +10813,10 @@
 1-2	ስጋው	_	_	_	_	_	_	_	_
 1	ስጋ	ስጋ	NOUN	NOUN	_	3	nsubj	_	Translit=səga|LTranslit=səga
 2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
-3	ጮማ	ጮማ	NOUN	NOUN	_	4	cop	_	Translit=ćoma|LTranslit=ćoma
+3	ጮማ	ጮማ	NOUN	NOUN	_	0	root	_	Translit=ćoma|LTranslit=ćoma
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	0	root	_	Translit=nə|LTranslit=nə
-5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	4	expl	_	Translit='ăwə|LTranslit='ăwə
+4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	3	expl	_	Translit='ăwə|LTranslit='ăwə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x12-s18
@@ -14994,7 +14994,7 @@
 3	የ	የ	ADP	ADP	_	4	case	_	Translit=jä|LTranslit=jä
 4	ግድ	ግድ	NOUN	NOUN	_	5	nmod	_	Translit=gədə|LTranslit=gədə
 5	አስፈላጊ	አስፈላጊ	ADJ	ADJ	_	0	root	_	Translit='äsəfälagi|LTranslit='äsəfälagi
-6	ነበር	ነበር	VERB	VERB	_	5	cop	_	Translit=näbärə|LTranslit=näbärə
+6	ነበር	ን	AUX	AUX	_	5	cop	_	Translit=näbärə|LTranslit=näbärə
 7	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x25-s7
