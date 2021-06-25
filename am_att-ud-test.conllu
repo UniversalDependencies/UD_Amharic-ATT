@@ -3874,8 +3874,8 @@
 4	አል	አል	PART	NEG	Polarity=Neg	5	advmod	_	Translit='älə|LTranslit='älə
 5	ሰማ	ሰማ	VERB	VERB	_	13	advcl	_	Translit=säma|LTranslit=säma
 6-8	በማለቷ	_	_	_	_	_	_	_	_
-6	በ	በ	ADP	ADP	_	7	case	_	Translit=bä|LTranslit=bä
-7	ማለት	ማለት	AUX	AUX	_	5	aux	_	Translit=malätə|LTranslit=malätə
+6	በ	በ	ADP	ADP	_	7	mark	_	Translit=bä|LTranslit=bä
+7	ማለት	ማለት	VERB	VERB	_	5	advcl	_	Translit=malätə|LTranslit=malätə
 8	ዋ	ዋ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	5	nsubj	_	Translit=wa|LTranslit=wa
 9-10	ባሏ	_	_	_	_	_	_	_	_
 9	ባል	ባል	NOUN	NOUN	_	13	nsubj	_	Translit=balə|LTranslit=balə
@@ -3936,7 +3936,7 @@
 1-2	ወንድምህ	_	_	_	_	_	_	_	_
 1	ወንድም	ወንድም	NOUN	NOUN	_	6	obj	_	Translit=wänədəmə|LTranslit=wänədəmə
 2	ህ	ህ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes	1	nmod	_	Translit=hə|LTranslit=hə
-3	የት	የት	PRON	PRON	_	4	advmod	_	Translit=jätə|LTranslit=jätə
+3	የት	የት	PRON	PRON	_	6	advmod	_	Translit=jätə|LTranslit=jätə
 4-5	ነው	_	_	_	_	_	_	_	_
 4	ን	ን	AUX	AUX	_	6	aux	_	Translit=nə|LTranslit=nə
 5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	6	expl	_	Translit='ăwə|LTranslit='ăwə
