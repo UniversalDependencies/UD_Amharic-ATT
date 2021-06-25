@@ -7788,7 +7788,7 @@
 10	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	9	nsubj	_	Translit='u|LTranslit='u
 11-13	ከሆነ	_	_	_	_	_	_	_	_
 11	ከ	ከ	SCONJ	SCONJ	_	12	mark	_	Translit=kä|LTranslit=kä
-12	ሆን	ሆን	VERB	VERB	_	9	aux	_	Translit=honə|LTranslit=honə
+12	ሆን	ሆን	VERB	VERB	_	9	advcl	_	Translit=honə|LTranslit=honə
 13	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	12	nsubj	_	Translit='ă|LTranslit='ă
 14-17	እልካለሁ	_	_	_	_	_	_	_	_
 14	እ	እ	PRON	SUBJC	Number=Sing|Person=1	15	nsubj	_	Translit='ə|LTranslit='ə
@@ -10572,7 +10572,7 @@
 7	ኣል	ኣል	AUX	AUX	_	4	aux	_	Translit='alə|LTranslit='alə
 8	ሁ	ሁ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=3	4	nsubj	_	Translit=hu|LTranslit=hu
 9-10	ብሎ	_	_	_	_	_	_	_	_
-9	ብል	ብል	VERB	VERB	VerbForm=Conv	4	aux	_	Translit=bələ|LTranslit=bələ
+9	ብል	ብል	VERB	VERB	VerbForm=Conv	4	parataxis	_	Translit=bələ|LTranslit=bələ
 10	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	Translit='o|LTranslit='o
 11-12	የምስክርነት	_	_	_	_	_	_	_	_
 11	የ	የ	ADP	ADP	_	12	case	_	Translit=jä|LTranslit=jä
