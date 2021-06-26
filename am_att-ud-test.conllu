@@ -1011,7 +1011,7 @@
 # text = ምን ያህል እንደተለወጠ ብታይ ይገርምሃል ።
 # translit = mənə jahələ 'ənədätäläwäţä bətajə jəgärəməhalə .
 1	ምን	ምን	ADV	ADV	_	2	advmod	_	Translit=mənə|LTranslit=mənə
-2	ያህል	ያህል	NOUN	NOUN	_	4	advmod	_	Translit=jahələ|LTranslit=jahələ
+2	ያህል	ያህል	NOUN	NOUN	_	4	obl	_	Translit=jahələ|LTranslit=jahələ
 3-5	እንደተለወጠ	_	_	_	_	_	_	_	_
 3	እንደ	እንደ	SCONJ	SCONJ	_	4	mark	_	Translit='ənədä|LTranslit='ənədä
 4	ተለወጥ	ተለወጥ	VERB	VERB	Voice=Pass	8	ccomp	_	Translit=täläwäţə|LTranslit=täläwäţə
@@ -3580,7 +3580,7 @@
 # text = መጥቶ የሚሰራ ደሞዝ ይቀበላል ።
 # translit = mäţəto jämisära dämozə jəqäbälalə .
 1-2	መጥቶ	_	_	_	_	_	_	_	_
-1	መጥት	መጥት	NOUN	NOUN	VerbForm=Vnoun	6	advmod	_	Translit=mäţətə|LTranslit=mäţətə
+1	መጥት	መጥት	NOUN	NOUN	VerbForm=Vnoun	6	obl	_	Translit=mäţətə|LTranslit=mäţətə
 2	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	Translit='o|LTranslit='o
 3-6	የሚሰራ	_	_	_	_	_	_	_	_
 3	የ	የ	PART	RLP	_	6	mark	_	Translit=jä|LTranslit=jä
@@ -3936,7 +3936,7 @@
 1-2	ወንድምህ	_	_	_	_	_	_	_	_
 1	ወንድም	ወንድም	NOUN	NOUN	_	6	obj	_	Translit=wänədəmə|LTranslit=wänədəmə
 2	ህ	ህ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes	1	nmod	_	Translit=hə|LTranslit=hə
-3	የት	የት	PRON	PRON	_	6	advmod	_	Translit=jätə|LTranslit=jätə
+3	የት	የት	PRON	PRON	_	6	obl	_	Translit=jätə|LTranslit=jätə
 4-5	ነው	_	_	_	_	_	_	_	_
 4	ን	ን	AUX	AUX	_	6	aux	_	Translit=nə|LTranslit=nə
 5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	6	expl	_	Translit='ăwə|LTranslit='ăwə
@@ -4175,7 +4175,7 @@
 # sent_id = data_UD-x12-s11
 # text = ምን ይሆን የሚል ሐሳብ አሸበራት ።
 # translit = mənə jəhonə jämilə ħäsabə 'äšäbäratə .
-1	ምን	ምን	PRON	PRON	_	7	advmod	_	Translit=mənə|LTranslit=mənə
+1	ምን	ምን	PRON	PRON	_	7	obl	_	Translit=mənə|LTranslit=mənə
 2-3	ይሆን	_	_	_	_	_	_	_	_
 2	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit=jə|LTranslit=jə
 3	ሆን	ሆን	AUX	AUX	_	7	aux	_	Translit=honə|LTranslit=honə
@@ -4332,7 +4332,7 @@
 1	ይህ	ይህ	DET	DET	_	3	det	_	Translit=jəhə|LTranslit=jəhə
 2	ን	ን	PART	ACC	_	3	case	_	Translit=nə|LTranslit=nə
 3	ወንዝ	ወንዝ	NOUN	NOUN	_	8	obj	_	Translit=wänəzə|LTranslit=wänəzə
-4	እንዴት	እንዴት	PRON	PRON	_	8	advmod	_	Translit='ənədetə|LTranslit='ənədetə
+4	እንዴት	እንዴት	PRON	PRON	_	8	obl	_	Translit='ənədetə|LTranslit='ənədetə
 5-8	እንደምሻገር	_	_	_	_	_	_	_	_
 5	እንደ	እንደ	SCONJ	SCONJ	_	8	mark	_	Translit='ənədä|LTranslit='ənədä
 6	የ	የ	PART	RLP	_	8	mark	_	Translit=jä|LTranslit=jä
@@ -4843,7 +4843,7 @@
 11	ዋ	ዋ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes	10	nmod	_	Translit=wa|LTranslit=wa
 12-15	አይቅርም	_	_	_	_	_	_	_	_
 12	ኣል	ኣል	PART	NEG	Polarity=Neg	14	advmod	_	Translit='alə|LTranslit='alə
-13	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	14	advmod	_	Translit=jə|LTranslit=jə
+13	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	14	obl	_	Translit=jə|LTranslit=jə
 14	ቀር	ቀር	VERB	VERB	_	0	root	_	Translit=qärə|LTranslit=qärə
 15	ም	ም	PART	NCM	_	14	discourse	_	Translit=mə|LTranslit=mə
 16	።	።	PUNCT	PUNCT	_	14	punct	_	Translit=.|LTranslit=.
@@ -4882,7 +4882,7 @@
 # sent_id = data_UD-x14-s18
 # text = መቼ ትመጣለህ ?
 # translit = mäče təmäţalähə ?
-1	መቼ	መቼ	PRON	PRON	_	3	advmod	_	Translit=mäče|LTranslit=mäče
+1	መቼ	መቼ	PRON	PRON	_	3	obl	_	Translit=mäče|LTranslit=mäče
 2-5	ትመጣለህ	_	_	_	_	_	_	_	_
 2	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	Translit=tə|LTranslit=tə
 3	መጣ	መጣ	VERB	VERB	_	0	root	_	Translit=mäţa|LTranslit=mäţa
@@ -4975,7 +4975,7 @@
 6-7	ከስንት	_	_	_	_	_	_	_	_
 6	ከ	ከ	ADP	ADP	_	8	case	_	Translit=kä|LTranslit=kä
 7	ስንት	ስንት	ADJ	ADJ	_	8	amod	_	Translit=sənətə|LTranslit=sənətə
-8	ጊዜ	ጊዜ	NOUN	NOUN	_	4	advmod	_	Translit=gize|LTranslit=gize
+8	ጊዜ	ጊዜ	NOUN	NOUN	_	4	obl	_	Translit=gize|LTranslit=gize
 9-10	በፊት	_	_	_	_	_	_	_	_
 9	በ	በ	ADP	ADP	_	10	case	_	Translit=bä|LTranslit=bä
 10	ፊት	ፊት	NOUN	NOUN	_	8	nmod	_	Translit=fitə|LTranslit=fitə
@@ -5017,7 +5017,7 @@
 # translit = 'äsəterə təməhərətə betə təhidə !
 1	አስቴር	አስቴር	PROPN	PROPN	_	5	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
 2	ትምህርት	ትምህርት	NOUN	NOUN	_	3	compound	_	Translit=təməhərətə|LTranslit=təməhərətə
-3	ቤት	ቤት	NOUN	NOUN	_	5	advmod	_	Translit=betə|LTranslit=betə
+3	ቤት	ቤት	NOUN	NOUN	_	5	obl	_	Translit=betə|LTranslit=betə
 4-5	ትሂድ	_	_	_	_	_	_	_	_
 4	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	Translit=tə|LTranslit=tə
 5	ሂድ	ሂድ	VERB	VERB	Mood=Jus	0	root	_	Translit=hidə|LTranslit=hidə
@@ -5122,7 +5122,7 @@
 # text = ወደ ታች ውረዱ !
 # translit = wädä tačə wərädu !
 1	ወደ	ወደ	ADP	ADP	_	2	case	_	Translit=wädä|LTranslit=wädä
-2	ታች	ታች	NOUN	NOUN	_	3	advmod	_	Translit=tačə|LTranslit=tačə
+2	ታች	ታች	NOUN	NOUN	_	3	obl	_	Translit=tačə|LTranslit=tačə
 3-4	ውረዱ	_	_	_	_	_	_	_	_
 3	ውረድ	ውረድ	VERB	VERB	Mood=Jus	0	root	_	Translit=wərädə|LTranslit=wərädə
 4	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	3	nsubj	_	Translit='u|LTranslit='u
@@ -5341,7 +5341,7 @@
 # translit = bäfitačəhu wädaläčəwə mänədärə hidu .
 1-3	በፊታችሁ	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
-2	ፊት	ፊት	NOUN	NOUN	_	8	advmod	_	Translit=fitə|LTranslit=fitə
+2	ፊት	ፊት	NOUN	NOUN	_	8	obl	_	Translit=fitə|LTranslit=fitə
 3	ኣችሁ	ኣችሁ	PRON	POSM	Number=Plur|Person=2|Poss=Yes	2	nmod	_	Translit='ačəhu|LTranslit='ačəhu
 4-7	ወዳለችው	_	_	_	_	_	_	_	_
 4	ወደ	ወደ	ADP	ADP	_	8	case	_	Translit=wädä|LTranslit=wädä
@@ -5451,7 +5451,7 @@
 4	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	2	expl	_	Translit=tə|LTranslit=tə
 5	ን	ን	PART	ACC	_	6	case	_	Translit=nə|LTranslit=nə
 6	ገንዘብ	ገንዘብ	NOUN	NOUN	_	10	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
-7	መቼ	መቼ	PRON	PRON	_	10	advmod	_	Translit=mäče|LTranslit=mäče
+7	መቼ	መቼ	PRON	PRON	_	10	obl	_	Translit=mäče|LTranslit=mäče
 8-10	ሳልከፍል	_	_	_	_	_	_	_	_
 8	ስ	ስ	SCONJ	SCONJ	_	10	mark	_	Translit=sə|LTranslit=sə
 9	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	Translit='alə|LTranslit='alə
@@ -5593,7 +5593,7 @@
 12-13	ወደዚያ	_	_	_	_	_	_	_	_
 12	ወደ	ወደ	ADP	ADP	_	14	case	_	Translit=wädä|LTranslit=wädä
 13	እዚያ	እዚያ	DET	DET	_	14	det	_	Translit='əzija|LTranslit='əzija
-14	ቦታ	ቦታ	NOUN	NOUN	_	17	advmod	_	Translit=bota|LTranslit=bota
+14	ቦታ	ቦታ	NOUN	NOUN	_	17	obl	_	Translit=bota|LTranslit=bota
 15-17	አትላክ	_	_	_	_	_	_	_	_
 15	ኣል	ኣል	PART	NEG	Polarity=Neg	17	advmod	_	Translit='alə|LTranslit='alə
 16	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	17	nsubj	_	Translit=tə|LTranslit=tə
@@ -5606,7 +5606,7 @@
 1-2	የበለጠ	_	_	_	_	_	_	_	_
 1	የ	የ	ADP	ADP	_	2	case	_	Translit=jä|LTranslit=jä
 2	በለጠ	በለጠ	ADJ	ADJ	_	3	amod	_	Translit=bäläţä|LTranslit=bäläţä
-3	ችሮታ	ችሮታ	NOUN	NOUN	_	5	advmod	_	Translit=čərota|LTranslit=čərota
+3	ችሮታ	ችሮታ	NOUN	NOUN	_	5	obl	_	Translit=čərota|LTranslit=čərota
 4-5	ለማድረግ	_	_	_	_	_	_	_	_
 4	ለ	ለ	ADP	ADP	_	5	case	_	Translit=lä|LTranslit=lä
 5	ማድረግ	ማድረግ	NOUN	NOUN	VerbForm=Vnoun	9	obl	_	Translit=madərägə|LTranslit=madərägə
@@ -6009,7 +6009,7 @@
 1-2	በዛሬ	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
 2	ዛሬ	ዛሬ	NOUN	NOUN	_	3	obl	_	Translit=zare|LTranslit=zare
-3	ጊዜ	ጊዜ	NOUN	NOUN	_	9	advmod	_	Translit=gize|LTranslit=gize
+3	ጊዜ	ጊዜ	NOUN	NOUN	_	9	obl	_	Translit=gize|LTranslit=gize
 4	ገንዘብ	ገንዘብ	NOUN	NOUN	_	6	nmod	_	Translit=gänəzäbə|LTranslit=gänəzäbə
 5-6	ለማግኘት	_	_	_	_	_	_	_	_
 5	ለ	ለ	ADP	ADP	_	6	case	_	Translit=lä|LTranslit=lä
@@ -6119,7 +6119,7 @@
 3	ብ	ብ	SCONJ	SCONJ	_	5	mark	_	Translit=bə|LTranslit=bə
 4	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	Translit=jə|LTranslit=jə
 5	ሆን	ሆን	VERB	VERB	_	15	advcl	_	Translit=honə|LTranslit=honə
-6	እንዴት	እንዴት	PRON	PRON	_	15	advmod	_	Translit='ənədetə|LTranslit='ənədetə
+6	እንዴት	እንዴት	PRON	PRON	_	15	obl	_	Translit='ənədetə|LTranslit='ənədetə
 7-8	ለገንዘብ	_	_	_	_	_	_	_	_
 7	ለ	ለ	ADP	ADP	_	8	case	_	Translit=lä|LTranslit=lä
 8	ገንዘብ	ገንዘብ	NOUN	NOUN	_	11	obl	_	Translit=gänəzäbə|LTranslit=gänəzäbə
@@ -6256,7 +6256,7 @@
 4	ስ	ስ	INTJ	INTJ	_	1	discourse	_	Translit=sə|LTranslit=sə
 5-6	እንደምን	_	_	_	_	_	_	_	_
 5	እንደ	እንደ	ADP	ADP	_	6	case	_	Translit='ənədä|LTranslit='ənədä
-6	ምን	ምን	PRON	PRON	_	1	advmod	_	Translit=mənə|LTranslit=mənə
+6	ምን	ምን	PRON	PRON	_	1	obl	_	Translit=mənə|LTranslit=mənə
 7-10	ነዎት	_	_	_	_	_	_	_	_
 7	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
 8	ኧ	ኧ	PRON	SUBJC	Number=Sing|Person=2	1	nsubj	_	Translit='ă|LTranslit='ă
@@ -7531,7 +7531,7 @@
 3	ምነው	ምነው	PRON	PRON	_	6	discourse	_	Translit=mənäwə|LTranslit=mənäwə
 4-5	በደንብ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
-5	ደንብ	ደንብ	NOUN	NOUN	_	6	advmod	_	Translit=dänəbə|LTranslit=dänəbə
+5	ደንብ	ደንብ	NOUN	NOUN	_	6	obl	_	Translit=dänəbə|LTranslit=dänəbə
 6-7	በልቶ	_	_	_	_	_	_	_	_
 6	በልት	በልት	VERB	VERB	_	8	advcl	_	Translit=bälətə|LTranslit=bälətə
 7	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	Translit='o|LTranslit='o
@@ -7635,7 +7635,7 @@
 # sent_id = data_UD-third_apple_2-x02-s2
 # text = ምነው ቢያዳምጣት ኖሮ ።
 # translit = mənäwə bijadaməţatə noro .
-1	ምነው	ምነው	PRON	PRON	_	4	advmod	_	Translit=mənäwə|LTranslit=mənäwə
+1	ምነው	ምነው	PRON	PRON	_	4	obl	_	Translit=mənäwə|LTranslit=mənäwə
 2-5	ቢያዳምጣት	_	_	_	_	_	_	_	_
 2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	Translit=bə|LTranslit=bə
 3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=jə|LTranslit=jə
@@ -7650,7 +7650,7 @@
 # text = ሁለት ሰዓት ሳይበላ ቢቆይ ሆዱን አመመው ።
 # translit = hulätə sä`atə sajəbäla biqojə hodunə 'ämämäwə .
 1	ሁለት	ሁለት	NUM	NUM	NumType=Card	2	nummod	_	Translit=hulätə|LTranslit=hulätə
-2	ሰዓት	ሰዓት	NOUN	NOUN	_	6	advmod	_	Translit=sä`atə|LTranslit=sä`atə
+2	ሰዓት	ሰዓት	NOUN	NOUN	_	6	obl	_	Translit=sä`atə|LTranslit=sä`atə
 3-7	ሳይበላ	_	_	_	_	_	_	_	_
 3	ስ	ስ	SCONJ	SCONJ	_	6	advmod	_	Translit=sə|LTranslit=sə
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	Translit='alə|LTranslit='alə
@@ -7673,7 +7673,7 @@
 # sent_id = data_UD-third_apple_2-x02-s4
 # text = ምነው ይህን ያህል ባልሠራ ።
 # translit = mənäwə jəhənə jahələ baləśära .
-1	ምነው	ምነው	PRON	PRON	_	3	advmod	_	Translit=mənäwə|LTranslit=mənäwə
+1	ምነው	ምነው	PRON	PRON	_	3	obl	_	Translit=mənäwə|LTranslit=mənäwə
 2	ይህን	ይህን	DET	DET	_	3	obj	_	Translit=jəhənə|LTranslit=jəhənə
 3	ያህል	ያህል	VERB	VERB	_	6	advcl	_	Translit=jahələ|LTranslit=jahələ
 4-7	ባልሠራ	_	_	_	_	_	_	_	_
@@ -7686,7 +7686,7 @@
 # sent_id = data_UD-third_apple_2-x02-s5
 # text = ምነው አስተማሪ በሆንሁ ።
 # translit = mənäwə 'äsətämari bähonəhu .
-1	ምነው	ምነው	PRON	PRON	_	4	advmod	_	Translit=mənäwə|LTranslit=mənäwə
+1	ምነው	ምነው	PRON	PRON	_	4	obl	_	Translit=mənäwə|LTranslit=mənäwə
 2	አስተማሪ	አስተማሪ	NOUN	NOUN	_	4	obj	_	Translit='äsətämari|LTranslit='äsətämari
 3-5	በሆንሁ	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	4	mark	_	Translit=bä|LTranslit=bä
@@ -7894,7 +7894,7 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	6	nsubj	_	Translit=kasa|LTranslit=kasa
 2-3	በድንገት	_	_	_	_	_	_	_	_
 2	በ	በ	ADP	ADP	_	3	case	_	Translit=bä|LTranslit=bä
-3	ድንገት	ድንገት	NOUN	NOUN	_	6	advmod	_	Translit=dənəgätə|LTranslit=dənəgätə
+3	ድንገት	ድንገት	NOUN	NOUN	_	6	obl	_	Translit=dənəgätə|LTranslit=dənəgätə
 4	ወደ	ወደ	ADP	ADP	_	5	case	_	Translit=wädä|LTranslit=wädä
 5	ጎንደር	ጎንደር	PROPN	PROPN	_	6	obl	_	Translit=gonədärə|LTranslit=gonədärə
 6-7	ሄደ	_	_	_	_	_	_	_	_
@@ -7909,7 +7909,7 @@
 2	ትናንት	ትናንት	ADV	ADV	_	9	advmod	_	Translit=tənanətə|LTranslit=tənanətə
 3-4	በድንገት	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
-4	ድንገት	ድንገት	NOUN	NOUN	_	9	advmod	_	Translit=dənəgätə|LTranslit=dənəgätə
+4	ድንገት	ድንገት	NOUN	NOUN	_	9	obl	_	Translit=dənəgätə|LTranslit=dənəgätə
 5-6	በመኪና	_	_	_	_	_	_	_	_
 5	በ	በ	ADP	ADP	_	6	case	_	Translit=bä|LTranslit=bä
 6	መኪና	መኪና	NOUN	NOUN	_	9	obl	_	Translit=mäkina|LTranslit=mäkina
@@ -7925,7 +7925,7 @@
 # translit = bärəgəţə kasa tənanətə wädä gonədärə hedo'älə .
 1-2	በርግጥ	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
-2	ርግጥ	ርግጥ	NOUN	NOUN	_	7	advmod	_	Translit=rəgəţə|LTranslit=rəgəţə
+2	ርግጥ	ርግጥ	NOUN	NOUN	_	7	obl	_	Translit=rəgəţə|LTranslit=rəgəţə
 3	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	Translit=kasa|LTranslit=kasa
 4	ትናንት	ትናንት	ADV	ADV	_	7	advmod	_	Translit=tənanətə|LTranslit=tənanətə
 5	ወደ	ወደ	ADP	ADP	_	6	case	_	Translit=wädä|LTranslit=wädä
@@ -8021,7 +8021,7 @@
 # translit = kä'əne bäläţäčə .
 1-2	ከእኔ	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
-2	እኔ	እኔ	PRON	PRON	_	3	advmod	_	Translit='əne|LTranslit='əne
+2	እኔ	እኔ	PRON	PRON	_	3	obl	_	Translit='əne|LTranslit='əne
 3-4	በለጠች	_	_	_	_	_	_	_	_
 3	በለጥ	በለጥ	VERB	VERB	_	0	root	_	Translit=bäläţə|LTranslit=bäläţə
 4	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	3	nsubj	_	Translit='ăčə|LTranslit='ăčə
@@ -8055,7 +8055,7 @@
 # translit = kasa wädä betäkərəsətijanə hedä .
 1	ካሳ	ካሳ	PROPN	PROPN	_	4	nsubj	_	Translit=kasa|LTranslit=kasa
 2	ወደ	ወደ	ADP	ADP	_	3	case	_	Translit=wädä|LTranslit=wädä
-3	ቤተክርስቲያን	ቤተክርስቲያን	NOUN	NOUN	_	4	advmod	_	Translit=betäkərəsətijanə|LTranslit=betäkərəsətijanə
+3	ቤተክርስቲያን	ቤተክርስቲያን	NOUN	NOUN	_	4	obl	_	Translit=betäkərəsətijanə|LTranslit=betäkərəsətijanə
 4-5	ሄደ	_	_	_	_	_	_	_	_
 4	ሄድ	ሄድ	VERB	VERB	_	0	root	_	Translit=hedə|LTranslit=hedə
 5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit='ă|LTranslit='ă
@@ -8072,7 +8072,7 @@
 5	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	4	expl	_	Translit='ăčə|LTranslit='ăčə
 6	ወደ	ወደ	ADP	ADP	_	8	case	_	Translit=wädä|LTranslit=wädä
 7	ትምህርት	ትምህርት	NOUN	NOUN	_	8	compound	_	Translit=təməhərətə|LTranslit=təməhərətə
-8	ቤት	ቤት	NOUN	NOUN	_	10	advmod	_	Translit=betə|LTranslit=betə
+8	ቤት	ቤት	NOUN	NOUN	_	10	obl	_	Translit=betə|LTranslit=betə
 9-12	አልሄደም	_	_	_	_	_	_	_	_
 9	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	Translit='alə|LTranslit='alə
 10	ሄድ	ሄድ	VERB	VERB	_	0	root	_	Translit=hedə|LTranslit=hedə
@@ -8093,7 +8093,7 @@
 6	መኪና	መኪና	NOUN	NOUN	_	10	obl	_	Translit=mäkina|LTranslit=mäkina
 7	ዛሬ	ዛሬ	ADV	ADV	_	10	advmod	_	Translit=zare|LTranslit=zare
 8	ወደ	ወደ	ADP	ADP	_	9	case	_	Translit=wädä|LTranslit=wädä
-9	ሆስፒታል	ሆስፒታል	NOUN	NOUN	_	10	advmod	_	Translit=hosəpitalə|LTranslit=hosəpitalə
+9	ሆስፒታል	ሆስፒታል	NOUN	NOUN	_	10	obl	_	Translit=hosəpitalə|LTranslit=hosəpitalə
 10-11	ሄደ	_	_	_	_	_	_	_	_
 10	ሄድ	ሄድ	VERB	VERB	_	0	root	_	Translit=hedə|LTranslit=hedə
 11	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	Translit='ă|LTranslit='ă
@@ -8105,7 +8105,7 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	10	nsubj	_	Translit=kasa|LTranslit=kasa
 2-3	በርግጥ	_	_	_	_	_	_	_	_
 2	በ	በ	ADP	ADP	_	3	case	_	Translit=bä|LTranslit=bä
-3	ርግጥ	ርግጥ	NOUN	NOUN	_	10	advmod	_	Translit=rəgəţə|LTranslit=rəgəţə
+3	ርግጥ	ርግጥ	NOUN	NOUN	_	10	obl	_	Translit=rəgəţə|LTranslit=rəgəţə
 4-5	በመኪና	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	Case=Ins	5	case	_	Translit=bä|LTranslit=bä
 5	መኪና	መኪና	NOUN	NOUN	_	10	obl	_	Translit=mäkina|LTranslit=mäkina
@@ -8323,7 +8323,7 @@
 1	የ	የ	ADP	ADP	_	2	case	_	Translit=jä|LTranslit=jä
 2	አባት	አባት	NOUN	NOUN	_	4	obl	_	Translit='äbatə|LTranslit='äbatə
 3	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	2	nmod	_	Translit='u|LTranslit='u
-4	መምጣት	መምጣት	NOUN	NOUN	VerbForm=Vnoun	7	advmod	_	Translit=mäməţatə|LTranslit=mäməţatə
+4	መምጣት	መምጣት	NOUN	NOUN	VerbForm=Vnoun	7	obl	_	Translit=mäməţatə|LTranslit=mäməţatə
 5-6	ካሳን	_	_	_	_	_	_	_	_
 5	ካሳ	ካሳ	PROPN	PROPN	_	7	obj	_	Translit=kasa|LTranslit=kasa
 6	ን	ን	PART	ACC	_	5	case	_	Translit=nə|LTranslit=nə
@@ -8497,7 +8497,7 @@
 1-2	ድመቱ	_	_	_	_	_	_	_	_
 1	ድመት	ድመት	NOUN	NOUN	_	5	nsubj	_	Translit=dəmätə|LTranslit=dəmätə
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
-3	ዛፍ	ዛፍ	NOUN	NOUN	_	5	advmod	_	Translit=zafə|LTranslit=zafə
+3	ዛፍ	ዛፍ	NOUN	NOUN	_	5	obl	_	Translit=zafə|LTranslit=zafə
 4	ላይ	ላይ	ADP	ADP	_	3	case	_	Translit=lajə|LTranslit=lajə
 5	ያለ	ያለ	VERB	VERB	_	6	ccomp	_	Translit=jalä|LTranslit=jalä
 6-7	መሰለኝ	_	_	_	_	_	_	_	_
@@ -8545,7 +8545,7 @@
 6-7	ወንድሟ	_	_	_	_	_	_	_	_
 6	ወንድም	ወንድም	NOUN	NOUN	_	8	obl	_	Translit=wänədəmə|LTranslit=wänədəmə
 7	ዋ	ዋ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes	6	obl	_	Translit=wa|LTranslit=wa
-8	ሞት	ሞት	NOUN	NOUN	_	9	advmod	_	Translit=motə|LTranslit=motə
+8	ሞት	ሞት	NOUN	NOUN	_	9	obl	_	Translit=motə|LTranslit=motə
 9-10	ጠየቀች	_	_	_	_	_	_	_	_
 9	ጠየቅ	ጠየቅ	VERB	VERB	_	0	root	_	Translit=ţäjäqə|LTranslit=ţäjäqə
 10	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	9	expl	_	Translit='ăčə|LTranslit='ăčə
@@ -8560,7 +8560,7 @@
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4-5	ወደእኔ	_	_	_	_	_	_	_	_
 4	ወደ	ወደ	ADP	ADP	_	5	case	_	Translit=wädä|LTranslit=wädä
-5	እኔ	እኔ	PRON	PRON	_	6	advmod	_	Translit='əne|LTranslit='əne
+5	እኔ	እኔ	PRON	PRON	_	6	obl	_	Translit='əne|LTranslit='əne
 6-7	አሰመረች	_	_	_	_	_	_	_	_
 6	አሰመር	አሰመር	VERB	VERB	_	0	root	_	Translit='äsämärə|LTranslit='äsämärə
 7	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Translit='ăčə|LTranslit='ăčə
@@ -8571,10 +8571,10 @@
 # translit = kasa wädä godžamə bä'äwətobəsə tägwazä .
 1	ካሳ	ካሳ	PROPN	PROPN	_	6	nsubj	_	Translit=kasa|LTranslit=kasa
 2	ወደ	ወደ	ADP	ADP	_	3	case	_	Translit=wädä|LTranslit=wädä
-3	ጎጃም	ጎጃም	PROPN	PROPN	_	6	advmod	_	Translit=godžamə|LTranslit=godžamə
+3	ጎጃም	ጎጃም	PROPN	PROPN	_	6	obl	_	Translit=godžamə|LTranslit=godžamə
 4-5	በአውቶብስ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
-5	አውቶብስ	አውቶብስ	NOUN	NOUN	_	6	advmod	_	Translit='äwətobəsə|LTranslit='äwətobəsə
+5	አውቶብስ	አውቶብስ	NOUN	NOUN	_	6	obl	_	Translit='äwətobəsə|LTranslit='äwətobəsə
 6-7	ተጓዘ	_	_	_	_	_	_	_	_
 6	ተጓዝ	ተጓዝ	VERB	VERB	_	0	root	_	Translit=tägwazə|LTranslit=tägwazə
 7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	Translit='ă|LTranslit='ă
@@ -8883,7 +8883,7 @@
 6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit='ă|LTranslit='ă
 7	ው	ው	PRON	PRON	_	5	expl	_	Translit=wə|LTranslit=wə
 8	እንደ	እንደ	ADP	ADP	_	9	mark	_	Translit='ənədä|LTranslit='ənədä
-9	ሕልም	ሕልም	NOUN	NOUN	_	5	advmod	_	Translit=ħələmə|LTranslit=ħələmə
+9	ሕልም	ሕልም	NOUN	NOUN	_	5	obl	_	Translit=ħələmə|LTranslit=ħələmə
 10-11	ነው	_	_	_	_	_	_	_	_
 10	ን	ን	AUX	AUX	_	5	aux	_	Translit=nə|LTranslit=nə
 11	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	5	expl	_	Translit='ăwə|LTranslit='ăwə
@@ -8945,7 +8945,7 @@
 1-2	ያንን	_	_	_	_	_	_	_	_
 1	ያ	ያ	DET	DET	_	3	det	_	Translit=ja|LTranslit=ja
 2	ን	ን	PART	ACC	_	3	case	_	Translit=nə|LTranslit=nə
-3	መንገድ	መንገድ	NOUN	NOUN	_	7	advmod	_	Translit=mänəgädə|LTranslit=mänəgädə
+3	መንገድ	መንገድ	NOUN	NOUN	_	7	obl	_	Translit=mänəgädə|LTranslit=mänəgädə
 4-5	ነው	_	_	_	_	_	_	_	_
 4	ን	ን	AUX	AUX	_	7	aux	_	Translit=nə|LTranslit=nə
 5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	7	expl	_	Translit='ăwə|LTranslit='ăwə
@@ -9039,7 +9039,7 @@
 1-2	እስካሁን	_	_	_	_	_	_	_	_
 1	እስከ	እስከ	ADP	ADP	_	2	case	_	Translit='əsəkä|LTranslit='əsəkä
 2	ኣሁን	ኣሁን	NOUN	NOUN	_	6	advcl	_	Translit='ahunə|LTranslit='ahunə
-3	ማወቅ	ማወቅ	NOUN	NOUN	VerbForm=Vnoun	6	advmod	_	Translit=mawäqə|LTranslit=mawäqə
+3	ማወቅ	ማወቅ	NOUN	NOUN	VerbForm=Vnoun	6	obl	_	Translit=mawäqə|LTranslit=mawäqə
 4-8	ያልቻልኩት	_	_	_	_	_	_	_	_
 4	የ	የ	PART	RLP	_	6	mark	_	Translit=jä|LTranslit=jä
 5	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	Translit='alə|LTranslit='alə
@@ -9118,7 +9118,7 @@
 # text = አንድ ጊዜ ጎጃም ውስጥ አስተማሪ ነበር ።
 # translit = 'änədə gize godžamə wəsəţə 'äsətämari näbärə .
 1	አንድ	አንድ	NUM	NUM	NumType=Card	2	nummod	_	Translit='änədə|LTranslit='änədə
-2	ጊዜ	ጊዜ	NOUN	NOUN	_	5	advmod	_	Translit=gize|LTranslit=gize
+2	ጊዜ	ጊዜ	NOUN	NOUN	_	5	obl	_	Translit=gize|LTranslit=gize
 3	ጎጃም	ጎጃም	PROPN	PROPN	_	5	obl	_	Translit=godžamə|LTranslit=godžamə
 4	ውስጥ	ውስጥ	ADP	ADP	_	3	case	_	Translit=wəsəţə|LTranslit=wəsəţə
 5	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
@@ -9383,7 +9383,7 @@
 # sent_id = data_UD-third_apple_2-x08-s9
 # text = መኪና ውስጥ ተቀመጠ ።
 # translit = mäkina wəsəţə täqämäţä .
-1	መኪና	መኪና	NOUN	NOUN	_	3	advmod	_	Translit=mäkina|LTranslit=mäkina
+1	መኪና	መኪና	NOUN	NOUN	_	3	obl	_	Translit=mäkina|LTranslit=mäkina
 2	ውስጥ	ውስጥ	ADP	ADP	_	1	case	_	Translit=wəsəţə|LTranslit=wəsəţə
 3-4	ተቀመጠ	_	_	_	_	_	_	_	_
 3	ተቀመጥ	ተቀመጥ	VERB	VERB	Voice=Pass	0	root	_	Translit=täqämäţə|LTranslit=täqämäţə
@@ -9420,7 +9420,7 @@
 2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
 3-4	በአስቴር	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
-4	አስቴር	አስቴር	PROPN	PROPN	_	6	advmod	_	Translit='äsəterə|LTranslit='äsəterə
+4	አስቴር	አስቴር	PROPN	PROPN	_	6	obl	_	Translit='äsəterə|LTranslit='äsəterə
 5	ላይ	ላይ	ADP	ADP	_	4	case	_	Translit=lajə|LTranslit=lajə
 6-9	ፈረዱባት	_	_	_	_	_	_	_	_
 6	ፈረድ	ፈረድ	VERB	VERB	_	0	root	_	Translit=färädə|LTranslit=färädə
@@ -9454,7 +9454,7 @@
 1	አስቴር	አስቴር	PROPN	PROPN	_	6	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
 2-4	በመጥረጊያው	_	_	_	_	_	_	_	_
 2	በ	በ	ADP	ADP	Case=Ins	3	case	_	Translit=bä|LTranslit=bä
-3	መጥረጊያ	መጥረጊያ	NOUN	NOUN	_	6	advmod	_	Translit=mäţərägija|LTranslit=mäţərägija
+3	መጥረጊያ	መጥረጊያ	NOUN	NOUN	_	6	obl	_	Translit=mäţərägija|LTranslit=mäţərägija
 4	ው	ው	DET	DET	_	3	det	_	Translit=wə|LTranslit=wə
 5	መስኮት	መስኮት	NOUN	NOUN	_	6	obj	_	Translit=mäsəkotə|LTranslit=mäsəkotə
 6-9	ጠረገችበት	_	_	_	_	_	_	_	_
@@ -9560,7 +9560,7 @@
 4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
 5-6	ወደጎጃም	_	_	_	_	_	_	_	_
 5	ወደ	ወደ	ADP	ADP	Case=Loc	6	case	_	Translit=wädä|LTranslit=wädä
-6	ጎጃም	ጎጃም	PROPN	PROPN	_	7	advmod	_	Translit=godžamə|LTranslit=godžamə
+6	ጎጃም	ጎጃም	PROPN	PROPN	_	7	obl	_	Translit=godžamə|LTranslit=godžamə
 7-9	አስወሰዳት	_	_	_	_	_	_	_	_
 7	አስወሰድ	አስወሰድ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəwäsädə|LTranslit='äsəwäsädə
 8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	Translit='ă|LTranslit='ă
@@ -9665,7 +9665,7 @@
 6	ሰው	ሰው	NOUN	NOUN	_	11	obj	_	Translit=säwə|LTranslit=säwə
 7	ዬ	ዬ	DET	DET	_	6	det	_	Translit=je|LTranslit=je
 8-9	ዳኛው	_	_	_	_	_	_	_	_
-8	ዳኛ	ዳኛ	NOUN	NOUN	_	11	advmod	_	Translit=daňa|LTranslit=daňa
+8	ዳኛ	ዳኛ	NOUN	NOUN	_	11	obl	_	Translit=daňa|LTranslit=daňa
 9	ው	ው	DET	DET	_	8	det	_	Translit=wə|LTranslit=wə
 10	ፊት	ፊት	ADP	ADP	_	8	case	_	Translit=fitə|LTranslit=fitə
 11-13	አቀረቡት	_	_	_	_	_	_	_	_
@@ -9803,7 +9803,7 @@
 # translit = käbetə 'äsəwäţachwatə .
 1-2	ከቤት	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
-2	ቤት	ቤት	NOUN	NOUN	_	3	advmod	_	Translit=betə|LTranslit=betə
+2	ቤት	ቤት	NOUN	NOUN	_	3	obl	_	Translit=betə|LTranslit=betə
 3-5	አስወጣኋት	_	_	_	_	_	_	_	_
 3	አስወጣ	አስወጣ	VERB	VERB	Voice=Cau	0	root	_	Translit='äsəwäţa|LTranslit='äsəwäţa
 4	ሁ	ሁ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=3	3	nsubj	_	Translit=hu|LTranslit=hu
@@ -9843,7 +9843,7 @@
 1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	መንገድ	መንገድ	NOUN	NOUN	_	6	nsubj	_	Translit=mänəgädə|LTranslit=mänəgädə
 3	ወደ	ወደ	ADP	ADP	_	4	case	_	Translit=wädä|LTranslit=wädä
-4	ግቢ	ግቢ	NOUN	NOUN	_	6	advmod	_	Translit=gəbi|LTranslit=gəbi
+4	ግቢ	ግቢ	NOUN	NOUN	_	6	obl	_	Translit=gəbi|LTranslit=gəbi
 5-7	ያስኬዳል	_	_	_	_	_	_	_	_
 5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	Translit=jə|LTranslit=jə
 6	ኣስኬድ	ኣስኬድ	VERB	VERB	Voice=Cau	0	root	_	Translit='asəkedə|LTranslit='asəkedə
@@ -9903,7 +9903,7 @@
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
 5	ጅት	ጅት	NOUN	NOUN	_	7	obl	_	Translit=džətə|LTranslit=džətə
 6	ዋ	ዋ	DET	DET	_	5	det	_	Translit=wa|LTranslit=wa
-7	ምክንያት	ምክንያት	NOUN	NOUN	_	9	advmod	_	Translit=məkənəjatə|LTranslit=məkənəjatə
+7	ምክንያት	ምክንያት	NOUN	NOUN	_	9	obl	_	Translit=məkənəjatə|LTranslit=məkənəjatə
 8	ድንጋይ	ድንጋይ	NOUN	NOUN	_	9	obj	_	Translit=dənəgajə|LTranslit=dənəgajə
 9-10	ተወራውሩ	_	_	_	_	_	_	_	_
 9	ተወራውር	ተወራውር	VERB	VERB	Voice=Rcp	0	root	_	Translit=täwärawərə|LTranslit=täwärawərə
@@ -9964,7 +9964,7 @@
 # translit = läwänədəmă fəjälə gäzəta wädägodžamə läsärəgə təmäţaläčə .
 1-3	ለወንድሟ	_	_	_	_	_	_	_	_
 1	ለ	ለ	ADP	ADP	Case=Ben	2	case	_	Translit=lä|LTranslit=lä
-2	ወንድም	ወንድም	NOUN	NOUN	_	5	advmod	_	Translit=wänədəmə|LTranslit=wänədəmə
+2	ወንድም	ወንድም	NOUN	NOUN	_	5	obl	_	Translit=wänədəmə|LTranslit=wänədəmə
 3	ዋ	ዋ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes	2	nmod	_	Translit=wa|LTranslit=wa
 4	ፍየል	ፍየል	NOUN	NOUN	_	5	obj	_	Translit=fəjälə|LTranslit=fəjälə
 5-6	ገዝታ	_	_	_	_	_	_	_	_
@@ -10097,7 +10097,7 @@
 # translit = lämənə mäţəto 'äjənägəräňəmə ?
 1-2	ለምን	_	_	_	_	_	_	_	_
 1	ለ	ለ	ADP	ADP	_	2	case	_	Translit=lä|LTranslit=lä
-2	ምን	ምን	PRON	PRON	_	3	advmod	_	Translit=mənə|LTranslit=mənə
+2	ምን	ምን	PRON	PRON	_	3	obl	_	Translit=mənə|LTranslit=mənə
 3-4	መጥቶ	_	_	_	_	_	_	_	_
 3	መጥት	መጥት	VERB	VERB	VerbForm=Conv	7	advcl	_	Translit=mäţətə|LTranslit=mäţətə
 4	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	Translit='o|LTranslit='o
@@ -10177,7 +10177,7 @@
 7	አንስት	አንስት	VERB	VERB	VerbForm=Conv	12	compound:svc	_	Translit='änəsətə|LTranslit='änəsətə
 8	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	7	nsubj	_	Translit='a|LTranslit='a
 9-10	ጠረጴዛው	_	_	_	_	_	_	_	_
-9	ጠረጴዛ	ጠረጴዛ	NOUN	NOUN	_	12	advmod	_	Translit=ţäräpheza|LTranslit=ţäräpheza
+9	ጠረጴዛ	ጠረጴዛ	NOUN	NOUN	_	12	obl	_	Translit=ţäräpheza|LTranslit=ţäräpheza
 10	ው	ው	DET	DET	_	9	det	_	Translit=wə|LTranslit=wə
 11	ላይ	ላይ	ADP	ADP	_	9	case	_	Translit=lajə|LTranslit=lajə
 12-14	አኖረችው	_	_	_	_	_	_	_	_
@@ -10190,7 +10190,7 @@
 # text = ሶስት ወር አስረው ለቀቁት ።
 # translit = sosətə wärə 'äsəräwə läqäqutə .
 1	ሶስት	ሶስት	NUM	NUM	NumType=Card	2	nummod	_	Translit=sosətə|LTranslit=sosətə
-2	ወር	ወር	NOUN	NOUN	_	3	advmod	_	Translit=wärə|LTranslit=wärə
+2	ወር	ወር	NOUN	NOUN	_	3	obl	_	Translit=wärə|LTranslit=wärə
 3-4	አስረው	_	_	_	_	_	_	_	_
 3	አስር	አስር	VERB	VERB	VerbForm=Conv	5	compound:svc	_	Translit='äsərə|LTranslit='äsərə
 4	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	3	nsubj	_	Translit='ăwə|LTranslit='ăwə
@@ -10615,7 +10615,7 @@
 1-2	ባንዳንድ	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
 2	ኣንዳንድ	ኣንዳንድ	NUM	NUM	NumType=Card	3	obl	_	Translit='anədanədə|LTranslit='anədanədə
-3	ባህል	ባህል	NOUN	NOUN	_	14	advmod	_	Translit=bahələ|LTranslit=bahələ
+3	ባህል	ባህል	NOUN	NOUN	_	14	obl	_	Translit=bahələ|LTranslit=bahələ
 4	መለኵሴዎች	መለኵሴዎች	NOUN	NOUN	Number=Plur	14	obj	_	Translit=mäläkwəsewočə|LTranslit=mäläkwəsewočə
 5-6	በድንግልና	_	_	_	_	_	_	_	_
 5	በ	በ	ADP	ADP	_	6	case	_	Translit=bä|LTranslit=bä
@@ -10676,7 +10676,7 @@
 10	ል	ል	ADP	ADP	Case=Ben	8	case	_	Translit=lə|LTranslit=lə
 11	ኝ	ኝ	PRON	OBJC	Gender=Neut|Number=Sing|Person=1	8	expl	_	Translit=ňə|LTranslit=ňə
 12	በስተቀር	በስተቀር	ADP	ADP	_	8	case	_	Translit=bäsətäqärə|LTranslit=bäsətäqärə
-13	ማክሰኞ	ማክሰኞ	NOUN	NOUN	_	15	advmod	_	Translit=makəsäňo|LTranslit=makəsäňo
+13	ማክሰኞ	ማክሰኞ	NOUN	NOUN	_	15	obl	_	Translit=makəsäňo|LTranslit=makəsäňo
 14-17	እመጣለሁ	_	_	_	_	_	_	_	_
 14	እ	እ	PRON	SUBJC	Number=Sing|Person=1	15	nsubj	_	Translit='ə|LTranslit='ə
 15	መጣ	መጣ	VERB	VERB	_	0	root	_	Translit=mäţa|LTranslit=mäţa
@@ -10756,7 +10756,7 @@
 1-2	ነቅታ	_	_	_	_	_	_	_	_
 1	ነቅት	ነቅት	VERB	VERB	_	3	ccomp	_	Translit=näqətə|LTranslit=näqətə
 2	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	Translit='a|LTranslit='a
-3	መቆየት	መቆየት	NOUN	NOUN	VerbForm=Vnoun	5	advmod	_	Translit=mäqojätə|LTranslit=mäqojätə
+3	መቆየት	መቆየት	NOUN	NOUN	VerbForm=Vnoun	5	obl	_	Translit=mäqojätə|LTranslit=mäqojätə
 4-7	አልቻለችም	_	_	_	_	_	_	_	_
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	5	advmod	_	Translit='alə|LTranslit='alə
 5	ቻል	ቻል	VERB	VERB	_	0	root	_	Translit=čalə|LTranslit=čalə
@@ -10787,7 +10787,7 @@
 2	ካሳ	ካሳ	PROPN	PROPN	_	1	flat	_	Translit=kasa|LTranslit=kasa
 3-5	ለእስራ~ዘመኑ	_	_	_	_	_	_	_	_
 3	ለ	ለ	ADP	ADP	_	4	case	_	Translit=lä|LTranslit=lä
-4	እስራ~ዘመን	እስራ~ዘመን	NOUN	NOUN	_	8	advmod	_	Translit='əsəra~zämänə|LTranslit='əsəra~zämänə
+4	እስራ~ዘመን	እስራ~ዘመን	NOUN	NOUN	_	8	obl	_	Translit='əsəra~zämänə|LTranslit='əsəra~zämänə
 5	ኡ	ኡ	DET	DET	_	4	det	_	Translit='u|LTranslit='u
 6	አስር	አስር	NUM	NUM	NumType=Card	7	nummod	_	Translit='äsərə|LTranslit='äsərə
 7	ችግኝ	ችግኝ	NOUN	NOUN	_	8	obj	_	Translit=čəgəňə|LTranslit=čəgəňə
@@ -11182,7 +11182,7 @@
 # translit = kä'ənatu garə məsa jäbälawə kasa 'äjədälämə .
 1-3	ከእናቱ	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
-2	እናት	እናት	NOUN	NOUN	_	7	advmod	_	Translit='ənatə|LTranslit='ənatə
+2	እናት	እናት	NOUN	NOUN	_	7	obl	_	Translit='ənatə|LTranslit='ənatə
 3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
 4	ጋር	ጋር	ADP	ADP	_	2	case	_	Translit=garə|LTranslit=garə
 5	ምሳ	ምሳ	NOUN	NOUN	_	7	obj	_	Translit=məsa|LTranslit=məsa
@@ -11203,7 +11203,7 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	Translit=kasa|LTranslit=kasa
 2-4	ከእናቱ	_	_	_	_	_	_	_	_
 2	ከ	ከ	ADP	ADP	_	3	case	_	Translit=kä|LTranslit=kä
-3	እናት	እናት	NOUN	NOUN	_	7	advmod	_	Translit='ənatə|LTranslit='ənatə
+3	እናት	እናት	NOUN	NOUN	_	7	obl	_	Translit='ənatə|LTranslit='ənatə
 4	ኡ	ኡ	DET	DET	_	3	det	_	Translit='u|LTranslit='u
 5	ጋር	ጋር	ADP	ADP	_	3	case	_	Translit=garə|LTranslit=garə
 6-8	የበላው	_	_	_	_	_	_	_	_
@@ -11238,9 +11238,9 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	6	nsubj	_	Translit=kasa|LTranslit=kasa
 2-3	ያለትዳር	_	_	_	_	_	_	_	_
 2	ያለ	ያለ	PART	NEG	Polarity=Neg	3	advmod	_	Translit=jalä|LTranslit=jalä
-3	ትዳር	ትዳር	NOUN	NOUN	_	6	advmod	_	Translit=tədarə|LTranslit=tədarə
+3	ትዳር	ትዳር	NOUN	NOUN	_	6	obl	_	Translit=tədarə|LTranslit=tədarə
 4	ብዙ	ብዙ	NUM	NUM	NumType=Card	5	nummod	_	Translit=bəzu|LTranslit=bəzu
-5	ጊዜ	ጊዜ	NOUN	NOUN	_	6	advmod	_	Translit=gize|LTranslit=gize
+5	ጊዜ	ጊዜ	NOUN	NOUN	_	6	obl	_	Translit=gize|LTranslit=gize
 6-8	ኖሮአል	_	_	_	_	_	_	_	_
 6	ኖር	ኖር	VERB	VERB	_	0	root	_	Translit=norə|LTranslit=norə
 7	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	Translit='o|LTranslit='o
@@ -11282,7 +11282,7 @@
 1	ማንም	ማንም	PRON	PRON	_	5	nsubj	_	Translit=manəmə|LTranslit=manəmə
 2-3	ለምሳ	_	_	_	_	_	_	_	_
 2	ለ	ለ	ADP	ADP	_	3	case	_	Translit=lä|LTranslit=lä
-3	ምሳ	ምሳ	NOUN	NOUN	_	5	advmod	_	Translit=məsa|LTranslit=məsa
+3	ምሳ	ምሳ	NOUN	NOUN	_	5	obl	_	Translit=məsa|LTranslit=məsa
 4-7	አልቀረም	_	_	_	_	_	_	_	_
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	5	advmod	_	Translit='alə|LTranslit='alə
 5	ቀር	ቀር	VERB	VERB	_	0	root	_	Translit=qärə|LTranslit=qärə
@@ -11448,8 +11448,8 @@
 # translit = 'əsəkahunə 'ənədetə 'əzihə qojähə ?
 1-2	እስካሁን	_	_	_	_	_	_	_	_
 1	እስከ	እስከ	ADP	ADP	_	2	case	_	Translit='əsəkä|LTranslit='əsəkä
-2	ኣሁን	ኣሁን	NOUN	NOUN	_	5	advmod	_	Translit='ahunə|LTranslit='ahunə
-3	እንዴት	እንዴት	PRON	PRON	_	5	advmod	_	Translit='ənədetə|LTranslit='ənədetə
+2	ኣሁን	ኣሁን	NOUN	NOUN	_	5	obl	_	Translit='ahunə|LTranslit='ahunə
+3	እንዴት	እንዴት	PRON	PRON	_	5	obl	_	Translit='ənədetə|LTranslit='ənədetə
 4	እዚህ	እዚህ	DET	DET	_	5	advmod	_	Translit='əzihə|LTranslit='əzihə
 5-6	ቆየህ	_	_	_	_	_	_	_	_
 5	ቆይ	ቆይ	VERB	VERB	_	0	root	_	Translit=qojə|LTranslit=qojə
@@ -11558,7 +11558,7 @@
 1-2	ላንድ	_	_	_	_	_	_	_	_
 1	ለ	ለ	ADP	ADP	_	3	case	_	Translit=lä|LTranslit=lä
 2	ኣንድ	ኣንድ	NUM	NUM	NumType=Card	3	nummod	_	Translit='anədə|LTranslit='anədə
-3	ሰዓት	ሰዓት	NOUN	NOUN	_	5	advmod	_	Translit=sä`atə|LTranslit=sä`atə
+3	ሰዓት	ሰዓት	NOUN	NOUN	_	5	obl	_	Translit=sä`atə|LTranslit=sä`atə
 4-5	ያህል	_	_	_	_	_	_	_	_
 4	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit=jə|LTranslit=jə
 5	ኣህል	ኣህል	VERB	VERB	_	9	xcomp	_	Translit='ahələ|LTranslit='ahələ
@@ -11958,7 +11958,7 @@
 # translit = mənə jahələ gize 'äjähatə ?
 1	ምን	ምን	ADV	ADV	_	2	advmod	_	Translit=mənə|LTranslit=mənə
 2	ያህል	ያህል	ADJ	ADJ	_	3	amod	_	Translit=jahələ|LTranslit=jahələ
-3	ጊዜ	ጊዜ	NOUN	NOUN	_	4	advmod	_	Translit=gize|LTranslit=gize
+3	ጊዜ	ጊዜ	NOUN	NOUN	_	4	obl	_	Translit=gize|LTranslit=gize
 4-6	አየሃት	_	_	_	_	_	_	_	_
 4	አየ	አየ	VERB	VERB	_	0	root	_	Translit='äjä|LTranslit='äjä
 5	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	4	nsubj	_	Translit=hə|LTranslit=hə
@@ -11990,7 +11990,7 @@
 1-2	ከጥቂት	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	ADP	_	3	case	_	Translit=kä|LTranslit=kä
 2	ጥቂት	ጥቂት	ADJ	ADJ	_	3	amod	_	Translit=ţəqitə|LTranslit=ţəqitə
-3	ልምምድ	ልምምድ	NOUN	NOUN	_	10	advmod	_	Translit=ləməmədə|LTranslit=ləməmədə
+3	ልምምድ	ልምምድ	NOUN	NOUN	_	10	obl	_	Translit=ləməmədə|LTranslit=ləməmədə
 4	በኋላ	በኋላ	ADP	ADP	_	3	case	_	Translit=bächwala|LTranslit=bächwala
 5-7	የተሻለ	_	_	_	_	_	_	_	_
 5	የ	የ	ADP	ADP	_	6	mark	_	Translit=jä|LTranslit=jä
@@ -12036,7 +12036,7 @@
 # sent_id = data_UD-third_apple_2-x16-s20
 # text = ከተማ የምትሄድ እንደሆነ ጥራኝ ።
 # translit = kätäma jämətəhedə 'ənədähonä ţəraňə .
-1	ከተማ	ከተማ	NOUN	NOUN	_	5	advmod	_	Translit=kätäma|LTranslit=kätäma
+1	ከተማ	ከተማ	NOUN	NOUN	_	5	obl	_	Translit=kätäma|LTranslit=kätäma
 2-5	የምትሄድ	_	_	_	_	_	_	_	_
 2	የ	የ	PART	RLP	_	5	mark	_	Translit=jä|LTranslit=jä
 3	እም	እም	PART	IRLP	_	5	mark	_	Translit='əmə|LTranslit='əmə
@@ -12103,7 +12103,7 @@
 # translit = bämənə jarəsalu ? bäbäre näwa .
 1-2	በምን	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
-2	ምን	ምን	PRON	PRON	_	4	advmod	_	Translit=mənə|LTranslit=mənə
+2	ምን	ምን	PRON	PRON	_	4	obl	_	Translit=mənə|LTranslit=mənə
 3-6	ያርሳሉ	_	_	_	_	_	_	_	_
 3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=jə|LTranslit=jə
 4	ኣርስ	ኣርስ	VERB	VERB	_	9	parataxis	_	Translit='arəsə|LTranslit='arəsə
@@ -12126,7 +12126,7 @@
 1	እንጀራ	እንጀራ	NOUN	NOUN	_	5	obj	_	Translit='ənədžära|LTranslit='ənədžära
 2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	ምን	ምን	PRON	PRON	_	5	advmod	_	Translit=mənə|LTranslit=mənə
+4	ምን	ምን	PRON	PRON	_	5	obl	_	Translit=mənə|LTranslit=mənə
 5-7	አረግሽው	_	_	_	_	_	_	_	_
 5	አረግ	አረግ	VERB	VERB	_	9	parataxis	_	Translit='ärägə|LTranslit='ärägə
 6	ሽ	ሽ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=2	5	nsubj	_	Translit=šə|LTranslit=šə
@@ -12145,14 +12145,14 @@
 1	ዛሬ	ዛሬ	ADV	ADV	_	5	advmod	_	Translit=zare|LTranslit=zare
 2-3	ለምን	_	_	_	_	_	_	_	_
 2	ለ	ለ	ADP	ADP	_	3	case	_	Translit=lä|LTranslit=lä
-3	ምን	ምን	PRON	PRON	_	5	advmod	_	Translit=mənə|LTranslit=mənə
+3	ምን	ምን	PRON	PRON	_	5	obl	_	Translit=mənə|LTranslit=mənə
 4-7	አልመጣም	_	_	_	_	_	_	_	_
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	5	advmod	_	Translit='alə|LTranslit='alə
 5	መጣ	መጣ	VERB	VERB	_	9	parataxis	_	Translit=mäţa|LTranslit=mäţa
 6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit='ă|LTranslit='ă
 7	ም	ም	PART	NCM	_	5	discourse	_	Translit=mə|LTranslit=mə
 8	?	?	PUNCT	PUNCT	_	5	punct	_	Translit=?|LTranslit=?
-9	እሁድ	እሁድ	NOUN	NOUN	_	12	advmod	_	Translit='əhudə|LTranslit='əhudə
+9	እሁድ	እሁድ	NOUN	NOUN	_	12	obl	_	Translit='əhudə|LTranslit='əhudə
 10-15	አይሠሩማ	_	_	_	_	_	_	_	_
 10	ኣል	ኣል	PART	NEG	Polarity=Neg	12	advmod	_	Translit='alə|LTranslit='alə
 11	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	12	nsubj	_	Translit=jə|LTranslit=jə
@@ -12193,7 +12193,7 @@
 1	ከበደ	ከበደ	PROPN	PROPN	_	4	nsubj	_	Translit=käbädä|LTranslit=käbädä
 2-3	ለምን	_	_	_	_	_	_	_	_
 2	ለ	ለ	ADP	ADP	_	3	case	_	Translit=lä|LTranslit=lä
-3	ምን	ምን	PRON	PRON	_	4	advmod	_	Translit=mənə|LTranslit=mənə
+3	ምን	ምን	PRON	PRON	_	4	obl	_	Translit=mənə|LTranslit=mənə
 4-5	መጣ	_	_	_	_	_	_	_	_
 4	መጣ	መጣ	VERB	VERB	_	9	parataxis	_	Translit=mäţa|LTranslit=mäţa
 5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	Translit='ă|LTranslit='ă
@@ -12464,7 +12464,7 @@
 2	ኣችን	ኣችን	PRON	POSM	Number=Plur|Person=1|Poss=Yes	1	nmod	_	Translit='ačənə|LTranslit='ačənə
 3-4	በዕድሜ	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
-4	ዕድሜ	ዕድሜ	NOUN	NOUN	_	5	advmod	_	Translit=`ədəme|LTranslit=`ədəme
+4	ዕድሜ	ዕድሜ	NOUN	NOUN	_	5	obl	_	Translit=`ədəme|LTranslit=`ədəme
 5-6	እየገፉ	_	_	_	_	_	_	_	_
 5	እየገፍ	እየገፍ	VERB	VERB	_	9	advcl	_	Translit='əjägäfə|LTranslit='əjägäfə
 6	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	5	expl	_	Translit='u|LTranslit='u
@@ -12512,7 +12512,7 @@
 # text = የትም ብትሄድ ለኔ ደብዳቤ መጻፍ አትርሳ ።
 # translit = jätəmə bətəhedə läne däbədabe mäcafə 'ätərəsa .
 1-2	የትም	_	_	_	_	_	_	_	_
-1	የት	የት	PRON	PRON	_	5	advmod	_	Translit=jätə|LTranslit=jätə
+1	የት	የት	PRON	PRON	_	5	obl	_	Translit=jätə|LTranslit=jätə
 2	ም	ም	CCONJ	CCONJ	_	1	cc	_	Translit=mə|LTranslit=mə
 3-5	ብትሄድ	_	_	_	_	_	_	_	_
 3	ብ	ብ	SCONJ	SCONJ	_	5	mark	_	Translit=bə|LTranslit=bə
@@ -12602,7 +12602,7 @@
 6	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	7	nsubj	_	Translit=tə|LTranslit=tə
 7	ቆይ	ቆይ	VERB	VERB	_	11	csubj	_	Translit=qojə|LTranslit=qojə
 8-9	መቼስ	_	_	_	_	_	_	_	_
-8	መቼ	መቼ	PRON	PRON	_	11	advmod	_	Translit=mäče|LTranslit=mäče
+8	መቼ	መቼ	PRON	PRON	_	11	obl	_	Translit=mäče|LTranslit=mäče
 9	ስ	ስ	INTJ	INTJ	_	8	discourse	_	Translit=sə|LTranslit=sə
 10-12	የታወቀ	_	_	_	_	_	_	_	_
 10	የ	የ	PART	RLP	_	11	mark	_	Translit=jä|LTranslit=jä
@@ -12717,7 +12717,7 @@
 3	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
 4-6	በአምሳሉ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
-5	አምሳል	አምሳል	NOUN	NOUN	_	7	advmod	_	Translit='äməsalə|LTranslit='äməsalə
+5	አምሳል	አምሳል	NOUN	NOUN	_	7	obl	_	Translit='äməsalə|LTranslit='äməsalə
 6	ኡ	ኡ	DET	DET	_	5	det	_	Translit='u|LTranslit='u
 7-8	ፈጠረ	_	_	_	_	_	_	_	_
 7	ፈጠር	ፈጠር	VERB	VERB	_	0	root	_	Translit=fäţärə|LTranslit=fäţärə
@@ -12729,7 +12729,7 @@
 # translit = bä'əwənätə 'änətänə mənə 'ənədämadärəgə 'älawəqəmə .
 1-2	በእውነት	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
-2	እውነት	እውነት	NOUN	NOUN	_	9	advmod	_	Translit='əwənätə|LTranslit='əwənätə
+2	እውነት	እውነት	NOUN	NOUN	_	9	obl	_	Translit='əwənätə|LTranslit='əwənätə
 3-4	አንተን	_	_	_	_	_	_	_	_
 3	አንተ	አንተ	PRON	PRON	_	9	obj	_	Translit='änətä|LTranslit='änətä
 4	ን	ን	PART	ACC	_	3	case	_	Translit=nə|LTranslit=nə
@@ -12763,7 +12763,7 @@
 # text = ብርጭቆውን ወተት ጠጣበት ።
 # translit = bərəćəqowənə wätätə ţäţabätə .
 1-3	ብርጭቆውን	_	_	_	_	_	_	_	_
-1	ብርጭቆ	ብርጭቆ	NOUN	NOUN	_	5	advmod	_	Translit=bərəćəqo|LTranslit=bərəćəqo
+1	ብርጭቆ	ብርጭቆ	NOUN	NOUN	_	5	obl	_	Translit=bərəćəqo|LTranslit=bərəćəqo
 2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	ወተት	ወተት	NOUN	NOUN	_	5	obj	_	Translit=wätätə|LTranslit=wätätə
@@ -12795,7 +12795,7 @@
 3-6	ባለመታዘዙ	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
 4	ኣለ	ኣለ	PART	NEG	Polarity=Neg	5	advmod	_	Translit='alä|LTranslit='alä
-5	መታዘዝ	መታዘዝ	NOUN	NOUN	VerbForm=Vnoun	10	advmod	_	Translit=mätazäzə|LTranslit=mätazäzə
+5	መታዘዝ	መታዘዝ	NOUN	NOUN	VerbForm=Vnoun	10	obl	_	Translit=mätazäzə|LTranslit=mätazäzə
 6	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod	_	Translit='u|LTranslit='u
 7-9	ማዕረጉን	_	_	_	_	_	_	_	_
 7	ማዕረግ	ማዕረግ	NOUN	NOUN	_	10	obj	_	Translit=ma`ərägə|LTranslit=ma`ərägə
@@ -12862,7 +12862,7 @@
 # translit = ţəru motənə motä .
 1	ጥሩ	ጥሩ	ADJ	ADJ	_	2	amod	_	Translit=ţəru|LTranslit=ţəru
 2-3	ሞትን	_	_	_	_	_	_	_	_
-2	ሞት	ሞት	NOUN	NOUN	_	4	advmod	_	Translit=motə|LTranslit=motə
+2	ሞት	ሞት	NOUN	NOUN	_	4	obl	_	Translit=motə|LTranslit=motə
 3	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
 4-5	ሞተ	_	_	_	_	_	_	_	_
 4	ሞት	ሞት	VERB	VERB	_	0	root	_	Translit=motə|LTranslit=motə
@@ -12873,7 +12873,7 @@
 # text = ራቁቱን ተኛ ።
 # translit = raqutunə täňa .
 1-3	ራቁቱን	_	_	_	_	_	_	_	_
-1	ራቁት	ራቁት	NOUN	NOUN	_	4	advmod	_	Translit=raqutə|LTranslit=raqutə
+1	ራቁት	ራቁት	NOUN	NOUN	_	4	obl	_	Translit=raqutə|LTranslit=raqutə
 2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nmod	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4-5	ተኛ	_	_	_	_	_	_	_	_
@@ -12888,7 +12888,7 @@
 1	ለ	ለ	ADP	ADP	_	2	case	_	Translit=lä|LTranslit=lä
 2	ግብዣ	ግብዣ	NOUN	NOUN	_	6	obl	_	Translit=gəbəža|LTranslit=gəbəža
 3-5	ብቻውን	_	_	_	_	_	_	_	_
-3	ብቻ	ብቻ	NOUN	NOUN	_	6	advmod	_	Translit=bəča|LTranslit=bəča
+3	ብቻ	ብቻ	NOUN	NOUN	_	6	obl	_	Translit=bəča|LTranslit=bəča
 4	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod	_	Translit='u|LTranslit='u
 5	ን	ን	PART	ACC	_	3	case	_	Translit=nə|LTranslit=nə
 6-7	መጣ	_	_	_	_	_	_	_	_
@@ -12900,7 +12900,7 @@
 # text = ባዶ~እጁን መጣ ።
 # translit = bado~'ədžunə mäţa .
 1-3	ባዶ~እጁን	_	_	_	_	_	_	_	_
-1	ባዶ~እጅ	ባዶ~እጅ	NOUN	NOUN	_	4	advmod	_	Translit=bado~'ədžə|LTranslit=bado~'ədžə
+1	ባዶ~እጅ	ባዶ~እጅ	NOUN	NOUN	_	4	obl	_	Translit=bado~'ədžə|LTranslit=bado~'ədžə
 2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nmod	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4-5	መጣ	_	_	_	_	_	_	_	_
@@ -13062,7 +13062,7 @@
 3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
 4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
 5	አስፈላጊነት	አስፈላጊነት	NOUN	NOUN	_	9	xcomp	_	Translit='äsəfälaginätə|LTranslit='äsəfälaginätə
-6	እንዴት	እንዴት	PRON	PRON	_	9	advmod	_	Translit='ənədetə|LTranslit='ənədetə
+6	እንዴት	እንዴት	PRON	PRON	_	9	obl	_	Translit='ənədetə|LTranslit='ənədetə
 7-9	እንደምገልጽ	_	_	_	_	_	_	_	_
 7	እንደ	እንደ	ADP	ADP	_	9	mark	_	Translit='ənədä|LTranslit='ənədä
 8	እ	እ	PRON	SUBJC	Number=Sing|Person=1	9	nsubj	_	Translit='ə|LTranslit='ə
@@ -13113,7 +13113,7 @@
 2	እባክ	እባክ	VERB	VERB	_	7	discourse	_	Translit='əbakə|LTranslit='əbakə
 3	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	2	nsubj	_	Translit=hə|LTranslit=hə
 4-5	ምንም	_	_	_	_	_	_	_	_
-4	ምን	ምን	PRON	PRON	_	7	advmod	_	Translit=mənə|LTranslit=mənə
+4	ምን	ምን	PRON	PRON	_	7	obl	_	Translit=mənə|LTranslit=mənə
 5	ም	ም	CCONJ	CCONJ	_	4	discourse	_	Translit=mə|LTranslit=mə
 6-10	አልተሻለውም	_	_	_	_	_	_	_	_
 6	ኣል	ኣል	PART	NEG	Polarity=Neg	7	advmod	_	Translit='alə|LTranslit='alə
@@ -13130,7 +13130,7 @@
 2	ይኸው	ይኸው	DET	DET	_	5	advmod	_	Translit=jəkchäwə|LTranslit=jəkchäwə
 3-4	በመጨረሻ	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
-4	መጨረሻ	መጨረሻ	NOUN	NOUN	_	5	advmod	_	Translit=mäćäräša|LTranslit=mäćäräša
+4	መጨረሻ	መጨረሻ	NOUN	NOUN	_	5	obl	_	Translit=mäćäräša|LTranslit=mäćäräša
 5-6	ደረስን	_	_	_	_	_	_	_	_
 5	ደረስ	ደረስ	VERB	VERB	_	0	root	_	Translit=däräsə|LTranslit=däräsə
 6	ን	ን	PRON	SUBJC	Number=Plur|Person=1	5	nsubj	_	Translit=nə|LTranslit=nə
@@ -13192,7 +13192,7 @@
 10	አሟላ	አሟላ	VERB	VERB	_	14	advcl	_	Translit='ämăla|LTranslit='ämăla
 11	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	expl	_	Translit='ă|LTranslit='ă
 12	አንድ	አንድ	NUM	NUM	NumType=Card	13	nummod	_	Translit='änədə|LTranslit='änədə
-13	ቀን	ቀን	NOUN	NOUN	_	14	advmod	_	Translit=qänə|LTranslit=qänə
+13	ቀን	ቀን	NOUN	NOUN	_	14	obl	_	Translit=qänə|LTranslit=qänə
 14	ወዳቂ	ወዳቂ	ADJ	ADJ	_	0	root	_	Translit=wädaqi|LTranslit=wädaqi
 15-16	ነው	_	_	_	_	_	_	_	_
 15	ን	ን	AUX	AUX	_	14	cop	_	Translit=nə|LTranslit=nə
@@ -13277,7 +13277,7 @@
 1-2	ተፈላጊው	_	_	_	_	_	_	_	_
 1	ተፈላጊ	ተፈላጊ	NOUN	NOUN	_	4	nsubj	_	Translit=täfälagi|LTranslit=täfälagi
 2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
-3	የት	የት	PRON	PRON	_	4	advmod	_	Translit=jätə|LTranslit=jätə
+3	የት	የት	PRON	PRON	_	4	obl	_	Translit=jätə|LTranslit=jätə
 4-5	አለ	_	_	_	_	_	_	_	_
 4	ኣል	ኣል	VERB	VERB	_	0	root	_	Translit='alə|LTranslit='alə
 5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	Translit='ă|LTranslit='ă
@@ -13484,7 +13484,7 @@
 # text = ሌቱን ሙሉ ስሠራ መቆየቴን አላወቀችም ።
 # translit = letunə mulu səśära mäqojätenə 'älawäqäčəmə .
 1-3	ሌቱን	_	_	_	_	_	_	_	_
-1	ሌት	ሌት	NOUN	NOUN	_	7	advmod	_	Translit=letə|LTranslit=letə
+1	ሌት	ሌት	NOUN	NOUN	_	7	obl	_	Translit=letə|LTranslit=letə
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4	ሙሉ	ሙሉ	ADP	ADP	_	1	case	_	Translit=mulu|LTranslit=mulu
@@ -13702,7 +13702,7 @@
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4-5	በመግደል	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
-5	መግደል	መግደል	NOUN	NOUN	VerbForm=Vnoun	6	advmod	_	Translit=mägədälə|LTranslit=mägədälə
+5	መግደል	መግደል	NOUN	NOUN	VerbForm=Vnoun	6	obl	_	Translit=mägədälə|LTranslit=mägədälə
 6-7	ተከሰሰ	_	_	_	_	_	_	_	_
 6	ተከሰስ	ተከሰስ	VERB	VERB	_	0	root	_	Translit=täkäsäsə|LTranslit=täkäsäsə
 7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Translit='ă|LTranslit='ă
@@ -13859,7 +13859,7 @@
 1-2	በዛሬ	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	3	case	_	Translit=bä|LTranslit=bä
 2	ዛሬ	ዛሬ	NOUN	NOUN	_	3	obl	_	Translit=zare|LTranslit=zare
-3	ጊዜ	ጊዜ	NOUN	NOUN	_	6	advmod	_	Translit=gize|LTranslit=gize
+3	ጊዜ	ጊዜ	NOUN	NOUN	_	6	obl	_	Translit=gize|LTranslit=gize
 4	ገንዘብ	ገንዘብ	NOUN	NOUN	_	6	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
 5-6	ለማግኘት	_	_	_	_	_	_	_	_
 5	ለ	ለ	ADP	ADP	_	6	case	_	Translit=lä|LTranslit=lä
@@ -13869,7 +13869,7 @@
 8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj:pass	_	Translit=jə|LTranslit=jə
 9	ተባል	ተባል	VERB	VERB	_	13	advcl	_	Translit=täbalə|LTranslit=täbalə
 10	እስከ	እስከ	ADP	ADP	_	11	cc	_	Translit='əsəkä|LTranslit='əsəkä
-11	መግደል	መግደል	NOUN	NOUN	VerbForm=Vnoun	13	advmod	_	Translit=mägədälə|LTranslit=mägədälə
+11	መግደል	መግደል	NOUN	NOUN	VerbForm=Vnoun	13	obl	_	Translit=mägədälə|LTranslit=mägədälə
 12-14	ይደረሳል	_	_	_	_	_	_	_	_
 12	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	nsubj	_	Translit=jə|LTranslit=jə
 13	ደረስ	ደረስ	VERB	VERB	_	0	root	_	Translit=däräsə|LTranslit=däräsə
@@ -14311,7 +14311,7 @@
 3	ማግኘት	ማግኘት	NOUN	NOUN	_	6	obl	_	Translit=magəňätə|LTranslit=magəňätə
 4-5	በጊዜ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
-5	ጊዜ	ጊዜ	NOUN	NOUN	_	6	advmod	_	Translit=gize|LTranslit=gize
+5	ጊዜ	ጊዜ	NOUN	NOUN	_	6	obl	_	Translit=gize|LTranslit=gize
 6	መነሣት	መነሣት	NOUN	NOUN	_	0	root	_	Translit=mänäśatə|LTranslit=mänäśatə
 7	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -14449,7 +14449,7 @@
 # text = ጥሩ አናጢ ይወጣሃል ።
 # translit = ţəru 'änaţi jəwäţahalə .
 1	ጥሩ	ጥሩ	ADJ	ADJ	_	2	amod	_	Translit=ţəru|LTranslit=ţəru
-2	አናጢ	አናጢ	NOUN	NOUN	_	4	advmod	_	Translit='änaţi|LTranslit='änaţi
+2	አናጢ	አናጢ	NOUN	NOUN	_	4	obl	_	Translit='änaţi|LTranslit='änaţi
 3-6	ይወጣሃል	_	_	_	_	_	_	_	_
 3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	Translit=jə|LTranslit=jə
 4	ወጣ	ወጣ	VERB	VERB	_	0	root	_	Translit=wäţa|LTranslit=wäţa
@@ -14502,7 +14502,7 @@
 6	ልብስ	ልብስ	NOUN	NOUN	_	11	nsubj	_	Translit=ləbəsə|LTranslit=ləbəsə
 7	ኡ	ኡ	DET	DET	_	6	det	_	Translit='u|LTranslit='u
 8-10	ምኑን	_	_	_	_	_	_	_	_
-8	ምን	ምን	PRON	PRON	_	11	advmod	_	Translit=mənə|LTranslit=mənə
+8	ምን	ምን	PRON	PRON	_	11	obl	_	Translit=mənə|LTranslit=mənə
 9	ኡ	ኡ	DET	DET	_	8	det	_	Translit='u|LTranslit='u
 10	ን	ን	PART	ACC	_	8	case	_	Translit=nə|LTranslit=nə
 11-12	ደረቀው	_	_	_	_	_	_	_	_
@@ -15081,11 +15081,11 @@
 4	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	Translit='ă|LTranslit='ă
 5	በ	በ	ADP	ADP	_	3	mark	_	Translit=bä|LTranslit=bä
 6	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	Translit=tə|LTranslit=tə
-7	ጧት	ጧት	NOUN	NOUN	_	8	advmod	_	Translit=ţătə|LTranslit=ţătə
+7	ጧት	ጧት	NOUN	NOUN	_	8	obl	_	Translit=ţătə|LTranslit=ţătə
 8-9	ተነስታ	_	_	_	_	_	_	_	_
 8	ተነስት	ተነስት	VERB	VERB	_	11	advcl	_	Translit=tänäsətə|LTranslit=tänäsətə
 9	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	8	nsubj	_	Translit='a|LTranslit='a
-10	የት	የት	PRON	PRON	_	11	advmod	_	Translit=jätə|LTranslit=jätə
+10	የት	የት	PRON	PRON	_	11	obl	_	Translit=jätə|LTranslit=jätə
 11-12	ሄደች	_	_	_	_	_	_	_	_
 11	ሄድ	ሄድ	VERB	VERB	_	0	root	_	Translit=hedə|LTranslit=hedə
 12	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	11	nsubj	_	Translit='ăčə|LTranslit='ăčə
@@ -15159,7 +15159,7 @@
 1	ለ	ለ	ADP	ADP	_	2	case	_	Translit=lä|LTranslit=lä
 2	ንጉስ	ንጉስ	NOUN	NOUN	_	4	obl	_	Translit=nəgusə|LTranslit=nəgusə
 3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
-4	ቀብር	ቀብር	NOUN	NOUN	_	12	advmod	_	Translit=qäbərə|LTranslit=qäbərə
+4	ቀብር	ቀብር	NOUN	NOUN	_	12	obl	_	Translit=qäbərə|LTranslit=qäbərə
 5	ሰው	ሰው	NOUN	NOUN	_	12	nsubj	_	Translit=säwə|LTranslit=säwə
 6-11	ከያለበት	_	_	_	_	_	_	_	_
 6	ከ	ከ	ADP	ADP	_	8	mark	_	Translit=kä|LTranslit=kä
@@ -15371,7 +15371,7 @@
 # translit = kämäkina səläwädäqəhu jamäňalə .
 1-2	ከመኪና	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
-2	መኪና	መኪና	NOUN	NOUN	_	4	advmod	_	Translit=mäkina|LTranslit=mäkina
+2	መኪና	መኪና	NOUN	NOUN	_	4	obl	_	Translit=mäkina|LTranslit=mäkina
 3-5	ስለወደቅሁ	_	_	_	_	_	_	_	_
 3	ስለ	ስለ	SCONJ	SCONJ	_	4	case	_	Translit=səlä|LTranslit=səlä
 4	ወደቅ	ወደቅ	VERB	VERB	_	7	advcl	_	Translit=wädäqə|LTranslit=wädäqə
@@ -15389,10 +15389,10 @@
 1-2	ከበቀለ	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
 2	በቀለ	በቀለ	PROPN	PROPN	_	3	obl	_	Translit=bäqälä|LTranslit=bäqälä
-3	ሥራ	ሥራ	NOUN	NOUN	_	7	advmod	_	Translit=śəra|LTranslit=śəra
+3	ሥራ	ሥራ	NOUN	NOUN	_	7	obl	_	Translit=śəra|LTranslit=śəra
 4-5	የአልማዝ	_	_	_	_	_	_	_	_
 4	የ	የ	ADP	ADP	_	5	case	_	Translit=jä|LTranslit=jä
-5	አልማዝ	አልማዝ	PROPN	PROPN	_	7	advmod	_	Translit='äləmazə|LTranslit='äləmazə
+5	አልማዝ	አልማዝ	PROPN	PROPN	_	7	obl	_	Translit='äləmazə|LTranslit='äləmazə
 6-8	ይሻላል	_	_	_	_	_	_	_	_
 6	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	Translit=jə|LTranslit=jə
 7	ተሻል	ተሻል	VERB	VERB	Voice=Pass	0	root	_	Translit=täšalə|LTranslit=täšalə
@@ -15422,7 +15422,7 @@
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
 2	ሙቀት	ሙቀት	NOUN	NOUN	_	4	obl	_	Translit=muqätə|LTranslit=muqätə
 3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
-4	ምክንያት	ምክንያት	NOUN	NOUN	_	5	advmod	_	Translit=məkənəjatə|LTranslit=məkənəjatə
+4	ምክንያት	ምክንያት	NOUN	NOUN	_	5	obl	_	Translit=məkənəjatə|LTranslit=məkənəjatə
 5-7	ነሰረኝ	_	_	_	_	_	_	_	_
 5	ነሰር	ነሰር	VERB	VERB	_	0	root	_	Translit=näsärə|LTranslit=näsärə
 6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit='ă|LTranslit='ă
@@ -15435,7 +15435,7 @@
 1-2	በእንዲህ	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	3	case	_	Translit=bä|LTranslit=bä
 2	እንዲህ	እንዲህ	DET	DET	_	3	det	_	Translit='ənədihə|LTranslit='ənədihə
-3	ሁኔታ	ሁኔታ	NOUN	NOUN	_	10	advmod	_	Translit=huneta|LTranslit=huneta
+3	ሁኔታ	ሁኔታ	NOUN	NOUN	_	10	obl	_	Translit=huneta|LTranslit=huneta
 4-6	የበሉት	_	_	_	_	_	_	_	_
 4	የ	የ	PART	RLP	_	5	mark	_	Translit=jä|LTranslit=jä
 5	በል	በል	VERB	VERB	_	7	acl	_	Translit=bälə|LTranslit=bälə
@@ -15454,7 +15454,7 @@
 1-2	በዚህ	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	3	case	_	Translit=bä|LTranslit=bä
 2	እዚህ	እዚህ	DET	DET	_	3	det	_	Translit='əzihə|LTranslit='əzihə
-3	ድልድይ	ድልድይ	NOUN	NOUN	_	7	advmod	_	Translit=dələdəjə|LTranslit=dələdəjə
+3	ድልድይ	ድልድይ	NOUN	NOUN	_	7	obl	_	Translit=dələdəjə|LTranslit=dələdəjə
 4	ላይ	ላይ	ADP	ADP	_	3	case	_	Translit=lajə|LTranslit=lajə
 5-8	ሲያልፉ	_	_	_	_	_	_	_	_
 5	ስ	ስ	SCONJ	SCONJ	_	7	mark	_	Translit=sə|LTranslit=sə
@@ -15497,7 +15497,7 @@
 # translit = bäćakawə darə darə 'ägazänə jətajalə .
 1-3	በጫካው	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
-2	ጫካ	ጫካ	NOUN	NOUN	_	8	advmod	_	Translit=ćaka|LTranslit=ćaka
+2	ጫካ	ጫካ	NOUN	NOUN	_	8	obl	_	Translit=ćaka|LTranslit=ćaka
 3	ው	ው	DET	DET	_	2	det	_	Translit=wə|LTranslit=wə
 4	ዳር	ዳር	NOUN	NOUN	_	5	nmod	_	Translit=darə|LTranslit=darə
 5	ዳር	ዳር	NOUN	NOUN	_	2	obl	_	Translit=darə|LTranslit=darə
@@ -15512,7 +15512,7 @@
 # text = ሦስት ቀን ይኬድና ባራተኛው ይደረሳል ።
 # translit = śosətə qänə jəkedəna baratäňawə jədäräsalə .
 1	ሦስት	ሦስት	NUM	NUM	NumType=Card	2	nummod	_	Translit=śosətə|LTranslit=śosətə
-2	ቀን	ቀን	NOUN	NOUN	_	4	advmod	_	Translit=qänə|LTranslit=qänə
+2	ቀን	ቀን	NOUN	NOUN	_	4	obl	_	Translit=qänə|LTranslit=qänə
 3-5	ይኬድና	_	_	_	_	_	_	_	_
 3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=jə|LTranslit=jə
 4	ኬድ	ኬድ	VERB	VERB	_	0	root	_	Translit=kedə|LTranslit=kedə
@@ -15531,14 +15531,14 @@
 # text = እዚህ አገር ያልተደሰቱ የትም አይደሰቱ ።
 # translit = 'əzihə 'ägärə jalətädäsätu jätəmə 'äjədäsätu .
 1	እዚህ	እዚህ	DET	DET	_	2	det	_	Translit='əzihə|LTranslit='əzihə
-2	አገር	አገር	NOUN	NOUN	_	5	advmod	_	Translit='ägärə|LTranslit='ägärə
+2	አገር	አገር	NOUN	NOUN	_	5	obl	_	Translit='ägärə|LTranslit='ägärə
 3-6	ያልተደሰቱ	_	_	_	_	_	_	_	_
 3	የ	የ	PART	RLP	_	5	mark	_	Translit=jä|LTranslit=jä
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	5	advmod	_	Translit='alə|LTranslit='alə
 5	ተደሰት	ተደሰት	VERB	VERB	Voice=Pass	11	advcl	_	Translit=tädäsätə|LTranslit=tädäsätə
 6	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	5	nsubj	_	Translit='u|LTranslit='u
 7-8	የትም	_	_	_	_	_	_	_	_
-7	የት	የት	PRON	PRON	_	11	advmod	_	Translit=jätə|LTranslit=jätə
+7	የት	የት	PRON	PRON	_	11	obl	_	Translit=jätə|LTranslit=jätə
 8	ም	ም	CCONJ	CCONJ	_	7	discourse	_	Translit=mə|LTranslit=mə
 9-12	አይደሰቱ	_	_	_	_	_	_	_	_
 9	አል	አል	PART	NEG	Polarity=Neg	11	advmod	_	Translit='älə|LTranslit='älə
@@ -15654,7 +15654,7 @@
 1	አብር	አብር	VERB	VERB	_	7	advcl	_	Translit='äbərə|LTranslit='äbərə
 2	ኤ	ኤ	PRON	SUBJC	Number=Sing|Person=1	1	nsubj	_	Translit='e|LTranslit='e
 3	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	1	expl	_	Translit='atə|LTranslit='atə
-4	ሲኒማ	ሲኒማ	NOUN	NOUN	_	7	advmod	_	Translit=sinima|LTranslit=sinima
+4	ሲኒማ	ሲኒማ	NOUN	NOUN	_	7	obl	_	Translit=sinima|LTranslit=sinima
 5-7	ብሄድ	_	_	_	_	_	_	_	_
 5	ብ	ብ	SCONJ	SCONJ	_	7	mark	_	Translit=bə|LTranslit=bə
 6	እ	እ	PRON	SUBJC	Number=Sing|Person=1	7	nsubj	_	Translit='ə|LTranslit='ə
@@ -16017,7 +16017,7 @@
 4	አጣጥፍ	አጣጥፍ	VERB	VERB	VerbForm=Conv	8	advcl	_	Translit='äţaţəfə|LTranslit='äţaţəfə
 5	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit='o|LTranslit='o
 6-7	ኪሱ	_	_	_	_	_	_	_	_
-6	ኪስ	ኪስ	NOUN	NOUN	_	8	advmod	_	Translit=kisə|LTranslit=kisə
+6	ኪስ	ኪስ	NOUN	NOUN	_	8	obl	_	Translit=kisə|LTranslit=kisə
 7	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	6	det	_	Translit='u|LTranslit='u
 8-9	ከተተ	_	_	_	_	_	_	_	_
 8	ከተት	ከተት	VERB	VERB	_	0	root	_	Translit=kätätə|LTranslit=kätätə
@@ -16486,7 +16486,7 @@
 3	ብ	ብ	SCONJ	SCONJ	_	5	mark	_	Translit=bə|LTranslit=bə
 4	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	Translit=jə|LTranslit=jə
 5	ሆን	ሆን	VERB	VERB	_	11	csubj	_	Translit=honə|LTranslit=honə
-6	እንዴት	እንዴት	PRON	PRON	_	11	advmod	_	Translit='ənədetə|LTranslit='ənədetə
+6	እንዴት	እንዴት	PRON	PRON	_	11	obl	_	Translit='ənədetə|LTranslit='ənədetə
 7-8	ለገንዘብ	_	_	_	_	_	_	_	_
 7	ለ	ለ	ADP	ADP	_	8	case	_	Translit=lä|LTranslit=lä
 8	ገንዘብ	ገንዘብ	NOUN	NOUN	_	11	obl	_	Translit=gänəzäbə|LTranslit=gänəzäbə
@@ -16588,7 +16588,7 @@
 6	ሴት	ሴት	NOUN	NOUN	_	14	nsubj	_	Translit=setə|LTranslit=setə
 7-8	ከአስቴር	_	_	_	_	_	_	_	_
 7	ከ	ከ	ADP	ADP	_	8	case	_	Translit=kä|LTranslit=kä
-8	አስቴር	አስቴር	PROPN	PROPN	_	10	advmod	_	Translit='äsəterə|LTranslit='äsəterə
+8	አስቴር	አስቴር	PROPN	PROPN	_	10	obl	_	Translit='äsəterə|LTranslit='äsəterə
 9-11	የበለጠች	_	_	_	_	_	_	_	_
 9	የ	የ	ADP	ADP	_	10	mark	_	Translit=jä|LTranslit=jä
 10	በለጠ	በለጠ	VERB	VERB	_	12	advcl	_	Translit=bäläţä|LTranslit=bäläţä
@@ -16652,7 +16652,7 @@
 # translit = säwočə 'ənədä 'äsa bäbahərə jənoralə .
 1	ሰዎች	ሰዎች	NOUN	NOUN	_	7	nsubj	_	Translit=säwočə|LTranslit=säwočə
 2	እንደ	እንደ	ADP	ADP	_	3	case	_	Translit='ənədä|LTranslit='ənədä
-3	አሳ	አሳ	NOUN	NOUN	_	7	advmod	_	Translit='äsa|LTranslit='äsa
+3	አሳ	አሳ	NOUN	NOUN	_	7	obl	_	Translit='äsa|LTranslit='äsa
 4-5	በባህር	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
 5	ባህር	ባህር	NOUN	NOUN	_	7	obl	_	Translit=bahərə|LTranslit=bahərə
@@ -16770,7 +16770,7 @@
 5	ው	ው	PRON	PRON	_	3	obj	_	Translit=wə|LTranslit=wə
 6-7	ከየት	_	_	_	_	_	_	_	_
 6	ከ	ከ	ADP	ADP	_	7	case	_	Translit=kä|LTranslit=kä
-7	የት	የት	PRON	PRON	_	3	advmod	_	Translit=jätə|LTranslit=jätə
+7	የት	የት	PRON	PRON	_	3	obl	_	Translit=jätə|LTranslit=jätə
 8-9	ነው	_	_	_	_	_	_	_	_
 8	ን	ን	AUX	AUX	_	3	aux	_	Translit=nə|LTranslit=nə
 9	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	3	expl	_	Translit='ăwə|LTranslit='ăwə
@@ -16819,7 +16819,7 @@
 1-2	ሌላስ	_	_	_	_	_	_	_	_
 1	ሌላ	ሌላ	NOUN	NOUN	_	4	advcl	_	Translit=lela|LTranslit=lela
 2	ስ	ስ	INTJ	INTJ	_	1	discourse	_	Translit=sə|LTranslit=sə
-3	የት	የት	PRON	PRON	_	4	advmod	_	Translit=jätə|LTranslit=jätə
+3	የት	የት	PRON	PRON	_	4	obl	_	Translit=jätə|LTranslit=jätə
 4-5	ሄድክ	_	_	_	_	_	_	_	_
 4	ሄድ	ሄድ	VERB	VERB	_	0	root	_	Translit=hedə|LTranslit=hedə
 5	ክ	ክ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	4	nsubj	_	Translit=kə|LTranslit=kə
@@ -16835,7 +16835,7 @@
 3	ተማሪ	ተማሪ	NOUN	NOUN	_	7	obj	_	Translit=tämari|LTranslit=tämari
 4	ው	ው	DET	DET	_	3	det	_	Translit=wə|LTranslit=wə
 5	ን	ን	PART	ACC	_	3	case	_	Translit=nə|LTranslit=nə
-6	ለምን	ለምን	PRON	PRON	_	7	advmod	_	Translit=lämənə|LTranslit=lämənə
+6	ለምን	ለምን	PRON	PRON	_	7	obl	_	Translit=lämənə|LTranslit=lämənə
 7-9	ወቀሰው	_	_	_	_	_	_	_	_
 7	ወቀስ	ወቀስ	VERB	VERB	_	0	root	_	Translit=wäqäsə|LTranslit=wäqäsə
 8	ኸ	ኸ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	Translit=kchä|LTranslit=kchä
@@ -16883,7 +16883,7 @@
 4	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	2	expl	_	Translit=tə|LTranslit=tə
 5	ን	ን	PART	ACC	_	6	case	_	Translit=nə|LTranslit=nə
 6	ገንዘብ	ገንዘብ	NOUN	NOUN	_	10	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
-7	መቼ	መቼ	PRON	PRON	_	10	advmod	_	Translit=mäče|LTranslit=mäče
+7	መቼ	መቼ	PRON	PRON	_	10	obl	_	Translit=mäče|LTranslit=mäče
 8-10	ሳልከፍል	_	_	_	_	_	_	_	_
 8	ስ	ስ	SCONJ	SCONJ	_	10	mark	_	Translit=sə|LTranslit=sə
 9	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	Translit='alə|LTranslit='alə
