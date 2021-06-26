@@ -7652,7 +7652,7 @@
 1	ሁለት	ሁለት	NUM	NUM	NumType=Card	2	nummod	_	Translit=hulätə|LTranslit=hulätə
 2	ሰዓት	ሰዓት	NOUN	NOUN	_	6	obl	_	Translit=sä`atə|LTranslit=sä`atə
 3-7	ሳይበላ	_	_	_	_	_	_	_	_
-3	ስ	ስ	SCONJ	SCONJ	_	6	advmod	_	Translit=sə|LTranslit=sə
+3	ስ	ስ	SCONJ	SCONJ	_	6	mark	_	Translit=sə|LTranslit=sə
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	Translit='alə|LTranslit='alə
 5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	Translit=jə|LTranslit=jə
 6	በላ	በላ	VERB	VERB	_	10	advcl	_	Translit=bäla|LTranslit=bäla
@@ -15407,7 +15407,7 @@
 2	ስለ	ስለ	SCONJ	SCONJ	_	3	mark	_	Translit=səlä|LTranslit=səlä
 3	በዝ	በዝ	VERB	VERB	_	6	advcl	_	Translit=bäzə|LTranslit=bäzə
 4	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	3	expl	_	Translit='a|LTranslit='a
-5	በጣም	በጣም	NUM	NUM	NumType=Card	6	advmod	_	Translit=bäţamə|LTranslit=bäţamə
+5	በጣም	በጣም	ADV	ADV	_	6	advmod	_	Translit=bäţamə|LTranslit=bäţamə
 6-9	ጠምቶኛል	_	_	_	_	_	_	_	_
 6	ጠምት	ጠምት	VERB	VERB	_	0	root	_	Translit=ţämətə|LTranslit=ţämətə
 7	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	Translit='o|LTranslit='o
@@ -15519,7 +15519,7 @@
 5	ና	ና	CCONJ	CCONJ	_	4	cc	_	Translit=na|LTranslit=na
 6-8	ባራተኛው	_	_	_	_	_	_	_	_
 6	በ	በ	ADP	ADP	_	7	case	_	Translit=bä|LTranslit=bä
-7	አራተኛ	አራተኛ	NUM	NUM	NumType=Card	10	advmod	_	Translit='äratäňa|LTranslit='äratäňa
+7	አራተኛ	አራተኛ	NOUN	NOUN	_	10	obl	_	Translit='äratäňa|LTranslit='äratäňa
 8	ው	ው	DET	DET	_	7	det	_	Translit=wə|LTranslit=wə
 9-11	ይደረሳል	_	_	_	_	_	_	_	_
 9	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	Translit=jə|LTranslit=jə
