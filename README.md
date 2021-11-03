@@ -18,6 +18,8 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 
 # Changelog
 
+* 2021-11-15 v2.9
+  * Fixed a number of validation errors.
 * 2018-07-01 v2.2
   * First official release.
 
