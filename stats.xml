@@ -17,13 +17,13 @@
   <tags unique="15">
     <tag name="ADJ">116</tag><!-- ብዙ, ጥሩ, ጎበዝ, ቆንጆ, ትልቅ, ትንሽ, ወፍራም, ሁሉ, መልካም, ምንም -->
     <tag name="ADP">681</tag><!-- በ, ለ, የ, ከ, ወደ, ብ, ል, ላይ, እንደ, ጋር -->
-    <tag name="ADV">93</tag><!-- ነገ, በጣም, ትናንት, ዛሬ, ብዙ, እንዲሁ, ይልቅ, ሁሉ, ምን, ቶሎ -->
+    <tag name="ADV">94</tag><!-- በጣም, ነገ, ትናንት, ዛሬ, ብዙ, እንዲሁ, ይልቅ, ሁሉ, ምን, ቶሎ -->
     <tag name="AUX">420</tag><!-- ኣል, ን, ነበር, ሆን, ችል, ኖር, አይደል, እየ, ብል, ቻል -->
     <tag name="CCONJ">101</tag><!-- ም, ና, ስ, እንጂ, ወይስ, ግን, ሳ, ነገር, ደግሞ -->
     <tag name="DET">482</tag><!-- ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ -->
     <tag name="INTJ">66</tag><!-- ስ, ኣ, እንዴ, ምነው, ማ, ሳ, ወይ, እንደሆን, እኮ, ምናልባት -->
-    <tag name="NOUN">1485</tag><!-- ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና -->
-    <tag name="NUM">42</tag><!-- አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ -->
+    <tag name="NOUN">1486</tag><!-- ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና -->
+    <tag name="NUM">40</tag><!-- አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ -->
     <tag name="PART">874</tag><!-- ን, ኣል, ም, የ, እም, አል, ኣለ, በ, ያለ, አለ -->
     <tag name="PRON">2555</tag><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
     <tag name="PROPN">236</tag><!-- ካሳ, አስቴር, አልማዝ, ጎጃም, ከበደ, በቀለ, ተስፋዬ, ዓለሙ, ጎንደር, ኃይሉ -->
@@ -46,7 +46,7 @@
     <feat name="Number" value="Dual" upos="PRON">1</feat><!-- ኢ -->
     <feat name="Number" value="Plur" upos="ADJ,NOUN,NUM,PRON">287</feat><!-- ኡ, ኣቸው, ኣችን, ን, ኧን, እን, ልጆች, ኣችሁ, ተማሪዎች, ሰዎች -->
     <feat name="Number" value="Sing" upos="DET,PRON,VERB">2151</feat><!-- ኧ, ይ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት, ኡ -->
-    <feat name="NumType" value="Card" upos="NUM">42</feat><!-- አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ -->
+    <feat name="NumType" value="Card" upos="NUM">40</feat><!-- አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ -->
     <feat name="Person" value="1" upos="PRON">401</feat><!-- ኝ, ኤ, እ, ሁ, ኧሁ, ኩ, ኧኝ, ን, ኧን, እን -->
     <feat name="Person" value="2" upos="PRON">133</feat><!-- ህ, ኧህ, ት, ሽ, ኢ, ክ, ኣችን, ኧ, ኣችሁ, ኧሽ -->
     <feat name="Person" value="3" upos="DET,PRON,VERB">1844</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኣት, ኣ -->
@@ -64,7 +64,7 @@
   <deps unique="34">
     <dep name="acl">88</dep>
     <dep name="advcl">318</dep>
-    <dep name="advmod">292</dep>
+    <dep name="advmod">290</dep>
     <dep name="amod">63</dep>
     <dep name="aux">315</dep>
     <dep name="case">911</dep>
@@ -85,13 +85,13 @@
     <dep name="flat">4</dep>
     <dep name="goeswith">12</dep>
     <dep name="iobj">30</dep>
-    <dep name="mark">526</dep>
+    <dep name="mark">527</dep>
     <dep name="nmod">293</dep>
     <dep name="nsubj">1432</dep>
     <dep name="nsubj:pass">93</dep>
     <dep name="nummod">35</dep>
     <dep name="obj">577</dep>
-    <dep name="obl">392</dep>
+    <dep name="obl">393</dep>
     <dep name="parataxis">7</dep>
     <dep name="punct">1093</dep>
     <dep name="root">1074</dep>
