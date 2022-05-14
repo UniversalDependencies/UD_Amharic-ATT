@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Amharic-ATT:
-commit 4570765e7291b37b3317cc3d9363a948435e4a7d
-Merge: da53053 a3f0b53
+commit 16d3de23110b8023e9052c0ddb976a7544f155f7
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Nov 3 15:50:40 2021 +0100
 Size: counted 10010 of 10010 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60716918665426.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -34,7 +34,7 @@ validate.py --lang am --max-err=10 UD_Amharic-ATT/am_att-ud-test.conllu
 [Line 543 Sent data_UD-x00-s8 Node 6]: [L5 Morpho aux-lemma] 'ሆን' is not an auxiliary verb in language [am]
 [Line 543 Sent data_UD-x00-s8 Node 6]: [L5 Syntax cop-lemma] 'ሆን' is not a copula in language [am]
 [Line 552 Sent data_UD-x00-s8 Node 13]: [L5 Morpho aux-lemma] 'ነበር' is not an auxiliary verb in language [am]
-[Line 566 Sent data_UD-x00-s9 Node 7]: [L5 Morpho aux-lemma] 'ኣል' is not an auxiliary verb in language [am]
+[Line 568 Sent data_UD-x00-s9 Node 9]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
 ...suppressing further errors regarding Morpho
 [Line 1138 Sent data_UD-x01-s20 Node 4]: [L5 Syntax cop-lemma] 'ሆን' is not a copula in language [am]
 [Line 2275 Sent data_UD-x06-s8 Node 3]: [L5 Syntax cop-lemma] 'ነበር' is not a copula in language [am]
@@ -45,9 +45,9 @@ validate.py --lang am --max-err=10 UD_Amharic-ATT/am_att-ud-test.conllu
 [Line 5910 Sent data_UD-x18-s1 Node 3]: [L5 Syntax cop-lemma] 'ሆን' is not a copula in language [am]
 [Line 6095 Sent data_UD-x18-s10 Node 8]: [L5 Syntax cop-lemma] 'አይደል' is not a copula in language [am]
 ...suppressing further errors regarding Syntax
-Morpho errors: 286
+Morpho errors: 327
 Syntax errors: 17
-*** FAILED *** with 303 errors
+*** FAILED *** with 344 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.3) = 0.0230769230769231
