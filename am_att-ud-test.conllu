@@ -5829,7 +5829,7 @@
 6	ቻል	ቻል	AUX	AUX	_	3	aux	_	Translit=čalə|LTranslit=čalə
 7	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	3	expl	_	Translit=ku|LTranslit=ku
 8-9	አንተም	_	_	_	_	_	_	_	_
-8	አንተ	አንተ	PRON	PRON	_	11	nsubj	_	Translit='änətä|LTranslit='änətä
+8	አንተ	አንተ	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	Translit='änətä|LTranslit='änətä
 9	ም	ም	CCONJ	CCONJ	_	8	cc	_	Translit=mə|LTranslit=mə
 10-13	ትችላለህ	_	_	_	_	_	_	_	_
 10	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	11	expl	_	Translit=tə|LTranslit=tə
@@ -11802,7 +11802,7 @@
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
 2	እድሜ	እድሜ	NOUN	NOUN	_	8	obl	_	Translit='ədəme|LTranslit='ədəme
 3	እንደ	እንደ	ADP	ADP	_	4	case	_	Translit='ənədä|LTranslit='ənədä
-4	አንተ	አንተ	PRON	PRON	_	6	obl	_	Translit='änətä|LTranslit='änətä
+4	አንተ	አንተ	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	Translit='änətä|LTranslit='änətä
 5-7	ካሉ	_	_	_	_	_	_	_	_
 5	ከ	ከ	PART	RLP	_	6	mark	_	Translit=kä|LTranslit=kä
 6	ኣል	ኣል	VERB	VERB	Mood=Ind|VerbForm=Fin	8	acl	_	Translit='alə|LTranslit='alə
@@ -12410,7 +12410,7 @@
 # sent_id = data_UD-third_apple_2-x18-s2
 # text = አንተ ካልመጣህ እሱም አይመጣም ።
 # translit = 'änətä kaləmäţahə 'əsumə 'äjəmäţamə .
-1	አንተ	አንተ	PRON	PRON	_	4	nsubj	_	Translit='änətä|LTranslit='änətä
+1	አንተ	አንተ	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit='änətä|LTranslit='änətä
 2-5	ካልመጣህ	_	_	_	_	_	_	_	_
 2	ከ	ከ	ADP	ADP	_	4	mark	_	Translit=kä|LTranslit=kä
 3	ኣል	ኣል	PART	NEG	Polarity=Neg	4	advmod	_	Translit='alə|LTranslit='alə
@@ -12731,7 +12731,7 @@
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
 2	እውነት	እውነት	NOUN	NOUN	_	9	obl	_	Translit='əwənätə|LTranslit='əwənätə
 3-4	አንተን	_	_	_	_	_	_	_	_
-3	አንተ	አንተ	PRON	PRON	_	9	obj	_	Translit='änətä|LTranslit='änətä
+3	አንተ	አንተ	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obj	_	Translit='änətä|LTranslit='änətä
 4	ን	ን	PART	ACC	_	3	case	_	Translit=nə|LTranslit=nə
 5	ምን	ምን	PRON	PRON	_	9	xcomp	_	Translit=mənə|LTranslit=mənə
 6-9	እንደማደርግ	_	_	_	_	_	_	_	_
@@ -14070,7 +14070,7 @@
 # text = አንተን ለማየት ጎንደር መጣሁ ።
 # translit = 'änətänə lämajätə gonədärə mäţahu .
 1-2	አንተን	_	_	_	_	_	_	_	_
-1	አንተ	አንተ	PRON	PRON	_	4	obj	_	Translit='änətä|LTranslit='änətä
+1	አንተ	አንተ	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	Translit='änətä|LTranslit='änətä
 2	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 3-4	ለማየት	_	_	_	_	_	_	_	_
 3	ለ	ለ	ADP	ADP	_	4	case	_	Translit=lä|LTranslit=lä
@@ -14181,7 +14181,7 @@
 7	ሰራ	ሰራ	VERB	VERB	Mood=Ind|VerbForm=Fin	14	ccomp	_	Translit=sära|LTranslit=sära
 8	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	Translit=wə|LTranslit=wə
 9-10	አንተን	_	_	_	_	_	_	_	_
-9	አንተ	አንተ	PRON	PRON	_	12	obj	_	Translit='änətä|LTranslit='änətä
+9	አንተ	አንተ	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj	_	Translit='änətä|LTranslit='änətä
 10	ን	ን	PART	ACC	_	9	case	_	Translit=nə|LTranslit=nə
 11-12	ለማስደሰት	_	_	_	_	_	_	_	_
 11	ለ	ለ	ADP	ADP	_	12	case	_	Translit=lä|LTranslit=lä
