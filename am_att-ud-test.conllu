@@ -1051,9 +1051,9 @@
 6	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	8	ccomp	_	Translit=hedə|LTranslit=hedə
 7	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ăčə
 8-10	አውቆአል	_	_	_	_	_	_	_	_
-8	አውቅ	አውቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='äwəqə|LTranslit='äwəqə
+8	አውቅ	አውቅ	VERB	VERB	VerbForm=Conv	0	root	_	Translit='äwəqə|LTranslit='äwəqə
 9	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='o
-10	አል	አል	AUX	AUX	_	8	aux	_	Translit='älə|LTranslit='älə
+10	አል	ኣል	AUX	AUX	_	8	aux	_	Translit='älə|LTranslit='älə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-x01-s16
