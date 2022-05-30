@@ -7768,7 +7768,7 @@
 12	ኣል	ኣል	PART	NEG	Polarity=Neg	14	advmod	_	Translit='alə|LTranslit='alə
 13	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	LTranslit='əsu|Translit=tə
 14	ቅጅ	ቅጅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=qədžə|LTranslit=qədžə
-15	ኢ	አንተ	PRON	SUBJC	Number=Sing|Person=2|PronType=Prs	14	expl	_	LTranslit='änətä|Translit='i
+15	ኢ	አንተ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=2|PronType=Prs	14	expl	_	LTranslit='änətä|Translit='i
 16	።	።	PUNCT	PUNCT	_	14	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x02-s10
@@ -14359,7 +14359,7 @@
 5	ቡትቶ	ቡትቶ	NOUN	NOUN	_	6	obl	_	Translit=butəto|LTranslit=butəto
 6-7	ፈልጊ	_	_	_	_	_	_	_	_
 6	ፈልግ	ፈልግ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=fäləgə|LTranslit=fäləgə
-7	ኢ	አንተ	PRON	SUBJC	Gender=Fem|Number=Dual|Person=2|PronType=Prs	6	nsubj	_	LTranslit='änətä|Translit='i
+7	ኢ	አንተ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	LTranslit='änətä|Translit='i
 8	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x23-s11
