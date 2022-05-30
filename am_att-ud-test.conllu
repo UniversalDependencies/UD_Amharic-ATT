@@ -5026,7 +5026,7 @@
 # sent_id = data_UD-x15-s9
 # text = እነሱ ሳሩን ይጨዱ !
 # translit = 'ənäsu sarunə jəćädu !
-1	እነሱ	እነሱ	PRON	PRON	_	6	nsubj	_	Translit='ənäsu|LTranslit='ənäsu
+1	እነሱ	እነሱ	PRON	PRON	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit='ənäsu|LTranslit='ənäsu
 2-4	ሳሩን	_	_	_	_	_	_	_	_
 2	ሳር	ሳር	NOUN	NOUN	_	6	obj	_	Translit=sarə|LTranslit=sarə
 3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
@@ -5887,7 +5887,7 @@
 3	መጥ	መጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=mäţə|LTranslit=mäţə
 4	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	3	expl	_	Translit='u|LTranslit='u
 5-6	እነሱም	_	_	_	_	_	_	_	_
-5	እነሱ	እነሱ	PRON	PRON	_	7	nsubj	_	Translit='ənäsu|LTranslit='ənäsu
+5	እነሱ	እነሱ	PRON	PRON	Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Translit='ənäsu|LTranslit='ənäsu
 6	ም	ም	CCONJ	CCONJ	_	3	cc	_	Translit=mə|LTranslit=mə
 7	ታደሰ	ታደሰ	PROPN	PROPN	_	3	conj	_	Translit=tadäsä|LTranslit=tadäsä
 8	፣	፣	PUNCT	PUNCT	_	7	punct	_	Translit=,|LTranslit=,
