@@ -6884,11 +6884,11 @@
 4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit=jə
 5	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	ccomp	_	Translit=hedə|LTranslit=hedə
 6	ሲል	ሲል	VERB	VERB	Mood=Ind|VerbForm=Fin	7	advcl	_	Translit=silə|LTranslit=silə
-7	ይዘንብ	ይዘንብ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=jəzänəbə|LTranslit=jəzänəbə
+7	ይዘንብ	ይዘንብ	VERB	VERB	Mood=Ind|VerbForm=Fin	8	xcomp	_	Translit=jəzänəbə|LTranslit=jəzänəbə
 8-9	ጀመረ	_	_	_	_	_	_	_	_
-8	ጀመር	ጀመር	AUX	AUX	_	7	aux	_	Translit=džämärə|LTranslit=džämärə
-9	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ă
-10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+8	ጀመር	ጀመር	VERB	VERB	_	0	root	_	Translit=džämärə|LTranslit=džämärə
+9	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit='ă
+10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x00-s2
 # text = ልጁ ከመፍራቱ የተነሣ መርፌውን ሊወጋ አልደፈረም ።
