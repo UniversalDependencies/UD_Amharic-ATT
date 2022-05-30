@@ -759,7 +759,7 @@
 5	ብ	ብ	ADP	ADP	_	7	mark	_	Translit=bə|LTranslit=bə
 6	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	LTranslit='əne|Translit='ə
 7	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	11	advcl	_	Translit=honə|LTranslit=honə
-8	ኖሮ	ኖሮ	AUX	AUX	_	7	aux	_	Translit=noro|LTranslit=noro
+8	ኖሮ	ኖር	AUX	AUX	_	7	aux	_	Translit=noro|LTranslit=norə
 9	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	11	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 10-13	አልጠይቅህም	_	_	_	_	_	_	_	_
 10	ኣል	ኣል	PART	NEG	Polarity=Neg	11	advmod	_	Translit='alə|LTranslit='alə
