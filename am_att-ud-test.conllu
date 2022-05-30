@@ -291,7 +291,7 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	2	nsubj	_	Translit=kasa|LTranslit=kasa
 2	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
 3-4	ነው	_	_	_	_	_	_	_	_
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
 4	ኧው	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -300,7 +300,7 @@
 # translit = 'äsətämari natə .
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
 2-3	ናት	_	_	_	_	_	_	_	_
-2	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+2	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
 3	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	LTranslit='əsu|Translit='atə
 4	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -309,7 +309,7 @@
 # translit = 'äsətämari näwə .
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
 2-3	ነው	_	_	_	_	_	_	_	_
-2	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+2	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
 3	ኧው	ኧው	PRON	SUBJC	Gender=Masc|Number=Sing	1	nsubj	_	Translit='ăwə|LTranslit='ăwə
 4	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -540,7 +540,7 @@
 4-6	ቢሆን	_	_	_	_	_	_	_	_
 4	ብ	ብ	SCONJ	SCONJ	_	1	mark	_	Translit=bə|LTranslit=bə
 5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	LTranslit='əsu|Translit=jə
-6	ሆን	ሆን	AUX	AUX	_	1	cop	_	Translit=honə|LTranslit=honə
+6	ሆን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=honə
 7	ኑሮ	ኑሮ	SCONJ	SCONJ	_	1	mark	_	Translit=nuro|LTranslit=nuro
 8-10	ብድሬን	_	_	_	_	_	_	_	_
 8	ብድር	ብድር	NOUN	NOUN	_	12	obj	_	Translit=bədərə|LTranslit=bədərə
@@ -1135,7 +1135,7 @@
 2-5	ብሆንም	_	_	_	_	_	_	_	_
 2	ብ	ብ	SCONJ	SCONJ	_	1	mark	_	Translit=bə|LTranslit=bə
 3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	LTranslit='əne|Translit='ə
-4	ሆን	ሆን	AUX	AUX	_	1	cop	_	Translit=honə|LTranslit=honə
+4	ሆን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=honə
 5	ም	ም	SCONJ	SCONJ	_	1	mark	_	Translit=mə|LTranslit=mə
 6	ብዙ	ብዙ	ADV	ADV	_	7	advmod	_	Translit=bəzu|LTranslit=bəzu
 7-10	አይቻለሁ	_	_	_	_	_	_	_	_
@@ -2252,7 +2252,7 @@
 1	ወተት	ወተት	NOUN	NOUN	_	2	nsubj	_	Translit=wätätə|LTranslit=wätätə
 2	ነጭ	ነጭ	ADJ	ADJ	_	0	root	_	Translit=näćə|LTranslit=näćə
 3-4	ነው	_	_	_	_	_	_	_	_
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
 4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -2262,7 +2262,7 @@
 1	ሩጫ	ሩጫ	NOUN	NOUN	_	2	nsubj	_	Translit=ruća|LTranslit=ruća
 2	ጥሩ	ጥሩ	ADJ	ADJ	_	0	root	_	Translit=ţəru|LTranslit=ţəru
 3-4	ነው	_	_	_	_	_	_	_	_
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
 4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -2272,7 +2272,7 @@
 1	ቆንጆ	ቆንጆ	ADJ	ADJ	_	0	root	_	Translit=qonədžo|LTranslit=qonədžo
 2	ልጅ	ልጅ	NOUN	NOUN	_	1	nsubj	_	Translit=lədžə|LTranslit=lədžə
 3-4	ነበረች	_	_	_	_	_	_	_	_
-3	ነበር	ነበር	AUX	AUX	_	1	cop	_	Translit=näbärə|LTranslit=näbärə
+3	ነበር	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=näbärə
 4	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	expl	_	LTranslit='əsu|Translit='ăčə
 5	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -2288,7 +2288,7 @@
 6	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='a
 7	ሚስጥር	ሚስጥር	NOUN	NOUN	_	0	root	_	Translit=misəţərə|LTranslit=misəţərə
 8-9	ነው	_	_	_	_	_	_	_	_
-8	ን	ን	AUX	AUX	_	7	cop	_	Translit=nə|LTranslit=nə
+8	ን	ን	AUX	AUX	_	7	cop	_	LTranslit=nə|Translit=nə
 9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăwə
 10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -2334,7 +2334,7 @@
 2	እንደ	እንደ	ADP	ADP	_	3	mark	_	Translit='ənədä|LTranslit='ənədä
 3	እናት	እናት	NOUN	NOUN	_	0	root	_	Translit='ənatə|LTranslit='ənatə
 4-5	ነች	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăčə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
@@ -2379,7 +2379,7 @@
 6	በ	በ	ADP	ADP	Case=Loc	4	case	_	Translit=bä|LTranslit=bä
 7	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=tə
 8-9	ነው	_	_	_	_	_	_	_	_
-8	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+8	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
 9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	1	expl	_	LTranslit='əsu|Translit='ăwə
 10	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -2396,7 +2396,7 @@
 6	ን	ን	PART	ACC	_	5	case	_	Translit=nə|LTranslit=nə
 7	ቤት	ቤት	NOUN	NOUN	_	2	acl	_	Translit=betə|LTranslit=betə
 8-9	ነው	_	_	_	_	_	_	_	_
-8	ን	ን	AUX	AUX	_	7	cop	_	Translit=nə|LTranslit=nə
+8	ን	ን	AUX	AUX	_	7	cop	_	LTranslit=nə|Translit=nə
 9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăwə
 10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -2413,7 +2413,7 @@
 6	እዚያ	እዚያ	DET	DET	_	7	det	_	Translit='əzija|LTranslit='əzija
 7	መንገድ	መንገድ	NOUN	NOUN	_	0	root	_	Translit=mänəgädə|LTranslit=mänəgädə
 8-9	ነው	_	_	_	_	_	_	_	_
-8	ን	ን	AUX	AUX	_	7	cop	_	Translit=nə|LTranslit=nə
+8	ን	ን	AUX	AUX	_	7	cop	_	LTranslit=nə|Translit=nə
 9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăwə
 10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -2492,7 +2492,7 @@
 7	መጠጣት	መጠጣት	NOUN	NOUN	_	0	root	_	Translit=mäţäţatə|LTranslit=mäţäţatə
 8	ዋን	ዋን	DET	DET	_	7	det	_	Translit=wanə|LTranslit=wanə
 9-10	ነው	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	7	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	7	cop	_	LTranslit=nə|Translit=nə
 10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăwə
 11	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -2526,7 +2526,7 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	2	nsubj	_	Translit=kasa|LTranslit=kasa
 2	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
 3-4	ሆነ	_	_	_	_	_	_	_	_
-3	ሆን	ሆን	AUX	AUX	_	2	cop	_	Translit=honə|LTranslit=honə
+3	ሆን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=honə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ă
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -2535,7 +2535,7 @@
 # translit = 'äsətämari näwə .
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
 2-3	ነው	_	_	_	_	_	_	_	_
-2	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+2	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
 3	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	1	nsubj	_	LTranslit='əsu|Translit='ăwə
 4	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -2569,7 +2569,7 @@
 # translit = 'äməna gobäzə näbärə .
 1	አምና	አምና	ADV	ADV	_	2	advmod	_	Translit='äməna|LTranslit='äməna
 2	ጎበዝ	ጎበዝ	ADJ	ADJ	_	0	root	_	Translit=gobäzə|LTranslit=gobäzə
-3	ነበር	ነበር	AUX	AUX	_	2	cop	_	Translit=näbärə|LTranslit=näbärə
+3	ነበር	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=näbärə
 4	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-x07-s8
@@ -3610,7 +3610,7 @@
 8	ን	ን	PART	ACC	_	6	case	_	Translit=nə|LTranslit=nə
 9	መክፈል	መክፈል	NOUN	NOUN	VerbForm=Vnoun	0	root	_	Translit=mäkəfälə|LTranslit=mäkəfälə
 10-13	ነበረብኝ	_	_	_	_	_	_	_	_
-10	ነበር	ነበር	AUX	AUX	_	9	cop	_	Translit=näbärə|LTranslit=näbärə
+10	ነበር	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=näbärə
 11	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit='ă
 12	ብ	ብ	ADP	ADP	Case=Mal	9	case	_	Translit=bə|LTranslit=bə
 13	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	9	expl	_	LTranslit='əne|Translit=ňə
@@ -4005,7 +4005,7 @@
 2	እህል	እህል	NOUN	NOUN	_	3	nsubj	_	Translit='əhələ|LTranslit='əhələ
 3	ውድ	ውድ	ADV	ADV	_	7	ccomp	_	Translit=wədə|LTranslit=wədə
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
 6-9	ይላሉ	_	_	_	_	_	_	_	_
 6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit=jə
@@ -4168,7 +4168,7 @@
 8	መጠርጠር	መጠርጠር	VERB	VERB	VerbForm=Vnoun	9	nsubj	_	Translit=mäţärəţärə|LTranslit=mäţärəţärə
 9	ቀልድ	ቀልድ	ADJ	ADJ	_	0	root	_	Translit=qälədə|LTranslit=qälədə
 10-11	ነው	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	9	cop	_	Translit=nə|LTranslit=nə
+10	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 11	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăwə
 12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -4196,7 +4196,7 @@
 # translit = leba nähə täbəlo jäqäräbäbätənə kəsə kadä .
 1	ሌባ	ሌባ	NOUN	NOUN	_	4	nsubj	_	Translit=leba|LTranslit=leba
 2-3	ነህ	_	_	_	_	_	_	_	_
-2	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+2	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
 3	ኧህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	LTranslit='änətä|Translit='ăhə
 4-5	ተብሎ	_	_	_	_	_	_	_	_
 4	ተብል	ተብል	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	7	xcomp	_	Translit=täbələ|LTranslit=täbələ
@@ -4360,7 +4360,7 @@
 1	አስቴር	አስቴር	PROPN	PROPN	_	2	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
 2	ወፍራም	ወፍራም	ADJ	ADJ	_	0	root	_	Translit=wäfəramə|LTranslit=wäfəramə
 3-4	ሆነች	_	_	_	_	_	_	_	_
-3	ሆን	ሆን	AUX	AUX	_	2	cop	_	Translit=honə|LTranslit=honə
+3	ሆን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=honə
 4	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăčə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -5166,7 +5166,7 @@
 8	መፅሀፍ	መፅሀፍ	NOUN	NOUN	_	9	obj	_	Translit=mädzəhäfə|LTranslit=mädzəhäfə
 9	ትልቅ	ትልቅ	ADJ	ADJ	_	0	root	_	Translit=tələqə|LTranslit=tələqə
 10-11	ነው	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	9	cop	_	Translit=nə|LTranslit=nə
+10	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 11	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăwə
 12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -5207,7 +5207,7 @@
 9	ልጅ	ልጅ	NOUN	NOUN	_	10	nsubj	_	Translit=lədžə|LTranslit=lədžə
 10	ጥሩ	ጥሩ	ADJ	ADJ	_	0	root	_	Translit=ţəru|LTranslit=ţəru
 11-12	ናት	_	_	_	_	_	_	_	_
-11	ን	ን	AUX	AUX	_	10	cop	_	Translit=nə|LTranslit=nə
+11	ን	ን	AUX	AUX	_	10	cop	_	LTranslit=nə|Translit=nə
 12	ኣት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='atə
 13	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -5225,7 +5225,7 @@
 7	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	8	nsubj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 8	ትልቅ	ትልቅ	ADJ	ADJ	_	0	root	_	Translit=tələqə|LTranslit=tələqə
 9-10	ነው	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -5264,7 +5264,7 @@
 8	ኮት	ኮት	NOUN	NOUN	_	9	nsubj	_	Translit=kotə|LTranslit=kotə
 9	ውድ	ውድ	ADJ	ADJ	_	0	root	_	Translit=wədə|LTranslit=wədə
 10-11	ነው	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	9	cop	_	Translit=nə|LTranslit=nə
+10	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 11	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăwə
 12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -5282,7 +5282,7 @@
 8	ቢላዋ	ቢላዋ	NOUN	NOUN	_	9	nsubj	_	Translit=bilawa|LTranslit=bilawa
 9	ትልቅ	ትልቅ	ADJ	ADJ	_	0	root	_	Translit=tələqə|LTranslit=tələqə
 10-11	ነው	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	9	cop	_	Translit=nə|LTranslit=nə
+10	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 11	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăwə
 12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -5300,7 +5300,7 @@
 7	እባብ	እባብ	NOUN	NOUN	_	8	nsubj	_	Translit='əbabə|LTranslit='əbabə
 8	ትልቅ	ትልቅ	ADJ	ADJ	_	0	root	_	Translit=tələqə|LTranslit=tələqə
 9-10	ነው	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -5701,7 +5701,7 @@
 4	ባሰ	ባሰ	ADV	ADV	_	5	advmod	_	Translit=basä|LTranslit=basä
 5	አጭር	አጭር	ADJ	ADJ	_	0	root	_	Translit='äćərə|LTranslit='äćərə
 6-7	ነው	_	_	_	_	_	_	_	_
-6	ን	ን	AUX	AUX	_	5	cop	_	Translit=nə|LTranslit=nə
+6	ን	ን	AUX	AUX	_	5	cop	_	LTranslit=nə|Translit=nə
 7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit='ăwə
 8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -5812,7 +5812,7 @@
 5	ኣችን	እኔ	PRON	POSM	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	LTranslit='əne|Translit='ačənə
 6	አባል	አባል	NOUN	NOUN	_	0	root	_	Translit='äbalə|LTranslit='äbalə
 7-8	ነው	_	_	_	_	_	_	_	_
-7	ን	ን	AUX	AUX	_	6	cop	_	Translit=nə|LTranslit=nə
+7	ን	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=nə
 8	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ăwə
 9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -5847,7 +5847,7 @@
 3	ም	ም	CCONJ	CCONJ	_	1	cc	_	Translit=mə|LTranslit=mə
 4	ቆንጆ	ቆንጆ	ADJ	ADJ	_	0	root	_	Translit=qonədžo|LTranslit=qonədžo
 5-6	ናት	_	_	_	_	_	_	_	_
-5	ን	ን	AUX	AUX	_	4	cop	_	Translit=nə|LTranslit=nə
+5	ን	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nə
 6	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='atə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -5907,7 +5907,7 @@
 1	ብር	ብር	NOUN	NOUN	_	8	nsubj	_	Translit=bərə|LTranslit=bərə
 2	ም	ም	CCONJ	CCONJ	_	1	cc	_	Translit=mə|LTranslit=mə
 3-4	ሆነ	_	_	_	_	_	_	_	_
-3	ሆን	ሆን	AUX	AUX	_	1	cop	_	Translit=honə|LTranslit=honə
+3	ሆን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=honə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	LTranslit='əsu|Translit='ă
 5	ወርቅ	ወርቅ	NOUN	NOUN	_	1	conj	_	Translit=wärəqə|LTranslit=wärəqə
 6-9	ሊገዛው	_	_	_	_	_	_	_	_
@@ -6092,7 +6092,7 @@
 6	ኡ	ኡ	DET	DET	_	5	det	_	Translit='u|LTranslit='u
 7	መጥፎ	መጥፎ	ADJ	ADJ	_	0	root	_	Translit=mäţəfo|LTranslit=mäţəfo
 8-10	አይደለም	_	_	_	_	_	_	_	_
-8	አይደል	አይደል	AUX	AUX	_	7	cop	_	Translit='äjədälə|LTranslit='äjədälə
+8	አይደል	ን	AUX	AUX	_	7	cop	_	LTranslit=nə|Translit='äjədälə
 9	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ă
 10	ም	ም	PART	NCM	_	7	discourse	_	Translit=mə|LTranslit=mə
 11	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
@@ -6258,7 +6258,7 @@
 5	እንደ	እንደ	ADP	ADP	_	6	case	_	Translit='ənədä|LTranslit='ənədä
 6	ምን	ምን	PRON	PRON	_	1	obl	_	Translit=mənə|LTranslit=mənə
 7-10	ነዎት	_	_	_	_	_	_	_	_
-7	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+7	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
 8	ኧ	አንተ	PRON	SUBJC	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	LTranslit='änətä|Translit='ă
 9	ዎ	አንተ	PRON	POSM	Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='änətä|Translit=wo
 10	ት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	LTranslit='əsu|Translit=tə
@@ -6296,7 +6296,7 @@
 8	መጠርጠር	መጠርጠር	NOUN	NOUN	VerbForm=Vnoun	9	nsubj	_	Translit=mäţärəţärə|LTranslit=mäţärəţärə
 9	ዘበት	ዘበት	ADJ	ADJ	_	0	root	_	Translit=zäbätə|LTranslit=zäbätə
 10-11	ነው	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	9	cop	_	Translit=nə|LTranslit=nə
+10	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 11	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăwə
 12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -6411,7 +6411,7 @@
 2	ኣቸው	እሱ	PRON	POSM	Number=Plur|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əsu|Translit='ačäwə
 3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	1	nsubj	_	LTranslit='əsu|Translit='ăwə
 6	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -6488,7 +6488,7 @@
 3	!	!	PUNCT	PUNCT	_	1	punct	_	Translit=!|LTranslit=!
 4	እውነት	እውነት	NOUN	NOUN	_	0	root	_	Translit='əwənätə|LTranslit='əwənätə
 5-6	ነው	_	_	_	_	_	_	_	_
-5	ን	ን	AUX	AUX	_	4	cop	_	Translit=nə|LTranslit=nə
+5	ን	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nə
 6	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ăwə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -6529,7 +6529,7 @@
 # translit = bədərə näwə 'ənəde jämifäləgutə ?
 1	ብድር	ብድር	NOUN	NOUN	_	0	root	_	Translit=bədərə|LTranslit=bədərə
 2-3	ነው	_	_	_	_	_	_	_	_
-2	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+2	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
 3	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	1	expl	_	LTranslit='əsu|Translit='ăwə
 4	እንዴ	እንዴ	INTJ	INTJ	_	1	discourse	_	Translit='ənəde|LTranslit='ənəde
 5-10	የሚፈልጉት	_	_	_	_	_	_	_	_
@@ -6591,7 +6591,7 @@
 7	መስል	መስል	VERB	VERB	VerbForm=Vnoun	0	root	_	Translit=mäsələ|LTranslit=mäsələ
 8	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='o
 9	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	7	expl	_	LTranslit='əne|Translit=ňə
-10	ነበር	ነበር	AUX	AUX	_	6	cop	_	Translit=näbärə|LTranslit=näbärə
+10	ነበር	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=näbärə
 11	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-x20-s2
@@ -6632,7 +6632,7 @@
 4	ቶሎ	ቶሎ	ADV	ADV	_	5	advmod	_	Translit=tolo|LTranslit=tolo
 5	ሂያጅ	ሂያጅ	NOUN	NOUN	_	0	root	_	Translit=hijadžə|LTranslit=hijadžə
 6-7	ነው	_	_	_	_	_	_	_	_
-6	ን	ን	AUX	AUX	_	5	cop	_	Translit=nə|LTranslit=nə
+6	ን	ን	AUX	AUX	_	5	cop	_	LTranslit=nə|Translit=nə
 7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ăwə
 8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -6652,7 +6652,7 @@
 9	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|PronType=Prs	8	nmod	_	LTranslit='əne|Translit='e
 10	እሱ	እሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	LTranslit='əsu|Translit='əsu
 11-12	ነው	_	_	_	_	_	_	_	_
-11	ን	ን	AUX	AUX	_	10	cop	_	Translit=nə|LTranslit=nə
+11	ን	ን	AUX	AUX	_	10	cop	_	LTranslit=nə|Translit=nə
 12	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='ăwə
 13	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -6662,7 +6662,7 @@
 1	ገንዘብ	ገንዘብ	NOUN	NOUN	_	2	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
 2	ፈላጊ	ፈላጊ	NOUN	NOUN	_	0	root	_	Translit=fälagi|LTranslit=fälagi
 3-4	ነኝ	_	_	_	_	_	_	_	_
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
 4	ኧኝ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	LTranslit='əne|Translit='ăňə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -6673,7 +6673,7 @@
 2	ቤት	ቤት	NOUN	NOUN	_	3	nsubj	_	Translit=betə|LTranslit=betə
 3	ፈራሽ	ፈራሽ	NOUN	NOUN	_	0	root	_	Translit=färašə|LTranslit=färašə
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
@@ -6686,7 +6686,7 @@
 3	ዛሬ	ዛሬ	ADV	ADV	_	4	advmod	_	Translit=zare|LTranslit=zare
 4	ደራሽ	ደራሽ	NOUN	NOUN	_	0	root	_	Translit=därašə|LTranslit=därašə
 5-6	ነው	_	_	_	_	_	_	_	_
-5	ን	ን	AUX	AUX	_	4	cop	_	Translit=nə|LTranslit=nə
+5	ን	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nə
 6	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ăwə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -6696,7 +6696,7 @@
 1	ሰው	ሰው	NOUN	NOUN	_	2	nsubj	_	Translit=säwə|LTranslit=säwə
 2	ሟች	ሟች	NOUN	NOUN	_	0	root	_	Translit=măčə|LTranslit=măčə
 3-4	ነው	_	_	_	_	_	_	_	_
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
 4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -6706,7 +6706,7 @@
 1	ሰው	ሰው	NOUN	NOUN	_	2	nsubj:pass	_	Translit=säwə|LTranslit=säwə
 2	ተሰባሪ	ተሰባሪ	NOUN	NOUN	_	0	root	_	Translit=täsäbari|LTranslit=täsäbari
 3-4	ነው	_	_	_	_	_	_	_	_
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
 4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -6727,7 +6727,7 @@
 9	ም	ም	CCONJ	CCONJ	_	7	discourse	_	Translit=mə|LTranslit=mə
 10	ተሰዳጅ	ተሰዳጅ	NOUN	NOUN	_	0	root	_	Translit=täsädadžə|LTranslit=täsädadžə
 11-12	ነን	_	_	_	_	_	_	_	_
-11	ን	ን	AUX	AUX	_	10	cop	_	Translit=nə|LTranslit=nə
+11	ን	ን	AUX	AUX	_	10	cop	_	LTranslit=nə|Translit=nə
 12	ኧን	እኔ	PRON	SUBJC	Number=Plur|Person=1|PronType=Prs	10	expl	_	LTranslit='əne|Translit='ănə
 13	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -6766,7 +6766,7 @@
 1	መግደል	መግደል	NOUN	NOUN	_	2	nsubj	_	Translit=mägədälə|LTranslit=mägədälə
 2	ኃጢያት	ኃጢያት	NOUN	NOUN	_	0	root	_	Translit=chaţijatə|LTranslit=chaţijatə
 3-4	ነው	_	_	_	_	_	_	_	_
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
 4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -7270,7 +7270,7 @@
 8	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit=jə
 9	ጨርስ	ጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin	10	csubj	_	Translit=ćärəsə|LTranslit=ćärəsə
 10	ጥሩ	ጥሩ	ADJ	ADJ	_	0	root	_	Translit=ţəru|LTranslit=ţəru
-11	ነበር	ነበር	AUX	AUX	_	10	cop	_	Translit=näbärə|LTranslit=näbärə
+11	ነበር	ን	AUX	AUX	_	10	cop	_	LTranslit=nə|Translit=näbärə
 12	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x01-s2
@@ -7612,7 +7612,7 @@
 13	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	expl	_	LTranslit='əsu|Translit=tə
 14	መልካም	መልካም	ADJ	ADJ	_	0	root	_	Translit=mäləkamə|LTranslit=mäləkamə
 15-16	ነው	_	_	_	_	_	_	_	_
-15	ን	ን	AUX	AUX	_	14	cop	_	Translit=nə|LTranslit=nə
+15	ን	ን	AUX	AUX	_	14	cop	_	LTranslit=nə|Translit=nə
 16	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	14	expl	_	LTranslit='əsu|Translit='ăwə
 17	።	።	PUNCT	PUNCT	_	14	punct	_	Translit=.|LTranslit=.
 
@@ -8245,7 +8245,7 @@
 2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit='e
 3	1.85	1.85	NUM	NUM	NumType=Card	0	root	_	Translit=1.85|LTranslit=1.85
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
@@ -8767,7 +8767,7 @@
 5	ኡ	ኡ	DET	DET	_	4	det	_	Translit='u|LTranslit='u
 6	ጥሩ	ጥሩ	ADJ	ADJ	_	0	root	_	Translit=ţəru|LTranslit=ţəru
 7-8	ነው	_	_	_	_	_	_	_	_
-7	ን	ን	AUX	AUX	_	6	cop	_	Translit=nə|LTranslit=nə
+7	ን	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=nə
 8	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ăwə
 9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -8779,7 +8779,7 @@
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
 3	ለስላሳ	ለስላሳ	ADJ	ADJ	_	0	root	_	Translit=läsəlasa|LTranslit=läsəlasa
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
@@ -8796,7 +8796,7 @@
 6	መመለስ	መመለስ	NOUN	NOUN	VerbForm=Vnoun	7	csubj	_	Translit=mämäläsə|LTranslit=mämäläsə
 7	መልካም	መልካም	ADJ	ADJ	_	0	root	_	Translit=mäləkamə|LTranslit=mäləkamə
 8-9	ነው	_	_	_	_	_	_	_	_
-8	ን	ን	AUX	AUX	_	7	cop	_	Translit=nə|LTranslit=nə
+8	ን	ን	AUX	AUX	_	7	cop	_	LTranslit=nə|Translit=nə
 9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăwə
 10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -8808,7 +8808,7 @@
 2	ዋ	እሱ	PRON	POSM	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əsu|Translit=wa
 3	ሚስጥር	ሚስጥር	NOUN	NOUN	_	0	root	_	Translit=misəţərə|LTranslit=misəţərə
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
@@ -8829,7 +8829,7 @@
 10	ተጠጣ	ተጠጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	4	conj	_	Translit=täţäţa|LTranslit=täţäţa
 11	ሚስጥር	ሚስጥር	NOUN	NOUN	_	0	root	_	Translit=misəţərə|LTranslit=misəţərə
 12-13	ነው	_	_	_	_	_	_	_	_
-12	ን	ን	AUX	AUX	_	11	cop	_	Translit=nə|LTranslit=nə
+12	ን	ን	AUX	AUX	_	11	cop	_	LTranslit=nə|Translit=nə
 13	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	11	expl	_	LTranslit='əsu|Translit='ăwə
 14	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
 
@@ -8841,7 +8841,7 @@
 2	ወደ	ወደ	ADP	ADP	_	3	case	_	Translit=wädä|LTranslit=wädä
 3	ከተማ	ከተማ	NOUN	NOUN	_	6	obl	_	Translit=kätäma|LTranslit=kätäma
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	6	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ăwə
 6	መሄድ	መሄድ	NOUN	NOUN	VerbForm=Vnoun	8	csubj	_	Translit=mähedə|LTranslit=mähedə
 7-11	ያለበት	_	_	_	_	_	_	_	_
@@ -8866,7 +8866,7 @@
 7	እዚህ	እዚህ	DET	DET	_	8	det	_	Translit='əzihə|LTranslit='əzihə
 8	ቦታ	ቦታ	NOUN	NOUN	_	0	root	_	Translit=bota|LTranslit=bota
 9-10	ነው	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -9068,7 +9068,7 @@
 4	የ	የ	ADP	ADP	_	5	case	_	Translit=jä|LTranslit=jä
 5	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	0	root	_	LTranslit='əne|Translit='əne
 6-7	ናት	_	_	_	_	_	_	_	_
-6	ን	ን	AUX	AUX	_	5	cop	_	Translit=nə|LTranslit=nə
+6	ን	ን	AUX	AUX	_	5	cop	_	LTranslit=nə|Translit=nə
 7	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='atə
 8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -9088,7 +9088,7 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	2	nsubj	_	Translit=kasa|LTranslit=kasa
 2	ጎበዝ	ጎበዝ	ADJ	ADJ	_	0	root	_	Translit=gobäzə|LTranslit=gobäzə
 3-4	ነው	_	_	_	_	_	_	_	_
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
 4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -9122,7 +9122,7 @@
 3	ጎጃም	ጎጃም	PROPN	PROPN	_	5	obl	_	Translit=godžamə|LTranslit=godžamə
 4	ውስጥ	ውስጥ	ADP	ADP	_	3	case	_	Translit=wəsəţə|LTranslit=wəsəţə
 5	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
-6	ነበር	ነበር	AUX	AUX	_	5	cop	_	Translit=näbärə|LTranslit=näbärə
+6	ነበር	ን	AUX	AUX	_	5	cop	_	LTranslit=nə|Translit=näbärə
 7	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x07-s8
@@ -10725,7 +10725,7 @@
 3	ሰው	ሰው	NOUN	NOUN	_	4	nsubj	_	Translit=säwə|LTranslit=säwə
 4	ጥፋተኛ	ጥፋተኛ	ADJ	ADJ	_	7	ccomp	_	Translit=ţəfatäňa|LTranslit=ţəfatäňa
 5-6	ነህ	_	_	_	_	_	_	_	_
-5	ነ	ነ	AUX	AUX	_	4	cop	_	Translit=nä|LTranslit=nä
+5	ነ	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nä
 6	ህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	expl	_	LTranslit='änətä|Translit=hə
 7-8	ተብሎ	_	_	_	_	_	_	_	_
 7	ተብል	ተብል	VERB	VERB	Mood=Ind|VerbForm=Fin	9	advcl	_	Translit=täbələ|LTranslit=täbələ
@@ -10803,7 +10803,7 @@
 2	ክፉ	ክፉ	ADJ	ADJ	_	3	amod	_	Translit=kəfu|LTranslit=kəfu
 3	ሴት	ሴት	NOUN	NOUN	_	0	root	_	Translit=setə|LTranslit=setə
 4-5	ነች	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăčə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
@@ -10815,7 +10815,7 @@
 2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
 3	ጮማ	ጮማ	NOUN	NOUN	_	0	root	_	Translit=ćoma|LTranslit=ćoma
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
@@ -11130,7 +11130,7 @@
 2	ክፉ	ክፉ	ADJ	ADJ	_	3	amod	_	Translit=kəfu|LTranslit=kəfu
 3	ሴት	ሴት	NOUN	NOUN	_	0	root	_	Translit=setə|LTranslit=setə
 4-6	አይደለችም	_	_	_	_	_	_	_	_
-4	አይደል	አይደል	AUX	AUX	_	3	cop	_	Translit='äjədälə|LTranslit='äjədälə
+4	አይደል	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit='äjədälə
 5	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăčə
 6	ም	ም	PART	NCM	_	3	discourse	_	Translit=mə|LTranslit=mə
 7	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
@@ -11704,7 +11704,7 @@
 7	ሀገር	ሀገር	NOUN	NOUN	_	8	csubj	_	Translit=hägärə|LTranslit=hägärə
 8	ሩቅ	ሩቅ	ADJ	ADJ	_	0	root	_	Translit=ruqə|LTranslit=ruqə
 9-10	ነው	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -11756,7 +11756,7 @@
 7	ቤት	ቤት	NOUN	NOUN	_	8	nsubj	_	Translit=betə|LTranslit=betə
 8	ጠባብ	ጠባብ	ADJ	ADJ	_	0	root	_	Translit=ţäbabə|LTranslit=ţäbabə
 9-10	ነው	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -11791,7 +11791,7 @@
 9	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
 10	ው	ው	DET	DET	_	9	det	_	Translit=wə|LTranslit=wə
 11-12	ነው	_	_	_	_	_	_	_	_
-11	ን	ን	AUX	AUX	_	9	cop	_	Translit=nə|LTranslit=nə
+11	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 12	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăwə
 13	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -12263,7 +12263,7 @@
 4	ኣለ_ቅኔ	ኣለ_ቅኔ	NOUN	NOUN	_	1	conj	_	Translit='alä_qəne|LTranslit='alä_qəne
 5	ም	ም	CCONJ	CCONJ	_	4	cc	_	Translit=mə|LTranslit=mə
 6-7	ነው	_	_	_	_	_	_	_	_
-6	ን	ን	AUX	AUX	_	1	cop	_	Translit=nə|LTranslit=nə
+6	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
 7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	1	nsubj	_	LTranslit='əsu|Translit='ăwə
 8	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -12279,7 +12279,7 @@
 5	ም	ም	CCONJ	CCONJ	_	4	cc	_	Translit=mə|LTranslit=mə
 6-8	ይሆናል	_	_	_	_	_	_	_	_
 6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit=jə
-7	ሆን	ሆን	AUX	AUX	_	2	cop	_	Translit=honə|LTranslit=honə
+7	ሆን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=honə
 8	ኣል	ኣል	AUX	AUX	_	2	aux	_	Translit='alə|LTranslit='alə
 9	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -12298,7 +12298,7 @@
 7	ኣንተ	ኣንተ	PRON	PRON	_	4	conj	_	Translit='anətä|LTranslit='anətä
 8	ም	ም	CCONJ	CCONJ	_	7	cc	_	Translit=mə|LTranslit=mə
 9-10	ነው	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	4	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nə
 10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ăwə
 11	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -12350,7 +12350,7 @@
 1	ስንዴ	ስንዴ	NOUN	NOUN	_	2	nsubj	_	Translit=sənəde|LTranslit=sənəde
 2	እህል	እህል	NOUN	NOUN	_	0	root	_	Translit='əhələ|LTranslit='əhələ
 3-4	ነው	_	_	_	_	_	_	_	_
-3	ን	ን	AUX	AUX	_	2	cop	_	Translit=nə|LTranslit=nə
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
 4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
 5	፣	፣	PUNCT	PUNCT	_	2	punct	_	Translit=,|LTranslit=,
 6-7	ገብስና	_	_	_	_	_	_	_	_
@@ -12495,7 +12495,7 @@
 4	ብ	ብ	SCONJ	SCONJ	_	3	mark	_	Translit=bə|LTranslit=bə
 5	ኣል	ኣል	PART	NEG	Polarity=Neg	3	advmod	_	Translit='alə|LTranslit='alə
 6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=jə
-7	ሆን	ሆን	AUX	AUX	_	3	cop	_	Translit=honə|LTranslit=honə
+7	ሆን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=honə
 8	ም	ም	PART	NCM	_	3	discourse	_	Translit=mə|LTranslit=mə
 9-11	ራባቸውንን	_	_	_	_	_	_	_	_
 9	ራብ	ራብ	NOUN	NOUN	_	12	obj	_	Translit=rabə|LTranslit=rabə
@@ -12541,7 +12541,7 @@
 5	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	6	advcl	_	Translit=honə|LTranslit=honə
 6	መልካም	መልካም	ADJ	ADJ	_	0	root	_	Translit=mäləkamə|LTranslit=mäləkamə
 7-8	ነው	_	_	_	_	_	_	_	_
-7	ን	ን	AUX	AUX	_	6	cop	_	Translit=nə|LTranslit=nə
+7	ን	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=nə
 8	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='ăwə
 9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -12644,7 +12644,7 @@
 7	ጎበዝ	ጎበዝ	ADJ	ADJ	_	8	amod	_	Translit=gobäzə|LTranslit=gobäzə
 8	ገበሬ	ገበሬ	NOUN	NOUN	_	0	root	_	Translit=gäbäre|LTranslit=gäbäre
 9-10	ናት	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 10	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit='atə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -12686,7 +12686,7 @@
 2	ሳ	ሳ	INTJ	INTJ	_	1	discourse	_	Translit=sa|LTranslit=sa
 3	ምንድን	ምንድን	PRON	PRON	_	0	root	_	Translit=mənədənə|LTranslit=mənədənə
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LTranslit='əsu|Translit='ăwə
 6	?	?	PUNCT	PUNCT	_	3	punct	_	Translit=?|LTranslit=?
 
@@ -13023,7 +13023,7 @@
 4	እንድ	እንድ	ADP	ADP	_	5	case	_	Translit='ənədə|LTranslit='ənədə
 5	ይህ	ይህ	DET	DET	_	3	ccomp	_	Translit=jəhə|LTranslit=jəhə
 6-7	ነው	_	_	_	_	_	_	_	_
-6	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+6	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
 8	እንዴ	እንዴ	INTJ	INTJ	_	3	discourse	_	Translit='ənəde|LTranslit='ənəde
 9	?	?	PUNCT	PUNCT	_	3	punct	_	Translit=?|LTranslit=?
@@ -13101,7 +13101,7 @@
 3	እኮ	እኮ	INTJ	INTJ	_	1	discourse	_	Translit='əko|LTranslit='əko
 4	ቆንጆ	ቆንጆ	ADJ	ADJ	_	0	root	_	Translit=qonədžo|LTranslit=qonədžo
 5-6	ናት	_	_	_	_	_	_	_	_
-5	ን	ን	AUX	AUX	_	4	cop	_	Translit=nə|LTranslit=nə
+5	ን	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nə
 6	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='atə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -13144,7 +13144,7 @@
 3	እጅግ	እጅግ	ADJ	ADJ	_	4	amod	_	Translit='ədžəgə|LTranslit='ədžəgə
 4	አሳሳቢ	አሳሳቢ	ADJ	ADJ	_	0	root	_	Translit='äsasabi|LTranslit='äsasabi
 5-6	ነው	_	_	_	_	_	_	_	_
-5	ን	ን	AUX	AUX	_	4	cop	_	Translit=nə|LTranslit=nə
+5	ን	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nə
 6	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ăwə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -13172,7 +13172,7 @@
 2	ኣባት	ኣባት	NOUN	NOUN	_	4	obl	_	Translit='abatə|LTranslit='abatə
 3	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	LTranslit='əsu|Translit='u
 4	ታዛዥ	ታዛዥ	ADJ	ADJ	_	0	root	_	Translit=tazažə|LTranslit=tazažə
-5	ነበር	ነበር	AUX	AUX	_	4	cop	_	Translit=näbärə|LTranslit=näbärə
+5	ነበር	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=näbärə
 6	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x20-s7
@@ -13195,7 +13195,7 @@
 13	ቀን	ቀን	NOUN	NOUN	_	14	obl	_	Translit=qänə|LTranslit=qänə
 14	ወዳቂ	ወዳቂ	ADJ	ADJ	_	0	root	_	Translit=wädaqi|LTranslit=wädaqi
 15-16	ነው	_	_	_	_	_	_	_	_
-15	ን	ን	AUX	AUX	_	14	cop	_	Translit=nə|LTranslit=nə
+15	ን	ን	AUX	AUX	_	14	cop	_	LTranslit=nə|Translit=nə
 16	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	14	expl	_	LTranslit='əsu|Translit='ăwə
 17	።	።	PUNCT	PUNCT	_	14	punct	_	Translit=.|LTranslit=.
 
@@ -13212,7 +13212,7 @@
 7	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ăčə
 8	ሟች	ሟች	NOUN	NOUN	_	0	root	_	Translit=măčə|LTranslit=măčə
 9-10	ናት	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 10	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='atə
 11	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -13224,7 +13224,7 @@
 3	መኪና	መኪና	NOUN	NOUN	_	4	nsubj	_	Translit=mäkina|LTranslit=mäkina
 4	ተሰባሪ	ተሰባሪ	NOUN	NOUN	_	0	root	_	Translit=täsäbari|LTranslit=täsäbari
 5-6	ናት	_	_	_	_	_	_	_	_
-5	ን	ን	AUX	AUX	_	4	cop	_	Translit=nə|LTranslit=nə
+5	ን	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nə
 6	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='atə
 7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -13251,7 +13251,7 @@
 14	ሁሉ	ሁሉ	ADV	ADV	_	12	advmod	_	Translit=hulu|LTranslit=hulu
 15	ተወሳጅ	ተወሳጅ	NOUN	NOUN	_	0	root	_	Translit=täwäsadžə|LTranslit=täwäsadžə
 16-17	ነው	_	_	_	_	_	_	_	_
-16	ን	ን	AUX	AUX	_	15	cop	_	Translit=nə|LTranslit=nə
+16	ን	ን	AUX	AUX	_	15	cop	_	LTranslit=nə|Translit=nə
 17	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	15	expl	_	LTranslit='əsu|Translit='ăwə
 18	።	።	PUNCT	PUNCT	_	15	punct	_	Translit=.|LTranslit=.
 
@@ -13267,7 +13267,7 @@
 5	ኡ	ኡ	DET	DET	_	6	det	_	Translit='u|LTranslit='u
 6	ተቀዳጅ	ተቀዳጅ	NOUN	NOUN	VerbForm=Vnoun	0	root	_	Translit=täqädadžə|LTranslit=täqädadžə
 7-8	ነው	_	_	_	_	_	_	_	_
-7	ን	ን	AUX	AUX	_	6	cop	_	Translit=nə|LTranslit=nə
+7	ን	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=nə
 8	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ăwə
 9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -13308,7 +13308,7 @@
 4	ጭካኔ	ጭካኔ	NOUN	NOUN	_	5	acl	_	Translit=ćəkane|LTranslit=ćəkane
 5	ድርጊት	ድርጊት	NOUN	NOUN	_	0	root	_	Translit=dərəgitə|LTranslit=dərəgitə
 6-7	ነው	_	_	_	_	_	_	_	_
-6	ን	ን	AUX	AUX	_	5	cop	_	Translit=nə|LTranslit=nə
+6	ን	ን	AUX	AUX	_	5	cop	_	LTranslit=nə|Translit=nə
 7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ăwə
 8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -13328,7 +13328,7 @@
 8	የ	የ	ADP	ADP	_	9	case	_	Translit=jä|LTranslit=jä
 9	ግድ	ግድ	NOUN	NOUN	_	7	ccomp	_	Translit=gədə|LTranslit=gədə
 10-11	ነው	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	9	cop	_	Translit=nə|LTranslit=nə
+10	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 11	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăwə
 12	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -13343,7 +13343,7 @@
 4	መብት	መብት	NOUN	NOUN	VerbForm=Vnoun	0	root	_	Translit=mäbətə|LTranslit=mäbətə
 5	ህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	expl	_	LTranslit='änətä|Translit=hə
 6-7	ነው	_	_	_	_	_	_	_	_
-6	ን	ን	AUX	AUX	_	4	cop	_	Translit=nə|LTranslit=nə
+6	ን	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nə
 7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ăwə
 8	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -14253,7 +14253,7 @@
 6	ምክር	ምክር	NOUN	NOUN	_	7	nsubj	_	Translit=məkərə|LTranslit=məkərə
 7	መከተል	መከተል	NOUN	NOUN	VerbForm=Vnoun	0	root	_	Translit=mäkätälə|LTranslit=mäkätälə
 8-9	ነው	_	_	_	_	_	_	_	_
-8	ን	ን	AUX	AUX	_	7	cop	_	Translit=nə|LTranslit=nə
+8	ን	ን	AUX	AUX	_	7	cop	_	LTranslit=nə|Translit=nə
 9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăwə
 10	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -14267,7 +14267,7 @@
 4	መስራት	መስራት	NOUN	NOUN	VerbForm=Vnoun	5	csubj	_	Translit=mäsəratə|LTranslit=mäsəratə
 5	መሠቃይት	መሠቃይት	NOUN	NOUN	VerbForm=Vnoun	0	root	_	Translit=mäśäqajətə|LTranslit=mäśäqajətə
 6-7	ነው	_	_	_	_	_	_	_	_
-6	ን	ን	AUX	AUX	_	5	cop	_	Translit=nə|LTranslit=nə
+6	ን	ን	AUX	AUX	_	5	cop	_	LTranslit=nə|Translit=nə
 7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ăwə
 8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -14835,7 +14835,7 @@
 9	ኧት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ătə
 10	ወራት	ወራት	NOUN	NOUN	_	0	root	_	Translit=wäratə|LTranslit=wäratə
 11-12	ነው	_	_	_	_	_	_	_	_
-11	ን	ን	AUX	AUX	_	10	cop	_	Translit=nə|LTranslit=nə
+11	ን	ን	AUX	AUX	_	10	cop	_	LTranslit=nə|Translit=nə
 12	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='ăwə
 13	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -14994,7 +14994,7 @@
 3	የ	የ	ADP	ADP	_	4	case	_	Translit=jä|LTranslit=jä
 4	ግድ	ግድ	NOUN	NOUN	_	5	nmod	_	Translit=gədə|LTranslit=gədə
 5	አስፈላጊ	አስፈላጊ	ADJ	ADJ	_	0	root	_	Translit='äsəfälagi|LTranslit='äsəfälagi
-6	ነበር	ን	AUX	AUX	_	5	cop	_	Translit=näbärə|LTranslit=näbärə
+6	ነበር	ን	AUX	AUX	_	5	cop	_	LTranslit=nə|Translit=näbärə
 7	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x25-s7
@@ -15582,7 +15582,7 @@
 4	ቤት	ቤት	NOUN	NOUN	_	5	nsubj	_	Translit=betə|LTranslit=betə
 5	ትንሽ	ትንሽ	ADJ	ADJ	_	0	root	_	Translit=tənəšə|LTranslit=tənəšə
 6-7	ነው	_	_	_	_	_	_	_	_
-6	ን	ን	AUX	AUX	_	5	cop	_	Translit=nə|LTranslit=nə
+6	ን	ን	AUX	AUX	_	5	cop	_	LTranslit=nə|Translit=nə
 7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ăwə
 8	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -15915,7 +15915,7 @@
 9	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='u
 10	ሕዝብ	ሕዝብ	NOUN	NOUN	_	8	csubj	_	Translit=ħəzəbə|LTranslit=ħəzəbə
 11-12	ናቸው	_	_	_	_	_	_	_	_
-11	ን	ን	AUX	AUX	_	10	cop	_	Translit=nə|LTranslit=nə
+11	ን	ን	AUX	AUX	_	10	cop	_	LTranslit=nə|Translit=nə
 12	ኣቸው	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='ačäwə
 13	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -16282,7 +16282,7 @@
 2	ውሻ	ውሻ	NOUN	NOUN	_	3	nsubj	_	Translit=wəša|LTranslit=wəša
 3	ተናካሽ	ተናካሽ	ADJ	ADJ	_	0	root	_	Translit=tänakašə|LTranslit=tänakašə
 4-5	ነው	_	_	_	_	_	_	_	_
-4	ን	ን	AUX	AUX	_	3	cop	_	Translit=nə|LTranslit=nə
+4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
 6	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
 
@@ -16553,7 +16553,7 @@
 5	ወፍራም	ወፍራም	ADJ	ADJ	_	6	amod	_	Translit=wäfəramə|LTranslit=wäfəramə
 6	ሴት	ሴት	NOUN	NOUN	_	0	root	_	Translit=setə|LTranslit=setə
 7-8	ናት	_	_	_	_	_	_	_	_
-7	ን	ን	AUX	AUX	_	6	cop	_	Translit=nə|LTranslit=nə
+7	ን	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=nə
 8	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='atə
 9	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -16675,7 +16675,7 @@
 6	ምንድ	ምንድን	PRON	PRON	Typo=Yes	0	root	_	Translit=mənədə|LTranslit=mənədənə
 7	ን	_	X	_	_	6	goeswith	_	Translit=nə
 8-9	ነው	_	_	_	_	_	_	_	_
-8	ን	ን	AUX	AUX	_	6	cop	_	Translit=nə|LTranslit=nə
+8	ን	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=nə
 9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ăwə
 10	?	?	PUNCT	PUNCT	_	6	punct	_	Translit=?|LTranslit=?
 
@@ -16695,7 +16695,7 @@
 8	እነ	እነ	DET	DET	_	9	det	_	Translit='ənä|LTranslit='ənä
 9	ማን	ማን	PRON	PRON	_	0	root	_	Translit=manə|LTranslit=manə
 10-11	ናቸው	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	9	cop	_	Translit=nə|LTranslit=nə
+10	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 11	ኣቸው	እሱ	PRON	SUBJC	Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit='ačäwə
 12	?	?	PUNCT	PUNCT	_	9	punct	_	Translit=?|LTranslit=?
 
@@ -16714,7 +16714,7 @@
 8	ምንድ	ምንድን	PRON	PRON	Typo=Yes	0	root	_	Translit=mənədə|LTranslit=mənədənə
 9	ን	_	X	_	_	8	goeswith	_	Translit=nə
 10-11	ነው	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+10	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 11	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 12	?	?	PUNCT	PUNCT	_	8	punct	_	Translit=?|LTranslit=?
 
@@ -16733,7 +16733,7 @@
 8	ምንድ	ምንድን	PRON	PRON	Typo=Yes	0	root	_	Translit=mənədə|LTranslit=mənədənə
 9	ን	_	X	_	_	8	goeswith	_	Translit=nə
 10-11	ነው	_	_	_	_	_	_	_	_
-10	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+10	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 11	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 12	?	?	PUNCT	PUNCT	_	8	punct	_	Translit=?|LTranslit=?
 
@@ -16750,12 +16750,12 @@
 7	ሀገር	ሀገር	NOUN	NOUN	_	8	nsubj	_	Translit=hägärə|LTranslit=hägärə
 8	የት	የት	PRON	PRON	_	12	parataxis	_	Translit=jätə|LTranslit=jätə
 9-10	ነው	_	_	_	_	_	_	_	_
-9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
+9	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
 10	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 11	?	?	PUNCT	PUNCT	_	8	punct	_	Translit=?|LTranslit=?
 12	ወዴት	ወዴት	ADV	ADV	_	0	root	_	Translit=wädetə|LTranslit=wädetə
 13-14	ነው	_	_	_	_	_	_	_	_
-13	ን	ን	AUX	AUX	_	12	cop	_	Translit=nə|LTranslit=nə
+13	ን	ን	AUX	AUX	_	12	cop	_	LTranslit=nə|Translit=nə
 14	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	LTranslit='əsu|Translit='ăwə
 15	?	?	PUNCT	PUNCT	_	12	punct	_	Translit=?|LTranslit=?
 

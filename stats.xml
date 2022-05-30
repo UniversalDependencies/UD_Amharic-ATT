@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1074</sentences><tokens>5245</tokens><words>10010</words><fused>2672</fused></test>
   </size>
-  <lemmas unique="1443" /><!-- እሱ, ።, ን, እኔ, ኣል, ኡ, የ, ም, በ, አንተ, ው, ብ, ?, ካሳ, ከ -->
+  <lemmas unique="1442" /><!-- እሱ, ።, ን, እኔ, ኣል, ኡ, የ, ም, በ, አንተ, ው, ብ, ?, ካሳ, ከ -->
   <forms unique="1473" /><!-- ።, ን, ኡ, ኧ, ኣል, ይ, ው, የ, ት, ም, በ, ኧው, ብ, ኧች, ? -->
   <fusions unique="1857" /><!-- ነው, ልጁ, ሄደ, አለ, ልጆቹ, ብሎ, ልብሱን, ልጁን, መጽሐፉን, መጣ, ቢሆን, ናት, አስተማሪው, እንደሆነ, ሲል -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">116</tag><!-- ብዙ, ጥሩ, ጎበዝ, ቆንጆ, ትልቅ, ትንሽ, ወፍራም, ሁሉ, መልካም, ምንም -->
     <tag name="ADP">681</tag><!-- በ, ለ, የ, ከ, ወደ, ብ, ል, ላይ, እንደ, ጋር -->
     <tag name="ADV">94</tag><!-- በጣም, ነገ, ትናንት, ዛሬ, ብዙ, እንዲሁ, ይልቅ, ሁሉ, ምን, ቶሎ -->
-    <tag name="AUX">420</tag><!-- ኣል, ን, ነበር, ሆን, ችል, ኖር, አይደል, እየ, ብል, ቻል -->
+    <tag name="AUX">420</tag><!-- ኣል, ን, ነበር, ሆን, ችል, ኖር, እየ, ብል, ቻል, ኖሮ -->
     <tag name="CCONJ">100</tag><!-- ም, ና, ስ, እንጂ, ወይስ, ሳ, ነገርግን, ደግሞ, ግን -->
     <tag name="DET">482</tag><!-- ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ -->
     <tag name="INTJ">66</tag><!-- ስ, ኣ, እንዴ, ምነው, ማ, ሳ, ወይ, እንደሆን, እኮ, ምናልባት -->

@@ -18,6 +18,10 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Fixed validation errors in goeswith annotation.
+  * Added missing features for pronouns.
+  * Fixed validation errors in auxiliaries and copulas.
 * 2021-11-15 v2.9
   * Fixed a number of validation errors.
 * 2018-07-01 v2.2
