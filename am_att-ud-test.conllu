@@ -5826,7 +5826,7 @@
 4	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	LTranslit='əsu|Translit=wə
 5-7	ከቻልኩ	_	_	_	_	_	_	_	_
 5	ከ	ከ	SCONJ	SCONJ	_	3	mark	_	Translit=kä|LTranslit=kä
-6	ቻል	ቻል	AUX	AUX	_	3	aux	_	Translit=čalə|LTranslit=čalə
+6	ቻል	ችል	AUX	AUX	_	3	aux	_	Translit=čalə|LTranslit=čələ
 7	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	3	expl	_	LTranslit='əne|Translit=ku
 8-9	አንተም	_	_	_	_	_	_	_	_
 8	አንተ	አንተ	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	LTranslit='änətä|Translit='änətä
