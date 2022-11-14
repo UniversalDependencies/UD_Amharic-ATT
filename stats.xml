@@ -10,50 +10,53 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1074</sentences><tokens>5245</tokens><words>10010</words><fused>2672</fused></test>
   </size>
-  <lemmas unique="1473" /><!-- ።, ን, ኡ, ኧ, ኣል, ይ, ው, የ, ት, ም, በ, ኧው, ብ, ኧች, ? -->
+  <lemmas unique="1441" /><!-- እሱ, ።, ን, እኔ, ኣል, ኡ, የ, ም, በ, አንተ, ው, ብ, ?, ካሳ, ከ -->
   <forms unique="1473" /><!-- ።, ን, ኡ, ኧ, ኣል, ይ, ው, የ, ት, ም, በ, ኧው, ብ, ኧች, ? -->
   <fusions unique="1857" /><!-- ነው, ልጁ, ሄደ, አለ, ልጆቹ, ብሎ, ልብሱን, ልጁን, መጽሐፉን, መጣ, ቢሆን, ናት, አስተማሪው, እንደሆነ, ሲል -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="15">
+  <tags unique="16">
     <tag name="ADJ">116</tag><!-- ብዙ, ጥሩ, ጎበዝ, ቆንጆ, ትልቅ, ትንሽ, ወፍራም, ሁሉ, መልካም, ምንም -->
     <tag name="ADP">681</tag><!-- በ, ለ, የ, ከ, ወደ, ብ, ል, ላይ, እንደ, ጋር -->
     <tag name="ADV">94</tag><!-- በጣም, ነገ, ትናንት, ዛሬ, ብዙ, እንዲሁ, ይልቅ, ሁሉ, ምን, ቶሎ -->
-    <tag name="AUX">420</tag><!-- ኣል, ን, ነበር, ሆን, ችል, ኖር, አይደል, እየ, ብል, ቻል -->
-    <tag name="CCONJ">101</tag><!-- ም, ና, ስ, እንጂ, ወይስ, ግን, ሳ, ነገር, ደግሞ -->
+    <tag name="AUX">419</tag><!-- ኣል, ን, ነበር, ሆን, ችል, ኖር, እየ, ብል, አይደል, አድርግ -->
+    <tag name="CCONJ">100</tag><!-- ም, ና, ስ, እንጂ, ወይስ, ሳ, ነገርግን, ደግሞ, ግን -->
     <tag name="DET">482</tag><!-- ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ -->
     <tag name="INTJ">66</tag><!-- ስ, ኣ, እንዴ, ምነው, ማ, ሳ, ወይ, እንደሆን, እኮ, ምናልባት -->
     <tag name="NOUN">1486</tag><!-- ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና -->
     <tag name="NUM">40</tag><!-- አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ -->
-    <tag name="PART">874</tag><!-- ን, ኣል, ም, የ, እም, አል, ኣለ, በ, ያለ, አለ -->
-    <tag name="PRON">2555</tag><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
+    <tag name="PART">869</tag><!-- ን, ኣል, ም, የ, እም, አል, ኣለ, በ, ያለ, አለ -->
+    <tag name="PRON">2550</tag><!-- እሱ, እኔ, አንተ, ምን, ማን, ው, የት, መቼ, ምነው, እርሱ -->
     <tag name="PROPN">236</tag><!-- ካሳ, አስቴር, አልማዝ, ጎጃም, ከበደ, በቀለ, ተስፋዬ, ዓለሙ, ጎንደር, ኃይሉ -->
     <tag name="PUNCT">1093</tag><!-- ።, ?, !, ፣, /, ፤ -->
-    <tag name="SCONJ">214</tag><!-- ብ, ስ, እንደ, ል, ከ, ስለ, በ, እንድ, ም, እስከ -->
-    <tag name="VERB">1552</tag><!-- ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል -->
+    <tag name="SCONJ">213</tag><!-- ብ, ስ, እንደ, ል, ከ, ስለ, በ, እንድ, እስከ, እየ -->
+    <tag name="VERB">1553</tag><!-- ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል -->
+    <tag name="X">12</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="26">
+  <feats unique="28">
     <feat name="Case" value="Abl" upos="ADP">2</feat><!-- ለ, ከ -->
     <feat name="Case" value="Ben" upos="ADP">37</feat><!-- ል, ለ, በ, ብ -->
     <feat name="Case" value="Ins" upos="ADP">8</feat><!-- በ -->
     <feat name="Case" value="Loc" upos="ADP">27</feat><!-- በ, ከ, ወደ, እ, ላይ, እሰከ -->
     <feat name="Case" value="Mal" upos="ADP">40</feat><!-- ብ, በ, ል -->
-    <feat name="Gender" value="Com" upos="PRON">15</feat><!-- ኝ, ኧሁ, ሁ, ን, ኤ, እ -->
-    <feat name="Gender" value="Fem" upos="DET,PRON">419</feat><!-- ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, ኧሽ, ኡ -->
-    <feat name="Gender" value="Masc" upos="DET,PRON,VERB">1234</feat><!-- ኧ, ይ, ት, ኦ, ው, ኡ, ህ, ኧት, ኧህ, ክ -->
-    <feat name="Gender" value="Neut" upos="PRON">62</feat><!-- ኝ, ኧሁ, ሁ, ኣቸው, ን, ኡ, ኣሁ, ኧ, ኧኝ, ዋ -->
+    <feat name="Gender" value="Fem" upos="DET,PRON">425</feat><!-- ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, እሷ, ኧሽ -->
+    <feat name="Gender" value="Masc" upos="DET,PRON,VERB">1250</feat><!-- ኧ, ይ, ት, ኦ, ው, ኡ, ህ, ኧት, ኧህ, እሱ -->
+    <feat name="Gender" value="Neut" upos="PRON">62</feat><!-- ኝ, ኧሁ, ሁ, ኣቸው, ን, ኧ, ኡ, ኣሁ, ኧኝ, ዋ -->
+    <feat name="Mood" value="Ind" upos="VERB">1466</feat><!-- ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል -->
     <feat name="Mood" value="Jus" upos="VERB">17</feat><!-- ሂድ, ብላ, ላክ, መጣ, ሰጥ, ስበር, ተቀመጥ, አሳይ, አውጣ, ውረድ -->
-    <feat name="Number" value="Dual" upos="PRON">1</feat><!-- ኢ -->
-    <feat name="Number" value="Plur" upos="ADJ,NOUN,NUM,PRON">287</feat><!-- ኡ, ኣቸው, ኣችን, ን, ኧን, እን, ልጆች, ኣችሁ, ተማሪዎች, ሰዎች -->
-    <feat name="Number" value="Sing" upos="DET,PRON,VERB">2151</feat><!-- ኧ, ይ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት, ኡ -->
+    <feat name="Number" value="Plur" upos="ADJ,NOUN,NUM,PRON">289</feat><!-- ኡ, ኣቸው, ኣችን, ኧን, ን, እን, ልጆች, ኣችሁ, ተማሪዎች, ሰዎች -->
+    <feat name="Number" value="Sing" upos="DET,PRON,VERB">2194</feat><!-- ኧ, ይ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት, ኡ -->
     <feat name="NumType" value="Card" upos="NUM">40</feat><!-- አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ -->
-    <feat name="Person" value="1" upos="PRON">401</feat><!-- ኝ, ኤ, እ, ሁ, ኧሁ, ኩ, ኧኝ, ን, ኧን, እን -->
-    <feat name="Person" value="2" upos="PRON">133</feat><!-- ህ, ኧህ, ት, ሽ, ኢ, ክ, ኣችን, ኧ, ኣችሁ, ኧሽ -->
-    <feat name="Person" value="3" upos="DET,PRON,VERB">1844</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኣት, ኣ -->
+    <feat name="Person" value="1" upos="PRON">422</feat><!-- ኝ, ኤ, እ, ሁ, ኧሁ, ኩ, እኔ, ኧኝ, ኧን, ን -->
+    <feat name="Person" value="2" upos="PRON">139</feat><!-- ህ, ኧህ, ት, ሽ, ኢ, ክ, ኣችን, አንተ, ኧ, ኣችሁ -->
+    <feat name="Person" value="3" upos="DET,PRON,VERB">1861</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኣት, ኣ -->
     <feat name="Polarity" value="Neg" upos="PART">197</feat><!-- ኣል, አል, ኣለ, ያለ, አለ, ኣይ, ም, አይ -->
     <feat name="Poss" value="Yes" upos="PRON">205</feat><!-- ኡ, ዋ, ኤ, ህ, ኣችን, ኣቸው, ው, ዬ, ሽ, ኣችሁ -->
+    <feat name="PronType" value="Prs" upos="PRON">2419</feat><!-- ኧ, ይ, ት, ኡ, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
     <feat name="Tense" value="Past" upos="AUX">1</feat><!-- ነበር -->
-    <feat name="VerbForm" value="Conv" upos="VERB">51</feat><!-- ገዝት, ብል, መጥት, በልት, ከፍት, ዘንብ, ይዝ, ሄድ, ሠራርት, ረጥብ -->
+    <feat name="Typo" value="Yes" upos="CCONJ,INTJ,PRON,VERB">12</feat><!-- ኧ, ምንድ, መጥ, ምን, ነገር, እንዲያው -->
+    <feat name="VerbForm" value="Conv" upos="VERB">52</feat><!-- ገዝት, ብል, መጥት, በልት, ከፍት, ዘንብ, ይዝ, ሄድ, ሠራርት, ረጥብ -->
+    <feat name="VerbForm" value="Fin" upos="VERB">1483</feat><!-- ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል -->
     <feat name="VerbForm" value="Vnoun" upos="NOUN,VERB">166</feat><!-- መሄድ, መምጣት, መሆን, መሥራት, መግደል, መክፈል, ማለፍ, መስራት, መቆየት, መታመም -->
     <feat name="Voice" value="Cau" upos="VERB">92</feat><!-- አስወሰድ, አስገደል, አስያዝ, አሳርፍ, አሳጠብ, አስመሽ, አስረዘም, አስሸለም, አስሸከም, አስቀመስ -->
     <feat name="Voice" value="Pass" upos="VERB">137</feat><!-- ተሻል, ተሰረቅ, ተቀመጥ, ተደሰት, ተለወጥ, ተመለስ, ተመኝ, ተሸለም, ተበደር, ተገነዘብ -->
@@ -66,7 +69,7 @@
     <dep name="advcl">318</dep>
     <dep name="advmod">290</dep>
     <dep name="amod">63</dep>
-    <dep name="aux">315</dep>
+    <dep name="aux">314</dep>
     <dep name="case">911</dep>
     <dep name="cc">86</dep>
     <dep name="ccomp">115</dep>
@@ -95,6 +98,6 @@
     <dep name="parataxis">7</dep>
     <dep name="punct">1093</dep>
     <dep name="root">1074</dep>
-    <dep name="xcomp">135</dep>
+    <dep name="xcomp">136</dep>
   </deps>
 </treebank>
