@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
-Evaluating the following revision of UD_Amharic-ATT:
-commit 16d3de23110b8023e9052c0ddb976a7544f155f7
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 3 15:50:40 2021 +0100
+Date:   Sun Nov 13 22:03:41 2022 +0100
+Evaluating the following revision of UD_Amharic-ATT:
+commit 54b1cfb37dc8f180d4953d345b3542161bb2a315
+Merge: 85521ad 87350a6
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 10010 of 10010 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60716918665426.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -13,51 +13,40 @@ Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
-Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 3274 out of 10010 total words have one or more features.
+Features: 4543 out of 10010 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       4630
-Udapi: found 4630 bugs.
+               TOTAL        713
+Udapi: found 713 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10010 words.
 Genres: found 5 out of 17 known.
 validate.py --lang am --max-err=10 UD_Amharic-ATT/am_att-ud-test.conllu
-[Line 28 Sent data_UD-Sleepwalking-26-s2 Node 9]: [L5 Morpho aux-lemma] 'ኣል' is not an auxiliary verb in language [am]
-[Line 205 Sent data_UD-Sleepwalking-26-s15 Node 7]: [L5 Morpho aux-lemma] 'ኣል' is not an auxiliary verb in language [am]
-[Line 406 Sent data_UD-x00-s1 Node 11]: [L5 Morpho aux-lemma] 'ኣል' is not an auxiliary verb in language [am]
-[Line 464 Sent data_UD-x00-s4 Node 9]: [L5 Morpho aux-lemma] 'ነበር' is not an auxiliary verb in language [am]
-[Line 484 Sent data_UD-x00-s5 Node 11]: [L5 Morpho aux-lemma] 'ኣል' is not an auxiliary verb in language [am]
-[Line 530 Sent data_UD-x00-s7 Node 11]: [L5 Morpho aux-lemma] 'ኣል' is not an auxiliary verb in language [am]
-[Line 543 Sent data_UD-x00-s8 Node 6]: [L5 Morpho aux-lemma] 'ሆን' is not an auxiliary verb in language [am]
-[Line 543 Sent data_UD-x00-s8 Node 6]: [L5 Syntax cop-lemma] 'ሆን' is not a copula in language [am]
-[Line 552 Sent data_UD-x00-s8 Node 13]: [L5 Morpho aux-lemma] 'ነበር' is not an auxiliary verb in language [am]
-[Line 568 Sent data_UD-x00-s9 Node 9]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
-...suppressing further errors regarding Morpho
-[Line 1138 Sent data_UD-x01-s20 Node 4]: [L5 Syntax cop-lemma] 'ሆን' is not a copula in language [am]
-[Line 2275 Sent data_UD-x06-s8 Node 3]: [L5 Syntax cop-lemma] 'ነበር' is not a copula in language [am]
-[Line 2529 Sent data_UD-x07-s3 Node 3]: [L5 Syntax cop-lemma] 'ሆን' is not a copula in language [am]
-[Line 2572 Sent data_UD-x07-s7 Node 3]: [L5 Syntax cop-lemma] 'ነበር' is not a copula in language [am]
-[Line 3613 Sent data_UD-x10-s20 Node 10]: [L5 Syntax cop-lemma] 'ነበር' is not a copula in language [am]
-[Line 4363 Sent data_UD-x13-s2 Node 3]: [L5 Syntax cop-lemma] 'ሆን' is not a copula in language [am]
-[Line 5910 Sent data_UD-x18-s1 Node 3]: [L5 Syntax cop-lemma] 'ሆን' is not a copula in language [am]
-[Line 6095 Sent data_UD-x18-s10 Node 8]: [L5 Syntax cop-lemma] 'አይደል' is not a copula in language [am]
+[Line 661 Sent data_UD-x00-s13 Node 14]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [11, 15]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2509 Sent data_UD-x07-s2 Node 6]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2616 Sent data_UD-x07-s11 Node 3]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 4]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2861 Sent data_UD-x08-s10 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 3807 Sent data_UD-x11-s12 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 3]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 4606 Sent data_UD-x13-s21 Node 3]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 4]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6821 Sent data_UD-x20-s17 Node 6]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6872 Sent data_UD-x20-s20 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 4]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6938 Sent data_UD-third_apple_2-x00-s3 Node 11]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 12]. Outer subjects are allowed if a clause acts as the predicate of another clause.
 ...suppressing further errors regarding Syntax
-Morpho errors: 327
-Syntax errors: 17
-*** FAILED *** with 344 errors
+Syntax errors: 77
+*** FAILED *** with 77 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.3) = 0.0230769230769231
+(weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
 (weight=0.0769230769230769) * (score{genres}=0.294117647058824) = 0.0226244343891403
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.33347802582644) = 0.0855071861093435
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
+(weight=0.307692307692308) * (score{udapi}=0.287712287712288) = 0.088526857757627
 (weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.36096680862779) * (availability=1) * (validity=0.01) = 0.0036096680862779
+(TOTAL score=0.466326245570937) * (availability=1) * (validity=0.01) = 0.00466326245570937
 STARS = 0
-UD_Amharic-ATT	0.0036096680862779	0
+UD_Amharic-ATT	0.00466326245570937	0
