@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Amharic-ATT:
-commit 142b606ae2729541b5581e27b068d0217ea4ad2d
+commit 7bba2043e9a1348e2fc80418d193217fdf0c0b3b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 09:17:11 2023 +0200
+Date:   Mon Nov 6 11:25:06 2023 +0100
 Size: counted 10010 of 10010 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60716918665426.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -34,6 +34,7 @@ Genres: found 5 out of 17 known.
 [Line 6821 Sent data_UD-x20-s17 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] not subtyped as ':outer'.
 [Line 6872 Sent data_UD-x20-s20 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [3, 4] not subtyped as ':outer'.
 [Line 6938 Sent data_UD-third_apple_2-x00-s3 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [9, 12] not subtyped as ':outer'.
+[Line 6960 Sent data_UD-third_apple_2-x00-s4 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [11, 14] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 77
 *** FAILED *** with 77 errors
