@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Amharic-ATT:
-commit 7bba2043e9a1348e2fc80418d193217fdf0c0b3b
+commit b8a104be5df6c02bce78396b248e8ce4a1b3e883
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 11:25:06 2023 +0100
+Date:   Sun May 5 11:47:52 2024 +0200
 Size: counted 10010 of 10010 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.60716918665426.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -30,6 +30,7 @@ Genres: found 5 out of 17 known.
 [Line 2616 Sent data_UD-x07-s11 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] not subtyped as ':outer'.
 [Line 2861 Sent data_UD-x08-s10 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'.
 [Line 3807 Sent data_UD-x11-s12 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [1, 3] not subtyped as ':outer'.
+[Line 4279 Sent data_UD-x12-s16 Node 6]: [L3 Warning leaf-clf] 'clf' not expected to have children (6:ጋን:clf --> 5:አንድ:nummod)
 [Line 4606 Sent data_UD-x13-s21 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] not subtyped as ':outer'.
 [Line 6821 Sent data_UD-x20-s17 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] not subtyped as ':outer'.
 [Line 6872 Sent data_UD-x20-s20 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [3, 4] not subtyped as ':outer'.
@@ -37,6 +38,7 @@ Genres: found 5 out of 17 known.
 [Line 6960 Sent data_UD-third_apple_2-x00-s4 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [11, 14] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 77
+Warnings: 1
 *** FAILED *** with 77 errors
 Exit code: 1
 Validity: 0.01
