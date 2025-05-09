@@ -64,7 +64,7 @@
     <feat name="Voice" value="Trans" upos="VERB">12</feat><!-- አለቀስ, አመጥ, አነሥ, አነበብ, አደናቀፍ, አገነፍ, አገኘ, አግዝ, አጠብ -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="34">
+  <deps unique="33">
     <dep name="acl">88</dep>
     <dep name="advcl">318</dep>
     <dep name="advmod">290</dep>
@@ -73,7 +73,6 @@
     <dep name="case">911</dep>
     <dep name="cc">86</dep>
     <dep name="ccomp">115</dep>
-    <dep name="clf">1</dep>
     <dep name="compound">45</dep>
     <dep name="compound:svc">35</dep>
     <dep name="conj">49</dep>
@@ -89,7 +88,7 @@
     <dep name="goeswith">12</dep>
     <dep name="iobj">30</dep>
     <dep name="mark">527</dep>
-    <dep name="nmod">293</dep>
+    <dep name="nmod">294</dep>
     <dep name="nsubj">1432</dep>
     <dep name="nsubj:pass">93</dep>
     <dep name="nummod">35</dep>
