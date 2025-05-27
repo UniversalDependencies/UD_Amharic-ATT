@@ -885,9 +885,10 @@
 # sent_id = data_UD-x01-s6
 # text = እንደምንም ብዬ ከዚያ ብደርስ ።
 # translit = 'ənədämənəmə bəje käzija bədärəsə .
+# text_en = If I could somehow get there.
 1-2	እንደምንም	_	_	_	_	_	_	_	_
-1	እንደ	እንደ	SCONJ	SCONJ	_	3	advmod	_	Translit='ənədä|LTranslit='ənədä
-2	ምንም	ምንም	ADV	ADV	_	1	fixed	_	Translit=mənəmə|LTranslit=mənəmə
+1	እንደ	እንደ	SCONJ	SCONJ	_	2	mark	_	Translit='ənədä|LTranslit='ənədä
+2	ምንም	ምንም	ADV	ADV	_	3	advmod	_	Translit=mənəmə|LTranslit=mənəmə
 3-4	ብዬ	_	_	_	_	_	_	_	_
 3	ብል	ብል	VERB	VERB	Mood=Ind|VerbForm=Fin	9	advcl	_	Translit=bələ|LTranslit=bələ
 4	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	LTranslit='əne|Translit='e
@@ -1010,6 +1011,7 @@
 # sent_id = data_UD-x01-s13
 # text = ምን ያህል እንደተለወጠ ብታይ ይገርምሃል ።
 # translit = mənə jahələ 'ənədätäläwäţä bətajə jəgärəməhalə .
+# text_en = You'll be surprised to see how much it's changed.
 1	ምን	ምን	ADV	ADV	_	2	advmod	_	Translit=mənə|LTranslit=mənə
 2	ያህል	ያህል	NOUN	NOUN	_	4	obl	_	Translit=jahələ|LTranslit=jahələ
 3-5	እንደተለወጠ	_	_	_	_	_	_	_	_
@@ -1042,6 +1044,7 @@
 # sent_id = data_UD-x01-s15
 # text = ካሳ አስቴር ወደ ጎንደር እንደሄደች አውቆአል ።
 # translit = kasa 'äsəterə wädä gonədärə 'ənədähedäčə 'äwəqo'älə .
+# text_en = Kassa knew that Esther had gone to Gondar.
 1	ካሳ	ካሳ	PROPN	PROPN	_	8	nsubj	_	Translit=kasa|LTranslit=kasa
 2	አስቴር	አስቴር	PROPN	PROPN	_	6	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
 3	ወደ	ወደ	ADP	ADP	_	4	case	_	Translit=wädä|LTranslit=wädä
@@ -1059,6 +1062,7 @@
 # sent_id = data_UD-x01-s16
 # text = ካሳ አስቴር ወደ ትምህርት ቤት እንደ ሄደች ምሳውን በላ ።
 # translit = kasa 'äsəterə wädä təməhərətə betə 'ənədä hedäčə məsawənə bäla .
+# text_en = Kassa Esther ate her lunch as soon as she went to school.
 1	ካሳ	ካሳ	PROPN	PROPN	_	12	nsubj	_	Translit=kasa|LTranslit=kasa
 2	አስቴር	አስቴር	PROPN	PROPN	_	7	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
 3	ወደ	ወደ	ADP	ADP	_	5	case	_	Translit=wädä|LTranslit=wädä
@@ -1985,6 +1989,7 @@
 # sent_id = data_UD-x05-s8
 # text = አልማዝ አርፍዳ እንደምትመጣ ነግራኛለች ።
 # translit = 'äləmazə 'ärəfəda 'ənədämətəmäţa nägəraňaläčə .
+# text_en = Almaz told me she would come later.
 1	አልማዝ	አልማዝ	PROPN	PROPN	_	8	nsubj	_	Translit='äləmazə|LTranslit='äləmazə
 2-3	አርፍዳ	_	_	_	_	_	_	_	_
 2	አርፍድ	አርፍድ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	advcl	_	Translit='ärəfədə|LTranslit='ärəfədə
@@ -2098,6 +2103,7 @@
 # sent_id = data_UD-x05-s15
 # text = መታመሙን እንደነገረኝ መጣሁ ።
 # translit = mätamämunə 'ənədänägäräňə mäţahu .
+# text_en = I came as soon as he told me he was sick.
 1-3	መታመሙን	_	_	_	_	_	_	_	_
 1	መታመም	መታመም	NOUN	NOUN	VerbForm=Vnoun	5	obj	_	Translit=mätamämə|LTranslit=mätamämə
 2	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əsu|Translit='u
@@ -2141,6 +2147,7 @@
 # sent_id = data_UD-x05-s18
 # text = ካሳ እነደሚመጣ ለአልማዝ ነገራት ።
 # translit = kasa 'ənädämimäţa lä'äləmazə nägäratə .
+# text_en = He told Almaz that Kassa is coming.
 1	ካሳ	ካሳ	PROPN	PROPN	_	9	nsubj	_	Translit=kasa|LTranslit=kasa
 2-6	እነደሚመጣ	_	_	_	_	_	_	_	_
 2	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	Translit='ənədä|LTranslit='ənədä
@@ -2160,6 +2167,7 @@
 # sent_id = data_UD-x05-s19
 # text = ማን እንደሚመጣ ነገርኩዋት ።
 # translit = manə 'ənədämimäţa nägärəkuwatə .
+# text_en = I told her who was coming.
 1	ማን	ማን	PRON	PRON	_	5	nmod	_	Translit=manə|LTranslit=manə
 2-6	እንደሚመጣ	_	_	_	_	_	_	_	_
 2	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	Translit='ənədä|LTranslit='ənədä
@@ -2279,6 +2287,7 @@
 # sent_id = data_UD-x06-s9
 # text = ማን እንደሚመጣ ሚስጥር ነው ።
 # translit = manə 'ənədämimäţa misəţərə näwə .
+# text_en = It's a secret who will come.
 1	ማን	ማን	PRON	PRON	_	5	nmod	_	Translit=manə|LTranslit=manə
 2-6	እንደሚመጣ	_	_	_	_	_	_	_	_
 2	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	Translit='ənədä|LTranslit='ənədä
@@ -2330,6 +2339,7 @@
 # sent_id = data_UD-x06-s12
 # text = አልማዝ እንደ እናት ነች ።
 # translit = 'äləmazə 'ənədä 'ənatə näčə .
+# text_en = Almaz is like a mother.
 1	አልማዝ	አልማዝ	PROPN	PROPN	_	3	nsubj	_	Translit='äləmazə|LTranslit='äləmazə
 2	እንደ	እንደ	ADP	ADP	_	3	mark	_	Translit='ənədä|LTranslit='ənədä
 3	እናት	እናት	NOUN	NOUN	_	0	root	_	Translit='ənatə|LTranslit='ənatə
@@ -4328,6 +4338,7 @@
 # sent_id = data_UD-x12-s20
 # text = ይህንን ወንዝ እንዴት እንደምሻገር አላውቅም ።
 # translit = jəhənənə wänəzə 'ənədetə 'ənədäməšagärə 'älawəqəmə .
+# text_en = I don't know how to cross this river.
 1-2	ይህንን	_	_	_	_	_	_	_	_
 1	ይህ	ይህ	DET	DET	_	3	det	_	Translit=jəhə|LTranslit=jəhə
 2	ን	ን	PART	ACC	_	3	case	_	Translit=nə|LTranslit=nə
@@ -4671,6 +4682,7 @@
 # sent_id = data_UD-x14-s6
 # text = አስቴር ካሳ ከእናቱ ጋር ምሳ እንዳልበላ ታውቃለች ።
 # translit = 'äsəterə kasa kä'ənatu garə məsa 'ənədaləbäla tawəqaläčə .
+# text_en = Esther Kassa knows that he didn't eat lunch with his mother.
 1	አስቴር	አስቴር	PROPN	PROPN	_	13	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
 2	ካሳ	ካሳ	PROPN	PROPN	_	10	nsubj	_	Translit=kasa|LTranslit=kasa
 3-5	ከእናቱ	_	_	_	_	_	_	_	_
@@ -4826,6 +4838,7 @@
 # sent_id = data_UD-x14-s15
 # text = ወደድክም ጠላህም እሷ እንደሆን መምጣቷ አይቅርም ።
 # translit = wädädəkəmə ţälahəmə 'əsă 'ənədähonə mäməţată 'äjəqərəmə .
+# text_en = Whether you like it or not, she's the one who comes.
 1-3	ወደድክም	_	_	_	_	_	_	_	_
 1	ወደድ	ወደድ	VERB	VERB	Mood=Ind|VerbForm=Fin	14	advcl	_	Translit=wädädə|LTranslit=wädädə
 2	ክ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	LTranslit='änətä|Translit=kə
@@ -4985,6 +4998,7 @@
 # sent_id = data_UD-x15-s6
 # text = ኸረ ለመሆኑ ነጻነት ምን እንደሆነ ታውቃላችሁ ?
 # translit = kchärä lämähonu näcanätə mənə 'ənədähonä tawəqalačəhu ?
+# text_en = Do you know what freedom is?
 1	ኸረ	ኸረ	INTJ	INTJ	_	11	discourse	_	Translit=kchärä|LTranslit=kchärä
 2-4	ለመሆኑ	_	_	_	_	_	_	_	_
 2	ለ	ለ	ADP	ADP	_	3	case	_	Translit=lä|LTranslit=lä
@@ -5515,6 +5529,7 @@
 # sent_id = data_UD-x16-s19
 # text = ጠንክሮ ይማር እንደሆነ ወደ አሜሪካ እልከዋለሁ ።
 # translit = ţänəkəro jəmarə 'ənədähonä wädä 'ämerika 'ələkäwalähu .
+# text_en = I will send him to America if he studies hard.
 1-2	ጠንክሮ	_	_	_	_	_	_	_	_
 1	ጠንክር	ጠንክር	ADV	ADV	_	4	advmod	_	Translit=ţänəkərə|LTranslit=ţänəkərə
 2	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	LTranslit='əsu|Translit='o
@@ -5538,6 +5553,7 @@
 # sent_id = data_UD-x16-s20
 # text = ምን ያህል እንደተለወጠ ብታይ ይገርምሃል ።
 # translit = mənə jahələ 'ənədätäläwäţä bətajə jəgärəməhalə .
+# text_en = You'll be surprised to see how much it's changed.
 1	ምን	ምን	PRON	PRON	_	2	nmod	_	Translit=mənə|LTranslit=mənə
 2	ያህል	ያህል	ADV	ADV	_	4	advmod	_	Translit=jahələ|LTranslit=jahələ
 3-5	እንደተለወጠ	_	_	_	_	_	_	_	_
@@ -5558,6 +5574,7 @@
 # sent_id = data_UD-x17-s1
 # text = የሚያምህ እንደሆነ ወደ ሐኪም ሂድ ።
 # translit = jämijaməhə 'ənədähonä wädä ħäkimə hidə .
+# text_en = Go to the doctor if you are sick.
 1-5	የሚያምህ	_	_	_	_	_	_	_	_
 1	የ	የ	PART	RLP	_	4	mark	_	Translit=jä|LTranslit=jä
 2	እም	እም	PART	IRLP	_	4	mark	_	Translit='əmə|LTranslit='əmə
@@ -6249,6 +6266,7 @@
 # sent_id = data_UD-x18-s20
 # text = ጤናዎንስ እንደምን ነዎት ?
 # translit = ţenawonəsə 'ənədämənə näwotə ?
+# text_en = How is your health?
 1-4	ጤናዎንስ	_	_	_	_	_	_	_	_
 1	ጤና	ጤና	NOUN	NOUN	_	0	root	_	Translit=ţena|LTranslit=ţena
 2	ዎ	አንተ	PRON	POSM	Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='änətä|Translit=wo
