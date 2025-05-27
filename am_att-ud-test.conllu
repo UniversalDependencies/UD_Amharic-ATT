@@ -13014,6 +13014,7 @@
 # sent_id = data_UD-third_apple_2-x19-s16
 # text = ፈተናውን በማለፍህ እንኳን ደስ ያለህ !
 # translit = fätänawənə bämaläfəhə 'ənəkwanə däsə jalähə !
+# text_en = Congratulations on passing the test!
 1-3	ፈተናውን	_	_	_	_	_	_	_	_
 1	ፈተና	ፈተና	NOUN	NOUN	_	5	obj	_	Translit=fätäna|LTranslit=fätäna
 2	ው	ው	DET	DET	_	1	det	_	Translit=wə|LTranslit=wə
@@ -13022,8 +13023,8 @@
 4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
 5	ማለፍ	ማለፍ	VERB	VERB	VerbForm=Vnoun	10	advcl	_	Translit=maläfə|LTranslit=maläfə
 6	ህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	LTranslit='änətä|Translit=hə
-7	እንኳን	እንኳን	INTJ	INTJ	_	10	advmod	_	Translit='ənəkwanə|LTranslit='ənəkwanə
-8	ደስ	ደስ	VERB	VERB	Mood=Ind|VerbForm=Fin	7	fixed	_	Translit=däsə|LTranslit=däsə
+7	እንኳን	እንኳን	INTJ	INTJ	_	10	discourse	_	Translit='ənəkwanə|LTranslit='ənəkwanə
+8	ደስ	ደስ	VERB	VERB	Mood=Ind|VerbForm=Fin	7	compound	_	Translit=däsə|LTranslit=däsə
 9-11	ያለህ	_	_	_	_	_	_	_	_
 9	የ	የ	ADP	ADP	_	10	case	_	Translit=jä|LTranslit=jä
 10	ኣለ	ኣለ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit='alä|LTranslit='alä
@@ -16056,6 +16057,7 @@
 # sent_id = data_UD-third_apple_2-x28-s8
 # text = እንግዶቹ ከመምጣታቸው በፊት ብትለባብሺ ይሻላል ።
 # translit = 'ənəgədoču kämäməţatačäwə bäfitə bətəläbabəši jəšalalə .
+# text_en = It's better to get dressed before the guests arrive.
 1-2	እንግዶቹ	_	_	_	_	_	_	_	_
 1	እንግዶች	እንግዶች	NOUN	NOUN	Number=Plur	4	nsubj	_	Translit='ənəgədočə|LTranslit='ənəgədočə
 2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
@@ -16064,8 +16066,8 @@
 4	መምጣት	መምጣት	NOUN	NOUN	VerbForm=Vnoun	13	advcl	_	Translit=mäməţatə|LTranslit=mäməţatə
 5	ኣቸው	እሱ	PRON	POSM	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	LTranslit='əsu|Translit='ačäwə
 6-7	በፊት	_	_	_	_	_	_	_	_
-6	በ	በ	ADP	ADP	_	4	case	_	Translit=bä|LTranslit=bä
-7	ፊ	ፊ	ADP	ADP	_	6	fixed	_	Translit=fi|LTranslit=fi
+6	በ	በ	ADP	ADP	_	7	case	_	Translit=bä|LTranslit=bä
+7	ፊት	ፊት	NOUN	NOUN	_	4	nmod	_	Translit=fitə|LTranslit=fitə
 8-11	ብትለባብሺ	_	_	_	_	_	_	_	_
 8	ብ	ብ	SCONJ	SCONJ	_	10	mark	_	Translit=bə|LTranslit=bə
 9	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit=tə
