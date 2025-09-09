@@ -32,6 +32,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 Data available since: UD v2.2
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples fiction nonfiction bible news
 Lemmas: manual native
 UPOS: manual native
