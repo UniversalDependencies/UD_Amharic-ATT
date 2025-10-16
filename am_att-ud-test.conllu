@@ -16855,7 +16855,7 @@
 3	ተማሪ	ተማሪ	NOUN	NOUN	_	7	obj	_	LTranslit=tämari|Translit=tämari
 4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
-6	ለምን	ለምን	PRON	PRON	_	7	obl	_	Translit=lämənə|LTranslit=lämənə
+6	ለምን	ለምን	PRON	PRON	PronType=Int	7	obl	_	Translit=lämənə|LTranslit=lämənə
 7-9	ወቀሰው	_	_	_	_	_	_	_	_
 7	ወቀስ	ወቀስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=wäqäsə|Translit=wäqäsə
 8	ኸ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit=kchä
