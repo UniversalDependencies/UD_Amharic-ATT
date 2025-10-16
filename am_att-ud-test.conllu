@@ -468,7 +468,7 @@
 # text = መቼም ይምጣ መች እራቱን ሳይበላ አይተኛ ።
 # translit = mäčemə jəməţa mäčə 'əratunə sajəbäla 'äjətäňa .
 1-2	መቼም	_	_	_	_	_	_	_	_
-1	መቼ	መቼ	PRON	PRON	_	4	advcl	_	LTranslit=mäče|Translit=mäče
+1	መቼ	መቼ	PRON	PRON	PronType=Int	4	advcl	_	LTranslit=mäče|Translit=mäče
 2	ም	ም	CCONJ	CCONJ	_	1	cc	_	LTranslit=mə|Translit=mə
 3-5	ይምጣ	_	_	_	_	_	_	_	_
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=jə
@@ -4895,7 +4895,7 @@
 # sent_id = data_UD-x14-s18
 # text = መቼ ትመጣለህ ?
 # translit = mäče təmäţalähə ?
-1	መቼ	መቼ	PRON	PRON	_	3	obl	_	Translit=mäče|LTranslit=mäče
+1	መቼ	መቼ	PRON	PRON	PronType=Int	3	obl	_	Translit=mäče|LTranslit=mäče
 2-5	ትመጣለህ	_	_	_	_	_	_	_	_
 2	ት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=tə
 3	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=mäţa|Translit=mäţa
@@ -5465,7 +5465,7 @@
 4	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit=tə
 5	ን	ን	PART	ACC	_	6	case	_	LTranslit=nə|Translit=nə
 6	ገንዘብ	ገንዘብ	NOUN	NOUN	_	10	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
-7	መቼ	መቼ	PRON	PRON	_	10	obl	_	Translit=mäče|LTranslit=mäče
+7	መቼ	መቼ	PRON	PRON	PronType=Int	10	obl	_	Translit=mäče|LTranslit=mäče
 8-10	ሳልከፍል	_	_	_	_	_	_	_	_
 8	ስ	ስ	SCONJ	SCONJ	_	10	mark	_	LTranslit=sə|Translit=sə
 9	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	LTranslit='alə|Translit='alə
@@ -6122,7 +6122,7 @@
 2	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=jə
 3	ደረግ	ደረግ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=därägə|Translit=därägə
 4-5	መቼስ	_	_	_	_	_	_	_	_
-4	መቼ	መቼ	PRON	PRON	_	3	discourse	_	LTranslit=mäče|Translit=mäče
+4	መቼ	መቼ	PRON	PRON	PronType=Int	3	discourse	_	LTranslit=mäče|Translit=mäče
 5	ስ	ስ	INTJ	INTJ	_	4	discourse	_	LTranslit=sə|Translit=sə
 6	?	?	PUNCT	PUNCT	_	3	punct	_	Translit=?|LTranslit=?
 
@@ -12620,7 +12620,7 @@
 6	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit=tə
 7	ቆይ	ቆይ	VERB	VERB	Mood=Ind|VerbForm=Fin	11	csubj	_	LTranslit=qojə|Translit=qojə
 8-9	መቼስ	_	_	_	_	_	_	_	_
-8	መቼ	መቼ	PRON	PRON	_	11	obl	_	LTranslit=mäče|Translit=mäče
+8	መቼ	መቼ	PRON	PRON	PronType=Int	11	obl	_	LTranslit=mäče|Translit=mäče
 9	ስ	ስ	INTJ	INTJ	_	8	discourse	_	LTranslit=sə|Translit=sə
 10-12	የታወቀ	_	_	_	_	_	_	_	_
 10	የ	የ	PART	RLP	_	11	mark	_	LTranslit=jä|Translit=jä
@@ -16903,7 +16903,7 @@
 4	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit=tə
 5	ን	ን	PART	ACC	_	6	case	_	LTranslit=nə|Translit=nə
 6	ገንዘብ	ገንዘብ	NOUN	NOUN	_	10	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
-7	መቼ	መቼ	PRON	PRON	_	10	obl	_	Translit=mäče|LTranslit=mäče
+7	መቼ	መቼ	PRON	PRON	PronType=Int	10	obl	_	Translit=mäče|LTranslit=mäče
 8-10	ሳልከፍል	_	_	_	_	_	_	_	_
 8	ስ	ስ	SCONJ	SCONJ	_	10	mark	_	LTranslit=sə|Translit=sə
 9	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	LTranslit='alə|Translit='alə
