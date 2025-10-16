@@ -16712,7 +16712,7 @@
 6	ዋ	ዋ	DET	DET	Gender=Fem|PronType=Art	4	det	_	LTranslit=wa|Translit=wa
 7	ት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=tə
 8-9	እነማን	_	_	_	_	_	_	_	_
-8	እነ	እነ	DET	DET	_	9	det	_	LTranslit='ənä|Translit='ənä
+8	እነ	እነ	DET	DET	PronType=Int	9	det	_	LTranslit='ənä|Translit='ənä
 9	ማን	ማን	PRON	PRON	PronType=Int	0	root	_	LTranslit=manə|Translit=manə
 10-11	ናቸው	_	_	_	_	_	_	_	_
 10	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
