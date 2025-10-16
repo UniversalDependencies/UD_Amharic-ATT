@@ -12598,7 +12598,7 @@
 # text = እንግዲያስ እመጣለሁ ።
 # translit = 'ənəgədijasə 'əmäţalähu .
 1-2	እንግዲያስ	_	_	_	_	_	_	_	_
-1	እንግዲያ	እንግዲያ	PRON	PRON	_	4	advcl	_	LTranslit='ənəgədija|Translit='ənəgədija
+1	እንግዲያ	እንግዲያ	PRON	PRON	PronType=Dem	4	advcl	_	LTranslit='ənəgədija|Translit='ənəgədija
 2	ስ	ስ	INTJ	INTJ	_	1	discourse	_	LTranslit=sə|Translit=sə
 3-6	እመጣለሁ	_	_	_	_	_	_	_	_
 3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LTranslit='əne|Translit='ə
