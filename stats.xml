@@ -95,12 +95,12 @@
     <dep name="goeswith">12</dep>
     <dep name="iobj">30</dep>
     <dep name="mark">528</dep>
-    <dep name="nmod">295</dep>
+    <dep name="nmod">328</dep>
     <dep name="nsubj">1432</dep>
     <dep name="nsubj:pass">93</dep>
     <dep name="nummod">35</dep>
     <dep name="obj">577</dep>
-    <dep name="obl">393</dep>
+    <dep name="obl">360</dep>
     <dep name="parataxis">7</dep>
     <dep name="punct">1093</dep>
     <dep name="root">1074</dep>
