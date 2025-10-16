@@ -6604,7 +6604,7 @@
 4	ፈረስ	ፈረስ	NOUN	NOUN	_	6	nsubj	_	Translit=färäsə|LTranslit=färäsə
 5-6	ያንተ	_	_	_	_	_	_	_	_
 5	የ	የ	ADP	ADP	_	6	case	_	LTranslit=jä|Translit=jä
-6	ኣንተ	ኣንተ	PRON	PRON	_	7	ccomp	_	LTranslit='anətä|Translit='anətä
+6	ኣንተ	ኣንተ	PRON	PRON	PronType=Prs	7	ccomp	_	LTranslit='anətä|Translit='anətä
 7-9	መስሎኝ	_	_	_	_	_	_	_	_
 7	መስል	መስል	VERB	VERB	VerbForm=Vnoun	0	root	_	LTranslit=mäsələ|Translit=mäsələ
 8	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='o
@@ -12313,7 +12313,7 @@
 5	ም	ም	CCONJ	CCONJ	_	4	cc	_	LTranslit=mə|Translit=mə
 6-8	ያንተም	_	_	_	_	_	_	_	_
 6	የ	የ	ADP	ADP	_	7	case	_	LTranslit=jä|Translit=jä
-7	ኣንተ	ኣንተ	PRON	PRON	_	4	conj	_	LTranslit='anətä|Translit='anətä
+7	ኣንተ	ኣንተ	PRON	PRON	PronType=Prs	4	conj	_	LTranslit='anətä|Translit='anətä
 8	ም	ም	CCONJ	CCONJ	_	7	cc	_	LTranslit=mə|Translit=mə
 9-10	ነው	_	_	_	_	_	_	_	_
 9	ን	ን	AUX	AUX	_	4	cop	_	LTranslit=nə|Translit=nə
