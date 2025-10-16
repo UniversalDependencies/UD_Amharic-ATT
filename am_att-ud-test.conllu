@@ -6146,7 +6146,7 @@
 11	ል	ል	VERB	VERB	Mood=Ind|VerbForm=Fin	15	advcl	_	LTranslit=lə|Translit=lə
 12-13	ጓደኛውን	_	_	_	_	_	_	_	_
 12	ጓደኛ	ጓደኛ	NOUN	NOUN	_	15	obj	_	LTranslit=gwadäňa|Translit=gwadäňa
-13	ውን	ውን	DET	DET	_	12	det	_	LTranslit=wənə|Translit=wənə
+13	ውን	ውን	DET	DET	Poss=Yes|PronType=Prs	12	det	_	LTranslit=wənə|Translit=wənə
 14-16	ይክዳል	_	_	_	_	_	_	_	_
 14	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	expl	_	LTranslit='əsu|Translit=jə
 15	ክድ	ክድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=kədə|Translit=kədə
