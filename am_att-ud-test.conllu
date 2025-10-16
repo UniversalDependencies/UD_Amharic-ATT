@@ -6740,7 +6740,7 @@
 5	ቆም	ቆም	VERB	VERB	Mood=Ind|VerbForm=Fin	10	advcl	_	LTranslit=qomə|Translit=qomə
 6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ă
 7-9	ሁላችንም	_	_	_	_	_	_	_	_
-7	ሁል	ሁል	PRON	PRON	_	10	nsubj	_	LTranslit=hulə|Translit=hulə
+7	ሁል	ሁል	PRON	PRON	PronType=Prs	10	nsubj	_	LTranslit=hulə|Translit=hulə
 8	ኣችን	እኔ	PRON	POSM	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	LTranslit='əne|Translit='ačənə
 9	ም	ም	CCONJ	CCONJ	_	7	discourse	_	LTranslit=mə|Translit=mə
 10	ተሰዳጅ	ተሰዳጅ	NOUN	NOUN	_	0	root	_	Translit=täsädadžə|LTranslit=täsädadžə
