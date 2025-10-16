@@ -7372,7 +7372,7 @@
 # text = የትኛውንም ብትመርጥ እገዛዋለሁ ።
 # translit = jätəňawənəmə bətəmärəţə 'əgäzawalähu .
 1-3	የትኛውንም	_	_	_	_	_	_	_	_
-1	የትኛው	የትኛው	PRON	PRON	_	6	obj	_	LTranslit=jätəňawə|Translit=jätəňawə
+1	የትኛው	የትኛው	PRON	PRON	PronType=Int	6	obj	_	LTranslit=jätəňawə|Translit=jätəňawə
 2	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 3	ም	ም	CCONJ	CCONJ	_	1	discourse	_	LTranslit=mə|Translit=mə
 4-6	ብትመርጥ	_	_	_	_	_	_	_	_
