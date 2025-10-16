@@ -11238,7 +11238,7 @@
 # sent_id = data_UD-third_apple_2-x14-s8
 # text = ብዙ ህፃናት ያለረዳት ያድጋሉ ።
 # translit = bəzu hədzanatə jalärädatə jadəgalu .
-1	ብዙ	ብዙ	DET	DET	_	2	det	_	Translit=bəzu|LTranslit=bəzu
+1	ብዙ	ብዙ	DET	DET	PronType=Ind	2	det	_	Translit=bəzu|LTranslit=bəzu
 2	ህፃናት	ህፃናት	NOUN	NOUN	_	6	nsubj	_	Translit=hədzanatə|LTranslit=hədzanatə
 3-4	ያለረዳት	_	_	_	_	_	_	_	_
 3	ያለ	ያለ	PART	NEG	Polarity=Neg	4	advmod	_	LTranslit=jalä|Translit=jalä
