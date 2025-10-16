@@ -15039,7 +15039,7 @@
 5	በ	በ	ADP	ADP	Case=Loc	3	case	_	LTranslit=bä|Translit=bä
 6	ት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=tə
 7-9	የትኛውም	_	_	_	_	_	_	_	_
-7	የትኛ	የትኛ	PRON	PRON	_	10	acl	_	LTranslit=jätəňa|Translit=jätəňa
+7	የትኛ	የትኛ	PRON	PRON	PronType=Int	10	acl	_	LTranslit=jätəňa|Translit=jätəňa
 8	ኡ	ኡ	DET	DET	PronType=Art	7	det	_	LTranslit='u|Translit='u
 9	ም	ም	CCONJ	CCONJ	_	7	discourse	_	LTranslit=mə|Translit=mə
 10	ቦታ	ቦታ	NOUN	NOUN	_	11	obl	_	Translit=bota|LTranslit=bota
@@ -16812,7 +16812,7 @@
 # text = የትኛው ልጅ መጣ ?
 # translit = jätəňawə lədžə mäţa ?
 1-2	የትኛው	_	_	_	_	_	_	_	_
-1	የትኛ	የትኛ	PRON	PRON	_	3	det	_	LTranslit=jätəňa|Translit=jätəňa
+1	የትኛ	የትኛ	PRON	PRON	PronType=Int	3	det	_	LTranslit=jätəňa|Translit=jätəňa
 2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ልጅ	ልጅ	NOUN	NOUN	_	4	nsubj	_	Translit=lədžə|LTranslit=lədžə
 4-5	መጣ	_	_	_	_	_	_	_	_

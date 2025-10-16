@@ -56,7 +56,7 @@
     <feat name="PronType" value="Dem" upos="DET">54</feat><!-- ይህ, እዚህ, ይህን, እዚያ, ያ, ይቺ, እንዲህ -->
     <feat name="PronType" value="Exc" upos="DET,PRON">7</feat><!-- ምነው -->
     <feat name="PronType" value="Ind" upos="PRON">5</feat><!-- ማንም -->
-    <feat name="PronType" value="Int" upos="PRON">84</feat><!-- ምን, ማን, የት, መቼ, እንዴት, ምንድ, ምንድን, ለምን, ስንት -->
+    <feat name="PronType" value="Int" upos="PRON">86</feat><!-- ምን, ማን, የት, መቼ, እንዴት, ምንድ, ምንድን, የትኛ, ለምን, ስንት -->
     <feat name="PronType" value="Neg" upos="PRON">5</feat><!-- ምንም, ምን -->
     <feat name="PronType" value="Prs" upos="DET,PRON">2448</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
     <feat name="PronType" value="Rcp" upos="PRON">2</feat><!-- እርስ -->
