@@ -195,7 +195,7 @@
 # sent_id = data_UD-Sleepwalking-26-s15
 # text = ይህ መንገድ ወደ ግቢ ያስኬዳል ።
 # translit = jəhə mänəgädə wädä gəbi jasəkedalə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	መንገድ	መንገድ	NOUN	NOUN	_	6	nsubj	_	Translit=mänəgädə|LTranslit=mänəgädə
 3	ወደ	ወደ	ADP	ADP	Case=Loc	4	case	_	Translit=wädä|LTranslit=wädä
 4	ግቢ	ግቢ	NOUN	NOUN	_	6	obl	_	Translit=gəbi|LTranslit=gəbi
@@ -1032,7 +1032,7 @@
 # sent_id = data_UD-x01-s14
 # text = ይህ ሕመም ምነው በለቀቀኝ ።
 # translit = jəhə ħəmämə mənäwə bäläqäqäňə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	ሕመም	ሕመም	NOUN	NOUN	_	5	nsubj	_	Translit=ħəmämə|LTranslit=ħəmämə
 3	ምነው	ምነው	PROPN	PROPN	_	2	discourse	_	Translit=mənäwə|LTranslit=mənäwə
 4-6	በለቀቀኝ	_	_	_	_	_	_	_	_
@@ -4340,7 +4340,7 @@
 # translit = jəhənənə wänəzə 'ənədetə 'ənədäməšagärə 'älawəqəmə .
 # text_en = I don't know how to cross this river.
 1-2	ይህንን	_	_	_	_	_	_	_	_
-1	ይህ	ይህ	DET	DET	_	3	det	_	LTranslit=jəhə|Translit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	3	det	_	LTranslit=jəhə|Translit=jəhə
 2	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 3	ወንዝ	ወንዝ	NOUN	NOUN	_	8	obj	_	Translit=wänəzə|LTranslit=wänəzə
 4	እንዴት	እንዴት	PRON	PRON	_	8	obl	_	Translit='ənədetə|LTranslit='ənədetə
@@ -4823,7 +4823,7 @@
 # sent_id = data_UD-x14-s14
 # text = ይህ መርዝ ገድሎት ይሆናል ።
 # translit = jəhə märəzə gädəlotə jəhonalə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	መርዝ	መርዝ	NOUN	NOUN	_	3	nsubj	_	Translit=märəzə|LTranslit=märəzə
 3-5	ገድሎት	_	_	_	_	_	_	_	_
 3	ገድል	ገድል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=gädələ|Translit=gädələ
@@ -5668,7 +5668,7 @@
 # sent_id = data_UD-x17-s5
 # text = ይህ መርዝ ይገድለው ይሆን ?
 # translit = jəhə märəzə jəgädəläwə jəhonə ?
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	መርዝ	መርዝ	NOUN	NOUN	_	4	nsubj	_	Translit=märəzə|LTranslit=märəzə
 3-5	ይገድለው	_	_	_	_	_	_	_	_
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=jə
@@ -6572,7 +6572,7 @@
 # sent_id = data_UD-x19-s19
 # text = ይህ ልጅ መዳኑን እንጃ ?
 # translit = jəhə lədžə mädanunə 'ənədža ?
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	ልጅ	ልጅ	NOUN	NOUN	_	3	nsubj	_	Translit=lədžə|LTranslit=lədžə
 3-5	መዳኑን	_	_	_	_	_	_	_	_
 3	መዳን	መዳን	NOUN	NOUN	VerbForm=Vnoun	6	ccomp	_	LTranslit=mädanə|Translit=mädanə
@@ -6600,7 +6600,7 @@
 # translit = 'əne 'əko jəhə färäsə janətä mäsəloňə näbärə .
 1	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	LTranslit='əne|Translit='əne
 2	እኮ	እኮ	INTJ	INTJ	_	7	discourse	_	Translit='əko|LTranslit='əko
-3	ይህ	ይህ	DET	DET	_	4	det	_	Translit=jəhə|LTranslit=jəhə
+3	ይህ	ይህ	DET	DET	PronType=Dem	4	det	_	Translit=jəhə|LTranslit=jəhə
 4	ፈረስ	ፈረስ	NOUN	NOUN	_	6	nsubj	_	Translit=färäsə|LTranslit=färäsə
 5-6	ያንተ	_	_	_	_	_	_	_	_
 5	የ	የ	ADP	ADP	_	6	case	_	LTranslit=jä|Translit=jä
@@ -6687,7 +6687,7 @@
 # sent_id = data_UD-x20-s7
 # text = ይህ ቤት ፈራሽ ነው ።
 # translit = jəhə betə färašə näwə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	ቤት	ቤት	NOUN	NOUN	_	3	nsubj	_	Translit=betə|LTranslit=betə
 3	ፈራሽ	ፈራሽ	NOUN	NOUN	_	0	root	_	Translit=färašə|LTranslit=färašə
 4-5	ነው	_	_	_	_	_	_	_	_
@@ -7544,7 +7544,7 @@
 # sent_id = data_UD-third_apple_2-x01-s16
 # text = ይህ ምስኪን ምነው በደንብ በልቶ አይቼው ።
 # translit = jəhə məsəkinə mənäwə bädänəbə bäləto 'äjəčewə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	ምስኪን	ምስኪን	NOUN	NOUN	_	6	nsubj	_	Translit=məsəkinə|LTranslit=məsəkinə
 3	ምነው	ምነው	PRON	PRON	_	6	discourse	_	Translit=mənäwə|LTranslit=mənäwə
 4-5	በደንብ	_	_	_	_	_	_	_	_
@@ -7619,7 +7619,7 @@
 4	ኣችሁ	አንተ	PRON	SUBJC	Number=Plur|Person=2|PronType=Prs	3	expl	_	LTranslit='änətä|Translit='ačəhu
 5	ዘንድ	ዘንድ	ADP	ADP	_	3	mark	_	Translit=zänədə|LTranslit=zänədə
 6-7	ይህንን	_	_	_	_	_	_	_	_
-6	ይህ	ይህ	DET	DET	_	8	det	_	LTranslit=jəhə|Translit=jəhə
+6	ይህ	ይህ	DET	DET	PronType=Dem	8	det	_	LTranslit=jəhə|Translit=jəhə
 7	ን	ን	PART	ACC	_	8	case	_	LTranslit=nə|Translit=nə
 8	ጉዳይ	ጉዳይ	NOUN	NOUN	_	11	nsubj	_	Translit=gudajə|LTranslit=gudajə
 9-13	ብንነጋገርበት	_	_	_	_	_	_	_	_
@@ -9858,7 +9858,7 @@
 # sent_id = data_UD-third_apple_2-x10-s2
 # text = ይህ መንገድ ወደ ግቢ ያስኬዳል ።
 # translit = jəhə mänəgädə wädä gəbi jasəkedalə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	መንገድ	መንገድ	NOUN	NOUN	_	6	nsubj	_	Translit=mänəgädə|LTranslit=mänəgädə
 3	ወደ	ወደ	ADP	ADP	_	4	case	_	Translit=wädä|LTranslit=wädä
 4	ግቢ	ግቢ	NOUN	NOUN	_	6	obl	_	Translit=gəbi|LTranslit=gəbi
@@ -12083,7 +12083,7 @@
 6	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	11	advcl	_	LTranslit=honə|Translit=honə
 7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LTranslit='əsu|Translit='ă
 8-9	ይህን	_	_	_	_	_	_	_	_
-8	ይህ	ይህ	DET	DET	_	10	det	_	LTranslit=jəhə|Translit=jəhə
+8	ይህ	ይህ	DET	DET	PronType=Dem	10	det	_	LTranslit=jəhə|Translit=jəhə
 9	ን	ን	PART	ACC	_	10	case	_	LTranslit=nə|Translit=nə
 10	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	11	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 11-13	መልስልኝ	_	_	_	_	_	_	_	_
@@ -12288,7 +12288,7 @@
 # sent_id = data_UD-third_apple_2-x17-s13
 # text = ይህ አልጋም መቀመጫም ይሆናል ።
 # translit = jəhə 'äləgamə mäqämäćamə jəhonalə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2-3	አልጋም	_	_	_	_	_	_	_	_
 2	አልጋ	አልጋ	NOUN	NOUN	_	0	root	_	LTranslit='äləga|Translit='äləga
 3	ም	ም	CCONJ	CCONJ	_	2	cc	_	LTranslit=mə|Translit=mə
@@ -12551,7 +12551,7 @@
 # text = ይህማ ቢሆን መልካም ነው ።
 # translit = jəhəma bihonə mäləkamə näwə .
 1-2	ይህማ	_	_	_	_	_	_	_	_
-1	ይህ	ይህ	DET	DET	_	5	nsubj	_	LTranslit=jəhə|Translit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	5	nsubj	_	LTranslit=jəhə|Translit=jəhə
 2	ማ	ማ	INTJ	INTJ	_	1	discourse	_	LTranslit=ma|Translit=ma
 3-5	ቢሆን	_	_	_	_	_	_	_	_
 3	ብ	ብ	SCONJ	SCONJ	_	5	cc	_	LTranslit=bə|Translit=bə
@@ -12700,7 +12700,7 @@
 # text = ይህሳ ምንድን ነው ?
 # translit = jəhəsa mənədənə näwə ?
 1-2	ይህሳ	_	_	_	_	_	_	_	_
-1	ይህ	ይህ	DET	DET	_	3	det	_	LTranslit=jəhə|Translit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	3	det	_	LTranslit=jəhə|Translit=jəhə
 2	ሳ	ሳ	INTJ	INTJ	_	1	discourse	_	LTranslit=sa|Translit=sa
 3	ምንድን	ምንድን	PRON	PRON	_	0	root	_	Translit=mənədənə|LTranslit=mənədənə
 4-5	ነው	_	_	_	_	_	_	_	_
@@ -13040,7 +13040,7 @@
 3	ጠላ	ጠላ	NOUN	NOUN	_	0	root	_	Translit=ţäla|LTranslit=ţäla
 4-5	እንዲህ	_	_	_	_	_	_	_	_
 4	እንድ	እንድ	ADP	ADP	_	5	case	_	LTranslit='ənədə|Translit='ənədə
-5	ይህ	ይህ	DET	DET	_	3	ccomp	_	LTranslit=jəhə|Translit=jəhə
+5	ይህ	ይህ	DET	DET	PronType=Dem	3	ccomp	_	LTranslit=jəhə|Translit=jəhə
 6-7	ነው	_	_	_	_	_	_	_	_
 6	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 7	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
@@ -13158,7 +13158,7 @@
 # sent_id = data_UD-third_apple_2-x20-s4
 # text = ይህ ጉዳይ እጅግ አሳሳቢ ነው ።
 # translit = jəhə gudajə 'ədžəgə 'äsasabi näwə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	ጉዳይ	ጉዳይ	NOUN	NOUN	_	4	nsubj	_	Translit=gudajə|LTranslit=gudajə
 3	እጅግ	እጅግ	ADJ	ADJ	_	4	amod	_	Translit='ədžəgə|LTranslit='ədžəgə
 4	አሳሳቢ	አሳሳቢ	ADJ	ADJ	_	0	root	_	Translit='äsasabi|LTranslit='äsasabi
@@ -13197,7 +13197,7 @@
 # sent_id = data_UD-third_apple_2-x20-s7
 # text = ይህ መንግስት የሕዝቡን ፍላጎት ካላሟላ አንድ ቀን ወዳቂ ነው ።
 # translit = jəhə mänəgəsətə jäħəzəbunə fəlagotə kalamăla 'änədə qänə wädaqi näwə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	መንግስት	መንግስት	NOUN	NOUN	_	10	nsubj	_	Translit=mänəgəsətə|LTranslit=mänəgəsətə
 3-6	የሕዝቡን	_	_	_	_	_	_	_	_
 3	የ	የ	ADP	ADP	_	4	case	_	LTranslit=jä|Translit=jä
@@ -14144,7 +14144,7 @@
 # text = ይህን ነገር ለማረጋገጥ ስል በየቦታው ጠይቄ ነበር ።
 # translit = jəhənə nägärə lämarägagäţə sələ bäjäbotawə ţäjəqe näbärə .
 1-2	ይህን	_	_	_	_	_	_	_	_
-1	ይህ	ይህ	DET	DET	_	3	det	_	LTranslit=jəhə|Translit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	3	det	_	LTranslit=jəhə|Translit=jəhə
 2	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 3	ነገር	ነገር	NOUN	NOUN	_	13	obj	_	Translit=nägärə|LTranslit=nägärə
 4-5	ለማረጋገጥ	_	_	_	_	_	_	_	_
@@ -14190,7 +14190,7 @@
 # text = ይህን ሥራ የምሰራው አንተን ለማስደሰት ያህል ነው ።
 # translit = jəhənə śəra jäməsärawə 'änətänə lämasədäsätə jahələ näwə .
 1-2	ይህን	_	_	_	_	_	_	_	_
-1	ይህ	ይህ	DET	DET	_	3	det	_	LTranslit=jəhə|Translit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	3	det	_	LTranslit=jəhə|Translit=jəhə
 2	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 3	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	Translit=śəra|LTranslit=śəra
 4-8	የምሰራው	_	_	_	_	_	_	_	_
@@ -15878,7 +15878,7 @@
 # text = ይህን ቲያትር በመለማመድ ላይ ነን ።
 # translit = jəhənə tijatərə bämälämamädə lajə nänə .
 1-2	ይህን	_	_	_	_	_	_	_	_
-1	ይህ	ይህ	DET	DET	_	3	det	_	LTranslit=jəhə|Translit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	3	det	_	LTranslit=jəhə|Translit=jəhə
 2	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 3	ቲያትር	ቲያትር	NOUN	NOUN	_	5	xcomp	_	Translit=tijatərə|LTranslit=tijatərə
 4-5	በመለማመድ	_	_	_	_	_	_	_	_
@@ -16298,7 +16298,7 @@
 # sent_id = data_UD-third_apple_2-x29-s3
 # text = ይህ ውሻ ተናካሽ ነው ።
 # translit = jəhə wəša tänakašə näwə .
-1	ይህ	ይህ	DET	DET	_	2	det	_	Translit=jəhə|LTranslit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	ውሻ	ውሻ	NOUN	NOUN	_	3	nsubj	_	Translit=wəša|LTranslit=wəša
 3	ተናካሽ	ተናካሽ	ADJ	ADJ	_	0	root	_	Translit=tänakašə|LTranslit=tänakašə
 4-5	ነው	_	_	_	_	_	_	_	_
@@ -16476,7 +16476,7 @@
 # text = ይህን ጥያቄ ካነሱት ታጋዮች ግምባር ቀደሙ መለስ ዜናዊ ነው ።
 # translit = jəhənə ţəjaqe kanäsutə tagajočə gəməbarə qädämu mäläsə zenawi näwə .
 1-2	ይህን	_	_	_	_	_	_	_	_
-1	ይህ	ይህ	DET	DET	_	3	det	_	LTranslit=jəhə|Translit=jəhə
+1	ይህ	ይህ	DET	DET	PronType=Dem	3	det	_	LTranslit=jəhə|Translit=jəhə
 2	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 3	ጥያቄ	ጥያቄ	NOUN	NOUN	_	5	obj	_	Translit=ţəjaqe|LTranslit=ţəjaqe
 4-7	ካነሱት	_	_	_	_	_	_	_	_
