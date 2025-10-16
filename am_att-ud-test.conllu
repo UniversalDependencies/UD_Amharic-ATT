@@ -7079,7 +7079,7 @@
 7	ኣው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='awə
 8-10	አለቅየው	_	_	_	_	_	_	_	_
 8	አለቃ	አለቃ	NOUN	NOUN	_	13	nsubj	_	LTranslit='äläqa|Translit='äläqa
-9	እየ	እየ	DET	DET	_	8	det	_	LTranslit='əjä|Translit='əjä
+9	እየ	እየ	DET	DET	PronType=Tot	8	det	_	LTranslit='əjä|Translit='əjä
 10	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
 11-14	አይደሰትም	_	_	_	_	_	_	_	_
 11	ኣል	ኣል	PART	NEG	Polarity=Neg	13	advmod	_	LTranslit='alə|Translit='alə
@@ -13606,7 +13606,7 @@
 1	መኪና	መኪና	NOUN	NOUN	_	8	nsubj	_	Translit=mäkina|LTranslit=mäkina
 2-5	በየጊዜው	_	_	_	_	_	_	_	_
 2	በ	በ	ADP	ADP	_	4	case	_	LTranslit=bä|Translit=bä
-3	እየ	እየ	DET	DET	_	4	det	_	LTranslit='əjä|Translit='əjä
+3	እየ	እየ	DET	DET	PronType=Tot	4	det	_	LTranslit='əjä|Translit='əjä
 4	ጊዜ	ጊዜ	NOUN	NOUN	_	8	nmod	_	LTranslit=gize|Translit=gize
 5	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 6-9	ካልታደሰ	_	_	_	_	_	_	_	_
@@ -15859,7 +15859,7 @@
 # translit = 'ənatəjäwa 'äšanəgulitočunə lälədžoču 'äkäfafäläčə .
 1-3	እናትየዋ	_	_	_	_	_	_	_	_
 1	እናት	እናት	NOUN	NOUN	_	10	nsubj	_	LTranslit='ənatə|Translit='ənatə
-2	እየ	እየ	DET	DET	_	1	det	_	LTranslit='əjä|Translit='əjä
+2	እየ	እየ	DET	DET	PronType=Tot	1	det	_	LTranslit='əjä|Translit='əjä
 3	ዋ	ዋ	DET	DET	PronType=Art	1	det	_	LTranslit=wa|Translit=wa
 4-6	አሻንጉሊቶቹን	_	_	_	_	_	_	_	_
 4	አሻንጉሊቶች	አሻንጉሊቶች	NOUN	NOUN	Number=Plur	10	obj	_	LTranslit='äšanəgulitočə|Translit='äšanəgulitočə
