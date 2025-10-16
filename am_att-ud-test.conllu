@@ -9681,7 +9681,7 @@
 5	ን	ን	PART	ACC	_	6	case	_	LTranslit=nə|Translit=nə
 6-7	ሰውዬ	_	_	_	_	_	_	_	_
 6	ሰው	ሰው	NOUN	NOUN	_	11	obj	_	LTranslit=säwə|Translit=säwə
-7	ዬ	ዬ	DET	DET	_	6	det	_	LTranslit=je|Translit=je
+7	ዬ	ዬ	DET	DET	PronType=Art	6	det	_	LTranslit=je|Translit=je
 8-9	ዳኛው	_	_	_	_	_	_	_	_
 8	ዳኛ	ዳኛ	NOUN	NOUN	_	11	obl	_	LTranslit=daňa|Translit=daňa
 9	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
