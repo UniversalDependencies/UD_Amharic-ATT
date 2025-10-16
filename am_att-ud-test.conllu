@@ -689,13 +689,14 @@
 # sent_id = data_UD-x00-s15
 # text = አባትና እናቱን እየጠየቀ ይመላሳል ።
 # translit = 'äbatəna 'ənatunə 'əjäţäjäqä jəmälasalə .
+# text_en = He keeps asking for his father and mother.
 1-2	አባትና	_	_	_	_	_	_	_	_
 1	አባት	አባት	NOUN	NOUN	_	7	obj	_	LTranslit='äbatə|Translit='äbatə
 2	ና	ና	CCONJ	CCONJ	_	3	cc	_	LTranslit=na|Translit=na
 3-5	እናቱን	_	_	_	_	_	_	_	_
-3	እናት	እናት	NOUN	NOUN	_	7	obj	_	LTranslit='ənatə|Translit='ənatə
-4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	LTranslit='əsu|Translit='u
-5	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
+3	እናት	እናት	NOUN	NOUN	_	1	conj	_	LTranslit='ənatə|Translit='ənatə
+4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əsu|Translit='u
+5	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 6-8	እየጠየቀ	_	_	_	_	_	_	_	_
 6	እየ	እየ	AUX	AUX	_	7	aux	_	LTranslit='əjä|Translit='əjä
 7	ጠየቅ	ጠየቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	10	ccomp	_	LTranslit=ţäjäqə|Translit=ţäjäqə
