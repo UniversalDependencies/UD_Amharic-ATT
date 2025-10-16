@@ -416,7 +416,7 @@
 3	ል	ል	SCONJ	SCONJ	_	5	mark	_	LTranslit=lə|Translit=lə
 4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=jə
 5	ፈነድ	ፈነድ	VERB	VERB	Mood=Ind|VerbForm=Fin	8	ccomp	_	LTranslit=fänädə|Translit=fänädə
-6	ኣ	ኣ	PRON	SUBJC	_	5	expl	_	LTranslit='a|Translit='a
+6	ኣ	ኣ	PRON	SUBJC	PronType=Prs	5	expl	_	LTranslit='a|Translit='a
 7	ትንሽ	ትንሽ	ADV	ADV	_	8	advcl	_	Translit=tənəšə|LTranslit=tənəšə
 8-9	ቀረው	_	_	_	_	_	_	_	_
 8	ቀረ	ቀረ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=qärä|Translit=qärä
