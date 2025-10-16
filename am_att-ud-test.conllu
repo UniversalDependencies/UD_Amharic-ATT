@@ -13221,7 +13221,7 @@
 # sent_id = data_UD-third_apple_2-x20-s8
 # text = ይቺ ሴትዮ እህል ካልበላች ሟች ናት ።
 # translit = jəči setəjo 'əhələ kaləbälačə măčə natə .
-1	ይቺ	ይቺ	DET	DET	_	2	det	_	Translit=jəči|LTranslit=jəči
+1	ይቺ	ይቺ	DET	DET	PronType=Dem	2	det	_	Translit=jəči|LTranslit=jəči
 2	ሴትዮ	ሴትዮ	NOUN	NOUN	_	6	nsubj	_	Translit=setəjo|LTranslit=setəjo
 3	እህል	እህል	NOUN	NOUN	_	6	obj	_	Translit='əhələ|LTranslit='əhələ
 4-7	ካልበላች	_	_	_	_	_	_	_	_
@@ -13238,7 +13238,7 @@
 # sent_id = data_UD-third_apple_2-x20-s9
 # text = ይቺ አሮጌ መኪና ተሰባሪ ናት ።
 # translit = jəči 'äroge mäkina täsäbari natə .
-1	ይቺ	ይቺ	DET	DET	_	3	det	_	Translit=jəči|LTranslit=jəči
+1	ይቺ	ይቺ	DET	DET	PronType=Dem	3	det	_	Translit=jəči|LTranslit=jəči
 2	አሮጌ	አሮጌ	ADJ	ADJ	_	3	amod	_	Translit='äroge|LTranslit='äroge
 3	መኪና	መኪና	NOUN	NOUN	_	4	nsubj	_	Translit=mäkina|LTranslit=mäkina
 4	ተሰባሪ	ተሰባሪ	NOUN	NOUN	_	0	root	_	Translit=täsäbari|LTranslit=täsäbari
