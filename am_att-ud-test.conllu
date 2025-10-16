@@ -7593,7 +7593,7 @@
 # sent_id = data_UD-third_apple_2-x01-s19
 # text = የትም ብትሆን ለኔ ደብዳቤ መጻፍ አትርሳ ።
 # translit = jätəmə bətəhonə läne däbədabe mäcafə 'ätərəsa .
-1	የትም	የትም	PRON	PRON	_	4	advcl	_	Translit=jätəmə|LTranslit=jätəmə
+1	የትም	የትም	PRON	PRON	PronType=Ind	4	advcl	_	Translit=jätəmə|LTranslit=jätəmə
 2-4	ብትሆን	_	_	_	_	_	_	_	_
 2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	LTranslit=bə|Translit=bə
 3	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=tə
