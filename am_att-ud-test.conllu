@@ -310,7 +310,7 @@
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
 2-3	ነው	_	_	_	_	_	_	_	_
 2	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
-3	ኧው	ኧው	PRON	SUBJC	Gender=Masc|Number=Sing	1	nsubj	_	LTranslit='ăwə|Translit='ăwə
+3	ኧው	ኧው	PRON	SUBJC	Gender=Masc|Number=Sing|PronType=Prs	1	nsubj	_	LTranslit='ăwə|Translit='ăwə
 4	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-Sleepwalking-Am_aux-s4
