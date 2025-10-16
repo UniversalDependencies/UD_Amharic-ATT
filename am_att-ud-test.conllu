@@ -15453,7 +15453,7 @@
 # translit = bä'ənədihə huneta jäbälutə məgəbə 'äjaräkamə .
 1-2	በእንዲህ	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	3	case	_	LTranslit=bä|Translit=bä
-2	እንዲህ	እንዲህ	DET	DET	_	3	det	_	LTranslit='ənədihə|Translit='ənədihə
+2	እንዲህ	እንዲህ	DET	DET	PronType=Dem	3	det	_	LTranslit='ənədihə|Translit='ənədihə
 3	ሁኔታ	ሁኔታ	NOUN	NOUN	_	10	obl	_	Translit=huneta|LTranslit=huneta
 4-6	የበሉት	_	_	_	_	_	_	_	_
 4	የ	የ	PART	RLP	_	5	mark	_	LTranslit=jä|Translit=jä
