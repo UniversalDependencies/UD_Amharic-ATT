@@ -2402,7 +2402,7 @@
 3	ሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	LTranslit='əne|Translit=hu
 4	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit=tə
 5-6	ያንን	_	_	_	_	_	_	_	_
-5	ያ	ያ	DET	DET	_	7	det	_	LTranslit=ja|Translit=ja
+5	ያ	ያ	DET	DET	PronType=Dem	7	det	_	LTranslit=ja|Translit=ja
 6	ን	ን	PART	ACC	_	5	case	_	LTranslit=nə|Translit=nə
 7	ቤት	ቤት	NOUN	NOUN	_	2	acl	_	Translit=betə|LTranslit=betə
 8-9	ነው	_	_	_	_	_	_	_	_
@@ -8944,7 +8944,7 @@
 # text = ያንን ቤት ነው የገዛሁት ።
 # translit = janənə betə näwə jägäzahutə .
 1-2	ያንን	_	_	_	_	_	_	_	_
-1	ያ	ያ	DET	DET	_	3	det	_	LTranslit=ja|Translit=ja
+1	ያ	ያ	DET	DET	PronType=Dem	3	det	_	LTranslit=ja|Translit=ja
 2	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 3	ቤት	ቤት	NOUN	NOUN	_	7	obj	_	Translit=betə|LTranslit=betə
 4-5	ነው	_	_	_	_	_	_	_	_
@@ -8961,7 +8961,7 @@
 # text = ያንን መንገድ ነው የመጣሁበት ።
 # translit = janənə mänəgädə näwə jämäţahubätə .
 1-2	ያንን	_	_	_	_	_	_	_	_
-1	ያ	ያ	DET	DET	_	3	det	_	LTranslit=ja|Translit=ja
+1	ያ	ያ	DET	DET	PronType=Dem	3	det	_	LTranslit=ja|Translit=ja
 2	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 3	መንገድ	መንገድ	NOUN	NOUN	_	7	obl	_	Translit=mänəgädə|LTranslit=mänəgädə
 4-5	ነው	_	_	_	_	_	_	_	_
