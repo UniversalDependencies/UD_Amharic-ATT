@@ -16884,7 +16884,7 @@
 # sent_id = data_UD-third_apple_2-x30-s19
 # text = ስንት መጽሐፍ ትፈልጋለህ ?
 # translit = sənətə mäcəħäfə təfäləgalähə ?
-1	ስንት	ስንት	PRON	PRON	_	2	det	_	Translit=sənətə|LTranslit=sənətə
+1	ስንት	ስንት	PRON	PRON	PronType=Int	2	det	_	Translit=sənətə|LTranslit=sənətə
 2	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	4	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 3-6	ትፈልጋለህ	_	_	_	_	_	_	_	_
 3	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=tə
