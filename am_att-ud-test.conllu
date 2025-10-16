@@ -474,7 +474,7 @@
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=jə
 4	ምጣ	ምጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	17	advcl	_	LTranslit=məţa|Translit=məţa
 5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
-6	መች	መች	PRON	PRON	_	4	advcl	_	Translit=mäčə|LTranslit=mäčə
+6	መች	መች	PRON	PRON	PronType=Int	4	advcl	_	Translit=mäčə|LTranslit=mäčə
 7-9	እራቱን	_	_	_	_	_	_	_	_
 7	እራት	እራት	NOUN	NOUN	_	13	obj	_	LTranslit='əratə|Translit='əratə
 8	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod	_	LTranslit='əsu|Translit='u
