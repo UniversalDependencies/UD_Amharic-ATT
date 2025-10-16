@@ -6142,7 +6142,7 @@
 8	ገንዘብ	ገንዘብ	NOUN	NOUN	_	11	obl	_	LTranslit=gänəzäbə|Translit=gänəzäbə
 9-11	ሲል	_	_	_	_	_	_	_	_
 9	ስ	ስ	SCONJ	SCONJ	_	11	mark	_	LTranslit=sə|Translit=sə
-10	ይ	ይ	PRON	SUBJC	_	11	expl	_	LTranslit=jə|Translit=jə
+10	ይ	ይ	PRON	SUBJC	PronType=Prs	11	expl	_	LTranslit=jə|Translit=jə
 11	ል	ል	VERB	VERB	Mood=Ind|VerbForm=Fin	15	advcl	_	LTranslit=lə|Translit=lə
 12-13	ጓደኛውን	_	_	_	_	_	_	_	_
 12	ጓደኛ	ጓደኛ	NOUN	NOUN	_	15	obj	_	LTranslit=gwadäňa|Translit=gwadäňa
