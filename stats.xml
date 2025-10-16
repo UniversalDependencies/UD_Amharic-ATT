@@ -51,13 +51,13 @@
     <feat name="Person" value="2" upos="PRON">139</feat><!-- ህ, ኧህ, ት, ሽ, ኢ, ክ, ኣችን, አንተ, ኧ, ኣችሁ -->
     <feat name="Person" value="3" upos="DET,PRON,VERB">1861</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኣት, ኣ -->
     <feat name="Polarity" value="Neg" upos="PART">197</feat><!-- ኣል, አል, ኣለ, ያለ, አለ, ኣይ, ም, አይ -->
-    <feat name="Poss" value="Yes" upos="DET,PRON">210</feat><!-- ኡ, ኤ, ዋ, ህ, ኣችን, ኣቸው, ው, ዬ, ሽ, ኣችሁ -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">211</feat><!-- ኡ, ኤ, ዋ, ህ, ኣችን, ኣቸው, ው, ዬ, ሽ, ኣችሁ -->
     <feat name="PronType" value="Art" upos="DET">412</feat><!-- ኡ, ው, ዋ, ዬ -->
     <feat name="PronType" value="Dem" upos="DET">54</feat><!-- ይህ, እዚህ, ይህን, እዚያ, ያ, ይቺ, እንዲህ -->
     <feat name="PronType" value="Exc" upos="DET,PRON">7</feat><!-- ምነው -->
     <feat name="PronType" value="Int" upos="PRON">58</feat><!-- ምን, ማን -->
     <feat name="PronType" value="Neg" upos="PRON">5</feat><!-- ምንም, ምን -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">2438</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">2439</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
     <feat name="PronType" value="Tot" upos="DET">3</feat><!-- እየ -->
     <feat name="Tense" value="Past" upos="AUX">1</feat><!-- ነበር -->
     <feat name="Typo" value="Yes" upos="CCONJ,INTJ,PRON,VERB">12</feat><!-- ኧ, ምንድ, መጥ, ምን, ነገር, እንዲያው -->
