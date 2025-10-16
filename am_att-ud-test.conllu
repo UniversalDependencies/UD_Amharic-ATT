@@ -7546,7 +7546,7 @@
 # translit = jəhə məsəkinə mənäwə bädänəbə bäləto 'äjəčewə .
 1	ይህ	ይህ	DET	DET	PronType=Dem	2	det	_	Translit=jəhə|LTranslit=jəhə
 2	ምስኪን	ምስኪን	NOUN	NOUN	_	6	nsubj	_	Translit=məsəkinə|LTranslit=məsəkinə
-3	ምነው	ምነው	PRON	PRON	_	6	discourse	_	Translit=mənäwə|LTranslit=mənäwə
+3	ምነው	ምነው	PRON	PRON	PronType=Exc	6	discourse	_	Translit=mənäwə|LTranslit=mənäwə
 4-5	በደንብ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	LTranslit=bä|Translit=bä
 5	ደንብ	ደንብ	NOUN	NOUN	_	6	obl	_	LTranslit=dänəbə|Translit=dänəbə
@@ -7653,7 +7653,7 @@
 # sent_id = data_UD-third_apple_2-x02-s2
 # text = ምነው ቢያዳምጣት ኖሮ ።
 # translit = mənäwə bijadaməţatə noro .
-1	ምነው	ምነው	PRON	PRON	_	4	obl	_	Translit=mənäwə|LTranslit=mənäwə
+1	ምነው	ምነው	PRON	PRON	PronType=Exc	4	obl	_	Translit=mənäwə|LTranslit=mənäwə
 2-5	ቢያዳምጣት	_	_	_	_	_	_	_	_
 2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	LTranslit=bə|Translit=bə
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=jə
@@ -7691,7 +7691,7 @@
 # sent_id = data_UD-third_apple_2-x02-s4
 # text = ምነው ይህን ያህል ባልሠራ ።
 # translit = mənäwə jəhənə jahələ baləśära .
-1	ምነው	ምነው	PRON	PRON	_	3	obl	_	Translit=mənäwə|LTranslit=mənäwə
+1	ምነው	ምነው	PRON	PRON	PronType=Exc	3	obl	_	Translit=mənäwə|LTranslit=mənäwə
 2	ይህን	ይህን	DET	DET	PronType=Dem	3	obj	_	Translit=jəhənə|LTranslit=jəhənə
 3	ያህል	ያህል	VERB	VERB	Mood=Ind|VerbForm=Fin	6	advcl	_	Translit=jahələ|LTranslit=jahələ
 4-7	ባልሠራ	_	_	_	_	_	_	_	_
@@ -7704,7 +7704,7 @@
 # sent_id = data_UD-third_apple_2-x02-s5
 # text = ምነው አስተማሪ በሆንሁ ።
 # translit = mənäwə 'äsətämari bähonəhu .
-1	ምነው	ምነው	PRON	PRON	_	4	obl	_	Translit=mənäwə|LTranslit=mənäwə
+1	ምነው	ምነው	PRON	PRON	PronType=Exc	4	obl	_	Translit=mənäwə|LTranslit=mənäwə
 2	አስተማሪ	አስተማሪ	NOUN	NOUN	_	4	obj	_	Translit='äsətämari|LTranslit='äsətämari
 3-5	በሆንሁ	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	4	mark	_	LTranslit=bä|Translit=bä
@@ -11634,7 +11634,7 @@
 # sent_id = data_UD-third_apple_2-x15-s18
 # text = ምነው ቢበሉ !
 # translit = mənäwə bibälu !
-1	ምነው	ምነው	DET	DET	_	4	obj	_	Translit=mənäwə|LTranslit=mənäwə
+1	ምነው	ምነው	DET	DET	PronType=Exc	4	obj	_	Translit=mənäwə|LTranslit=mənäwə
 2-5	ቢበሉ	_	_	_	_	_	_	_	_
 2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	LTranslit=bə|Translit=bə
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=jə
@@ -13474,7 +13474,7 @@
 5-6	ትተህ	_	_	_	_	_	_	_	_
 5	ትተ	ትተ	VERB	VERB	Mood=Ind|VerbForm=Fin	11	advcl	_	LTranslit=tətä|Translit=tətä
 6	ህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	LTranslit='änətä|Translit=hə
-7	ምነው	ምነው	PRON	PRON	_	11	nmod	_	Translit=mənäwə|LTranslit=mənäwə
+7	ምነው	ምነው	PRON	PRON	PronType=Exc	11	nmod	_	Translit=mənäwə|LTranslit=mənäwə
 8-10	ደህናውን	_	_	_	_	_	_	_	_
 8	ደህና	ደህና	ADJ	ADJ	_	11	nmod	_	LTranslit=dähəna|Translit=dähəna
 9	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
@@ -13492,7 +13492,7 @@
 2	እየ	እየ	ADP	ADP	_	3	mark	_	LTranslit='əjä|Translit='əjä
 3	ኣል	ኣል	VERB	VERB	Mood=Ind|VerbForm=Fin	7	advcl	_	LTranslit='alə|Translit='alə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ă
-5	ምነው	ምነው	PRON	PRON	_	7	nmod	_	Translit=mənäwə|LTranslit=mənäwə
+5	ምነው	ምነው	PRON	PRON	PronType=Exc	7	nmod	_	Translit=mənäwə|LTranslit=mənäwə
 6-8	አለመብላትህ	_	_	_	_	_	_	_	_
 6	ኣለ	ኣለ	PART	NEG	Polarity=Neg	7	advmod	_	LTranslit='alä|Translit='alä
 7	መብላት	መብላት	NOUN	NOUN	VerbForm=Vnoun	0	root	_	LTranslit=mäbəlatə|Translit=mäbəlatə
