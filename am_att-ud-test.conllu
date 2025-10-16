@@ -9935,10 +9935,10 @@
 2-3	ህዝቡ	_	_	_	_	_	_	_	_
 2	ህዝብ	ህዝብ	NOUN	NOUN	_	7	obj	_	LTranslit=həzəbə|Translit=həzəbə
 3	ኡ	ኡ	DET	DET	PronType=Art	2	det	_	LTranslit='u|Translit='u
-4	እርስ	እርስ	PRON	PRON	_	6	det	_	Translit='ərəsə|LTranslit='ərəsə
+4	እርስ	እርስ	PRON	PRON	PronType=Rcp	6	det	_	Translit='ərəsə|LTranslit='ərəsə
 5-6	በእርስ	_	_	_	_	_	_	_	_
 5	በ	በ	ADP	ADP	_	6	case	_	LTranslit=bä|Translit=bä
-6	እርስ	እርስ	PRON	PRON	_	7	nmod	_	LTranslit='ərəsə|Translit='ərəsə
+6	እርስ	እርስ	PRON	PRON	PronType=Rcp	7	nmod	_	LTranslit='ərəsə|Translit='ərəsə
 7-8	አጋደለ	_	_	_	_	_	_	_	_
 7	አጋደል	አጋደል	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Rcp	0	root	_	LTranslit='ägadälə|Translit='ägadälə
 8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ă
