@@ -4343,7 +4343,7 @@
 1	ይህ	ይህ	DET	DET	PronType=Dem	3	det	_	LTranslit=jəhə|Translit=jəhə
 2	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 3	ወንዝ	ወንዝ	NOUN	NOUN	_	8	obj	_	Translit=wänəzə|LTranslit=wänəzə
-4	እንዴት	እንዴት	PRON	PRON	_	8	obl	_	Translit='ənədetə|LTranslit='ənədetə
+4	እንዴት	እንዴት	PRON	PRON	PronType=Int	8	obl	_	Translit='ənədetə|LTranslit='ənədetə
 5-8	እንደምሻገር	_	_	_	_	_	_	_	_
 5	እንደ	እንደ	SCONJ	SCONJ	_	8	mark	_	LTranslit='ənədä|Translit='ənədä
 6	የ	የ	PART	RLP	_	8	mark	_	LTranslit=jä|Translit=jä
@@ -6136,7 +6136,7 @@
 3	ብ	ብ	SCONJ	SCONJ	_	5	mark	_	LTranslit=bə|Translit=bə
 4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=jə
 5	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	15	advcl	_	LTranslit=honə|Translit=honə
-6	እንዴት	እንዴት	PRON	PRON	_	15	obl	_	Translit='ənədetə|LTranslit='ənədetə
+6	እንዴት	እንዴት	PRON	PRON	PronType=Int	15	obl	_	Translit='ənədetə|LTranslit='ənədetə
 7-8	ለገንዘብ	_	_	_	_	_	_	_	_
 7	ለ	ለ	ADP	ADP	_	8	case	_	LTranslit=lä|Translit=lä
 8	ገንዘብ	ገንዘብ	NOUN	NOUN	_	11	obl	_	LTranslit=gänəzäbə|Translit=gänəzäbə
@@ -11467,7 +11467,7 @@
 1-2	እስካሁን	_	_	_	_	_	_	_	_
 1	እስከ	እስከ	ADP	ADP	_	2	case	_	LTranslit='əsəkä|Translit='əsəkä
 2	ኣሁን	ኣሁን	NOUN	NOUN	_	5	obl	_	LTranslit='ahunə|Translit='ahunə
-3	እንዴት	እንዴት	PRON	PRON	_	5	obl	_	Translit='ənədetə|LTranslit='ənədetə
+3	እንዴት	እንዴት	PRON	PRON	PronType=Int	5	obl	_	Translit='ənədetə|LTranslit='ənədetə
 4	እዚህ	እዚህ	DET	DET	PronType=Dem	5	advmod	_	Translit='əzihə|LTranslit='əzihə
 5-6	ቆየህ	_	_	_	_	_	_	_	_
 5	ቆይ	ቆይ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=qojə|Translit=qojə
@@ -13081,7 +13081,7 @@
 3	ኡ	ኡ	DET	DET	PronType=Art	2	det	_	LTranslit='u|Translit='u
 4	ን	ን	PART	ACC	_	2	case	_	LTranslit=nə|Translit=nə
 5	አስፈላጊነት	አስፈላጊነት	NOUN	NOUN	_	9	xcomp	_	Translit='äsəfälaginätə|LTranslit='äsəfälaginätə
-6	እንዴት	እንዴት	PRON	PRON	_	9	obl	_	Translit='ənədetə|LTranslit='ənədetə
+6	እንዴት	እንዴት	PRON	PRON	PronType=Int	9	obl	_	Translit='ənədetə|LTranslit='ənədetə
 7-9	እንደምገልጽ	_	_	_	_	_	_	_	_
 7	እንደ	እንደ	ADP	ADP	_	9	mark	_	LTranslit='ənədä|Translit='ənədä
 8	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	LTranslit='əne|Translit='ə
@@ -16506,7 +16506,7 @@
 3	ብ	ብ	SCONJ	SCONJ	_	5	mark	_	LTranslit=bə|Translit=bə
 4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=jə
 5	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	11	csubj	_	LTranslit=honə|Translit=honə
-6	እንዴት	እንዴት	PRON	PRON	_	11	obl	_	Translit='ənədetə|LTranslit='ənədetə
+6	እንዴት	እንዴት	PRON	PRON	PronType=Int	11	obl	_	Translit='ənədetə|LTranslit='ənədetə
 7-8	ለገንዘብ	_	_	_	_	_	_	_	_
 7	ለ	ለ	ADP	ADP	_	8	case	_	LTranslit=lä|Translit=lä
 8	ገንዘብ	ገንዘብ	NOUN	NOUN	_	11	obl	_	LTranslit=gänəzäbə|Translit=gänəzäbə
