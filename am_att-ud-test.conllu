@@ -13146,7 +13146,7 @@
 # text = እፎይ ይኸው በመጨረሻ ደረስን ።
 # translit = 'əfojə jəkchäwə bämäćäräša däräsənə .
 1	እፎይ	እፎይ	INTJ	INTJ	_	5	discourse	_	Translit='əfojə|LTranslit='əfojə
-2	ይኸው	ይኸው	DET	DET	_	5	advmod	_	Translit=jəkchäwə|LTranslit=jəkchäwə
+2	ይኸው	ይኸው	DET	DET	PronType=Dem	5	advmod	_	Translit=jəkchäwə|LTranslit=jəkchäwə
 3-4	በመጨረሻ	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	4	case	_	LTranslit=bä|Translit=bä
 4	መጨረሻ	መጨረሻ	NOUN	NOUN	_	5	obl	_	LTranslit=mäćäräša|Translit=mäćäräša
