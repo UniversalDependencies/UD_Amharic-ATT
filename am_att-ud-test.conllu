@@ -678,7 +678,7 @@
 8	ከ	ከ	ADP	ADP	_	9	mark	_	LTranslit=kä|Translit=kä
 9	ሆን	ሆን	VERB	VERB	Mood=Ind|VerbForm=Fin	7	advcl	_	LTranslit=honə|Translit=honə
 10	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ă
-11	ይህን	ይህን	DET	DET	_	12	det	_	Translit=jəhənə|LTranslit=jəhənə
+11	ይህን	ይህን	DET	DET	PronType=Dem	12	det	_	Translit=jəhənə|LTranslit=jəhənə
 12	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	13	obj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 13-15	መልስልኝ	_	_	_	_	_	_	_	_
 13	መልስ	መልስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=mäləsə|Translit=mäləsə
@@ -1208,7 +1208,7 @@
 # sent_id = data_UD-x02-s4
 # text = ይህን ያህል ባይሰራ ይሻለው ነበር ።
 # translit = jəhənə jahələ bajəsära jəšaläwə näbärə .
-1	ይህን	ይህን	DET	DET	_	2	det	_	Translit=jəhənə|LTranslit=jəhənə
+1	ይህን	ይህን	DET	DET	PronType=Dem	2	det	_	Translit=jəhənə|LTranslit=jəhənə
 2	ያህል	ያህል	NOUN	NOUN	_	6	amod	_	Translit=jahələ|LTranslit=jahələ
 3-6	ባይሰራ	_	_	_	_	_	_	_	_
 3	ብ	ብ	SCONJ	SCONJ	_	6	mark	_	LTranslit=bə|Translit=bə
@@ -1226,7 +1226,7 @@
 # text = ምነው ይህን ያህል ባይበላስ ።
 # translit = mənäwə jəhənə jahələ bajəbälasə .
 1	ምነው	ምነው	INTJ	INTJ	_	3	discourse	_	Translit=mənäwə|LTranslit=mənäwə
-2	ይህን	ይህን	DET	DET	_	3	det	_	Translit=jəhənə|LTranslit=jəhənə
+2	ይህን	ይህን	DET	DET	PronType=Dem	3	det	_	Translit=jəhənə|LTranslit=jəhənə
 3	ያህል	ያህል	NOUN	NOUN	_	6	advcl	_	Translit=jahələ|LTranslit=jahələ
 4-8	ባይበላስ	_	_	_	_	_	_	_	_
 4	ብ	ብ	SCONJ	SCONJ	_	6	mark	_	LTranslit=bə|Translit=bə
@@ -7692,7 +7692,7 @@
 # text = ምነው ይህን ያህል ባልሠራ ።
 # translit = mənäwə jəhənə jahələ baləśära .
 1	ምነው	ምነው	PRON	PRON	_	3	obl	_	Translit=mənäwə|LTranslit=mənäwə
-2	ይህን	ይህን	DET	DET	_	3	obj	_	Translit=jəhənə|LTranslit=jəhənə
+2	ይህን	ይህን	DET	DET	PronType=Dem	3	obj	_	Translit=jəhənə|LTranslit=jəhənə
 3	ያህል	ያህል	VERB	VERB	Mood=Ind|VerbForm=Fin	6	advcl	_	Translit=jahələ|LTranslit=jahələ
 4-7	ባልሠራ	_	_	_	_	_	_	_	_
 4	ብ	ብ	SCONJ	SCONJ	_	6	mark	_	LTranslit=bə|Translit=bə
@@ -7793,7 +7793,7 @@
 # text = ምናልባት ይህን መጽሐፍ ለማሳተም የምትፈልጉ ከሆነ እልካለሁ ።
 # translit = mənaləbatə jəhənə mäcəħäfə lämasatämə jämətəfäləgu kähonä 'ələkalähu .
 1	ምናልባት	ምናልባት	ADV	ADV	_	9	advmod	_	Translit=mənaləbatə|LTranslit=mənaləbatə
-2	ይህን	ይህን	DET	DET	_	3	det	_	Translit=jəhənə|LTranslit=jəhənə
+2	ይህን	ይህን	DET	DET	PronType=Dem	3	det	_	Translit=jəhənə|LTranslit=jəhənə
 3	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	5	xcomp	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 4-5	ለማሳተም	_	_	_	_	_	_	_	_
 4	ለ	ለ	ADP	ADP	_	5	case	_	LTranslit=lä|Translit=lä
@@ -16872,7 +16872,7 @@
 4-5	ነው	_	_	_	_	_	_	_	_
 4	ን	ን	AUX	AUX	_	3	aux	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
-6	ይህን	ይህን	DET	DET	_	7	det	_	Translit=jəhənə|LTranslit=jəhənə
+6	ይህን	ይህን	DET	DET	PronType=Dem	7	det	_	Translit=jəhənə|LTranslit=jəhənə
 7	ያህል	ያህል	VERB	VERB	Mood=Ind|VerbForm=Fin	10	advcl	_	Translit=jahələ|LTranslit=jahələ
 8-11	የምሰደበው	_	_	_	_	_	_	_	_
 8	የ	የ	PART	RLP	_	10	mark	_	LTranslit=jä|Translit=jä
