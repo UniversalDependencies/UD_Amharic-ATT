@@ -452,7 +452,7 @@
 # translit = käzihə čəgərə bəgälagälə 'əwädə näbärə .
 1-2	ከዚህ	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	ADP	_	2	case	_	LTranslit=kä|Translit=kä
-2	እዚህ	እዚህ	DET	DET	_	3	det	_	LTranslit='əzihə|Translit='əzihə
+2	እዚህ	እዚህ	DET	DET	PronType=Dem	3	det	_	LTranslit='əzihə|Translit='əzihə
 3	ችግር	ችግር	NOUN	NOUN	_	6	obl	_	Translit=čəgərə|LTranslit=čəgərə
 4-6	ብገላገል	_	_	_	_	_	_	_	_
 4	ብ	ብ	ADP	ADP	_	6	mark	_	LTranslit=bə|Translit=bə
@@ -7297,7 +7297,7 @@
 1-2	ጓደኞችህ	_	_	_	_	_	_	_	_
 1	ጓደኞች	ጓደኞች	NOUN	NOUN	_	11	nsubj	_	LTranslit=gwadäňočə|Translit=gwadäňočə
 2	ህ	አንተ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='änətä|Translit=hə
-3	እዚህ	እዚህ	DET	DET	_	7	advcl	_	Translit='əzihə|LTranslit='əzihə
+3	እዚህ	እዚህ	DET	DET	PronType=Dem	7	advcl	_	Translit='əzihə|LTranslit='əzihə
 4-8	ሳይመጡ	_	_	_	_	_	_	_	_
 4	ስ	ስ	SCONJ	SCONJ	_	7	mark	_	LTranslit=sə|Translit=sə
 5	ኣል	ኣል	PART	NEG	Polarity=Neg	7	advmod	_	LTranslit='alə|Translit='alə
@@ -7612,7 +7612,7 @@
 # sent_id = data_UD-third_apple_2-x01-s20
 # text = እዚህ ካላችሁ ዘንድ ይህንን ጉዳይ ብንነጋገርበት መልካም ነው ።
 # translit = 'əzihə kalačəhu zänədə jəhənənə gudajə bənənägagärəbätə mäləkamə näwə .
-1	እዚህ	እዚህ	DET	DET	_	3	advcl	_	Translit='əzihə|LTranslit='əzihə
+1	እዚህ	እዚህ	DET	DET	PronType=Dem	3	advcl	_	Translit='əzihə|LTranslit='əzihə
 2-4	ካላችሁ	_	_	_	_	_	_	_	_
 2	ከ	ከ	SCONJ	SCONJ	_	3	mark	_	LTranslit=kä|Translit=kä
 3	ኣል	ኣል	VERB	VERB	Mood=Ind|VerbForm=Fin	11	advcl	_	LTranslit='alə|Translit='alə
@@ -8881,7 +8881,7 @@
 4	ወረድ	ወረድ	VERB	VERB	Mood=Ind|VerbForm=Fin	8	ccomp	_	LTranslit=wärädə|Translit=wärädə
 5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
 6	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
-7	እዚህ	እዚህ	DET	DET	_	8	det	_	Translit='əzihə|LTranslit='əzihə
+7	እዚህ	እዚህ	DET	DET	PronType=Dem	8	det	_	Translit='əzihə|LTranslit='əzihə
 8	ቦታ	ቦታ	NOUN	NOUN	_	0	root	_	Translit=bota|LTranslit=bota
 9-10	ነው	_	_	_	_	_	_	_	_
 9	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
@@ -11468,7 +11468,7 @@
 1	እስከ	እስከ	ADP	ADP	_	2	case	_	LTranslit='əsəkä|Translit='əsəkä
 2	ኣሁን	ኣሁን	NOUN	NOUN	_	5	obl	_	LTranslit='ahunə|Translit='ahunə
 3	እንዴት	እንዴት	PRON	PRON	_	5	obl	_	Translit='ənədetə|LTranslit='ənədetə
-4	እዚህ	እዚህ	DET	DET	_	5	advmod	_	Translit='əzihə|LTranslit='əzihə
+4	እዚህ	እዚህ	DET	DET	PronType=Dem	5	advmod	_	Translit='əzihə|LTranslit='əzihə
 5-6	ቆየህ	_	_	_	_	_	_	_	_
 5	ቆይ	ቆይ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=qojə|Translit=qojə
 6	ኧህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	LTranslit='änətä|Translit='ăhə
@@ -11580,7 +11580,7 @@
 4-5	ያህል	_	_	_	_	_	_	_	_
 4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit=jə
 5	ኣህል	ኣህል	VERB	VERB	Mood=Ind|VerbForm=Fin	9	xcomp	_	LTranslit='ahələ|Translit='ahələ
-6	እዚህ	እዚህ	DET	DET	_	9	advmod	_	Translit='əzihə|LTranslit='əzihə
+6	እዚህ	እዚህ	DET	DET	PronType=Dem	9	advmod	_	Translit='əzihə|LTranslit='əzihə
 7-9	ብትቆይ	_	_	_	_	_	_	_	_
 7	ብ	ብ	SCONJ	SCONJ	_	9	mark	_	LTranslit=bə|Translit=bə
 8	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit=tə
@@ -12325,7 +12325,7 @@
 # translit = käzihəmə tənəšə ləwəsädə ?
 1-3	ከዚህም	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	ADP	_	2	case	_	LTranslit=kä|Translit=kä
-2	እዚህ	እዚህ	DET	DET	_	6	obl	_	LTranslit='əzihə|Translit='əzihə
+2	እዚህ	እዚህ	DET	DET	PronType=Dem	6	obl	_	LTranslit='əzihə|Translit='əzihə
 3	ም	ም	CCONJ	CCONJ	_	2	cc	_	LTranslit=mə|Translit=mə
 4	ትንሽ	ትንሽ	ADJ	ADJ	_	6	amod	_	Translit=tənəšə|LTranslit=tənəšə
 5-6	ልውሰድ	_	_	_	_	_	_	_	_
@@ -12981,7 +12981,7 @@
 3	ወንድም	ወንድም	NOUN	NOUN	_	1	obj	_	Translit=wänədəmə|LTranslit=wänədəmə
 4-5	የዚህ	_	_	_	_	_	_	_	_
 4	የ	የ	ADP	ADP	_	6	case	_	LTranslit=jä|Translit=jä
-5	እዚህ	እዚህ	DET	DET	_	6	det	_	LTranslit='əzihə|Translit='əzihə
+5	እዚህ	እዚህ	DET	DET	PronType=Dem	6	det	_	LTranslit='əzihə|Translit='əzihə
 6	ቦታ	ቦታ	NOUN	NOUN	_	7	obl	_	Translit=bota|LTranslit=bota
 7	ስም	ስም	NOUN	NOUN	_	10	nsubj:pass	_	Translit=səmə|LTranslit=səmə
 8	ማን	ማን	PRON	PRON	_	10	obj	_	Translit=manə|LTranslit=manə
@@ -13686,7 +13686,7 @@
 # translit = käzihə jämibəsə gize 'älä malätə näwə ?
 1-2	ከዚህ	_	_	_	_	_	_	_	_
 1	ከ	ከ	ADP	ADP	_	2	case	_	LTranslit=kä|Translit=kä
-2	እዚህ	እዚህ	DET	DET	_	7	det	_	LTranslit='əzihə|Translit='əzihə
+2	እዚህ	እዚህ	DET	DET	PronType=Dem	7	det	_	LTranslit='əzihə|Translit='əzihə
 3-6	የሚብስ	_	_	_	_	_	_	_	_
 3	የ	የ	PART	RLP	_	6	mark	_	LTranslit=jä|Translit=jä
 4	እም	እም	PART	IRLP	_	6	mark	_	LTranslit='əmə|Translit='əmə
@@ -14281,7 +14281,7 @@
 # translit = läzihə mänəgəsə mäsəratə mäśäqajətə näwə .
 1-2	ለዚህ	_	_	_	_	_	_	_	_
 1	ለ	ለ	ADP	ADP	Case=Abl	4	case	_	LTranslit=lä|Translit=lä
-2	እዚህ	እዚህ	DET	DET	_	3	det	_	LTranslit='əzihə|Translit='əzihə
+2	እዚህ	እዚህ	DET	DET	PronType=Dem	3	det	_	LTranslit='əzihə|Translit='əzihə
 3	መንግስ	መንግስ	NOUN	NOUN	_	4	nmod	_	Translit=mänəgəsə|LTranslit=mänəgəsə
 4	መስራት	መስራት	NOUN	NOUN	VerbForm=Vnoun	5	csubj	_	Translit=mäsəratə|LTranslit=mäsəratə
 5	መሠቃይት	መሠቃይት	NOUN	NOUN	VerbForm=Vnoun	0	root	_	Translit=mäśäqajətə|LTranslit=mäśäqajətə
@@ -14831,7 +14831,7 @@
 8	ስፍራ	ስፍራ	NOUN	NOUN	_	12	nsubj	_	Translit=səfəra|LTranslit=səfəra
 9-10	ከዚህ	_	_	_	_	_	_	_	_
 9	ከ	ከ	ADP	ADP	_	10	case	_	LTranslit=kä|Translit=kä
-10	እዚህ	እዚህ	DET	DET	_	12	advmod	_	LTranslit='əzihə|Translit='əzihə
+10	እዚህ	እዚህ	DET	DET	PronType=Dem	12	advmod	_	LTranslit='əzihə|Translit='əzihə
 11	ሩቅ	ሩቅ	ADJ	ADJ	_	12	xcomp	_	Translit=ruqə|LTranslit=ruqə
 12-14	አይደለም	_	_	_	_	_	_	_	_
 12	አይደል	አይደል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='äjədälə|Translit='äjədälə
@@ -15019,7 +15019,7 @@
 # sent_id = data_UD-third_apple_2-x25-s7
 # text = እዚህ ብቆም ምን አለበት ?
 # translit = 'əzihə bəqomə mənə 'äläbätə ?
-1	እዚህ	እዚህ	DET	DET	_	2	advmod	_	Translit='əzihə|LTranslit='əzihə
+1	እዚህ	እዚህ	DET	DET	PronType=Dem	2	advmod	_	Translit='əzihə|LTranslit='əzihə
 2	ብቆም	ብቆም	VERB	VERB	Mood=Ind|VerbForm=Fin	4	advcl	_	Translit=bəqomə|LTranslit=bəqomə
 3	ምን	ምን	PRON	PRON	_	4	nsubj	_	Translit=mənə|LTranslit=mənə
 4-6	አለበት	_	_	_	_	_	_	_	_
@@ -15472,7 +15472,7 @@
 # translit = bäzihə dələdəjə lajə sijaləfu qäräţə mäkəfälə jasəfäləgalə .
 1-2	በዚህ	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	3	case	_	LTranslit=bä|Translit=bä
-2	እዚህ	እዚህ	DET	DET	_	3	det	_	LTranslit='əzihə|Translit='əzihə
+2	እዚህ	እዚህ	DET	DET	PronType=Dem	3	det	_	LTranslit='əzihə|Translit='əzihə
 3	ድልድይ	ድልድይ	NOUN	NOUN	_	7	obl	_	Translit=dələdəjə|LTranslit=dələdəjə
 4	ላይ	ላይ	ADP	ADP	_	3	case	_	Translit=lajə|LTranslit=lajə
 5-8	ሲያልፉ	_	_	_	_	_	_	_	_
@@ -15549,7 +15549,7 @@
 # sent_id = data_UD-third_apple_2-x26-s16
 # text = እዚህ አገር ያልተደሰቱ የትም አይደሰቱ ።
 # translit = 'əzihə 'ägärə jalətädäsätu jätəmə 'äjədäsätu .
-1	እዚህ	እዚህ	DET	DET	_	2	det	_	Translit='əzihə|LTranslit='əzihə
+1	እዚህ	እዚህ	DET	DET	PronType=Dem	2	det	_	Translit='əzihə|LTranslit='əzihə
 2	አገር	አገር	NOUN	NOUN	_	5	obl	_	Translit='ägärə|LTranslit='ägärə
 3-6	ያልተደሰቱ	_	_	_	_	_	_	_	_
 3	የ	የ	PART	RLP	_	5	mark	_	LTranslit=jä|Translit=jä
@@ -15954,7 +15954,7 @@
 # sent_id = data_UD-third_apple_2-x28-s1
 # text = እዚህ ከራርሞ ሄደ ።
 # translit = 'əzihə kärarəmo hedä .
-1	እዚህ	እዚህ	DET	DET	_	2	advmod	_	Translit='əzihə|LTranslit='əzihə
+1	እዚህ	እዚህ	DET	DET	PronType=Dem	2	advmod	_	Translit='əzihə|LTranslit='əzihə
 2-3	ከራርሞ	_	_	_	_	_	_	_	_
 2	ከራርም	ከራርም	VERB	VERB	VerbForm=Conv	4	advcl	_	LTranslit=kärarəmə|Translit=kärarəmə
 3	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='o
