@@ -57,7 +57,7 @@
     <feat name="PronType" value="Exc" upos="DET,PRON">7</feat><!-- ምነው -->
     <feat name="PronType" value="Int" upos="PRON">58</feat><!-- ምን, ማን -->
     <feat name="PronType" value="Neg" upos="PRON">5</feat><!-- ምንም, ምን -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">2425</feat><!-- ኧ, ይ, ት, ኡ, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">2426</feat><!-- ኧ, ይ, ት, ኡ, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
     <feat name="PronType" value="Tot" upos="DET">3</feat><!-- እየ -->
     <feat name="Tense" value="Past" upos="AUX">1</feat><!-- ነበር -->
     <feat name="Typo" value="Yes" upos="CCONJ,INTJ,PRON,VERB">12</feat><!-- ኧ, ምንድ, መጥ, ምን, ነገር, እንዲያው -->

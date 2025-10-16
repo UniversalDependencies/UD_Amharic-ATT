@@ -1025,7 +1025,7 @@
 9-12	ይገርምሃል	_	_	_	_	_	_	_	_
 9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit=jə
 10	ገርም	ገርም	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=gärəmə|Translit=gärəmə
-11	ህ	ህ	PRON	SUBJC	_	10	expl	_	LTranslit=hə|Translit=hə
+11	ህ	ህ	PRON	SUBJC	PronType=Prs	10	expl	_	LTranslit=hə|Translit=hə
 12	ኣል	ኣል	AUX	AUX	_	10	aux	_	LTranslit='alə|Translit='alə
 13	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
 
