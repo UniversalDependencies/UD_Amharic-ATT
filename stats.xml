@@ -90,14 +90,14 @@
     <dep name="dep">2</dep>
     <dep name="det">478</dep>
     <dep name="discourse">211</dep>
-    <dep name="expl">1153</dep>
+    <dep name="expl">1224</dep>
     <dep name="flat">4</dep>
     <dep name="goeswith">12</dep>
     <dep name="iobj">30</dep>
     <dep name="mark">528</dep>
     <dep name="nmod">328</dep>
-    <dep name="nsubj">1432</dep>
-    <dep name="nsubj:pass">93</dep>
+    <dep name="nsubj">1362</dep>
+    <dep name="nsubj:pass">92</dep>
     <dep name="nummod">35</dep>
     <dep name="obj">577</dep>
     <dep name="obl">360</dep>
