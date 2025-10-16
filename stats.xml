@@ -33,7 +33,7 @@
     <tag name="X">12</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="35">
+  <feats unique="36">
     <feat name="Case" value="Abl" upos="ADP">2</feat><!-- ለ, ከ -->
     <feat name="Case" value="Ben" upos="ADP">37</feat><!-- ል, ለ, በ, ብ -->
     <feat name="Case" value="Ins" upos="ADP">8</feat><!-- በ -->
@@ -55,6 +55,7 @@
     <feat name="PronType" value="Art" upos="DET">412</feat><!-- ኡ, ው, ዋ, ዬ -->
     <feat name="PronType" value="Dem" upos="DET">54</feat><!-- ይህ, እዚህ, ይህን, እዚያ, ያ, ይቺ, እንዲህ -->
     <feat name="PronType" value="Exc" upos="DET,PRON">7</feat><!-- ምነው -->
+    <feat name="PronType" value="Ind" upos="PRON">5</feat><!-- ማንም -->
     <feat name="PronType" value="Int" upos="PRON">77</feat><!-- ምን, ማን, የት, መቼ, እንዴት -->
     <feat name="PronType" value="Neg" upos="PRON">5</feat><!-- ምንም, ምን -->
     <feat name="PronType" value="Prs" upos="DET,PRON">2448</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->

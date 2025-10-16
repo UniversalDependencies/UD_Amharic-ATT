@@ -8854,7 +8854,7 @@
 # sent_id = data_UD-third_apple_2-x06-s10
 # text = ማንም ወደከተማ ነው መሄድ ያለበት ።
 # translit = manəmə wädäkätäma näwə mähedə jaläbätə .
-1	ማንም	ማንም	PRON	PRON	_	6	nsubj	_	Translit=manəmə|LTranslit=manəmə
+1	ማንም	ማንም	PRON	PRON	PronType=Ind	6	nsubj	_	Translit=manəmə|LTranslit=manəmə
 2-3	ወደከተማ	_	_	_	_	_	_	_	_
 2	ወደ	ወደ	ADP	ADP	_	3	case	_	LTranslit=wädä|Translit=wädä
 3	ከተማ	ከተማ	NOUN	NOUN	_	6	obl	_	LTranslit=kätäma|Translit=kätäma
@@ -11187,7 +11187,7 @@
 # sent_id = data_UD-third_apple_2-x14-s5
 # text = ማንም አልመጣም ።
 # translit = manəmə 'äləmäţamə .
-1	ማንም	ማንም	PRON	PRON	_	3	nsubj	_	Translit=manəmə|LTranslit=manəmə
+1	ማንም	ማንም	PRON	PRON	PronType=Ind	3	nsubj	_	Translit=manəmə|LTranslit=manəmə
 2-5	አልመጣም	_	_	_	_	_	_	_	_
 2	ኣል	ኣል	PART	NEG	Polarity=Neg	3	advmod	_	LTranslit='alə|Translit='alə
 3	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=mäţa|Translit=mäţa
@@ -11268,10 +11268,10 @@
 # sent_id = data_UD-third_apple_2-x14-s10
 # text = ማንም ለማንም ምንም አይሰጥም ።
 # translit = manəmə lämanəmə mənəmə 'äjəsäţəmə .
-1	ማንም	ማንም	PRON	PRON	_	7	nsubj	_	Translit=manəmə|LTranslit=manəmə
+1	ማንም	ማንም	PRON	PRON	PronType=Ind	7	nsubj	_	Translit=manəmə|LTranslit=manəmə
 2-3	ለማንም	_	_	_	_	_	_	_	_
 2	ለ	ለ	ADP	ADP	_	3	case	_	LTranslit=lä|Translit=lä
-3	ማንም	ማንም	PRON	PRON	_	7	obl	_	LTranslit=manəmə|Translit=manəmə
+3	ማንም	ማንም	PRON	PRON	PronType=Ind	7	obl	_	LTranslit=manəmə|Translit=manəmə
 4	ምንም	ምንም	PRON	PRON	PronType=Neg	7	obj	_	Translit=mənəmə|LTranslit=mənəmə
 5-8	አይሰጥም	_	_	_	_	_	_	_	_
 5	አል	አል	PART	NEG	Polarity=Neg	7	advmod	_	LTranslit='älə|Translit='älə
@@ -11297,7 +11297,7 @@
 # sent_id = data_UD-third_apple_2-x14-s12
 # text = ማንም ለምሳ አልቀረም ።
 # translit = manəmə läməsa 'äləqärämə .
-1	ማንም	ማንም	PRON	PRON	_	5	nsubj	_	Translit=manəmə|LTranslit=manəmə
+1	ማንም	ማንም	PRON	PRON	PronType=Ind	5	nsubj	_	Translit=manəmə|LTranslit=manəmə
 2-3	ለምሳ	_	_	_	_	_	_	_	_
 2	ለ	ለ	ADP	ADP	_	3	case	_	LTranslit=lä|Translit=lä
 3	ምሳ	ምሳ	NOUN	NOUN	_	5	obl	_	LTranslit=məsa|Translit=məsa
