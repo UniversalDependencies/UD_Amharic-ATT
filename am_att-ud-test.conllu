@@ -10146,7 +10146,7 @@
 11	ኧው	እሱ	PRON	OBJC	Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='ăwə
 12-13	ለምንድን	_	_	_	_	_	_	_	_
 12	ለ	ለ	ADP	ADP	_	13	case	_	LTranslit=lä|Translit=lä
-13	ምንድን	ምንድን	PRON	PRON	_	10	obl	_	LTranslit=mənədənə|Translit=mənədənə
+13	ምንድን	ምንድን	PRON	PRON	PronType=Int	10	obl	_	LTranslit=mənədənə|Translit=mənədənə
 14-15	ነው	_	_	_	_	_	_	_	_
 14	ን	ን	AUX	AUX	_	10	aux	_	LTranslit=nə|Translit=nə
 15	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='ăwə
@@ -12702,7 +12702,7 @@
 1-2	ይህሳ	_	_	_	_	_	_	_	_
 1	ይህ	ይህ	DET	DET	PronType=Dem	3	det	_	LTranslit=jəhə|Translit=jəhə
 2	ሳ	ሳ	INTJ	INTJ	_	1	discourse	_	LTranslit=sa|Translit=sa
-3	ምንድን	ምንድን	PRON	PRON	_	0	root	_	Translit=mənədənə|LTranslit=mənədənə
+3	ምንድን	ምንድን	PRON	PRON	PronType=Int	0	root	_	Translit=mənədənə|LTranslit=mənədənə
 4-5	ነው	_	_	_	_	_	_	_	_
 4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
 5	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LTranslit='əsu|Translit='ăwə
@@ -16692,7 +16692,7 @@
 4	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăčə
 5	ው	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=wə
 6-7	ምንድን	_	_	_	_	_	_	_	_
-6	ምንድ	ምንድን	PRON	PRON	Typo=Yes	0	root	_	LTranslit=mənədənə|Translit=mənədə
+6	ምንድ	ምንድን	PRON	PRON	PronType=Int|Typo=Yes	0	root	_	LTranslit=mənədənə|Translit=mənədə
 7	ን	_	X	_	_	6	goeswith	_	Translit=nə
 8-9	ነው	_	_	_	_	_	_	_	_
 8	ን	ን	AUX	AUX	_	6	cop	_	LTranslit=nə|Translit=nə
@@ -16731,7 +16731,7 @@
 6	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=tə
 7	መኪና	መኪና	NOUN	NOUN	_	8	nsubj	_	Translit=mäkina|LTranslit=mäkina
 8-9	ምንድን	_	_	_	_	_	_	_	_
-8	ምንድ	ምንድን	PRON	PRON	Typo=Yes	0	root	_	LTranslit=mənədənə|Translit=mənədə
+8	ምንድ	ምንድን	PRON	PRON	PronType=Int|Typo=Yes	0	root	_	LTranslit=mənədənə|Translit=mənədə
 9	ን	_	X	_	_	8	goeswith	_	Translit=nə
 10-11	ነው	_	_	_	_	_	_	_	_
 10	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
@@ -16750,7 +16750,7 @@
 6	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit=tə
 7	ምክንያት	ምክንያት	NOUN	NOUN	_	8	nsubj	_	Translit=məkənəjatə|LTranslit=məkənəjatə
 8-9	ምንድን	_	_	_	_	_	_	_	_
-8	ምንድ	ምንድን	PRON	PRON	Typo=Yes	0	root	_	LTranslit=mənədənə|Translit=mənədə
+8	ምንድ	ምንድን	PRON	PRON	PronType=Int|Typo=Yes	0	root	_	LTranslit=mənədənə|Translit=mənədə
 9	ን	_	X	_	_	8	goeswith	_	Translit=nə
 10-11	ነው	_	_	_	_	_	_	_	_
 10	ን	ን	AUX	AUX	_	8	cop	_	LTranslit=nə|Translit=nə
