@@ -20,7 +20,7 @@
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-6	ሥራውን	_	_	_	_	_	_	_	_
 4	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	LTranslit=śəra|Translit=śəra
-5	ው	ው	DET	DET	_	4	det	_	LTranslit=wə|Translit=wə
+5	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 6	ን	ን	PART	ACC	_	4	case	_	LTranslit=nə|Translit=nə
 7-10	አስጨርሰዋለሁ	_	_	_	_	_	_	_	_
 7	አስጨርስ	አስጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äsəćärəsə|Translit='äsəćärəsə
@@ -348,7 +348,7 @@
 9	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='o
 10-12	እቃውን	_	_	_	_	_	_	_	_
 10	እቃ	እቃ	NOUN	NOUN	_	13	obj	_	LTranslit='əqa|Translit='əqa
-11	ው	ው	DET	DET	_	10	det	_	LTranslit=wə|Translit=wə
+11	ው	ው	DET	DET	PronType=Art	10	det	_	LTranslit=wə|Translit=wə
 12	ን	ን	PART	ACC	_	10	case	_	LTranslit=nə|Translit=nə
 13-14	አዘጋጅቶ	_	_	_	_	_	_	_	_
 13	አዘጋጅት	አዘጋጅት	VERB	VERB	VerbForm=Conv	18	compound:svc	_	LTranslit='äzägadžətə|Translit='äzägadžətə
@@ -631,7 +631,7 @@
 4	ምክንያት	ምክንያት	ADP	ADP	_	2	case	_	Translit=məkənəjatə|LTranslit=məkənəjatə
 5-6	ጨዋታው	_	_	_	_	_	_	_	_
 5	ጨዋታ	ጨዋታ	NOUN	NOUN	_	7	nsubj:pass	_	LTranslit=ćäwata|Translit=ćäwata
-6	ው	ው	DET	DET	_	5	det	_	LTranslit=wə|Translit=wə
+6	ው	ው	DET	DET	PronType=Art	5	det	_	LTranslit=wə|Translit=wə
 7-8	ተላለፈ	_	_	_	_	_	_	_	_
 7	ተላለፍ	ተላለፍ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=tälaläfə|Translit=tälaläfə
 8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ă
@@ -642,7 +642,7 @@
 # translit = śərawənə lićärəsə silə səħətätə mäśəratunə tägänäzäbä .
 1-3	ሥራውን	_	_	_	_	_	_	_	_
 1	ሥራ	ሥራ	NOUN	NOUN	_	6	obl	_	LTranslit=śəra|Translit=śəra
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-6	ሊጨርስ	_	_	_	_	_	_	_	_
 4	ል	ል	SCONJ	SCONJ	_	6	mark	_	LTranslit=lə|Translit=lə
@@ -823,7 +823,7 @@
 # translit = kubanəjawə 'əsəkalabaräräwə dəräsə jəqojalə .
 1-2	ኩባንያው	_	_	_	_	_	_	_	_
 1	ኩባንያ	ኩባንያ	NOUN	NOUN	_	5	nsubj	_	LTranslit=kubanəja|Translit=kubanəja
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-6	እስካላባረረው	_	_	_	_	_	_	_	_
 3	እስከ	እስከ	SCONJ	SCONJ	_	5	mark	_	LTranslit='əsəkä|Translit='əsəkä
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	5	advmod	_	LTranslit='alə|Translit='alə
@@ -917,7 +917,7 @@
 9	ወደ	ወደ	ADP	ADP	_	10	case	_	Translit=wädä|LTranslit=wädä
 10-11	ጨዋታው	_	_	_	_	_	_	_	_
 10	ጨዋታ	ጨዋታ	NOUN	NOUN	_	14	obj	_	LTranslit=ćäwata|Translit=ćäwata
-11	ው	ው	DET	DET	_	10	det	_	LTranslit=wə|Translit=wə
+11	ው	ው	DET	DET	PronType=Art	10	det	_	LTranslit=wə|Translit=wə
 12-14	ብትሄድ	_	_	_	_	_	_	_	_
 12	ብ	ብ	SCONJ	SCONJ	_	14	mark	_	LTranslit=bə|Translit=bə
 13	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	LTranslit='əsu|Translit=tə
@@ -1074,7 +1074,7 @@
 8	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='ăčə
 9-11	ምሳውን	_	_	_	_	_	_	_	_
 9	ምሳ	ምሳ	NOUN	NOUN	_	12	obj	_	LTranslit=məsa|Translit=məsa
-10	ው	ው	DET	DET	_	9	det	_	LTranslit=wə|Translit=wə
+10	ው	ው	DET	DET	PronType=Art	9	det	_	LTranslit=wə|Translit=wə
 11	ን	ን	PART	ACC	_	9	case	_	LTranslit=nə|Translit=nə
 12-13	በላ	_	_	_	_	_	_	_	_
 12	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=bäla|Translit=bäla
@@ -1344,7 +1344,7 @@
 # translit = wəhawə qäzäqäzä .
 1-2	ውሃው	_	_	_	_	_	_	_	_
 1	ውሃ	ውሃ	NOUN	NOUN	_	3	nsubj	_	LTranslit=wəha|Translit=wəha
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ቀዘቀዘ	_	_	_	_	_	_	_	_
 3	ቀዘቀዝ	ቀዘቀዝ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=qäzäqäzə|Translit=qäzäqäzə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ă
@@ -1364,7 +1364,7 @@
 # translit = sənədäwə bäqälä .
 1-2	ስንደው	_	_	_	_	_	_	_	_
 1	ስንዴ	ስንዴ	NOUN	NOUN	_	3	nsubj	_	LTranslit=sənəde|Translit=sənəde
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	በቀለ	_	_	_	_	_	_	_	_
 3	በቀል	በቀል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=bäqälə|Translit=bäqälə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ă
@@ -1540,7 +1540,7 @@
 # translit = 'äsawə käbahərə wäţa .
 1-2	አሳው	_	_	_	_	_	_	_	_
 1	አሳ	አሳ	NOUN	NOUN	_	5	nsubj	_	LTranslit='äsa|Translit='äsa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ከባህር	_	_	_	_	_	_	_	_
 3	ከ	ከ	ADP	ADP	_	4	case	_	LTranslit=kä|Translit=kä
 4	ባህር	ባህር	NOUN	NOUN	_	5	obl	_	LTranslit=bahərə|Translit=bahərə
@@ -1680,7 +1680,7 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	5	nsubj	_	Translit=kasa|LTranslit=kasa
 2-4	ምሳውን	_	_	_	_	_	_	_	_
 2	ምሳ	ምሳ	NOUN	NOUN	_	5	obj	_	LTranslit=məsa|Translit=məsa
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4	ን	ን	PART	ACC	_	2	case	_	LTranslit=nə|Translit=nə
 5-6	በላ	_	_	_	_	_	_	_	_
 5	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=bäla|Translit=bäla
@@ -1715,7 +1715,7 @@
 # translit = səgawə hulätə kilo jəmäzənalə .
 1-2	ስጋው	_	_	_	_	_	_	_	_
 1	ስጋ	ስጋ	NOUN	NOUN	_	6	nsubj	_	LTranslit=səga|Translit=səga
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ሁለት	ሁለት	NUM	NUM	NumType=Card	4	nummod	_	Translit=hulätə|LTranslit=hulätə
 4	ኪሎ	ኪሎ	NOUN	NOUN	_	6	ccomp	_	Translit=kilo|LTranslit=kilo
 5-7	ይመዝናል	_	_	_	_	_	_	_	_
@@ -1825,7 +1825,7 @@
 2	ኡ	ኡ	DET	DET	PronType=Art	1	det	_	LTranslit='u|Translit='u
 3-5	ብርጭቆውን	_	_	_	_	_	_	_	_
 3	ብርጭቆ	ብርጭቆ	NOUN	NOUN	_	6	obj	_	LTranslit=bərəćəqo|Translit=bərəćəqo
-4	ው	ው	DET	DET	_	3	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 6-8	ወረወረው	_	_	_	_	_	_	_	_
 6	ወረወር	ወረወር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=wäräwärə|Translit=wäräwärə
@@ -1888,10 +1888,10 @@
 # translit = gäbärewə 'ərəšawənə jaläsäləsalə .
 1-2	ገበሬው	_	_	_	_	_	_	_	_
 1	ገበሬ	ገበሬ	NOUN	NOUN	_	7	nsubj	_	LTranslit=gäbäre|Translit=gäbäre
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	እርሻውን	_	_	_	_	_	_	_	_
 3	እርሻ	እርሻ	NOUN	NOUN	_	7	obj	_	LTranslit='ərəša|Translit='ərəša
-4	ው	ው	DET	DET	_	3	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 6-8	ያለሰልሳል	_	_	_	_	_	_	_	_
 6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit=jə
@@ -1933,7 +1933,7 @@
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit=jə
 4	መጥ	መጥ	VERB	VERB	VerbForm=Vnoun	9	advcl	_	LTranslit=mäţə|Translit=mäţə
 5	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='a
-6	ው	ው	DET	DET	_	4	det	_	LTranslit=wə|Translit=wə
+6	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 7	ን	ን	PART	ACC	_	4	case	_	LTranslit=nə|Translit=nə
 8-11	ታውቃለች	_	_	_	_	_	_	_	_
 8	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit=tə
@@ -2087,7 +2087,7 @@
 1-3	የመኪናው	_	_	_	_	_	_	_	_
 1	የ	የ	ADP	ADP	_	2	case	_	LTranslit=jä|Translit=jä
 2	መኪና	መኪና	NOUN	NOUN	_	5	csubj	_	LTranslit=mäkina|Translit=mäkina
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4-5	አለመምጣት	_	_	_	_	_	_	_	_
 4	ኣለ	ኣለ	PART	NEG	Polarity=Neg	5	advmod	_	LTranslit='alä|Translit='alä
 5	መምጣት	መምጣት	NOUN	NOUN	VerbForm=Vnoun	8	advcl	_	LTranslit=mäməţatə|Translit=mäməţatə
@@ -2461,7 +2461,7 @@
 3	የ	የ	ADP	ADP	_	4	mark	_	LTranslit=jä|Translit=jä
 4	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=hedə|Translit=hedə
 5	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ăčə
-6	ው	ው	DET	DET	Number=Sing|Person=3	4	det	_	LTranslit=wə|Translit=wə
+6	ው	ው	DET	DET	Number=Sing|Person=3|PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 7-8	በአውቶቢስ	_	_	_	_	_	_	_	_
 7	በ	በ	ADP	ADP	_	8	case	_	LTranslit=bä|Translit=bä
 8	አውቶቢስ	አውቶቢስ	NOUN	NOUN	_	4	obl	_	LTranslit='äwətobisə|Translit='äwətobisə
@@ -2633,7 +2633,7 @@
 # translit = 'änəbäsawənə gädälutə .
 1-3	አንበሳውን	_	_	_	_	_	_	_	_
 1	አንበሳ	አንበሳ	NOUN	NOUN	_	4	obj	_	LTranslit='änəbäsa|Translit='änəbäsa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-6	ገደሉት	_	_	_	_	_	_	_	_
 4	ገደል	ገደል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=gädälə|Translit=gädälə
@@ -2866,7 +2866,7 @@
 1-3	በሁኔታው	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	2	case	_	LTranslit=bä|Translit=bä
 2	ሁኔታ	ሁኔታ	NOUN	NOUN	_	4	nsubj:pass	_	LTranslit=huneta|Translit=huneta
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4-5	ተሸበረ	_	_	_	_	_	_	_	_
 4	ተሸበር	ተሸበር	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=täšäbärə|Translit=täšäbärə
 5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LTranslit='əsu|Translit='ă
@@ -2889,7 +2889,7 @@
 1-3	የመሄጃው	_	_	_	_	_	_	_	_
 1	የ	የ	PART	RLP	_	2	mark	_	LTranslit=jä|Translit=jä
 2	መሄጃ	መሄጃ	VERB	VERB	VerbForm=Vnoun	4	acl	_	LTranslit=mähedža|Translit=mähedža
-3	ው	ው	DET	DET	_	4	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 4	ቀን	ቀን	NOUN	NOUN	_	5	nsubj	_	Translit=qänə|LTranslit=qänə
 5-6	ተቃረበ	_	_	_	_	_	_	_	_
 5	ተቃረብ	ተቃረብ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=täqaräbə|Translit=täqaräbə
@@ -2916,7 +2916,7 @@
 # translit = daňawə lä'äsəterə färädulatə .
 1-2	ዳኛው	_	_	_	_	_	_	_	_
 1	ዳኛ	ዳኛ	NOUN	NOUN	_	5	nsubj	_	LTranslit=daňa|Translit=daňa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ለአስቴር	_	_	_	_	_	_	_	_
 3	ለ	ለ	ADP	ADP	_	4	case	_	LTranslit=lä|Translit=lä
 4	አስቴር	አስቴር	PROPN	PROPN	_	5	obl	_	LTranslit='äsəterə|Translit='äsəterə
@@ -2952,7 +2952,7 @@
 2-4	በመጥረጊያው	_	_	_	_	_	_	_	_
 2	በ	በ	ADP	ADP	_	3	case	_	LTranslit=bä|Translit=bä
 3	መጥረጊያ	መጥረጊያ	NOUN	NOUN	_	8	obl	_	LTranslit=mäţərägija|Translit=mäţərägija
-4	ው	ው	DET	DET	_	3	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5-7	ቤቱን	_	_	_	_	_	_	_	_
 5	ቤት	ቤት	NOUN	NOUN	_	8	obj	_	LTranslit=betə|Translit=betə
 6	ኡ	ኡ	DET	DET	PronType=Art	5	det	_	LTranslit='u|Translit='u
@@ -3006,7 +3006,7 @@
 # translit = 'əqawə täsäräqäbätə .
 1-2	እቃው	_	_	_	_	_	_	_	_
 1	እቃ	እቃ	NOUN	NOUN	_	3	obj	_	LTranslit='əqa|Translit='əqa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-6	ተሰረቀበት	_	_	_	_	_	_	_	_
 3	ተሰረቅ	ተሰረቅ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=täsäräqə|Translit=täsäräqə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LTranslit='əsu|Translit='ă
@@ -3019,7 +3019,7 @@
 # translit = wəhawənə 'äfälačəwə .
 1-3	ውሃውን	_	_	_	_	_	_	_	_
 1	ውሃ	ውሃ	NOUN	NOUN	_	4	obj	_	LTranslit=wəha|Translit=wəha
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-6	አፈላችው	_	_	_	_	_	_	_	_
 4	አፈላ	አፈላ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äfäla|Translit='äfäla
@@ -3045,7 +3045,7 @@
 # translit = qəbewənə 'äqäläţutə .
 1-3	ቅቤውን	_	_	_	_	_	_	_	_
 1	ቅቤ	ቅቤ	NOUN	NOUN	_	4	obj	_	LTranslit=qəbe|Translit=qəbe
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-6	አቀለጡት	_	_	_	_	_	_	_	_
 4	አቀለጥ	አቀለጥ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äqäläţə|Translit='äqäläţə
@@ -3106,7 +3106,7 @@
 2	ኡ	ኡ	DET	DET	PronType=Art	1	det	_	LTranslit='u|Translit='u
 3-5	ቅቤውን	_	_	_	_	_	_	_	_
 3	ቅቤ	ቅቤ	NOUN	NOUN	_	9	obj	_	LTranslit=qəbe|Translit=qəbe
-4	ው	ው	DET	DET	_	3	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 6-7	በአልማዝ	_	_	_	_	_	_	_	_
 6	በ	በ	ADP	ADP	_	7	case	_	LTranslit=bä|Translit=bä
@@ -3149,7 +3149,7 @@
 # translit = mäkinawənə 'äsəwäsädä .
 1-3	መኪናውን	_	_	_	_	_	_	_	_
 1	መኪና	መኪና	NOUN	NOUN	_	4	obj	_	LTranslit=mäkina|Translit=mäkina
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-5	አስወሰደ	_	_	_	_	_	_	_	_
 4	አስወሰድ	አስወሰድ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äsəwäsädə|Translit='äsəwäsädə
@@ -3198,7 +3198,7 @@
 # translit = bäšətäňawənə lədžə wädä hosəpitalə 'äsəwäsädäwə .
 1-3	በሽተኛውን	_	_	_	_	_	_	_	_
 1	በሽተኛ	በሽተኛ	ADJ	ADJ	_	4	amod	_	LTranslit=bäšətäňa|Translit=bäšətäňa
-2	ው	ው	DET	DET	_	4	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	4	case	_	LTranslit=nə|Translit=nə
 4	ልጅ	ልጅ	NOUN	NOUN	_	7	obj	_	Translit=lədžə|LTranslit=lədžə
 5	ወደ	ወደ	ADP	ADP	_	6	case	_	Translit=wädä|LTranslit=wädä
@@ -3230,7 +3230,7 @@
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-6	ሥራውን	_	_	_	_	_	_	_	_
 4	ሥራ	ሥራ	NOUN	NOUN	_	7	iobj	_	LTranslit=śəra|Translit=śəra
-5	ው	ው	DET	DET	_	4	det	_	LTranslit=wə|Translit=wə
+5	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 6	ን	ን	PART	ACC	_	4	case	_	LTranslit=nə|Translit=nə
 7-10	አስጨርሰዋለሁ	_	_	_	_	_	_	_	_
 7	አስጨርስ	አስጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äsəćärəsə|Translit='äsəćärəsə
@@ -4414,7 +4414,7 @@
 1	አስቴር	አስቴር	PROPN	PROPN	_	5	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
 2-3	አልጋው	_	_	_	_	_	_	_	_
 2	አልጋ	አልጋ	NOUN	NOUN	_	5	obl	_	LTranslit='äləga|Translit='äləga
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4	ላይ	ላይ	ADP	ADP	_	2	case	_	Translit=lajə|LTranslit=lajə
 5-6	ወደቀች	_	_	_	_	_	_	_	_
 5	ወደቅ	ወደቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=wädäqə|Translit=wädäqə
@@ -4428,7 +4428,7 @@
 2-4	ከመቀመጫው	_	_	_	_	_	_	_	_
 2	ከ	ከ	ADP	ADP	_	3	case	_	LTranslit=kä|Translit=kä
 3	መቀመጫ	መቀመጫ	NOUN	NOUN	_	5	obl	_	LTranslit=mäqämäća|Translit=mäqämäća
-4	ው	ው	DET	DET	_	3	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5-6	ተነሳ	_	_	_	_	_	_	_	_
 5	ተነሳ	ተነሳ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=tänäsa|Translit=tänäsa
 6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ă
@@ -4472,10 +4472,10 @@
 # translit = gäbärewə masawənə 'äţərotalə .
 1-2	ገበሬው	_	_	_	_	_	_	_	_
 1	ገበሬ	ገበሬ	NOUN	NOUN	_	6	nsubj	_	LTranslit=gäbäre|Translit=gäbäre
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ማሳውን	_	_	_	_	_	_	_	_
 3	ማሳ	ማሳ	NOUN	NOUN	_	6	obj	_	LTranslit=masa|Translit=masa
-4	ው	ው	DET	DET	_	3	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 6-9	አጥሮታል	_	_	_	_	_	_	_	_
 6	አጥር	አጥር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='äţərə|Translit='äţərə
@@ -4489,7 +4489,7 @@
 # translit = 'äsətämariwə lätämariwočə mädzəhäfə säţačäwə .
 1-2	አስተማሪው	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	6	nsubj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ለተማሪዎች	_	_	_	_	_	_	_	_
 3	ለ	ለ	ADP	ADP	_	4	case	_	LTranslit=lä|Translit=lä
 4	ተማሪዎች	ተማሪዎች	NOUN	NOUN	Number=Plur	6	obl	_	LTranslit=tämariwočə|Translit=tämariwočə
@@ -4589,7 +4589,7 @@
 # translit = ćakawə tämänəţəro'älə .
 1-2	ጫካው	_	_	_	_	_	_	_	_
 1	ጫካ	ጫካ	NOUN	NOUN	_	3	nsubj:pass	_	LTranslit=ćaka|Translit=ćaka
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ተመንጥሮአል	_	_	_	_	_	_	_	_
 3	ተመንጥር	ተመንጥር	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=tämänəţərə|Translit=tämänəţərə
 4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='o
@@ -4806,7 +4806,7 @@
 # translit = däbədabewə sajəţäfa 'äləqärämə .
 1-2	ደብዳቤው	_	_	_	_	_	_	_	_
 1	ደብዳቤ	ደብዳቤ	NOUN	NOUN	_	9	nsubj	_	LTranslit=däbədabe|Translit=däbədabe
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-7	ሳይጠፋ	_	_	_	_	_	_	_	_
 3	ስ	ስ	SCONJ	SCONJ	_	6	mark	_	LTranslit=sə|Translit=sə
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	LTranslit='alə|Translit='alə
@@ -5235,7 +5235,7 @@
 3	የ	የ	PART	RLP	_	4	mark	_	LTranslit=jä|Translit=jä
 4	ሸጥ	ሸጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	7	acl	_	LTranslit=šäţə|Translit=šäţə
 5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
-6	ው	ው	DET	DET	_	7	det	_	LTranslit=wə|Translit=wə
+6	ው	ው	DET	DET	PronType=Art	7	det	_	LTranslit=wə|Translit=wə
 7	መጽሐፍ	መጽሐፍ	NOUN	NOUN	_	8	nsubj	_	Translit=mäcəħäfə|LTranslit=mäcəħäfə
 8	ትልቅ	ትልቅ	ADJ	ADJ	_	0	root	_	Translit=tələqə|LTranslit=tələqə
 9-10	ነው	_	_	_	_	_	_	_	_
@@ -5248,7 +5248,7 @@
 # translit = tämariwə lä'äsəterə jäsäţatə mäcəħäfə ţäfa .
 1-2	ተማሪው	_	_	_	_	_	_	_	_
 1	ተማሪ	ተማሪ	NOUN	NOUN	_	6	nsubj	_	LTranslit=tämari|Translit=tämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ለአስቴር	_	_	_	_	_	_	_	_
 3	ለ	ለ	ADP	ADP	_	4	case	_	LTranslit=lä|Translit=lä
 4	አስቴር	አስቴር	PROPN	PROPN	_	6	obl	_	LTranslit='äsəterə|Translit='äsəterə
@@ -5361,7 +5361,7 @@
 4	ወደ	ወደ	ADP	ADP	_	8	case	_	LTranslit=wädä|Translit=wädä
 5	ኣል	ኣል	AUX	AUX	_	8	aux	_	LTranslit='alə|Translit='alə
 6	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăčə
-7	ው	ው	DET	DET	_	8	det	_	LTranslit=wə|Translit=wə
+7	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
 8	መንደር	መንደር	NOUN	NOUN	_	9	obj	_	Translit=mänədärə|LTranslit=mänədärə
 9-10	ሂዱ	_	_	_	_	_	_	_	_
 9	ሂድ	ሂድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=hidə|Translit=hidə
@@ -6084,7 +6084,7 @@
 # translit = 'ənəgədijawəma hulumə nägärə täfärəmălə .
 1-3	እንግዲያውማ	_	_	_	_	_	_	_	_
 1	እንግዲያ	እንግዲያ	INTJ	INTJ	_	7	discourse	_	LTranslit='ənəgədija|Translit='ənəgədija
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ማ	ማ	INTJ	INTJ	_	1	discourse	_	LTranslit=ma|Translit=ma
 4-5	ሁሉም	_	_	_	_	_	_	_	_
 4	ሁሉ	ሁሉ	ADJ	ADJ	_	6	amod	_	LTranslit=hulu|Translit=hulu
@@ -6441,7 +6441,7 @@
 2	ኡ	ኡ	DET	DET	PronType=Art	1	det	_	LTranslit='u|Translit='u
 3-5	ሌጣውን	_	_	_	_	_	_	_	_
 3	ሌጣ	ሌጣ	ADV	ADV	_	6	advmod	_	LTranslit=leţa|Translit=leţa
-4	ው	ው	DET	DET	_	3	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 6-7	ጋለበ	_	_	_	_	_	_	_	_
 6	ጋለብ	ጋለብ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=galäbə|Translit=galäbə
@@ -6524,7 +6524,7 @@
 7	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='o
 8-9	አዝመራው	_	_	_	_	_	_	_	_
 8	አዝመራ	አዝመራ	NOUN	NOUN	_	11	nsubj	_	LTranslit='äzəmära|Translit='äzəmära
-9	ው	ው	DET	DET	_	8	det	_	LTranslit=wə|Translit=wə
+9	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
 10-13	አልተሳካም	_	_	_	_	_	_	_	_
 10	ኣል	ኣል	PART	NEG	Polarity=Neg	11	advmod	_	LTranslit='alə|Translit='alə
 11	ተሳካ	ተሳካ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=täsaka|Translit=täsaka
@@ -6923,7 +6923,7 @@
 7	ተነሣ	ተነሣ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	15	advcl	_	LTranslit=tänäśa|Translit=tänäśa
 8-10	መርፌውን	_	_	_	_	_	_	_	_
 8	መርፌ	መርፌ	NOUN	NOUN	_	13	obj	_	LTranslit=märəfe|Translit=märəfe
-9	ው	ው	DET	DET	_	8	dep	_	LTranslit=wə|Translit=wə
+9	ው	ው	DET	DET	PronType=Art	8	dep	_	LTranslit=wə|Translit=wə
 10	ን	ን	PART	ACC	_	8	case	_	LTranslit=nə|Translit=nə
 11-13	ሊወጋ	_	_	_	_	_	_	_	_
 11	ል	ል	SCONJ	SCONJ	_	13	mark	_	LTranslit=lə|Translit=lə
@@ -6985,7 +6985,7 @@
 # translit = śərawə 'əsäkä täśära dərəsə gədə jäläňəmə .
 1-2	ሥራው	_	_	_	_	_	_	_	_
 1	ሥራ	ሥራ	NOUN	NOUN	_	4	nsubj:pass	_	LTranslit=śəra|Translit=śəra
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	እሰከ	እሰከ	ADP	ADP	Case=Loc	4	mark	_	Translit='əsäkä|LTranslit='əsäkä
 4	ተሠራ	ተሠራ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	7	advcl	_	Translit=täśära|LTranslit=täśära
 5	ድርስ	ድርስ	ADP	ADP	_	4	mark	_	Translit=dərəsə|LTranslit=dərəsə
@@ -7080,7 +7080,7 @@
 8-10	አለቅየው	_	_	_	_	_	_	_	_
 8	አለቃ	አለቃ	NOUN	NOUN	_	13	nsubj	_	LTranslit='äläqa|Translit='äläqa
 9	እየ	እየ	DET	DET	_	8	det	_	LTranslit='əjä|Translit='əjä
-10	ው	ው	DET	DET	_	8	det	_	LTranslit=wə|Translit=wə
+10	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
 11-14	አይደሰትም	_	_	_	_	_	_	_	_
 11	ኣል	ኣል	PART	NEG	Polarity=Neg	13	advmod	_	LTranslit='alə|Translit='alə
 12	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl	_	LTranslit='əsu|Translit=jə
@@ -7109,7 +7109,7 @@
 # translit = daňawənə färəto sajəmäţa qärä .
 1-3	ዳኛውን	_	_	_	_	_	_	_	_
 1	ዳኛ	ዳኛ	NOUN	NOUN	_	4	obj	_	LTranslit=daňa|Translit=daňa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-5	ፈርቶ	_	_	_	_	_	_	_	_
 4	ፈርት	ፈርት	VERB	VERB	VerbForm=Conv	11	advcl	_	LTranslit=färətə|Translit=färətə
@@ -7277,7 +7277,7 @@
 # translit = tänagariwə nəgəgərunə tolo bićärəsə ţəru näbärə .
 1-2	ተናጋሪው	_	_	_	_	_	_	_	_
 1	ተናጋሪ	ተናጋሪ	NOUN	NOUN	_	9	nsubj	_	LTranslit=tänagari|Translit=tänagari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ንግግሩን	_	_	_	_	_	_	_	_
 3	ንግግር	ንግግር	NOUN	NOUN	_	9	obj	_	LTranslit=nəgəgərə|Translit=nəgəgərə
 4	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod	_	LTranslit='əsu|Translit='u
@@ -7339,7 +7339,7 @@
 4	ኡ	ኡ	DET	DET	PronType=Art	3	det	_	LTranslit='u|Translit='u
 5-7	ፈተናውን	_	_	_	_	_	_	_	_
 5	ፈተና	ፈተና	NOUN	NOUN	_	8	obj	_	LTranslit=fätäna|Translit=fätäna
-6	ው	ው	DET	DET	_	5	det	_	LTranslit=wə|Translit=wə
+6	ው	ው	DET	DET	PronType=Art	5	det	_	LTranslit=wə|Translit=wə
 7	ን	ን	PART	ACC	_	5	case	_	LTranslit=nə|Translit=nə
 8-9	ወደቀ	_	_	_	_	_	_	_	_
 8	ወደቅ	ወደቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=wädäqə|Translit=wädäqə
@@ -7352,7 +7352,7 @@
 1-3	የኢኮኖሚው	_	_	_	_	_	_	_	_
 1	የ	የ	ADP	ADP	_	2	case	_	LTranslit=jä|Translit=jä
 2	ኢኮኖሚ	ኢኮኖሚ	NOUN	NOUN	_	4	obl	_	LTranslit='ikonomi|Translit='ikonomi
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4	ውድቀት	ውድቀት	NOUN	NOUN	_	9	nsubj	_	Translit=wədəqätə|LTranslit=wədəqätə
 5-9	የማይቀር	_	_	_	_	_	_	_	_
 5	የ	የ	PART	RLP	_	9	mark	_	LTranslit=jä|Translit=jä
@@ -7780,7 +7780,7 @@
 8	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit='u
 9-11	ጠላውን	_	_	_	_	_	_	_	_
 9	ጠላ	ጠላ	NOUN	NOUN	_	14	obj	_	LTranslit=ţäla|Translit=ţäla
-10	ው	ው	DET	DET	_	9	det	_	LTranslit=wə|Translit=wə
+10	ው	ው	DET	DET	PronType=Art	9	det	_	LTranslit=wə|Translit=wə
 11	ን	ን	PART	ACC	_	9	case	_	LTranslit=nə|Translit=nə
 12-15	አትቅጂ	_	_	_	_	_	_	_	_
 12	ኣል	ኣል	PART	NEG	Polarity=Neg	14	advmod	_	LTranslit='alə|Translit='alə
@@ -7872,7 +7872,7 @@
 # translit = bunawə fäla .
 1-2	ቡናው	_	_	_	_	_	_	_	_
 1	ቡና	ቡና	NOUN	NOUN	_	3	nsubj:pass	_	LTranslit=buna|Translit=buna
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ፈላ	_	_	_	_	_	_	_	_
 3	ፈል	ፈል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=fälə|Translit=fälə
 4	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='a
@@ -8432,7 +8432,7 @@
 # translit = 'äsətämariwə mädzəħäfunə jazä .
 1-2	አስተማሪው	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	6	nsubj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	መፅሐፉን	_	_	_	_	_	_	_	_
 3	መፅሐፍ	መፅሐፍ	NOUN	NOUN	_	6	obj	_	LTranslit=mädzəħäfə|Translit=mädzəħäfə
 4	ኡ	ኡ	DET	DET	PronType=Art	3	det	_	LTranslit='u|Translit='u
@@ -8620,7 +8620,7 @@
 4	መታመም	መታመም	NOUN	NOUN	VerbForm=Vnoun	8	csubj	_	Translit=mätamämə|LTranslit=mätamämə
 5-7	አስተማሪውን	_	_	_	_	_	_	_	_
 5	አስተማሪ	አስተማሪ	NOUN	NOUN	_	8	obj	_	LTranslit='äsətämari|Translit='äsətämari
-6	ው	ው	DET	DET	_	5	det	_	LTranslit=wə|Translit=wə
+6	ው	ው	DET	DET	PronType=Art	5	det	_	LTranslit=wə|Translit=wə
 7	ን	ን	PART	ACC	_	5	case	_	LTranslit=nə|Translit=nə
 8-10	አሳሰበው	_	_	_	_	_	_	_	_
 8	አሳሰብ	አሳሰብ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='äsasäbə|Translit='äsasäbə
@@ -8647,7 +8647,7 @@
 1	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	Translit=kasa|LTranslit=kasa
 2-4	ዜናውን	_	_	_	_	_	_	_	_
 2	ዜና	ዜና	NOUN	NOUN	_	7	obj	_	LTranslit=zena|Translit=zena
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4	ን	ን	PART	ACC	_	2	case	_	LTranslit=nə|Translit=nə
 5-6	ለአለም	_	_	_	_	_	_	_	_
 5	ለ	ለ	ADP	ADP	_	6	case	_	LTranslit=lä|Translit=lä
@@ -8663,7 +8663,7 @@
 # translit = 'äsətämariwə lätämariwoču gize säţačäwə .
 1-2	አስተማሪው	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	7	nsubj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ለተማሪዎቹ	_	_	_	_	_	_	_	_
 3	ለ	ለ	ADP	ADP	_	4	case	_	LTranslit=lä|Translit=lä
 4	ተማሪዎች	ተማሪዎች	NOUN	NOUN	Number=Plur	7	obl	_	LTranslit=tämariwočə|Translit=tämariwočə
@@ -8778,7 +8778,7 @@
 # translit = gizewə / wäqətu ţəru näwə .
 1-2	ጊዜው	_	_	_	_	_	_	_	_
 1	ጊዜ	ጊዜ	NOUN	NOUN	_	6	nsubj	_	LTranslit=gize|Translit=gize
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	/	/	PUNCT	PUNCT	_	1	punct	_	Translit=/|LTranslit=/
 4-5	ወቅቱ	_	_	_	_	_	_	_	_
 4	ወቅት	ወቅት	NOUN	NOUN	_	6	nsubj	_	LTranslit=wäqətə|Translit=wäqətə
@@ -8880,7 +8880,7 @@
 3	የ	የ	PART	RLP	_	4	mark	_	LTranslit=jä|Translit=jä
 4	ወረድ	ወረድ	VERB	VERB	Mood=Ind|VerbForm=Fin	8	ccomp	_	LTranslit=wärädə|Translit=wärädə
 5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
-6	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+6	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 7	እዚህ	እዚህ	DET	DET	_	8	det	_	Translit='əzihə|LTranslit='əzihə
 8	ቦታ	ቦታ	NOUN	NOUN	_	0	root	_	Translit=bota|LTranslit=bota
 9-10	ነው	_	_	_	_	_	_	_	_
@@ -8893,7 +8893,7 @@
 # translit = fätänawənə jaläfäwə 'ənədä ħələmə näwə .
 1-3	ፈተናውን	_	_	_	_	_	_	_	_
 1	ፈተና	ፈተና	NOUN	NOUN	_	5	obj	_	LTranslit=fätäna|Translit=fätäna
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-7	ያለፈው	_	_	_	_	_	_	_	_
 4	የ	የ	PART	RLP	_	5	mark	_	LTranslit=jä|Translit=jä
@@ -8917,7 +8917,7 @@
 3	የ	የ	PART	RLP	_	4	mark	_	LTranslit=jä|Translit=jä
 4	ሞት	ሞት	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=motə|Translit=motə
 5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ă
-6	ው	ው	DET	DET	_	4	det	_	LTranslit=wə|Translit=wə
+6	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 7-8	በድንገት	_	_	_	_	_	_	_	_
 7	በ	በ	ADP	ADP	_	8	case	_	LTranslit=bä|Translit=bä
 8	ድንገት	ድንገት	ADV	ADV	_	4	advmod	_	LTranslit=dənəgätə|Translit=dənəgätə
@@ -9346,7 +9346,7 @@
 # translit = 'äsətämariwə täzawärä .
 1-2	አስተማሪው	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	3	nsubj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ተዛወረ	_	_	_	_	_	_	_	_
 3	ተዛወር	ተዛወር	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=täzawärə|Translit=täzawärə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ă
@@ -9414,7 +9414,7 @@
 1-3	የፈተናው	_	_	_	_	_	_	_	_
 1	የ	የ	PART	RLP	_	2	mark	_	LTranslit=jä|Translit=jä
 2	ፈተና	ፈተና	NOUN	NOUN	_	4	acl	_	LTranslit=fätäna|Translit=fätäna
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4	ቀን	ቀን	NOUN	NOUN	_	5	nsubj:pass	_	Translit=qänə|LTranslit=qänə
 5-6	ተራዘመ	_	_	_	_	_	_	_	_
 5	ተራዘም	ተራዘም	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=tärazämə|Translit=tärazämə
@@ -9435,7 +9435,7 @@
 # translit = daňawə bä'äsəterə lajə färädubatə .
 1-2	ዳኛው	_	_	_	_	_	_	_	_
 1	ዳኛ	ዳኛ	NOUN	NOUN	_	6	nsubj	_	LTranslit=daňa|Translit=daňa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	በአስቴር	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	4	case	_	LTranslit=bä|Translit=bä
 4	አስቴር	አስቴር	PROPN	PROPN	_	6	obl	_	LTranslit='äsəterə|Translit='äsəterə
@@ -9453,7 +9453,7 @@
 1	ወደ	ወደ	ADP	ADP	_	2	case	_	Translit=wädä|LTranslit=wädä
 2-3	ተራራው	_	_	_	_	_	_	_	_
 2	ተራራ	ተራራ	NOUN	NOUN	_	5	obl	_	LTranslit=tärara|Translit=tärara
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4-5	ለመድረስ	_	_	_	_	_	_	_	_
 4	ለ	ለ	ADP	ADP	_	5	case	_	LTranslit=lä|Translit=lä
 5	መድረስ	መድረስ	NOUN	NOUN	VerbForm=Vnoun	8	obl	_	LTranslit=mädəräsə|Translit=mädəräsə
@@ -9473,7 +9473,7 @@
 2-4	በመጥረጊያው	_	_	_	_	_	_	_	_
 2	በ	በ	ADP	ADP	Case=Ins	3	case	_	LTranslit=bä|Translit=bä
 3	መጥረጊያ	መጥረጊያ	NOUN	NOUN	_	6	obl	_	LTranslit=mäţərägija|Translit=mäţərägija
-4	ው	ው	DET	DET	_	3	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5	መስኮት	መስኮት	NOUN	NOUN	_	6	obj	_	Translit=mäsəkotə|LTranslit=mäsəkotə
 6-9	ጠረገችበት	_	_	_	_	_	_	_	_
 6	ጠረግ	ጠረግ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=ţärägə|Translit=ţärägə
@@ -9547,7 +9547,7 @@
 # translit = wəhawə fäsäsäbätə .
 1-2	ውሃው	_	_	_	_	_	_	_	_
 1	ውሃ	ውሃ	NOUN	NOUN	_	3	nsubj	_	LTranslit=wəha|Translit=wəha
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-6	ፈሰሰበት	_	_	_	_	_	_	_	_
 3	ፈሰስ	ፈሰስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=fäsäsə|Translit=fäsäsə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ă
@@ -9677,14 +9677,14 @@
 1	የ	የ	PART	RLP	_	2	mark	_	LTranslit=jä|Translit=jä
 2	ሰረቅ	ሰረቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	acl	_	LTranslit=säräqə|Translit=säräqə
 3	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='ă
-4	ው	ው	DET	DET	_	6	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	6	det	_	LTranslit=wə|Translit=wə
 5	ን	ን	PART	ACC	_	6	case	_	LTranslit=nə|Translit=nə
 6-7	ሰውዬ	_	_	_	_	_	_	_	_
 6	ሰው	ሰው	NOUN	NOUN	_	11	obj	_	LTranslit=säwə|Translit=säwə
 7	ዬ	ዬ	DET	DET	_	6	det	_	LTranslit=je|Translit=je
 8-9	ዳኛው	_	_	_	_	_	_	_	_
 8	ዳኛ	ዳኛ	NOUN	NOUN	_	11	obl	_	LTranslit=daňa|Translit=daňa
-9	ው	ው	DET	DET	_	8	det	_	LTranslit=wə|Translit=wə
+9	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
 10	ፊት	ፊት	ADP	ADP	_	8	case	_	Translit=fitə|LTranslit=fitə
 11-13	አቀረቡት	_	_	_	_	_	_	_	_
 11	አቀረብ	አቀረብ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äqäräbə|Translit='äqäräbə
@@ -9721,7 +9721,7 @@
 # translit = ţälawə 'äsətäňaňə .
 1-2	ጠላው	_	_	_	_	_	_	_	_
 1	ጠላ	ጠላ	NOUN	NOUN	_	3	nsubj	_	LTranslit=ţäla|Translit=ţäla
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	አስተኛኝ	_	_	_	_	_	_	_	_
 3	አስተኛ	አስተኛ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äsətäňa|Translit='äsətäňa
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ă
@@ -10196,7 +10196,7 @@
 8	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='a
 9-10	ጠረጴዛው	_	_	_	_	_	_	_	_
 9	ጠረጴዛ	ጠረጴዛ	NOUN	NOUN	_	12	obl	_	LTranslit=ţäräpheza|Translit=ţäräpheza
-10	ው	ው	DET	DET	_	9	det	_	LTranslit=wə|Translit=wə
+10	ው	ው	DET	DET	PronType=Art	9	det	_	LTranslit=wə|Translit=wə
 11	ላይ	ላይ	ADP	ADP	_	9	case	_	Translit=lajə|LTranslit=lajə
 12-14	አኖረችው	_	_	_	_	_	_	_	_
 12	አኖር	አኖር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='änorə|Translit='änorə
@@ -10375,7 +10375,7 @@
 # translit = kubanəjawə wəlunə 'äləsärəzəmə 'älä .
 1-2	ኩባንያው	_	_	_	_	_	_	_	_
 1	ኩባንያ	ኩባንያ	NOUN	NOUN	_	9	nsubj	_	LTranslit=kubanəja|Translit=kubanəja
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ውሉን	_	_	_	_	_	_	_	_
 3	ውል	ውል	NOUN	NOUN	_	7	obj	_	LTranslit=wələ|Translit=wələ
 4	ኡ	ኡ	DET	DET	PronType=Art	3	det	_	LTranslit='u|Translit='u
@@ -10442,7 +10442,7 @@
 # translit = bäräňawə 'älasəgäbamə 'äläwə .
 1-2	በረኛው	_	_	_	_	_	_	_	_
 1	በረኛ	በረኛ	NOUN	NOUN	_	4	nsubj	_	LTranslit=bäräňa|Translit=bäräňa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-6	አላስገባም	_	_	_	_	_	_	_	_
 3	አል	አል	PART	NEG	Polarity=Neg	4	advmod	_	LTranslit='älə|Translit='älə
 4	አስገባ	አስገባ	VERB	VERB	Mood=Ind|VerbForm=Fin	7	ccomp	_	LTranslit='äsəgäba|Translit='äsəgäba
@@ -10581,7 +10581,7 @@
 # translit = 'əräňawənə 'äjəčewalähu bəlo jäməsəkərənätə qalunə säţä .
 1-3	እረኛውን	_	_	_	_	_	_	_	_
 1	እረኛ	እረኛ	NOUN	NOUN	_	4	obj	_	LTranslit='əräňa|Translit='əräňa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-8	አይቼዋለሁ	_	_	_	_	_	_	_	_
 4	አይት	አይት	VERB	VERB	Mood=Ind|VerbForm=Fin	13	compound:svc	_	LTranslit='äjətə|Translit='äjətə
@@ -10830,7 +10830,7 @@
 # translit = səgawə ćoma näwə .
 1-2	ስጋው	_	_	_	_	_	_	_	_
 1	ስጋ	ስጋ	NOUN	NOUN	_	3	nsubj	_	LTranslit=səga|Translit=səga
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ጮማ	ጮማ	NOUN	NOUN	_	0	root	_	Translit=ćoma|LTranslit=ćoma
 4-5	ነው	_	_	_	_	_	_	_	_
 4	ን	ን	AUX	AUX	_	3	cop	_	LTranslit=nə|Translit=nə
@@ -10959,7 +10959,7 @@
 # translit = 'änəbäsawə tänəţärara .
 1-2	አንበሳው	_	_	_	_	_	_	_	_
 1	አንበሳ	አንበሳ	NOUN	NOUN	_	3	nsubj:pass	_	LTranslit='änəbäsa|Translit='änəbäsa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ተንጠራራ	_	_	_	_	_	_	_	_
 3	ተንጠራራ	ተንጠራራ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=tänəţärara|Translit=tänəţärara
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ă
@@ -10980,7 +10980,7 @@
 # translit = tämariwə däbətärunə qädädäwə .
 1-2	ተማሪው	_	_	_	_	_	_	_	_
 1	ተማሪ	ተማሪ	NOUN	NOUN	_	6	nsubj	_	LTranslit=tämari|Translit=tämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ደብተሩን	_	_	_	_	_	_	_	_
 3	ደብተር	ደብተር	NOUN	NOUN	_	6	obj	_	LTranslit=däbətärə|Translit=däbətärə
 4	ኡ	ኡ	DET	DET	PronType=Art	3	det	_	LTranslit='u|Translit='u
@@ -10996,7 +10996,7 @@
 # translit = 'äsətämariwə lätämariwočə mädzəhäfə säţačäwə .
 1-2	አስተማሪው	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	6	nsubj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ለተማሪዎች	_	_	_	_	_	_	_	_
 3	ለ	ለ	ADP	ADP	_	4	case	_	LTranslit=lä|Translit=lä
 4	ተማሪዎች	ተማሪዎች	NOUN	NOUN	_	6	obl	_	LTranslit=tämariwočə|Translit=tämariwočə
@@ -11062,7 +11062,7 @@
 # translit = 'äsətämariwə səra jəţälalə .
 1-2	አስተማሪው	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	5	nsubj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ስራ	ስራ	NOUN	NOUN	_	5	obj	_	Translit=səra|LTranslit=səra
 4-6	ይጠላል	_	_	_	_	_	_	_	_
 4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit=jə
@@ -11098,7 +11098,7 @@
 # translit = bunawə täwäqəţo'älə .
 1-2	ቡናው	_	_	_	_	_	_	_	_
 1	ቡና	ቡና	NOUN	NOUN	_	3	nsubj:pass	_	LTranslit=buna|Translit=buna
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ተወቅጦአል	_	_	_	_	_	_	_	_
 3	ተወቅጥ	ተወቅጥ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=täwäqəţə|Translit=täwäqəţə
 4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='o
@@ -11285,7 +11285,7 @@
 # translit = nägadewə käsəro qärä .
 1-2	ነጋዴው	_	_	_	_	_	_	_	_
 1	ነጋዴ	ነጋዴ	NOUN	NOUN	_	3	nsubj	_	LTranslit=nägade|Translit=nägade
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ከስሮ	_	_	_	_	_	_	_	_
 3	ከስር	ከስር	VERB	VERB	VerbForm=Conv	5	advcl	_	LTranslit=käsərə|Translit=käsərə
 4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='o
@@ -11313,7 +11313,7 @@
 # translit = tämariwə kalətäţänäqäqu bəzu səħətätə sajəśära 'äjəqärəmə .
 1-2	ተማሪው	_	_	_	_	_	_	_	_
 1	ተማሪ	ተማሪ	NOUN	NOUN	_	5	nsubj	_	LTranslit=tämari|Translit=tämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-6	ካልተጠነቀቁ	_	_	_	_	_	_	_	_
 3	ከ	ከ	SCONJ	SCONJ	_	5	mark	_	LTranslit=kä|Translit=kä
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	5	advmod	_	LTranslit='alə|Translit='alə
@@ -11738,7 +11738,7 @@
 5	የ	የ	PART	RLP	_	2	mark	_	LTranslit=jä|Translit=jä
 6	ነበር	ነበር	AUX	AUX	_	2	aux	_	LTranslit=näbärə|Translit=näbärə
 7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ă
-8	ው	ው	DET	DET	_	9	det	_	LTranslit=wə|Translit=wə
+8	ው	ው	DET	DET	PronType=Art	9	det	_	LTranslit=wə|Translit=wə
 9	መኪና	መኪና	NOUN	NOUN	_	11	csubj	_	Translit=mäkina|LTranslit=mäkina
 10-12	ያምራል	_	_	_	_	_	_	_	_
 10	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl	_	LTranslit='əsu|Translit=jə
@@ -11754,7 +11754,7 @@
 2	የ	የ	PART	RLP	_	3	mark	_	LTranslit=jä|Translit=jä
 3	ሰበር	ሰበር	VERB	VERB	Mood=Ind|VerbForm=Fin	6	acl	_	LTranslit=säbärə|Translit=säbärə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LTranslit='əsu|Translit='ă
-5	ው	ው	DET	DET	_	6	det	_	LTranslit=wə|Translit=wə
+5	ው	ው	DET	DET	PronType=Art	6	det	_	LTranslit=wə|Translit=wə
 6	ልጅ	ልጅ	NOUN	NOUN	_	7	csubj	_	Translit=lədžə|LTranslit=lədžə
 7-8	መጣ	_	_	_	_	_	_	_	_
 7	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=mäţa|Translit=mäţa
@@ -11802,12 +11802,12 @@
 3	የ	የ	PART	RLP	_	1	mark	_	LTranslit=jä|Translit=jä
 4	ነበር	ነበር	AUX	AUX	_	1	aux	_	LTranslit=näbärə|Translit=näbärə
 5	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	LTranslit='əsu|Translit='ă
-6	ው	ው	DET	DET	_	7	det	_	LTranslit=wə|Translit=wə
+6	ው	ው	DET	DET	PronType=Art	7	det	_	LTranslit=wə|Translit=wə
 7	ቤት	ቤት	NOUN	NOUN	_	9	csubj	_	Translit=betə|LTranslit=betə
 8-10	የአስተማሪው	_	_	_	_	_	_	_	_
 8	የ	የ	ADP	ADP	_	9	case	_	LTranslit=jä|Translit=jä
 9	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	LTranslit='äsətämari|Translit='äsətämari
-10	ው	ው	DET	DET	_	9	det	_	LTranslit=wə|Translit=wə
+10	ው	ው	DET	DET	PronType=Art	9	det	_	LTranslit=wə|Translit=wə
 11-12	ነው	_	_	_	_	_	_	_	_
 11	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 12	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăwə
@@ -11871,7 +11871,7 @@
 # translit = śərawənə lićärəsə silə səħətätə mäśəratunə tägänäzäbä .
 1-3	ሥራውን	_	_	_	_	_	_	_	_
 1	ሥራ	ሥራ	NOUN	NOUN	_	6	obj	_	LTranslit=śəra|Translit=śəra
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-6	ሊጨርስ	_	_	_	_	_	_	_	_
 4	ል	ል	SCONJ	SCONJ	_	6	mark	_	LTranslit=lə|Translit=lə
@@ -11897,7 +11897,7 @@
 1-3	የኢኮኖሚው	_	_	_	_	_	_	_	_
 1	የ	የ	ADP	ADP	_	2	case	_	LTranslit=jä|Translit=jä
 2	ኢኮኖሚ	ኢኮኖሚ	NOUN	NOUN	_	4	nmod	_	LTranslit='ikonomi|Translit='ikonomi
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4	ውድቀት	ውድቀት	NOUN	NOUN	_	9	nsubj	_	Translit=wədəqätə|LTranslit=wədəqätə
 5-9	የማይቀር	_	_	_	_	_	_	_	_
 5	የ	የ	PART	RLP	_	9	mark	_	LTranslit=jä|Translit=jä
@@ -11918,7 +11918,7 @@
 # translit = kubanəjawə 'əsəkälabaräräwə dəräsə jəqojalə .
 1-2	ኩባንያው	_	_	_	_	_	_	_	_
 1	ኩባንያ	ኩባንያ	NOUN	NOUN	_	5	nsubj	_	LTranslit=kubanəja|Translit=kubanəja
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-6	እስከላባረረው	_	_	_	_	_	_	_	_
 3	እስከ	እስከ	ADP	ADP	_	5	mark	_	LTranslit='əsəkä|Translit='əsəkä
 4	ኣል	ኣል	PART	NEG	Polarity=Neg	5	advmod	_	LTranslit='alə|Translit='alə
@@ -12142,7 +12142,7 @@
 # translit = 'ənədžärawənə mənə 'ärägəšəwə ? bälahuta .
 1-3	እንጀራውን	_	_	_	_	_	_	_	_
 1	እንጀራ	እንጀራ	NOUN	NOUN	_	5	obj	_	LTranslit='ənədžära|Translit='ənədžära
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4	ምን	ምን	PRON	PRON	_	5	obl	_	Translit=mənə|LTranslit=mənə
 5-7	አረግሽው	_	_	_	_	_	_	_	_
@@ -12782,7 +12782,7 @@
 # translit = bərəćəqowənə wätätə ţäţabätə .
 1-3	ብርጭቆውን	_	_	_	_	_	_	_	_
 1	ብርጭቆ	ብርጭቆ	NOUN	NOUN	_	5	obl	_	LTranslit=bərəćəqo|Translit=bərəćəqo
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4	ወተት	ወተት	NOUN	NOUN	_	5	obj	_	Translit=wätätə|LTranslit=wätätə
 5-8	ጠጣበት	_	_	_	_	_	_	_	_
@@ -12809,7 +12809,7 @@
 # translit = `äśərə~'äläqawə balämätazäzu ma`ərägunə tägäfäfä .
 1-2	ዐሥር~አለቃው	_	_	_	_	_	_	_	_
 1	ዐሥር~አለቃ	ዐሥር~አለቃ	NOUN	NOUN	_	10	nsubj:pass	_	LTranslit=`äśərə~'äläqa|Translit=`äśərə~'äläqa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-6	ባለመታዘዙ	_	_	_	_	_	_	_	_
 3	በ	በ	ADP	ADP	_	5	case	_	LTranslit=bä|Translit=bä
 4	ኣለ	ኣለ	PART	NEG	Polarity=Neg	5	advmod	_	LTranslit='alä|Translit='alä
@@ -12945,7 +12945,7 @@
 # translit = bilawə bäqälänə 'ədžunə qoräţäwə .
 1-2	ቢላው	_	_	_	_	_	_	_	_
 1	ቢላ	ቢላ	NOUN	NOUN	_	8	nsubj	_	LTranslit=bila|Translit=bila
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	በቀለን	_	_	_	_	_	_	_	_
 3	በቀለ	በቀለ	PROPN	PROPN	_	8	obl	_	LTranslit=bäqälä|Translit=bäqälä
 4	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
@@ -13000,7 +13000,7 @@
 3	ኤ	ኤ	DET	DET	_	2	det	_	LTranslit='e|Translit='e
 4-6	ፈተናውን	_	_	_	_	_	_	_	_
 4	ፈተና	ፈተና	NOUN	NOUN	_	10	obj	_	LTranslit=fätäna|Translit=fätäna
-5	ው	ው	DET	DET	_	4	det	_	LTranslit=wə|Translit=wə
+5	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 6	ን	ን	PART	ACC	_	4	case	_	LTranslit=nə|Translit=nə
 7-8	በከፍተኛ	_	_	_	_	_	_	_	_
 7	በ	በ	ADP	ADP	_	8	case	_	LTranslit=bä|Translit=bä
@@ -13017,7 +13017,7 @@
 # text_en = Congratulations on passing the test!
 1-3	ፈተናውን	_	_	_	_	_	_	_	_
 1	ፈተና	ፈተና	NOUN	NOUN	_	5	obj	_	LTranslit=fätäna|Translit=fätäna
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-6	በማለፍህ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	LTranslit=bä|Translit=bä
@@ -13295,7 +13295,7 @@
 # translit = täfälagiwə jätə 'älä ?
 1-2	ተፈላጊው	_	_	_	_	_	_	_	_
 1	ተፈላጊ	ተፈላጊ	NOUN	NOUN	_	4	nsubj	_	LTranslit=täfälagi|Translit=täfälagi
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	የት	የት	PRON	PRON	_	4	obl	_	Translit=jätə|LTranslit=jätə
 4-5	አለ	_	_	_	_	_	_	_	_
 4	ኣል	ኣል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='alə|Translit='alə
@@ -13468,7 +13468,7 @@
 # translit = 'äbajawənə bäre tətähə mənäwə dähənawənə mägəräfəhə ?
 1-3	አባያውን	_	_	_	_	_	_	_	_
 1	አባያ	አባያ	ADJ	ADJ	_	4	amod	_	LTranslit='äbaja|Translit='äbaja
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4	በሬ	በሬ	NOUN	NOUN	_	5	obj	_	Translit=bäre|LTranslit=bäre
 5-6	ትተህ	_	_	_	_	_	_	_	_
@@ -13477,7 +13477,7 @@
 7	ምነው	ምነው	PRON	PRON	_	11	nmod	_	Translit=mənäwə|LTranslit=mənäwə
 8-10	ደህናውን	_	_	_	_	_	_	_	_
 8	ደህና	ደህና	ADJ	ADJ	_	11	nmod	_	LTranslit=dähəna|Translit=dähəna
-9	ው	ው	DET	DET	_	8	det	_	LTranslit=wə|Translit=wə
+9	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
 10	ን	ን	PART	ACC	_	8	case	_	LTranslit=nə|Translit=nə
 11-12	መግረፍህ	_	_	_	_	_	_	_	_
 11	መግረፍ	መግረፍ	NOUN	NOUN	VerbForm=Vnoun	0	root	_	LTranslit=mägəräfə|Translit=mägəräfə
@@ -13608,7 +13608,7 @@
 2	በ	በ	ADP	ADP	_	4	case	_	LTranslit=bä|Translit=bä
 3	እየ	እየ	DET	DET	_	4	det	_	LTranslit='əjä|Translit='əjä
 4	ጊዜ	ጊዜ	NOUN	NOUN	_	8	nmod	_	LTranslit=gize|Translit=gize
-5	ው	ው	DET	DET	_	4	det	_	LTranslit=wə|Translit=wə
+5	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 6-9	ካልታደሰ	_	_	_	_	_	_	_	_
 6	ከ	ከ	SCONJ	SCONJ	_	8	mark	_	LTranslit=kä|Translit=kä
 7	ኣል	ኣል	PART	NEG	Polarity=Neg	8	advmod	_	LTranslit='alə|Translit='alə
@@ -13732,7 +13732,7 @@
 # translit = 'äsətämariwə bäţamə bämädəkämu näqəto mäqojätə 'äləčalämə .
 1-2	አስተማሪው	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	5	nsubj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	በጣም	በጣም	ADV	ADV	_	5	advmod	_	Translit=bäţamə|LTranslit=bäţamə
 4-6	በመድከሙ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	LTranslit=bä|Translit=bä
@@ -13981,7 +13981,7 @@
 # translit = cəgerädawə 'ənədä mabäbə bəlo ţäwälägä .
 1-2	ጽጌረዳው	_	_	_	_	_	_	_	_
 1	ጽጌረዳ	ጽጌረዳ	NOUN	NOUN	_	5	nsubj	_	LTranslit=cəgeräda|Translit=cəgeräda
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	እንደ	እንደ	ADP	ADP	_	4	case	_	Translit='ənədä|LTranslit='ənədä
 4	ማበብ	ማበብ	NOUN	NOUN	VerbForm=Vnoun	5	ccomp	_	Translit=mabäbə|LTranslit=mabäbə
 5-6	ብሎ	_	_	_	_	_	_	_	_
@@ -14015,7 +14015,7 @@
 # translit = śərawə wädä maläqu näwə .
 1-2	ሥራው	_	_	_	_	_	_	_	_
 1	ሥራ	ሥራ	NOUN	NOUN	_	4	nsubj	_	LTranslit=śəra|Translit=śəra
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ወደ	ወደ	ADP	ADP	_	4	case	_	Translit=wädä|LTranslit=wädä
 4-5	ማለቁ	_	_	_	_	_	_	_	_
 4	ማለቅ	ማለቅ	NOUN	NOUN	VerbForm=Vnoun	0	root	_	LTranslit=maläqə|Translit=maläqə
@@ -14036,7 +14036,7 @@
 4	የ	የ	PART	RLP	_	5	mark	_	LTranslit=jä|Translit=jä
 5	ኣደረስ	ኣደረስ	VERB	VERB	Mood=Ind|VerbForm=Fin	8	acl	_	LTranslit='adäräsə|Translit='adäräsə
 6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit='ă
-7	ው	ው	DET	DET	_	8	det	_	LTranslit=wə|Translit=wə
+7	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
 8	ሰው	ሰው	NOUN	NOUN	_	12	csubj	_	Translit=säwə|LTranslit=säwə
 9-10	የመክፈል	_	_	_	_	_	_	_	_
 9	የ	የ	ADP	ADP	_	10	case	_	LTranslit=jä|Translit=jä
@@ -14158,7 +14158,7 @@
 9	በ	በ	ADP	ADP	_	11	case	_	LTranslit=bä|Translit=bä
 10	እየ	እየ	PART	IRLP	_	11	mark	_	LTranslit='əjä|Translit='əjä
 11	ቦታ	ቦታ	NOUN	NOUN	_	13	obl	_	LTranslit=bota|Translit=bota
-12	ው	ው	DET	DET	_	11	det	_	LTranslit=wə|Translit=wə
+12	ው	ው	DET	DET	PronType=Art	11	det	_	LTranslit=wə|Translit=wə
 13-14	ጠይቄ	_	_	_	_	_	_	_	_
 13	ጠይቅ	ጠይቅ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=ţäjəqə|Translit=ţäjəqə
 14	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	LTranslit='əne|Translit='e
@@ -14372,7 +14372,7 @@
 # translit = qädadawənə mäwätäfija butəto fäləgi .
 1-3	ቀዳዳውን	_	_	_	_	_	_	_	_
 1	ቀዳዳ	ቀዳዳ	NOUN	NOUN	_	4	obj	_	LTranslit=qädada|Translit=qädada
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4	መወተፊያ	መወተፊያ	NOUN	NOUN	VerbForm=Vnoun	5	nmod	_	Translit=mäwätäfija|LTranslit=mäwätäfija
 5	ቡትቶ	ቡትቶ	NOUN	NOUN	_	6	obl	_	Translit=butəto|LTranslit=butəto
@@ -14445,7 +14445,7 @@
 # translit = wagawənə kaləqänäsəkə 'əqawənə 'äləgäzahəmə .
 1-3	ዋጋውን	_	_	_	_	_	_	_	_
 1	ዋጋ	ዋጋ	NOUN	NOUN	_	6	obj	_	LTranslit=waga|Translit=waga
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-7	ካልቀነስክ	_	_	_	_	_	_	_	_
 4	ከ	ከ	ADP	ADP	_	6	mark	_	LTranslit=kä|Translit=kä
@@ -14454,7 +14454,7 @@
 7	ክ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	LTranslit='änətä|Translit=kə
 8-10	እቃውን	_	_	_	_	_	_	_	_
 8	እቃ	እቃ	NOUN	NOUN	_	13	obj	_	LTranslit='əqa|Translit='əqa
-9	ው	ው	DET	DET	_	8	det	_	LTranslit=wə|Translit=wə
+9	ው	ው	DET	DET	PronType=Art	8	det	_	LTranslit=wə|Translit=wə
 10	ን	ን	PART	ACC	_	8	case	_	LTranslit=nə|Translit=nə
 11-15	አልገዛህም	_	_	_	_	_	_	_	_
 11	ኣል	ኣል	PART	NEG	Polarity=Neg	13	advmod	_	LTranslit='alə|Translit='alə
@@ -14737,7 +14737,7 @@
 # translit = mäţəfowə jajärə huneta bäšətawanə 'äbasäbatə .
 1-2	መጥፎው	_	_	_	_	_	_	_	_
 1	ጥፎ	ጥፎ	ADJ	ADJ	_	5	amod	_	LTranslit=ţəfo|Translit=ţəfo
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ያየር	_	_	_	_	_	_	_	_
 3	የ	የ	ADP	ADP	_	5	case	_	LTranslit=jä|Translit=jä
 4	አየር	አየር	NOUN	NOUN	_	5	compound	_	LTranslit='äjärə|Translit='äjärə
@@ -14954,7 +14954,7 @@
 6	ጦር	ጦር	NOUN	NOUN	_	11	csubj	_	Translit=ţorə|LTranslit=ţorə
 7-9	መሣሪያውን	_	_	_	_	_	_	_	_
 7	መሣሪያ	መሣሪያ	NOUN	NOUN	_	10	xcomp	_	LTranslit=mäśarija|Translit=mäśarija
-8	ው	ው	DET	DET	_	7	det	_	LTranslit=wə|Translit=wə
+8	ው	ው	DET	DET	PronType=Art	7	det	_	LTranslit=wə|Translit=wə
 9	ን	ን	PART	ACC	_	7	case	_	LTranslit=nə|Translit=nə
 10	ማስረከብ	ማስረከብ	NOUN	NOUN	VerbForm=Vnoun	11	xcomp	_	Translit=masəräkäbə|LTranslit=masəräkäbə
 11-14	ነበረበት	_	_	_	_	_	_	_	_
@@ -15320,7 +15320,7 @@
 5	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='u
 6-8	ጉዞውን	_	_	_	_	_	_	_	_
 6	ጉዞ	ጉዞ	NOUN	NOUN	_	11	xcomp	_	LTranslit=guzo|Translit=guzo
-7	ው	ው	DET	DET	_	6	det	_	LTranslit=wə|Translit=wə
+7	ው	ው	DET	DET	PronType=Art	6	det	_	LTranslit=wə|Translit=wə
 8	ን	ን	PART	ACC	_	6	case	_	LTranslit=nə|Translit=nə
 9-11	አንቀጥል	_	_	_	_	_	_	_	_
 9	ኣል	ኣል	PART	NEG	Polarity=Neg	11	advmod	_	LTranslit='alə|Translit='alə
@@ -15517,7 +15517,7 @@
 1-3	በጫካው	_	_	_	_	_	_	_	_
 1	በ	በ	ADP	ADP	_	2	case	_	LTranslit=bä|Translit=bä
 2	ጫካ	ጫካ	NOUN	NOUN	_	8	obl	_	LTranslit=ćaka|Translit=ćaka
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4	ዳር	ዳር	NOUN	NOUN	_	5	nmod	_	Translit=darə|LTranslit=darə
 5	ዳር	ዳር	NOUN	NOUN	_	2	obl	_	Translit=darə|LTranslit=darə
 6	አጋዘን	አጋዘን	NOUN	NOUN	_	8	nsubj	_	Translit='ägazänə|LTranslit='ägazänə
@@ -15539,7 +15539,7 @@
 6-8	ባራተኛው	_	_	_	_	_	_	_	_
 6	በ	በ	ADP	ADP	_	7	case	_	LTranslit=bä|Translit=bä
 7	አራተኛ	አራተኛ	NOUN	NOUN	_	10	obl	_	LTranslit='äratäňa|Translit='äratäňa
-8	ው	ው	DET	DET	_	7	det	_	LTranslit=wə|Translit=wə
+8	ው	ው	DET	DET	PronType=Art	7	det	_	LTranslit=wə|Translit=wə
 9-11	ይደረሳል	_	_	_	_	_	_	_	_
 9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LTranslit='əsu|Translit=jə
 10	ደረስ	ደረስ	VERB	VERB	Mood=Ind|VerbForm=Fin	4	conj	_	LTranslit=däräsə|Translit=däräsə
@@ -15582,7 +15582,7 @@
 # translit = 'äsətämariwə śosətə lədžočə 'älutə .
 1-2	አስተማሪው	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	5	obj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ሦስት	ሦስት	NUM	NUM	NumType=Card	4	nummod	_	Translit=śosətə|LTranslit=śosətə
 4	ልጆች	ልጆች	NOUN	NOUN	Number=Plur	5	nsubj	_	Translit=lədžočə|LTranslit=lədžočə
 5-7	አሉት	_	_	_	_	_	_	_	_
@@ -15796,7 +15796,7 @@
 # translit = dorowənə gänäţaţəla dəsətə wəsəţə ćämäräčəwə .
 1-3	ዶሮውን	_	_	_	_	_	_	_	_
 1	ዶሮ	ዶሮ	NOUN	NOUN	_	4	obj	_	LTranslit=doro|Translit=doro
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-5	ገነጣጥላ	_	_	_	_	_	_	_	_
 4	ገነጣጥል	ገነጣጥል	VERB	VERB	VerbForm=Conv	8	compound:svc	_	LTranslit=gänäţaţələ|Translit=gänäţaţələ
@@ -15943,7 +15943,7 @@
 # translit = 'äsətämariwənə 'ämogagäsäwə .
 1-3	አስተማሪውን	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	4	obj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-6	አሞጋገሰው	_	_	_	_	_	_	_	_
 4	አሞጋገስ	አሞጋገስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='ämogagäsə|Translit='ämogagäsə
@@ -15968,7 +15968,7 @@
 # translit = nägadewə käsasərălə .
 1-2	ነጋዴው	_	_	_	_	_	_	_	_
 1	ነጋዴ	ነጋዴ	NOUN	NOUN	_	3	nsubj	_	LTranslit=nägade|Translit=nägade
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ከሳስሯል	_	_	_	_	_	_	_	_
 3	ከሳስር	ከሳስር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=käsasərə|Translit=käsasərə
 4	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='o
@@ -15981,7 +15981,7 @@
 1	ዝሆን	ዝሆን	NOUN	NOUN	_	5	nsubj	_	Translit=zəhonə|LTranslit=zəhonə
 2-4	አንበሳውን	_	_	_	_	_	_	_	_
 2	አንበሳ	አንበሳ	NOUN	NOUN	_	5	obj	_	LTranslit='änəbäsa|Translit='änəbäsa
-3	ው	ው	DET	DET	_	2	det	_	LTranslit=wə|Translit=wə
+3	ው	ው	DET	DET	PronType=Art	2	det	_	LTranslit=wə|Translit=wə
 4	ን	ን	PART	ACC	_	2	case	_	LTranslit=nə|Translit=nə
 5-7	ረጋገጠው	_	_	_	_	_	_	_	_
 5	ረጋገጥ	ረጋገጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=rägagäţə|Translit=rägagäţə
@@ -16048,7 +16048,7 @@
 # translit = wärewə tädäfafänä .
 1-2	ወሬው	_	_	_	_	_	_	_	_
 1	ወሬ	ወሬ	NOUN	NOUN	_	3	nsubj	_	LTranslit=wäre|Translit=wäre
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-4	ተደፋፈነ	_	_	_	_	_	_	_	_
 3	ተደፋፈን	ተደፋፈን	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	LTranslit=tädäfafänə|Translit=tädäfafänə
 4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ă
@@ -16100,7 +16100,7 @@
 # translit = jäne~biţewə silämamənə wəlo betä kərəsətijanə jadəralə .
 1-2	የኔ~ቢጤው	_	_	_	_	_	_	_	_
 1	የኔ~ቢጤ	የኔ~ቢጤ	NOUN	NOUN	_	5	nsubj	_	LTranslit=jäne~biţe|Translit=jäne~biţe
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ሲለማምን	_	_	_	_	_	_	_	_
 3	ስ	ስ	SCONJ	SCONJ	_	5	mark	_	LTranslit=sə|Translit=sə
 4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=jə
@@ -16167,7 +16167,7 @@
 # translit = məsawənə bälalana hedä .
 1-3	ምሳውን	_	_	_	_	_	_	_	_
 1	ምሳ	ምሳ	NOUN	NOUN	_	4	obj	_	LTranslit=məsa|Translit=məsa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-5	በላላና	_	_	_	_	_	_	_	_
 4	ላላ	ላላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=lala|Translit=lala
@@ -16270,7 +16270,7 @@
 3-5	ከሌባው	_	_	_	_	_	_	_	_
 3	ከ	ከ	ADP	ADP	_	4	case	_	LTranslit=kä|Translit=kä
 4	ሌባ	ሌባ	NOUN	NOUN	_	7	obl	_	LTranslit=leba|Translit=leba
-5	ው	ው	DET	DET	_	4	det	_	LTranslit=wə|Translit=wə
+5	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
 6	ጋር	ጋር	ADP	ADP	_	4	case	_	Translit=garə|LTranslit=garə
 7-8	ተናነቀ	_	_	_	_	_	_	_	_
 7	ተናነቅ	ተናነቅ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Rcp	0	root	_	LTranslit=tänanäqə|Translit=tänanäqə
@@ -16323,7 +16323,7 @@
 # translit = wəhawənə 'äfäla .
 1-3	ውሃውን	_	_	_	_	_	_	_	_
 1	ውሃ	ውሃ	NOUN	NOUN	_	4	obj	_	LTranslit=wəha|Translit=wəha
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-5	አፈላ	_	_	_	_	_	_	_	_
 4	አፈል	አፈል	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äfälə|Translit='äfälə
@@ -16362,7 +16362,7 @@
 7-9	ካለው	_	_	_	_	_	_	_	_
 7	ከ	ከ	SCONJ	SCONJ	_	8	mark	_	LTranslit=kä|Translit=kä
 8	ኣለ	ኣለ	VERB	VERB	Mood=Ind|VerbForm=Fin	10	acl	_	LTranslit='alä|Translit='alä
-9	ው	ው	DET	DET	Gender=Masc|Number=Sing|Person=3	10	det	_	LTranslit=wə|Translit=wə
+9	ው	ው	DET	DET	Gender=Masc|Number=Sing|Person=3|PronType=Art	10	det	_	LTranslit=wə|Translit=wə
 10	ሜዳ	ሜዳ	NOUN	NOUN	_	11	obl	_	Translit=meda|LTranslit=meda
 11-13	አዋላቸው	_	_	_	_	_	_	_	_
 11	አዋል	አዋል	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äwalə|Translit='äwalə
@@ -16648,7 +16648,7 @@
 2	ለ	ለ	ADP	ADP	_	4	case	_	LTranslit=lä|Translit=lä
 3	የ	የ	PART	RLP	_	4	mark	_	LTranslit=jä|Translit=jä
 4	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	acl	_	LTranslit=mäţa|Translit=mäţa
-5	ው	ው	DET	DET	_	6	det	_	LTranslit=wə|Translit=wə
+5	ው	ው	DET	DET	PronType=Art	6	det	_	LTranslit=wə|Translit=wə
 6	ልጅ	ልጅ	NOUN	NOUN	_	8	obl	_	Translit=lədžə|LTranslit=lədžə
 7	ገነዘብ	ገነዘብ	NOUN	NOUN	_	8	obj	_	Translit=gänäzäbə|LTranslit=gänäzäbə
 8-9	ላኩ	_	_	_	_	_	_	_	_
@@ -16813,7 +16813,7 @@
 # translit = jätəňawə lədžə mäţa ?
 1-2	የትኛው	_	_	_	_	_	_	_	_
 1	የትኛ	የትኛ	PRON	PRON	_	3	det	_	LTranslit=jätəňa|Translit=jätəňa
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3	ልጅ	ልጅ	NOUN	NOUN	_	4	nsubj	_	Translit=lədžə|LTranslit=lədžə
 4-5	መጣ	_	_	_	_	_	_	_	_
 4	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=mäţa|Translit=mäţa
@@ -16850,10 +16850,10 @@
 # translit = 'äsətämariwə tämariwənə lämənə wäqäsäwə ?
 1-2	አስተማሪው	_	_	_	_	_	_	_	_
 1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	7	nsubj	_	LTranslit='äsətämari|Translit='äsətämari
-2	ው	ው	DET	DET	_	1	det	_	LTranslit=wə|Translit=wə
+2	ው	ው	DET	DET	PronType=Art	1	det	_	LTranslit=wə|Translit=wə
 3-5	ተማሪውን	_	_	_	_	_	_	_	_
 3	ተማሪ	ተማሪ	NOUN	NOUN	_	7	obj	_	LTranslit=tämari|Translit=tämari
-4	ው	ው	DET	DET	_	3	det	_	LTranslit=wə|Translit=wə
+4	ው	ው	DET	DET	PronType=Art	3	det	_	LTranslit=wə|Translit=wə
 5	ን	ን	PART	ACC	_	3	case	_	LTranslit=nə|Translit=nə
 6	ለምን	ለምን	PRON	PRON	_	7	obl	_	Translit=lämənə|LTranslit=lämənə
 7-9	ወቀሰው	_	_	_	_	_	_	_	_
