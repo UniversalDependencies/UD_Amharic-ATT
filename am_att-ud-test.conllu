@@ -5821,7 +5821,7 @@
 # text = እሱም የክበባችን አባል ነው ።
 # translit = 'əsumə jäkəbäbačənə 'äbalə näwə .
 1-2	እሱም	_	_	_	_	_	_	_	_
-1	እርሱ	እርሱ	PRON	PRON	_	6	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
+1	እርሱ	እርሱ	PRON	PRON	PronType=Prs	6	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
 2	ም	ም	CCONJ	CCONJ	_	1	cc	_	LTranslit=mə|Translit=mə
 3-5	የክበባችን	_	_	_	_	_	_	_	_
 3	የ	የ	ADP	ADP	_	4	case	_	LTranslit=jä|Translit=jä
@@ -5943,7 +5943,7 @@
 # text = እሱም እኔም ልንሠራው አንችልም ።
 # translit = 'əsumə 'ənemə lənəśärawə 'änəčələmə .
 1-2	እሱም	_	_	_	_	_	_	_	_
-1	እርሱ	እርሱ	PRON	PRON	_	7	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
+1	እርሱ	እርሱ	PRON	PRON	PronType=Prs	7	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
 2	ም	ም	CCONJ	CCONJ	_	1	cc	_	LTranslit=mə|Translit=mə
 3-4	እኔም	_	_	_	_	_	_	_	_
 3	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	1	conj	_	LTranslit='əne|Translit='əne
@@ -12384,7 +12384,7 @@
 # text = እርሱም ደግሞ ይሄዳል ።
 # translit = 'ərəsumə dägəmo jəhedalə .
 1-2	እርሱም	_	_	_	_	_	_	_	_
-1	እርሱ	እርሱ	PRON	PRON	_	5	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
+1	እርሱ	እርሱ	PRON	PRON	PronType=Prs	5	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
 2	ም	ም	CCONJ	CCONJ	_	1	cc	_	LTranslit=mə|Translit=mə
 3	ደግሞ	ደግሞ	CCONJ	CCONJ	_	1	cc	_	Translit=dägəmo|LTranslit=dägəmo
 4-6	ይሄዳል	_	_	_	_	_	_	_	_
@@ -12435,7 +12435,7 @@
 4	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	10	advcl	_	LTranslit=mäţa|Translit=mäţa
 5	ኧህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	expl	_	LTranslit='änətä|Translit='ăhə
 6-7	እሱም	_	_	_	_	_	_	_	_
-6	እርሱ	እርሱ	PRON	PRON	_	10	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
+6	እርሱ	እርሱ	PRON	PRON	PronType=Prs	10	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
 7	ም	ም	CCONJ	CCONJ	_	6	cc	_	LTranslit=mə|Translit=mə
 8-11	አይመጣም	_	_	_	_	_	_	_	_
 8	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	LTranslit='alə|Translit='alə
@@ -12448,7 +12448,7 @@
 # text = እሱም አያውቀውም ።
 # translit = 'əsumə 'äjawəqäwəmə .
 1-2	እሱም	_	_	_	_	_	_	_	_
-1	እርሱ	እርሱ	PRON	PRON	_	5	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
+1	እርሱ	እርሱ	PRON	PRON	PronType=Prs	5	nsubj	_	LTranslit='ərəsu|Translit='ərəsu
 2	ም	ም	CCONJ	CCONJ	_	1	cc	_	LTranslit=mə|Translit=mə
 3-7	አያውቀውም	_	_	_	_	_	_	_	_
 3	ኣል	ኣል	PART	NEG	Polarity=Neg	5	advmod	_	LTranslit='alə|Translit='alə
@@ -16984,7 +16984,7 @@
 # text = እርሱንማ አውቀው የለም ?
 # translit = 'ərəsunəma 'äwəqäwə jälämə ?
 1-3	እርሱንማ	_	_	_	_	_	_	_	_
-1	እርሱ	እርሱ	PRON	PRON	_	4	obj	_	LTranslit='ərəsu|Translit='ərəsu
+1	እርሱ	እርሱ	PRON	PRON	PronType=Prs	4	obj	_	LTranslit='ərəsu|Translit='ərəsu
 2	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 3	ማ	ማ	INTJ	INTJ	_	1	discourse	_	LTranslit=ma|Translit=ma
 4-5	አውቀው	_	_	_	_	_	_	_	_
