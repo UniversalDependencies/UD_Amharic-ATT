@@ -10,19 +10,19 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1074</sentences><tokens>5245</tokens><words>10010</words><fused>2672</fused></test>
   </size>
-  <lemmas unique="1441" /><!-- እሱ, ።, ን, እኔ, ኣል, ኡ, የ, ም, በ, አንተ, ው, ብ, ?, ካሳ, ከ -->
-  <forms unique="1473" /><!-- ።, ን, ኡ, ኧ, ኣል, ይ, ው, የ, ት, ም, በ, ኧው, ብ, ኧች, ? -->
+  <lemmas unique="1440" /><!-- እሱ, ።, ን, እኔ, ኣል, ኡ, የ, ም, በ, አንተ, ው, ብ, ?, ካሳ, ከ -->
+  <forms unique="1472" /><!-- ።, ን, ኡ, ኧ, ኣል, ይ, ው, የ, ት, ም, በ, ኧው, ብ, ኧች, ? -->
   <fusions unique="1857" /><!-- ነው, ልጁ, ሄደ, አለ, ልጆቹ, ብሎ, ልብሱን, ልጁን, መጽሐፉን, መጣ, ቢሆን, ናት, አስተማሪው, እንደሆነ, ሲል -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
     <tag name="ADJ">116</tag><!-- ብዙ, ጥሩ, ጎበዝ, ቆንጆ, ትልቅ, ትንሽ, ወፍራም, ሁሉ, መልካም, ምንም -->
-    <tag name="ADP">681</tag><!-- በ, ለ, የ, ከ, ወደ, ብ, ል, ላይ, እንደ, ጋር -->
+    <tag name="ADP">680</tag><!-- በ, ለ, የ, ከ, ወደ, ብ, ል, ላይ, እንደ, ጋር -->
     <tag name="ADV">94</tag><!-- በጣም, ነገ, ትናንት, ዛሬ, ብዙ, እንዲሁ, ይልቅ, ሁሉ, ምን, ቶሎ -->
     <tag name="AUX">419</tag><!-- ኣል, ን, ነበር, ሆን, ችል, ኖር, እየ, ብል, አይደል, አድርግ -->
     <tag name="CCONJ">100</tag><!-- ም, ና, ስ, እንጂ, ወይስ, ሳ, ነገርግን, ደግሞ, ግን -->
     <tag name="DET">482</tag><!-- ኡ, ው, ይህ, እዚህ, ዋ, ይህን, ኤ, እዚያ, እየ, ያ -->
     <tag name="INTJ">66</tag><!-- ስ, ኣ, እንዴ, ምነው, ማ, ሳ, ወይ, እንደሆን, እኮ, ምናልባት -->
-    <tag name="NOUN">1486</tag><!-- ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና -->
+    <tag name="NOUN">1487</tag><!-- ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና -->
     <tag name="NUM">40</tag><!-- አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, መቶዎች, ስምንት, ሶስት, ሺህ -->
     <tag name="PART">869</tag><!-- ን, ኣል, ም, የ, እም, አል, ኣለ, በ, ያለ, አለ -->
     <tag name="PRON">2550</tag><!-- እሱ, እኔ, አንተ, ምን, ማን, ው, የት, መቼ, ምነው, እርሱ -->
@@ -33,7 +33,7 @@
     <tag name="X">12</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="28">
+  <feats unique="29">
     <feat name="Case" value="Abl" upos="ADP">2</feat><!-- ለ, ከ -->
     <feat name="Case" value="Ben" upos="ADP">37</feat><!-- ል, ለ, በ, ብ -->
     <feat name="Case" value="Ins" upos="ADP">8</feat><!-- በ -->
@@ -52,6 +52,7 @@
     <feat name="Person" value="3" upos="DET,PRON,VERB">1861</feat><!-- ኧ, ይ, ኡ, ት, ኧው, ኧች, ኦ, ው, ኣት, ኣ -->
     <feat name="Polarity" value="Neg" upos="PART">197</feat><!-- ኣል, አል, ኣለ, ያለ, አለ, ኣይ, ም, አይ -->
     <feat name="Poss" value="Yes" upos="PRON">205</feat><!-- ኡ, ዋ, ኤ, ህ, ኣችን, ኣቸው, ው, ዬ, ሽ, ኣችሁ -->
+    <feat name="PronType" value="Art" upos="DET">275</feat><!-- ኡ -->
     <feat name="PronType" value="Prs" upos="PRON">2419</feat><!-- ኧ, ይ, ት, ኡ, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
     <feat name="Tense" value="Past" upos="AUX">1</feat><!-- ነበር -->
     <feat name="Typo" value="Yes" upos="CCONJ,INTJ,PRON,VERB">12</feat><!-- ኧ, ምንድ, መጥ, ምን, ነገር, እንዲያው -->
@@ -64,16 +65,16 @@
     <feat name="Voice" value="Trans" upos="VERB">12</feat><!-- አለቀስ, አመጥ, አነሥ, አነበብ, አደናቀፍ, አገነፍ, አገኘ, አግዝ, አጠብ -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="33">
+  <deps unique="32">
     <dep name="acl">88</dep>
     <dep name="advcl">318</dep>
-    <dep name="advmod">290</dep>
+    <dep name="advmod">289</dep>
     <dep name="amod">63</dep>
     <dep name="aux">314</dep>
     <dep name="case">911</dep>
     <dep name="cc">86</dep>
     <dep name="ccomp">115</dep>
-    <dep name="compound">45</dep>
+    <dep name="compound">46</dep>
     <dep name="compound:svc">35</dep>
     <dep name="conj">49</dep>
     <dep name="cop">102</dep>
@@ -81,14 +82,13 @@
     <dep name="csubj:pass">1</dep>
     <dep name="dep">2</dep>
     <dep name="det">478</dep>
-    <dep name="discourse">210</dep>
+    <dep name="discourse">211</dep>
     <dep name="expl">1153</dep>
-    <dep name="fixed">3</dep>
     <dep name="flat">4</dep>
     <dep name="goeswith">12</dep>
     <dep name="iobj">30</dep>
-    <dep name="mark">527</dep>
-    <dep name="nmod">294</dep>
+    <dep name="mark">528</dep>
+    <dep name="nmod">295</dep>
     <dep name="nsubj">1432</dep>
     <dep name="nsubj:pass">93</dep>
     <dep name="nummod">35</dep>
