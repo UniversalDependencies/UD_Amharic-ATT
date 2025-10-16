@@ -894,7 +894,7 @@
 4	ኤ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	LTranslit='əne|Translit='e
 5-6	ከዚያ	_	_	_	_	_	_	_	_
 5	ከ	ከ	ADP	ADP	_	6	case	_	LTranslit=kä|Translit=kä
-6	እዚያ	እዚያ	DET	DET	_	9	nmod	_	LTranslit='əzija|Translit='əzija
+6	እዚያ	እዚያ	DET	DET	PronType=Dem	9	nmod	_	LTranslit='əzija|Translit='əzija
 7-9	ብደርስ	_	_	_	_	_	_	_	_
 7	ብ	ብ	SCONJ	SCONJ	_	9	mark	_	LTranslit=bə|Translit=bə
 8	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	LTranslit='əne|Translit='ə
@@ -2420,7 +2420,7 @@
 4	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit=tə
 5-6	በዚያ	_	_	_	_	_	_	_	_
 5	በ	በ	ADP	ADP	_	6	case	_	LTranslit=bä|Translit=bä
-6	እዚያ	እዚያ	DET	DET	_	7	det	_	LTranslit='əzija|Translit='əzija
+6	እዚያ	እዚያ	DET	DET	PronType=Dem	7	det	_	LTranslit='əzija|Translit='əzija
 7	መንገድ	መንገድ	NOUN	NOUN	_	0	root	_	Translit=mänəgädə|LTranslit=mänəgädə
 8-9	ነው	_	_	_	_	_	_	_	_
 8	ን	ን	AUX	AUX	_	7	cop	_	LTranslit=nə|Translit=nə
@@ -5609,7 +5609,7 @@
 11	ን	ን	PART	ACC	_	9	case	_	LTranslit=nə|Translit=nə
 12-13	ወደዚያ	_	_	_	_	_	_	_	_
 12	ወደ	ወደ	ADP	ADP	_	14	case	_	LTranslit=wädä|Translit=wädä
-13	እዚያ	እዚያ	DET	DET	_	14	det	_	LTranslit='əzija|Translit='əzija
+13	እዚያ	እዚያ	DET	DET	PronType=Dem	14	det	_	LTranslit='əzija|Translit='əzija
 14	ቦታ	ቦታ	NOUN	NOUN	_	17	obl	_	Translit=bota|LTranslit=bota
 15-17	አትላክ	_	_	_	_	_	_	_	_
 15	ኣል	ኣል	PART	NEG	Polarity=Neg	17	advmod	_	LTranslit='alə|Translit='alə
@@ -7562,7 +7562,7 @@
 # sent_id = data_UD-third_apple_2-x01-s17
 # text = እዚያ ብሆን እመኛለሁ ።
 # translit = 'əzija bəhonə 'əmäňalähu .
-1	እዚያ	እዚያ	DET	DET	_	4	advcl	_	Translit='əzija|LTranslit='əzija
+1	እዚያ	እዚያ	DET	DET	PronType=Dem	4	advcl	_	Translit='əzija|LTranslit='əzija
 2-4	ብሆን	_	_	_	_	_	_	_	_
 2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	LTranslit=bə|Translit=bə
 3	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LTranslit='əne|Translit='ə

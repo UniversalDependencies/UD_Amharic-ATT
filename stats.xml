@@ -53,7 +53,7 @@
     <feat name="Polarity" value="Neg" upos="PART">197</feat><!-- ኣል, አል, ኣለ, ያለ, አለ, ኣይ, ም, አይ -->
     <feat name="Poss" value="Yes" upos="PRON">205</feat><!-- ኡ, ዋ, ኤ, ህ, ኣችን, ኣቸው, ው, ዬ, ሽ, ኣችሁ -->
     <feat name="PronType" value="Art" upos="DET">401</feat><!-- ኡ, ው -->
-    <feat name="PronType" value="Dem" upos="DET">44</feat><!-- ይህ, እዚህ, ይህን -->
+    <feat name="PronType" value="Dem" upos="DET">48</feat><!-- ይህ, እዚህ, ይህን, እዚያ -->
     <feat name="PronType" value="Prs" upos="PRON">2419</feat><!-- ኧ, ይ, ት, ኡ, ኧው, ኧች, ኦ, ው, ኝ, ኣት -->
     <feat name="Tense" value="Past" upos="AUX">1</feat><!-- ነበር -->
     <feat name="Typo" value="Yes" upos="CCONJ,INTJ,PRON,VERB">12</feat><!-- ኧ, ምንድ, መጥ, ምን, ነገር, እንዲያው -->
