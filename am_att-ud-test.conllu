@@ -2168,7 +2168,7 @@
 # text = ማን እንደሚመጣ ነገርኩዋት ።
 # translit = manə 'ənədämimäţa nägärəkuwatə .
 # text_en = I told her who was coming.
-1	ማን	ማን	PRON	PRON	_	5	nmod	_	Translit=manə|LTranslit=manə
+1	ማን	ማን	PRON	PRON	PronType=Int	5	nmod	_	Translit=manə|LTranslit=manə
 2-6	እንደሚመጣ	_	_	_	_	_	_	_	_
 2	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	LTranslit='ənədä|Translit='ənədä
 3	እም	እም	PART	IRLP	_	5	mark	_	LTranslit='əmə|Translit='əmə
@@ -2288,7 +2288,7 @@
 # text = ማን እንደሚመጣ ሚስጥር ነው ።
 # translit = manə 'ənədämimäţa misəţərə näwə .
 # text_en = It's a secret who will come.
-1	ማን	ማን	PRON	PRON	_	5	nmod	_	Translit=manə|LTranslit=manə
+1	ማን	ማን	PRON	PRON	PronType=Int	5	nmod	_	Translit=manə|LTranslit=manə
 2-6	እንደሚመጣ	_	_	_	_	_	_	_	_
 2	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	LTranslit='ənədä|Translit='ənədä
 3	እም	እም	PART	IRLP	_	5	mark	_	LTranslit='əmə|Translit='əmə
@@ -4324,7 +4324,7 @@
 1	ገንዘብ	ገንዘብ	NOUN	NOUN	_	6	obj	_	LTranslit=gänəzäbə|Translit=gänəzäbə
 2	ኡ	ኡ	DET	DET	PronType=Art	1	det	_	LTranslit='u|Translit='u
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
-4	ማን	ማን	PRON	PRON	_	6	nsubj	_	Translit=manə|LTranslit=manə
+4	ማን	ማን	PRON	PRON	PronType=Int	6	nsubj	_	Translit=manə|LTranslit=manə
 5-7	እነደሰጣት	_	_	_	_	_	_	_	_
 5	እነደ	እነደ	ADP	ADP	_	6	mark	_	LTranslit='ənädä|Translit='ənädä
 6	ሰጥ	ሰጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	8	ccomp	_	LTranslit=säţə|Translit=säţə
@@ -4884,7 +4884,7 @@
 # sent_id = data_UD-x14-s17
 # text = ማን ጫማ ገዛልህ ?
 # translit = manə ćama gäzaləhə ?
-1	ማን	ማን	PRON	PRON	_	3	nmod	_	Translit=manə|LTranslit=manə
+1	ማን	ማን	PRON	PRON	PronType=Int	3	nmod	_	Translit=manə|LTranslit=manə
 2	ጫማ	ጫማ	NOUN	NOUN	_	3	obj	_	Translit=ćama|LTranslit=ćama
 3-5	ገዛልህ	_	_	_	_	_	_	_	_
 3	ገዛ	ገዛ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=gäza|Translit=gäza
@@ -4938,10 +4938,10 @@
 # sent_id = data_UD-x15-s2
 # text = ማን ከማን ጋር ምሳ በላ ?
 # translit = manə kämanə garə məsa bäla ?
-1	ማን	ማን	PRON	PRON	_	6	nsubj	_	Translit=manə|LTranslit=manə
+1	ማን	ማን	PRON	PRON	PronType=Int	6	nsubj	_	Translit=manə|LTranslit=manə
 2-3	ከማን	_	_	_	_	_	_	_	_
 2	ከ	ከ	ADP	ADP	_	3	case	_	LTranslit=kä|Translit=kä
-3	ማን	ማን	PRON	PRON	_	6	obl	_	LTranslit=manə|Translit=manə
+3	ማን	ማን	PRON	PRON	PronType=Int	6	obl	_	LTranslit=manə|Translit=manə
 4	ጋር	ጋር	ADP	ADP	_	3	case	_	Translit=garə|LTranslit=garə
 5	ምሳ	ምሳ	NOUN	NOUN	_	6	obj	_	Translit=məsa|LTranslit=məsa
 6-7	በላ	_	_	_	_	_	_	_	_
@@ -4952,10 +4952,10 @@
 # sent_id = data_UD-x15-s3
 # text = ማን ከማን ጋር ምን አደረገ ?
 # translit = manə kämanə garə mənə 'ädärägä ?
-1	ማን	ማን	PRON	PRON	_	6	nsubj	_	Translit=manə|LTranslit=manə
+1	ማን	ማን	PRON	PRON	PronType=Int	6	nsubj	_	Translit=manə|LTranslit=manə
 2-3	ከማን	_	_	_	_	_	_	_	_
 2	ከ	ከ	ADP	ADP	_	3	case	_	LTranslit=kä|Translit=kä
-3	ማን	ማን	PRON	PRON	_	6	nmod	_	LTranslit=manə|Translit=manə
+3	ማን	ማን	PRON	PRON	PronType=Int	6	nmod	_	LTranslit=manə|Translit=manə
 4	ጋር	ጋር	ADP	ADP	_	3	case	_	Translit=garə|LTranslit=garə
 5	ምን	ምን	PRON	PRON	PronType=Int	6	obj	_	Translit=mənə|LTranslit=mənə
 6-7	አደረገ	_	_	_	_	_	_	_	_
@@ -6395,7 +6395,7 @@
 8	ጫወት	ጫወት	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=ćawätə|Translit=ćawätə
 9	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 10-12	ማነው	_	_	_	_	_	_	_	_
-10	ማን	ማን	PRON	PRON	_	8	nsubj	_	LTranslit=manə|Translit=manə
+10	ማን	ማን	PRON	PRON	PronType=Int	8	nsubj	_	LTranslit=manə|Translit=manə
 11	ን	ን	AUX	AUX	_	8	aux	_	LTranslit=nə|Translit=nə
 12	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='ăwə
 13	?	?	PUNCT	PUNCT	_	8	punct	_	Translit=?|LTranslit=?
@@ -7497,7 +7497,7 @@
 6	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LTranslit='əne|Translit=ku
 7	ጊዜ	ጊዜ	NOUN	NOUN	_	12	advcl	_	Translit=gize|LTranslit=gize
 8-10	ማንንም	_	_	_	_	_	_	_	_
-8	ማን	ማን	PRON	PRON	_	12	obj	_	LTranslit=manə|Translit=manə
+8	ማን	ማን	PRON	PRON	PronType=Int	12	obj	_	LTranslit=manə|Translit=manə
 9	ን	ን	PART	ACC	_	8	case	_	LTranslit=nə|Translit=nə
 10	ም	ም	CCONJ	CCONJ	_	8	discourse	_	LTranslit=mə|Translit=mə
 11-14	አልጠየኩም	_	_	_	_	_	_	_	_
@@ -7970,7 +7970,7 @@
 # translit = 'ənədämanə näwə jämətədänəsäwə ?
 1-2	እንደማን	_	_	_	_	_	_	_	_
 1	እንደ	እንደ	ADP	ADP	_	2	cc	_	LTranslit='ənədä|Translit='ənədä
-2	ማን	ማን	PRON	PRON	_	3	nsubj	_	LTranslit=manə|Translit=manə
+2	ማን	ማን	PRON	PRON	PronType=Int	3	nsubj	_	LTranslit=manə|Translit=manə
 3-4	ነው	_	_	_	_	_	_	_	_
 3	ን	ን	AUX	AUX	_	8	advcl	_	LTranslit=nə|Translit=nə
 4	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăwə
@@ -9064,7 +9064,7 @@
 6	ቻል	ቻል	VERB	VERB	Mood=Ind|VerbForm=Fin	11	advcl	_	LTranslit=čalə|Translit=čalə
 7	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	LTranslit='əne|Translit=ku
 8	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit=tə
-9	ማን	ማን	PRON	PRON	_	11	nsubj	_	Translit=manə|LTranslit=manə
+9	ማን	ማን	PRON	PRON	PronType=Int	11	nsubj	_	Translit=manə|LTranslit=manə
 10-13	እንደወሰደው	_	_	_	_	_	_	_	_
 10	እንደ	እንደ	SCONJ	SCONJ	_	11	mark	_	LTranslit='ənədä|Translit='ənədä
 11	ወሰድ	ወሰድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=wäsädə|Translit=wäsädə
@@ -10670,7 +10670,7 @@
 8	የ	የ	PART	RLP	_	9	mark	_	LTranslit=jä|Translit=jä
 9	ነገር	ነገር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=nägärə|Translit=nägärə
 10	ኧህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	expl	_	LTranslit='änətä|Translit='ăhə
-11	ማን	ማን	PRON	PRON	_	9	nsubj	_	Translit=manə|LTranslit=manə
+11	ማን	ማን	PRON	PRON	PronType=Int	9	nsubj	_	Translit=manə|LTranslit=manə
 12-13	ነው	_	_	_	_	_	_	_	_
 12	ን	ን	AUX	AUX	_	9	aux	_	LTranslit=nə|Translit=nə
 13	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit='ăwə
@@ -11444,7 +11444,7 @@
 # sent_id = data_UD-third_apple_2-x15-s1
 # text = ማን ምን አደረገ ?
 # translit = manə mənə 'ädärägä ?
-1	ማን	ማን	PRON	PRON	_	3	nsubj	_	Translit=manə|LTranslit=manə
+1	ማን	ማን	PRON	PRON	PronType=Int	3	nsubj	_	Translit=manə|LTranslit=manə
 2	ምን	ምን	PRON	PRON	PronType=Int	3	obj	_	Translit=mənə|LTranslit=mənə
 3-4	አደረገ	_	_	_	_	_	_	_	_
 3	አደረግ	አደረግ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='ädärägə|Translit='ädärägə
@@ -11454,7 +11454,7 @@
 # sent_id = data_UD-third_apple_2-x15-s2
 # text = ማን ምን በላ ?
 # translit = manə mənə bäla ?
-1	ማን	ማን	PRON	PRON	_	3	nsubj	_	Translit=manə|LTranslit=manə
+1	ማን	ማን	PRON	PRON	PronType=Int	3	nsubj	_	Translit=manə|LTranslit=manə
 2	ምን	ምን	PRON	PRON	PronType=Int	3	obj	_	Translit=mənə|LTranslit=mənə
 3-4	በላ	_	_	_	_	_	_	_	_
 3	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=bäla|Translit=bäla
@@ -11943,7 +11943,7 @@
 6	ኩ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	LTranslit='əne|Translit=ku
 7	ጊዜ	ጊዜ	NOUN	NOUN	_	12	advcl	_	Translit=gize|LTranslit=gize
 8-10	ማንንም	_	_	_	_	_	_	_	_
-8	ማን	ማን	PRON	PRON	_	12	obj	_	LTranslit=manə|Translit=manə
+8	ማን	ማን	PRON	PRON	PronType=Int	12	obj	_	LTranslit=manə|Translit=manə
 9	ን	ን	PART	ACC	_	8	case	_	LTranslit=nə|Translit=nə
 10	ም	ም	CCONJ	CCONJ	_	8	cc	_	LTranslit=mə|Translit=mə
 11-14	አልጠየኩም	_	_	_	_	_	_	_	_
@@ -11990,7 +11990,7 @@
 1	ገንዘብ	ገንዘብ	NOUN	NOUN	_	6	obj	_	LTranslit=gänəzäbə|Translit=gänəzäbə
 2	ኡ	ኡ	DET	DET	PronType=Art	1	det	_	LTranslit='u|Translit='u
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
-4	ማን	ማን	PRON	PRON	_	6	nsubj	_	Translit=manə|LTranslit=manə
+4	ማን	ማን	PRON	PRON	PronType=Int	6	nsubj	_	Translit=manə|LTranslit=manə
 5-8	እንደሰጣት	_	_	_	_	_	_	_	_
 5	እንደ	እንደ	SCONJ	SCONJ	_	6	mark	_	LTranslit='ənədä|Translit='ənədä
 6	ሰጥ	ሰጥ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	ccomp	_	LTranslit=säţə|Translit=säţə
@@ -12984,7 +12984,7 @@
 5	እዚህ	እዚህ	DET	DET	PronType=Dem	6	det	_	LTranslit='əzihə|Translit='əzihə
 6	ቦታ	ቦታ	NOUN	NOUN	_	7	obl	_	Translit=bota|LTranslit=bota
 7	ስም	ስም	NOUN	NOUN	_	10	nsubj:pass	_	Translit=səmə|LTranslit=səmə
-8	ማን	ማን	PRON	PRON	_	10	obj	_	Translit=manə|LTranslit=manə
+8	ማን	ማን	PRON	PRON	PronType=Int	10	obj	_	Translit=manə|LTranslit=manə
 9-11	ይባላል	_	_	_	_	_	_	_	_
 9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit=jə
 10	ባል	ባል	VERB	VERB	Mood=Ind|VerbForm=Fin	1	dep	_	LTranslit=balə|Translit=balə
@@ -16713,7 +16713,7 @@
 7	ት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=tə
 8-9	እነማን	_	_	_	_	_	_	_	_
 8	እነ	እነ	DET	DET	_	9	det	_	LTranslit='ənä|Translit='ənä
-9	ማን	ማን	PRON	PRON	_	0	root	_	LTranslit=manə|Translit=manə
+9	ማን	ማን	PRON	PRON	PronType=Int	0	root	_	LTranslit=manə|Translit=manə
 10-11	ናቸው	_	_	_	_	_	_	_	_
 10	ን	ን	AUX	AUX	_	9	cop	_	LTranslit=nə|Translit=nə
 11	ኣቸው	እሱ	PRON	SUBJC	Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	LTranslit='əsu|Translit='ačäwə
@@ -16801,7 +16801,7 @@
 # translit = bäqälä manənə 'äjä ?
 1	በቀለ	በቀለ	PROPN	PROPN	_	4	nsubj	_	Translit=bäqälä|LTranslit=bäqälä
 2-3	ማንን	_	_	_	_	_	_	_	_
-2	ማን	ማን	PRON	PRON	_	4	obj	_	LTranslit=manə|Translit=manə
+2	ማን	ማን	PRON	PRON	PronType=Int	4	obj	_	LTranslit=manə|Translit=manə
 3	ን	ን	PART	ACC	_	2	case	_	LTranslit=nə|Translit=nə
 4-5	አየ	_	_	_	_	_	_	_	_
 4	አይ	አይ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='äjə|Translit='äjə
@@ -16957,7 +16957,7 @@
 # text = ዛሬ ማን ያሸንፍ ይሆን ?
 # translit = zare manə jašänəfə jəhonə ?
 1	ዛሬ	ዛሬ	ADV	ADV	_	4	obl	_	Translit=zare|LTranslit=zare
-2	ማን	ማን	PRON	PRON	_	4	nsubj	_	Translit=manə|LTranslit=manə
+2	ማን	ማን	PRON	PRON	PronType=Int	4	nsubj	_	Translit=manə|LTranslit=manə
 3-4	ያሸንፍ	_	_	_	_	_	_	_	_
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=jə
 4	ኣሸንፍ	ኣሸንፍ	VERB	VERB	Mood=Ind|VerbForm=Fin	6	ccomp	_	LTranslit='ašänəfə|Translit='ašänəfə
