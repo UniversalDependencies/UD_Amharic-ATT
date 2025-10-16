@@ -559,7 +559,7 @@
 1	ብ	ብ	ADP	ADP	_	2	mark	_	LTranslit=bə|Translit=bə
 2	ሠር	ሠር	VERB	VERB	Mood=Ind|VerbForm=Fin	6	csubj	_	LTranslit=śärə|Translit=śärə
 3	ኣ	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='a
-4	ው	ው	PRON	OBJC	_	2	obj	_	LTranslit=wə|Translit=wə
+4	ው	ው	PRON	OBJC	PronType=Prs	2	obj	_	LTranslit=wə|Translit=wə
 5-8	እወዳዋለሁ	_	_	_	_	_	_	_	_
 5	እ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	6	expl	_	LTranslit='əne|Translit='ə
 6	ወድ	ወድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=wädə|Translit=wädə
@@ -8899,7 +8899,7 @@
 4	የ	የ	PART	RLP	_	5	mark	_	LTranslit=jä|Translit=jä
 5	ኣለፍ	ኣለፍ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='aläfə|Translit='aläfə
 6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LTranslit='əsu|Translit='ă
-7	ው	ው	PRON	PRON	_	5	expl	_	LTranslit=wə|Translit=wə
+7	ው	ው	PRON	PRON	PronType=Prs	5	expl	_	LTranslit=wə|Translit=wə
 8	እንደ	እንደ	ADP	ADP	_	9	mark	_	Translit='ənədä|LTranslit='ənədä
 9	ሕልም	ሕልም	NOUN	NOUN	_	5	obl	_	Translit=ħələmə|LTranslit=ħələmə
 10-11	ነው	_	_	_	_	_	_	_	_
@@ -10076,7 +10076,7 @@
 # translit = məsawənə bäləto jəhedalə .
 1-3	ምሳውን	_	_	_	_	_	_	_	_
 1	ምሳ	ምሳ	NOUN	NOUN	_	4	obj	_	LTranslit=məsa|Translit=məsa
-2	ው	ው	PRON	POSM	_	1	nmod	_	LTranslit=wə|Translit=wə
+2	ው	ው	PRON	POSM	PronType=Prs	1	nmod	_	LTranslit=wə|Translit=wə
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-5	በልቶ	_	_	_	_	_	_	_	_
 4	በልት	በልት	VERB	VERB	Mood=Ind|VerbForm=Fin	7	compound:svc	_	LTranslit=bälətə|Translit=bälətə
@@ -11207,7 +11207,7 @@
 6-8	የበላው	_	_	_	_	_	_	_	_
 6	የ	የ	PART	RLP	_	7	mark	_	LTranslit=jä|Translit=jä
 7	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	acl	_	LTranslit=bäla|Translit=bäla
-8	ው	ው	PRON	PRON	_	7	expl	_	LTranslit=wə|Translit=wə
+8	ው	ው	PRON	PRON	PronType=Prs	7	expl	_	LTranslit=wə|Translit=wə
 9	ካሳ	ካሳ	PROPN	PROPN	_	10	csubj	_	Translit=kasa|LTranslit=kasa
 10-12	አይደለም	_	_	_	_	_	_	_	_
 10	አይደል	አይደል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='äjədälə|Translit='äjədälə
@@ -11227,7 +11227,7 @@
 6-8	የበላው	_	_	_	_	_	_	_	_
 6	የ	የ	ADP	ADP	_	7	mark	_	LTranslit=jä|Translit=jä
 7	በላ	በላ	VERB	VERB	Mood=Ind|VerbForm=Fin	10	ccomp	_	LTranslit=bäla|Translit=bäla
-8	ው	ው	PRON	PRON	_	7	obj	_	LTranslit=wə|Translit=wə
+8	ው	ው	PRON	PRON	PronType=Prs	7	obj	_	LTranslit=wə|Translit=wə
 9	ምሳ	ምሳ	NOUN	NOUN	_	10	nsubj	_	Translit=məsa|LTranslit=məsa
 10-12	አይደለም	_	_	_	_	_	_	_	_
 10	አይደል	አይደል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit='äjədälə|Translit='äjədälə
@@ -14526,7 +14526,7 @@
 10	ን	ን	PART	ACC	_	8	case	_	LTranslit=nə|Translit=nə
 11-12	ደረቀው	_	_	_	_	_	_	_	_
 11	ደረቀ	ደረቀ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=däräqä|Translit=däräqä
-12	ው	ው	PRON	PRON	_	11	obj	_	LTranslit=wə|Translit=wə
+12	ው	ው	PRON	PRON	PronType=Prs	11	obj	_	LTranslit=wə|Translit=wə
 13	?	?	PUNCT	PUNCT	_	11	punct	_	Translit=?|LTranslit=?
 
 # sent_id = data_UD-third_apple_2-x23-s20
@@ -14552,7 +14552,7 @@
 14-16	አረፈው	_	_	_	_	_	_	_	_
 14	አረፍ	አረፍ	VERB	VERB	Mood=Ind|VerbForm=Fin	11	conj	_	LTranslit='äräfə|Translit='äräfə
 15	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	LTranslit='əsu|Translit='ă
-16	ው	ው	PRON	PRON	_	14	obj	_	LTranslit=wə|Translit=wə
+16	ው	ው	PRON	PRON	PronType=Prs	14	obj	_	LTranslit=wə|Translit=wə
 17	።	።	PUNCT	PUNCT	_	11	punct	_	Translit=.|LTranslit=.
 
 # sent_id = data_UD-third_apple_2-x24-s1
@@ -16787,7 +16787,7 @@
 2	የ	የ	PART	RLP	_	3	mark	_	LTranslit=jä|Translit=jä
 3	መጣ	መጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=mäţa|Translit=mäţa
 4	ኧች	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	expl	_	LTranslit='əsu|Translit='ăčə
-5	ው	ው	PRON	PRON	_	3	obj	_	LTranslit=wə|Translit=wə
+5	ው	ው	PRON	PRON	PronType=Prs	3	obj	_	LTranslit=wə|Translit=wə
 6-7	ከየት	_	_	_	_	_	_	_	_
 6	ከ	ከ	ADP	ADP	_	7	case	_	LTranslit=kä|Translit=kä
 7	የት	የት	PRON	PRON	_	3	obl	_	LTranslit=jätə|Translit=jätə
