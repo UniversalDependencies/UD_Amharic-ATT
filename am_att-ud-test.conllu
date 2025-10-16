@@ -14429,7 +14429,7 @@
 # text = ይችን መታሰቢያ እንዲቀበሉኝ ።
 # translit = jəčənə mätasäbija 'ənədiqäbäluňə .
 1-2	ይችን	_	_	_	_	_	_	_	_
-1	ይች	ይች	DET	DET	_	3	det	_	LTranslit=jəčə|Translit=jəčə
+1	ይች	ይች	DET	DET	PronType=Dem	3	det	_	LTranslit=jəčə|Translit=jəčə
 2	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 3	መታሰቢያ	መታሰቢያ	NOUN	NOUN	VerbForm=Vnoun	6	obj	_	Translit=mätasäbija|LTranslit=mätasäbija
 4-8	እንዲቀበሉኝ	_	_	_	_	_	_	_	_
