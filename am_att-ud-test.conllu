@@ -2245,7 +2245,7 @@
 1-4	የቤቴን	_	_	_	_	_	_	_	_
 1	የ	የ	ADP	ADP	_	2	case	_	LTranslit=jä|Translit=jä
 2	ቤት	ቤት	NOUN	NOUN	_	5	acl	_	LTranslit=betə|Translit=betə
-3	ኤ	ኤ	DET	DET	_	2	det	_	LTranslit='e|Translit='e
+3	ኤ	ኤ	DET	DET	Poss=Yes|PronType=Prs	2	det	_	LTranslit='e|Translit='e
 4	ን	ን	PART	ACC	_	2	case	_	LTranslit=nə|Translit=nə
 5	ጣሪያ	ጣሪያ	NOUN	NOUN	_	6	obj	_	Translit=ţarija|LTranslit=ţarija
 6-8	አነሳሁት	_	_	_	_	_	_	_	_
@@ -11622,7 +11622,7 @@
 4	ና	ና	CCONJ	CCONJ	_	3	cc	_	LTranslit=na|Translit=na
 5-7	ኮቴን	_	_	_	_	_	_	_	_
 5	ኮት	ኮት	NOUN	NOUN	_	8	obj	_	LTranslit=kotə|Translit=kotə
-6	ኤ	ኤ	DET	DET	_	5	det	_	LTranslit='e|Translit='e
+6	ኤ	ኤ	DET	DET	Poss=Yes|PronType=Prs	5	det	_	LTranslit='e|Translit='e
 7	ን	ን	PART	ACC	_	5	case	_	LTranslit=nə|Translit=nə
 8-11	አምጣልኝ	_	_	_	_	_	_	_	_
 8	አምጣ	አምጣ	VERB	VERB	Mood=Ind|VerbForm=Fin	3	conj	_	LTranslit='äməţa|Translit='äməţa
@@ -12997,7 +12997,7 @@
 1	እነሆ	እነሆ	INTJ	INTJ	_	2	discourse	_	Translit='ənäho|LTranslit='ənäho
 2-3	ልጄ	_	_	_	_	_	_	_	_
 2	ልጅ	ልጅ	NOUN	NOUN	_	10	nsubj	_	LTranslit=lədžə|Translit=lədžə
-3	ኤ	ኤ	DET	DET	_	2	det	_	LTranslit='e|Translit='e
+3	ኤ	ኤ	DET	DET	Poss=Yes|PronType=Prs	2	det	_	LTranslit='e|Translit='e
 4-6	ፈተናውን	_	_	_	_	_	_	_	_
 4	ፈተና	ፈተና	NOUN	NOUN	_	10	obj	_	LTranslit=fätäna|Translit=fätäna
 5	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
@@ -14773,7 +14773,7 @@
 # translit = gwämajenə məsəmarə bäsabəňə .
 1-3	ጐማዬን	_	_	_	_	_	_	_	_
 1	ጐማ	ጐማ	NOUN	NOUN	_	5	obj	_	LTranslit=gwäma|Translit=gwäma
-2	ኤ	ኤ	DET	DET	_	1	det	_	LTranslit='e|Translit='e
+2	ኤ	ኤ	DET	DET	Poss=Yes|PronType=Prs	1	det	_	LTranslit='e|Translit='e
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4	ምስማር	ምስማር	NOUN	NOUN	_	5	nsubj	_	Translit=məsəmarə|LTranslit=məsəmarə
 5-7	በሳብኝ	_	_	_	_	_	_	_	_
