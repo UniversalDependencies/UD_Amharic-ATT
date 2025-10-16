@@ -5860,7 +5860,7 @@
 # translit = lədžətămə qonədžo natə .
 1-3	ልጅቷም	_	_	_	_	_	_	_	_
 1	ልጅት	ልጅት	NOUN	NOUN	_	4	nsubj:pass	_	LTranslit=lədžətə|Translit=lədžətə
-2	ዋ	ዋ	DET	DET	_	1	det	_	LTranslit=wa|Translit=wa
+2	ዋ	ዋ	DET	DET	PronType=Art	1	det	_	LTranslit=wa|Translit=wa
 3	ም	ም	CCONJ	CCONJ	_	1	cc	_	LTranslit=mə|Translit=mə
 4	ቆንጆ	ቆንጆ	ADJ	ADJ	_	0	root	_	Translit=qonədžo|LTranslit=qonədžo
 5-6	ናት	_	_	_	_	_	_	_	_
@@ -6158,7 +6158,7 @@
 # translit = tənəšă betəsə bətəhonə lähulačənəmə 'ätəbäqamə ?
 1-2	ትንሿ	_	_	_	_	_	_	_	_
 1	ትንሽ	ትንሽ	ADJ	ADJ	_	3	amod	_	LTranslit=tənəšə|Translit=tənəšə
-2	ዋ	ዋ	DET	DET	Gender=Fem	3	det	_	LTranslit=wa|Translit=wa
+2	ዋ	ዋ	DET	DET	Gender=Fem|PronType=Art	3	det	_	LTranslit=wa|Translit=wa
 3-4	ቤትስ	_	_	_	_	_	_	_	_
 3	ቤት	ቤት	NOUN	NOUN	_	7	nsubj	_	LTranslit=betə|Translit=betə
 4	ስ	ስ	INTJ	INTJ	_	3	discourse	_	LTranslit=sə|Translit=sə
@@ -8980,7 +8980,7 @@
 # translit = dəmätănə jäwäsädəkwatə 'əne näňə .
 1-3	ድመቷን	_	_	_	_	_	_	_	_
 1	ድመት	ድመት	NOUN	NOUN	_	5	obj	_	LTranslit=dəmätə|Translit=dəmätə
-2	ዋ	ዋ	DET	DET	_	1	det	_	LTranslit=wa|Translit=wa
+2	ዋ	ዋ	DET	DET	PronType=Art	1	det	_	LTranslit=wa|Translit=wa
 3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
 4-7	የወሰድኳት	_	_	_	_	_	_	_	_
 4	የ	የ	PART	RLP	_	5	mark	_	LTranslit=jä|Translit=jä
@@ -9080,7 +9080,7 @@
 # translit = qonədžowa lədžə jäne natə .
 1-2	ቆንጆዋ	_	_	_	_	_	_	_	_
 1	ቆንጆ	ቆንጆ	ADJ	ADJ	_	3	amod	_	LTranslit=qonədžo|Translit=qonədžo
-2	ዋ	ዋ	DET	DET	_	1	det	_	LTranslit=wa|Translit=wa
+2	ዋ	ዋ	DET	DET	PronType=Art	1	det	_	LTranslit=wa|Translit=wa
 3	ልጅ	ልጅ	NOUN	NOUN	_	5	nsubj	_	Translit=lədžə|LTranslit=lədžə
 4-5	የኔ	_	_	_	_	_	_	_	_
 4	የ	የ	ADP	ADP	_	5	case	_	LTranslit=jä|Translit=jä
@@ -9920,7 +9920,7 @@
 4-6	በልጅቷ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	LTranslit=bä|Translit=bä
 5	ጅት	ጅት	NOUN	NOUN	_	7	obl	_	LTranslit=džətə|Translit=džətə
-6	ዋ	ዋ	DET	DET	_	5	det	_	LTranslit=wa|Translit=wa
+6	ዋ	ዋ	DET	DET	PronType=Art	5	det	_	LTranslit=wa|Translit=wa
 7	ምክንያት	ምክንያት	NOUN	NOUN	_	9	obl	_	Translit=məkənəjatə|LTranslit=məkənəjatə
 8	ድንጋይ	ድንጋይ	NOUN	NOUN	_	9	obj	_	Translit=dənəgajə|LTranslit=dənəgajə
 9-10	ተወራውሩ	_	_	_	_	_	_	_	_
@@ -11370,7 +11370,7 @@
 8	እንደሆን	እንደሆን	INTJ	INTJ	_	7	discourse	_	Translit='ənədähonə|LTranslit='ənədähonə
 9-10	መምጣቷ	_	_	_	_	_	_	_	_
 9	መምጣት	መምጣት	NOUN	NOUN	VerbForm=Vnoun	13	ccomp	_	LTranslit=mäməţatə|Translit=mäməţatə
-10	ዋ	ዋ	DET	DET	_	9	det	_	LTranslit=wa|Translit=wa
+10	ዋ	ዋ	DET	DET	PronType=Art	9	det	_	LTranslit=wa|Translit=wa
 11-14	አይቅርም	_	_	_	_	_	_	_	_
 11	ኣል	ኣል	PART	NEG	Polarity=Neg	13	advmod	_	LTranslit='alə|Translit='alə
 12	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	LTranslit='əsu|Translit=jə
@@ -13116,7 +13116,7 @@
 # translit = lədžətă 'əko qonədžo natə .
 1-2	ልጅቷ	_	_	_	_	_	_	_	_
 1	ልጅት	ልጅት	NOUN	NOUN	_	4	nsubj	_	LTranslit=lədžətə|Translit=lədžətə
-2	ዋ	ዋ	DET	DET	Gender=Fem	1	det	_	LTranslit=wa|Translit=wa
+2	ዋ	ዋ	DET	DET	Gender=Fem|PronType=Art	1	det	_	LTranslit=wa|Translit=wa
 3	እኮ	እኮ	INTJ	INTJ	_	1	discourse	_	Translit='əko|LTranslit='əko
 4	ቆንጆ	ቆንጆ	ADJ	ADJ	_	0	root	_	Translit=qonədžo|LTranslit=qonədžo
 5-6	ናት	_	_	_	_	_	_	_	_
@@ -15860,7 +15860,7 @@
 1-3	እናትየዋ	_	_	_	_	_	_	_	_
 1	እናት	እናት	NOUN	NOUN	_	10	nsubj	_	LTranslit='ənatə|Translit='ənatə
 2	እየ	እየ	DET	DET	_	1	det	_	LTranslit='əjä|Translit='əjä
-3	ዋ	ዋ	DET	DET	_	1	det	_	LTranslit=wa|Translit=wa
+3	ዋ	ዋ	DET	DET	PronType=Art	1	det	_	LTranslit=wa|Translit=wa
 4-6	አሻንጉሊቶቹን	_	_	_	_	_	_	_	_
 4	አሻንጉሊቶች	አሻንጉሊቶች	NOUN	NOUN	Number=Plur	10	obj	_	LTranslit='äšanəgulitočə|Translit='äšanəgulitočə
 5	ኡ	ኡ	DET	DET	PronType=Art	4	det	_	LTranslit='u|Translit='u
@@ -16529,7 +16529,7 @@
 # translit = tənəšă betəsə bətəhonə lähulačənəmə 'ätəbäqamə ?
 1-2	ትንሿ	_	_	_	_	_	_	_	_
 1	ትንሽ	ትንሽ	ADJ	ADJ	_	3	amod	_	LTranslit=tənəšə|Translit=tənəšə
-2	ዋ	ዋ	DET	DET	_	3	det	_	LTranslit=wa|Translit=wa
+2	ዋ	ዋ	DET	DET	PronType=Art	3	det	_	LTranslit=wa|Translit=wa
 3-4	ቤትስ	_	_	_	_	_	_	_	_
 3	ቤት	ቤት	NOUN	NOUN	_	14	nsubj	_	LTranslit=betə|Translit=betə
 4	ስ	ስ	CCONJ	CCONJ	_	3	cc	_	LTranslit=sə|Translit=sə
@@ -16709,7 +16709,7 @@
 3	የ	የ	PART	RLP	_	4	mark	_	LTranslit=jä|Translit=jä
 4	ሰደብ	ሰደብ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	acl	_	LTranslit=sädäbə|Translit=sädäbə
 5	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='u
-6	ዋ	ዋ	DET	DET	Gender=Fem	4	det	_	LTranslit=wa|Translit=wa
+6	ዋ	ዋ	DET	DET	Gender=Fem|PronType=Art	4	det	_	LTranslit=wa|Translit=wa
 7	ት	እሱ	PRON	OBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=tə
 8-9	እነማን	_	_	_	_	_	_	_	_
 8	እነ	እነ	DET	DET	_	9	det	_	LTranslit='ənä|Translit='ənä
