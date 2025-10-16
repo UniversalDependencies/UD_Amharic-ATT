@@ -6771,7 +6771,7 @@
 4-6	በመስረቁ	_	_	_	_	_	_	_	_
 4	በ	በ	ADP	ADP	_	5	case	_	LTranslit=bä|Translit=bä
 5	መስረቅ	መስረቅ	VERB	VERB	VerbForm=Vnoun	8	advcl	_	LTranslit=mäsəräqə|Translit=mäsəräqə
-6	ኡ	ኡ	PRON	SUBJC	Gender=Masc|Number=Sing	5	nsubj	_	LTranslit='u|Translit='u
+6	ኡ	ኡ	PRON	SUBJC	Gender=Masc|Number=Sing|PronType=Prs	5	nsubj	_	LTranslit='u|Translit='u
 7	ምክንያት	ምክንያት	SCONJ	SCONJ	_	5	mark	_	Translit=məkənəjatə|LTranslit=məkənəjatə
 8-9	ታሰረ	_	_	_	_	_	_	_	_
 8	ታሰር	ታሰር	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=tasärə|Translit=tasärə
