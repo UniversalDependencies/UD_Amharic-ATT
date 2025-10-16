@@ -6211,7 +6211,7 @@
 1	ዛሬ	ዛሬ	NOUN	NOUN	_	8	nmod	_	LTranslit=zare|Translit=zare
 2	ሳ	ሳ	INTJ	INTJ	_	1	discourse	_	LTranslit=sa|Translit=sa
 3-4	ምንም	_	_	_	_	_	_	_	_
-3	ምን	ምንም	PRON	PRON	Typo=Yes	5	det	_	LTranslit=mənəmə|Translit=mənə
+3	ምን	ምንም	PRON	PRON	PronType=Neg|Typo=Yes	5	det	_	LTranslit=mənəmə|Translit=mənə
 4	ም	_	X	_	_	3	goeswith	_	Translit=mə
 5	ምግብ	ምግብ	NOUN	NOUN	_	8	obj	_	Translit=məgəbə|LTranslit=məgəbə
 6-9	አትቀምስም	_	_	_	_	_	_	_	_
@@ -7577,7 +7577,7 @@
 # sent_id = data_UD-third_apple_2-x01-s18
 # text = ምንም ቢመጣ አልፈራም ።
 # translit = mənəmə bimäţa 'äləfäramə .
-1	ምንም	ምንም	PRON	PRON	_	4	nsubj	_	Translit=mənəmə|LTranslit=mənəmə
+1	ምንም	ምንም	PRON	PRON	PronType=Neg	4	nsubj	_	Translit=mənəmə|LTranslit=mənəmə
 2-5	ቢመጣ	_	_	_	_	_	_	_	_
 2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	LTranslit=bə|Translit=bə
 3	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit=jə
@@ -11162,7 +11162,7 @@
 3	ለ	ለ	ADP	ADP	_	5	case	_	LTranslit=lä|Translit=lä
 4	አውዳ	አውዳ	NOUN	NOUN	_	5	compound	_	LTranslit='äwəda|Translit='äwəda
 5	ዓመት	ዓመት	NOUN	NOUN	_	9	obl	_	Translit=`amätə|LTranslit=`amätə
-6	ምንም	ምንም	PRON	PRON	_	7	nmod	_	Translit=mənəmə|LTranslit=mənəmə
+6	ምንም	ምንም	PRON	PRON	PronType=Neg	7	nmod	_	Translit=mənəmə|LTranslit=mənəmə
 7	ልብስ	ልብስ	NOUN	NOUN	_	9	obj	_	Translit=ləbəsə|LTranslit=ləbəsə
 8-11	አልገዙም	_	_	_	_	_	_	_	_
 8	አል	አል	PART	NEG	Polarity=Neg	9	advmod	_	LTranslit='älə|Translit='älə
@@ -11175,7 +11175,7 @@
 # text = አስቴር ምንም ልብስ አልገዛችም ።
 # translit = 'äsəterə mənəmə ləbəsə 'äləgäzačəmə .
 1	አስቴር	አስቴር	PROPN	PROPN	_	5	nsubj	_	Translit='äsəterə|LTranslit='äsəterə
-2	ምንም	ምንም	PRON	PRON	_	3	nmod	_	Translit=mənəmə|LTranslit=mənəmə
+2	ምንም	ምንም	PRON	PRON	PronType=Neg	3	nmod	_	Translit=mənəmə|LTranslit=mənəmə
 3	ልብስ	ልብስ	NOUN	NOUN	_	5	obj	_	Translit=ləbəsə|LTranslit=ləbəsə
 4-7	አልገዛችም	_	_	_	_	_	_	_	_
 4	አል	አል	PART	NEG	Polarity=Neg	5	advmod	_	LTranslit='älə|Translit='älə
@@ -11272,7 +11272,7 @@
 2-3	ለማንም	_	_	_	_	_	_	_	_
 2	ለ	ለ	ADP	ADP	_	3	case	_	LTranslit=lä|Translit=lä
 3	ማንም	ማንም	PRON	PRON	_	7	obl	_	LTranslit=manəmə|Translit=manəmə
-4	ምንም	ምንም	PRON	PRON	_	7	obj	_	Translit=mənəmə|LTranslit=mənəmə
+4	ምንም	ምንም	PRON	PRON	PronType=Neg	7	obj	_	Translit=mənəmə|LTranslit=mənəmə
 5-8	አይሰጥም	_	_	_	_	_	_	_	_
 5	አል	አል	PART	NEG	Polarity=Neg	7	advmod	_	LTranslit='älə|Translit='älə
 6	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit=jə
