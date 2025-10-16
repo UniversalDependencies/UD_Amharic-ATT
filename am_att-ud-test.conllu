@@ -3809,7 +3809,7 @@
 # translit = säwəjewə sä`ate täsäbäräbəňə jəlalə .
 1-2	ሰውዬው	_	_	_	_	_	_	_	_
 1	ሰው	ሰው	NOUN	NOUN	_	5	nsubj	_	LTranslit=säwə|Translit=säwə
-2	ዬ_ው	ዬ_ው	DET	DET	_	1	det	_	LTranslit=je_wə|Translit=je_wə
+2	ዬ_ው	ዬ_ው	DET	DET	PronType=Art	1	det	_	LTranslit=je_wə|Translit=je_wə
 3-4	ሰዓቴ	_	_	_	_	_	_	_	_
 3	ሰዓት	ሰዓት	NOUN	NOUN	_	5	nsubj:pass	_	LTranslit=sä`atə|Translit=sä`atə
 4	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	LTranslit='əne|Translit='e
@@ -16266,7 +16266,7 @@
 # translit = säwəjäwə kälebawə garə tänanäqä .
 1-2	ሰውየው	_	_	_	_	_	_	_	_
 1	ሰው	ሰው	NOUN	NOUN	_	7	nsubj	_	LTranslit=säwə|Translit=säwə
-2	ዬ_ው	ዬ_ው	DET	DET	_	1	det	_	LTranslit=je_wə|Translit=je_wə
+2	ዬ_ው	ዬ_ው	DET	DET	PronType=Art	1	det	_	LTranslit=je_wə|Translit=je_wə
 3-5	ከሌባው	_	_	_	_	_	_	_	_
 3	ከ	ከ	ADP	ADP	_	4	case	_	LTranslit=kä|Translit=kä
 4	ሌባ	ሌባ	NOUN	NOUN	_	7	obl	_	LTranslit=leba|Translit=leba
