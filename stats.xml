@@ -74,7 +74,7 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="32">
     <dep name="acl">88</dep>
-    <dep name="advcl">318</dep>
+    <dep name="advcl">319</dep>
     <dep name="advmod">289</dep>
     <dep name="amod">63</dep>
     <dep name="aux">314</dep>
@@ -83,23 +83,23 @@
     <dep name="ccomp">115</dep>
     <dep name="compound">46</dep>
     <dep name="compound:svc">35</dep>
-    <dep name="conj">49</dep>
+    <dep name="conj">51</dep>
     <dep name="cop">102</dep>
-    <dep name="csubj">40</dep>
+    <dep name="csubj">39</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="dep">2</dep>
     <dep name="det">478</dep>
     <dep name="discourse">211</dep>
-    <dep name="expl">1224</dep>
+    <dep name="expl">1228</dep>
     <dep name="flat">4</dep>
     <dep name="goeswith">12</dep>
     <dep name="iobj">30</dep>
     <dep name="mark">528</dep>
     <dep name="nmod">328</dep>
-    <dep name="nsubj">1362</dep>
+    <dep name="nsubj">1358</dep>
     <dep name="nsubj:pass">92</dep>
     <dep name="nummod">35</dep>
-    <dep name="obj">577</dep>
+    <dep name="obj">575</dep>
     <dep name="obl">360</dep>
     <dep name="parataxis">7</dep>
     <dep name="punct">1093</dep>
