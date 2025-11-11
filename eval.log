@@ -1,57 +1,7 @@
-Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
-Evaluating the following revision of UD_Amharic-ATT:
-commit 00e4180ad5c933b59c547b00635a254593b2690e
-Merge: 3427b29 40f7593
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 10010 of 10010 words (nodes).
-Size: min(0, log((N/1000)**2)) = 4.60716918665426.
-Size: maximum value 13.815511 is for 1000000 words or more.
-Split: Did not find more than 10000 training words.
-Split: Did not find at least 10000 development words.
-Split: Found at least 10000 test words.
-Lemmas: source of annotation (from README) factor is 1.
-Universal POS tags: 16 out of 17 found in the corpus.
-Universal POS tags: source of annotation (from README) factor is 1.
-Features: 4543 out of 10010 total words have one or more features.
-Features: source of annotation (from README) factor is 1.
-Universal relations: 30 out of 37 found in the corpus.
-Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL        694
-Udapi: found 694 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 10010 words.
-Genres: found 5 out of 18 known.
-/net/work/people/zeman/unidep/tools/validate.py --lang am --max-err=10 UD_Amharic-ATT/am_att-ud-test.conllu
-[Line 661 Sent data_UD-x00-s13 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [11, 15] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 889 Sent data_UD-x01-s6 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'እንደ ምንም' does not have the 'ExtPos' feature
-[Line 889 Sent data_UD-x01-s6 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'SCONJ' word 'እንደ'
-[Line 2509 Sent data_UD-x07-s2 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [3, 7] not subtyped as ':outer'.
-[Line 2616 Sent data_UD-x07-s11 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] not subtyped as ':outer'.
-[Line 2861 Sent data_UD-x08-s10 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'.
-[Line 3807 Sent data_UD-x11-s12 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [1, 3] not subtyped as ':outer'.
-[Line 4606 Sent data_UD-x13-s21 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] not subtyped as ':outer'.
-[Line 6821 Sent data_UD-x20-s17 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] not subtyped as ':outer'.
-[Line 6872 Sent data_UD-x20-s20 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [3, 4] not subtyped as ':outer'.
-[Line 6938 Sent data_UD-third_apple_2-x00-s3 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [9, 12] not subtyped as ':outer'.
-...suppressing further errors regarding Syntax
-[Line 13007 Sent data_UD-third_apple_2-x19-s16 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'እንኳን ደስ' does not have the 'ExtPos' feature
-[Line 16049 Sent data_UD-third_apple_2-x28-s8 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'በ ፊ' does not have the 'ExtPos' feature
-Syntax errors: 79
-Warnings: 3
-*** FAILED *** with 79 errors
-Exit code: 1
-Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
-(weight=0.0769230769230769) * (score{genres}=0.277777777777778) = 0.0213675213675214
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.33347802582644) = 0.0855071861093435
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
-(weight=0.307692307692308) * (score{udapi}=0.306693306693307) = 0.0943671712902482
-(weight=0.0769230769230769) * (score{udeprels}=0.810810810810811) = 0.0623700623700624
-(TOTAL score=0.468830644002937) * (availability=1) * (validity=0.01) = 0.00468830644002937
-STARS = 0
-UD_Amharic-ATT	0.00468830644002937	0
+Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
+Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
+Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
+Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
+from which this script is invoked and which also holds the validator.
+$0 == tools/evaluate_treebank.pl
+The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
